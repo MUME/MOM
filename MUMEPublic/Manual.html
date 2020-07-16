@@ -1,0 +1,153 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>Untitled Document</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=utf-8">
+<META content="MSHTML 6.00.2800.1226" name=GENERATOR></HEAD>
+<BODY text=#000000 vLink=#70372c aLink=#70372c link=#70372c bgColor=#b7ae8d>
+<TABLE height="1%" width=90% align=center>
+<TBODY>
+<TR>
+<TD vAlign=top>
+<P><FONT size=5> <b>MUME ONLINE MAP MANUAL </b></FONT>
+<P></P>
+<UL>	
+<LI>
+<A href="#connecting">Connection to MUME</A> <LI>
+<A href="#help">MOM Online help</A> <LI>
+<A href="#locate">Locating the character</A> <LI>
+<A href="#moving">Moving the map and character</A> <LI>
+<A href="#mapping">Mapping the world</A> <LI>
+<A href="#portals">Creating portals</A> <LI>
+<A href="#example">An example how to map</A> <LI>
+<A href="#hints">Hints</A><BR><FONT size=4><BR></FONT>
+
+<FONT color=#000099 size=4><A name=#connecting>Connecting to MUME</A></FONT>
+<pre>
+After installing MUMEOnlineMap.msi run <B>setup.exe</B>.
+Do everything setup suggests and then you can start the program.
+Also start your client JMC/PowTTY/ZMUD/etc.
+
+Now connecting from client to MOM you must use address <b>localhost</b> 
+and the localhost port by default is <b>1001</b>.
+Example in JMC: <FONT color=#00ff00><b>#connect localhost 1001</b></font>
+that connects to MOM what works as a proxy and connects to MUME.
+
+You can change the MUME address/port and localhost port in Windows registry.
+The path to registry: \HKEY_LOCAL_MACHINE\SOFTWARE\LangSoft\MUME Online Map\
+
+No evil zones are premapped, only most travelled roads and good towns,
+and meaning is to help new players. I suggest you first create a new char
+and pray to Gray Havens. Then you can start testing the program.
+</pre>
+<P><A name=#online><FONT color=#000099 size=4>MOM Online help</FONT></A>
+<PRE>
+The MOM commands start with '_' sign. Type: _help
+If you see the help, then you can be sure that the Client and MOM are connected.<BR>
+</pre>
+
+
+<P><A name=#locate><FONT color=#000099 size=4>Locating the character</FONT></A>
+<pre>The roads are the backbone of Arda, from here you can start travelling and mapping yourself.
+If you want a blank map, then just delete everything inside map.txt file.
+
+<b>To located yourself, You must configure some MUME and MOM values.</b>
+In MUME you must type:
+<b><FONT color=#00ff00>change look colour green</FONT></b>
+In MOM menu 
+<b><FONT color=#00ff00>SET->Look foreground colour->Green</font></b>
+Basically the MUME look colour and MOM colours must match each other.
+<b>The room colour in MUME, must be used only once in colours!</b>
+
+<B>Example</B>: If you used to have in MUME change colours <B>look, say, tell</B> as GREEN,
+then now you must use GREEN only for look and say/tell must be changed to LIGHT GREEN(bold green).
+
+If you want to use BOLD BLUE colour to see room names, then
+In MUME: change colour look BOLD BLUE
+In MOM: SET->Look foreground colour->BOLD
+In MOM: SET->Look foreground colour->BLUE
+<B>NB! </b>And remember that in MUME BOLD BLUE must be used only for LOOK!
+
+To get the player and map located, walk in MUME to mapped spot and type <FONT color=#00ff00><b>_sync</b></font>
+If everything is correct, then there will be an "Ok".
+
+</pre>
+
+<A name=#moving><FONT color=#000099 size=4>Moving the map and character</FONT></A>
+<pre>
+The MOM accepts only short move commands: 'n','e','s','w','u','d'
+The long 'north' will be considered as RAW command and will not move the map.
+It also accepts the speedwalk, like 'nnneeennneuud'
+You can move map by double clicking on it.
+Try moving the map and move around.
+
+</pre>
+
+<P><A name=#mapping><FONT color=#000099 size=4>Mapping</FONT></A><BR>
+<pre>
+To start mapping just press the <FONT color=#00ff00>MAP</FONT> button.
+In mapping mode, the character and program goes always out of sync.
+Now you can resize the map window and a larger map is shown.
+You can bind all the MOM online commands under buttons or your own aliases.
+
+People who use JMC I suggest you bind like:
+Shift + Numpad8 -&gt; _mapnorth
+Shift + Numpad2 -&gt; _mapsouth
+and so on.. then bind the map moving commands(if you don't want to use the mouse):
+Ctrl + Numpad8 -&gt; _movemapnorth
+Ctrl + Numpad2 -&gt; _movemapsouth
+
+People who do not use keybinding clients, you could make client aliases like:
+#alias -e _mapeast
+#alias -n _mapnorth
+and so forth.
+
+Now find some unmapped spot and try map some rooms:
+
+</pre>
+<A name=#portals><FONT color=#000099 size=4>Creating portals</FONT></A>
+<pre><IMG src="http://www.itcollege.ee/~jlang/MUME/images/mom.gif">
+Check the MOM menu VIEW options, there you can turn viewing doornames, portals and grid ON.
+Press MOM <b><FONT color=#00ff00>Tools</font></b> button to see the Mapping Tools window.
+
+To create a portal, you must select a room and press press left mouse button down and hold it.
+Drag the mouse cursor to room where the portal will go and release the mouse button.
+You will see a green rectangle appear, showing the coordinates of the start and end room.
+In the Tools window, there are two sets of radiobuttons(left and right).
+The left radiobutton column represents the first room and the right the second room.
+Select the first room direction from where the portal will go out
+and select the second room direction where the portal will bring.
+After this select the middle buttons, as is it both ways or oneway left to right or vice versa.
+Click CREATE PORTAL and you are done! Of course the portal only appears if the exits existed!
+
+<IMG src="http://www.itcollege.ee/~jlang/MUME/images/tools.gif"><BR>
+</pre>
+
+<A name=#example><FONT color=#000099 size=4>An example how to map.</FONT></A>
+<pre>Basically, you locate(_sync) yourself on map, then go 
+to mapping mode and just start shift+dir mapping,
+when you discover 
+that the mapped room is not the terrain what is currently active, then 
+just click on the right terrain, and click UPDATE. If you need to 
+specify doors and portals in mapped room, just add the values to correct 
+textboxes and click UPDATE.
+
+Don't forget to save the map, what can be done in mapping mode.
+Also sometimes take backups of your map, before you start doing huge cut and paste.
+
+</pre>
+
+<A name=#hints><FONT color=#000099 size=4>Hints</FONT></A>
+<li>Map all the roads before everything else, then you can be sure everything is ok.
+<li>There is a 1 room gap between rivendell and khuzur.
+<li>Map all the outside areas(watchout town areas are not outside!),
+before mappnig dungeons or cities
+<li>If everything around the dungeons or caves is mapped, you can find the place to map the cave.
+<li>First explore the cave and try to memorize its depth and size, so you can be sure it fits.
+<li>Later don't forget to make portals(links) between the outside entrance to dungeon and backwards!
+<li>After mapping, get in _sync and test the area or atleast the portal connections!
+<li>You need to do this only once, if you are good, so make it worth!
+<li>You could use portal to next room to represent climb rooms.
+<li>Randoms can be mapped only the correct path.
+<li>There are rooms on Arda, where roomname and description are the same or can't be mapped(don't mind this).
+<li>Put some effort into mapping areas, because you have to do this only once.
+</LI></UL>
+</TD></TR></TBODY></TABLE></BODY></HTML>

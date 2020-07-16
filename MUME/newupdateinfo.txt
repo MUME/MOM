@@ -1,0 +1,8 @@
+mom 5.1 includes:
+- old map.txt files are converted into "map51.txt" and have simpler structure,
+this increases program load, character location and mapping speed
+- also mapper should run pretty decently with windows emulator(WINS) under Linux
+- removed windows registry dependancy, now all settings are saved in "MOM.ini" file
+- added "_find " command, what searches the roomnames and displays matches on map
+- increased runtime radius by 1, now visible area is 9x9 rooms
+- in mapping mode, you can now walk through portals

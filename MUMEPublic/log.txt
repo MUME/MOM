@@ -1,0 +1,15 @@
+Logged: 17.08.2004 - Wrong protocol or connection state for the requested transaction or request(40006) -> locate WorldLocate
+Logged: 17.08.2004 - Subscript out of range(9) -> load loadWorld
+Logged: 17.08.2004 - (0) -> Program Load
+Logged: 27.08.2004 - Subscript out of range(9) -> load loadWorld
+Logged: 27.08.2004 - (0) -> Program Load
+Logged: 27.08.2004 - Subscript out of range(9) -> load loadWorld
+Logged: 27.08.2004 - (0) -> Program Load
+Logged: 10.09.2004 - File <MOM.ini> contains undefined or invalid values! name=eedback, value=true
+Logged: 10.09.2004 - File <MOM.ini> contains undefined or invalid values! name=eedback, value=true
+Logged: 25.09.2004 - Subscript out of range(9) -> load loadWorld
+Logged: 25.09.2004 - (0) -> Program Load
+Logged: 27.03.2005 - Subscript out of range(9) -> load loadWorld
+Logged: 27.03.2005 - (0) -> Program Load
+Logged: 27.03.2005 - Subscript out of range(9) -> load loadWorld
+Logged: 27.03.2005 - (0) -> Program Load

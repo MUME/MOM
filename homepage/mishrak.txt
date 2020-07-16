@@ -1,0 +1,965 @@
+tr
+The Cavern Crossroads
+Exits: east, west, up, down.
+
+$ AS. CW HP:Fine Mana:Burning>reYou carefully examine the ground around you, looking for tracks...
+
+q
+tell mishrakYou see:
+   - a track of a Troll leading east (done less than 11 hours ago).
+   - a track of a Troll leading east (done less than 11 hours ago).
+   - a track of a Troll coming from above (done less than 11 hours ago).
+   - a track of a Troll coming from above (done less than 11 hours ago).
+
+ im at CC
+=120
+   - a track of a Man coming from the east (done less than 1 hour ago).
+   - a track of a Man leading east (done less than 1 hour ago).
+   - a track of a Man coming from above (done less than 1 hour ago).
+   - a track of *a Man* leading east (done less than 5 hours ago).
+   - a track of *a Dwarf* leading east (done less than 5 hours ago).
+   - a track of *a Man* coming from the west (done less than 5 hours ago).
+   - a track of *a Dwarf* coming from the west (done less than 5 hours ago).
+   - two tracks of a hungry warg leading east (done less than 11 hours ago).
+   - a track of an Orc leading east (done less than 11 hours ago).
+   - a track of an Orc leading east (done less than 11 hours ago).
+   - a track of an Orc coming from above (done less than 11 hours ago).
+   - a track of an Orc coming from above (done less than 11 hours ago).
+
+spn
+- SPELL-CASTING set to: NORMAL -
+m
+{mees}={*elf*}
+TARGET="  "
+You stop searching, you don't seem to find anything else.
+
+$ AS. CW HP:Fine Mana:Burning>where
+Players in your zone
+--------------------
+Naksitrall           - The Cavern Crossroads
+
+$ AS. CW HP:Fine Mana:Burning>Ok.
+
+$ AS. CW HP:Fine Mana:Burning>cha wimpy 120
+Wimpy set to: 120
+
+$ AS. CW HP:Fine Mana:Burning>Ok.
+
+$ AS. CW HP:Fine Mana:Burning>mob
+{mob}={*elf*}
+e
+Durin's Way
+Exits: [north], east, west.
+
+$ AS. CW HP:Fine Mana:Burning>x
+exits
+North - A closed 'Stonedoor'
+East  - You can't distinguish a lot of details.
+West  - You can't distinguish a lot of details.
+
+$ AS. CW HP:Fine Mana:Burning>mob
+{mob}={*elf*}
+mob *man*
+track $mob
+You carefully examine the ground around you, looking for tracks...
+
+3
+TARGET=" *man* "
+east
+You feel bolder.
+
+ ^acks of *a Man* leading ^ east
+ (done less than 5 hours ago).
+
+$ AS. CW HP:Fine Mana:Burning>Durin's Way
+Exits: east, west.
+
+ ^acks of *a Man* leading ^ east
+ (done less than 5 hours ago).
+
+$ AS. CW HP:Fine Mana:Burning>east
+Durin's Way
+Exits: north, east, south, west.
+
+ ^racks of *a Man* leading ^ south
+ (done less than 5 hours ago).
+
+$ AS. CW HP:Fine Mana:Burning>
+exits
+North - You can't distinguish a lot of details.
+East  - You can't distinguish a lot of details.
+South - You can't distinguish a lot of details.
+West  - You can't distinguish a lot of details.
+
+$ AS. CW HP:Fine Mana:Burning>south
+Ruined Avenue
+A misshapen troll stands here, stooped over on his twisted legs.
+Exits: north, south.
+
+south
+ ^acks of *a Man* leading ^ south
+ (done less than 5 hours ago).
+
+$ AS. CW HP:Fine Mana:Burning>Ruined Avenue
+A huge stone troll looms overhead, ready to crush your body.
+Exits: north, south.
+
+south
+ ^acks of *a Man* leading ^ south
+ (done less than 5 hours ago).
+
+$ AS. CW HP:Fine Mana:Burning>Ruined Avenue
+A large arrow lies on the ground.
+Exits: north, south.
+
+south
+ ^acks of *a Man* leading ^ south
+ (done less than 5 hours ago).
+
+$ AS. CW HP:Fine Mana:Burning>Iron Hall
+Exits: north, east.
+
+x
+ ^acks of *a Man* leading ^ east
+ (done less than 5 hours ago).
+
+$ AS. CW HP:Fine Mana:Burning>q
+exits
+North - You can't distinguish a lot of details.
+East  - You can't distinguish a lot of details.
+
+$ AS. CW HP:Fine Mana:Burning>where
+Players in your zone
+--------------------
+Droz                 - somewhere
+Temegl               - somewhere
+Thrak                - somewhere
+Orhzul               - somewhere
+Naksitrall           - Iron Hall
+
+$ AS. CW HP:Fine Mana:Burning>east
+Avenue of Iron
+Exits: east, west.
+
+ ^acks of *a Man* leading ^ east
+ (done less than 5 hours ago).
+
+$ AS. CW HP:Fine Mana:Burning>x
+exits
+East  - You can't distinguish a lot of details.
+West  - You can't distinguish a lot of details.
+
+$ AS. CW HP:Fine Mana:Burning>l e
+The Avenue of Iron continues due east as far as you can see.
+
+$ AS. CW HP:Fine Mana:Burning>e
+Avenue of Iron
+Exits: east, west.
+
+x
+ ^acks of *a Man* leading ^ east
+ (done less than 5 hours ago).
+
+$ AS. CW HP:Fine Mana:Burning>exits
+East  - You can't distinguish a lot of details.
+West  - You can't distinguish a lot of details.
+
+$ AS. CW HP:Fine Mana:Burning>e
+x
+Avenue of Iron
+Exits: east, west.
+
+ ^acks of *a Man* leading ^ east
+ (done less than 5 hours ago).
+
+$ AS. CW HP:Fine Mana:Burning>exits
+East  - You can't distinguish a lot of details.
+West  - You can't distinguish a lot of details.
+
+$ AS. CW HP:Fine Mana:Burning>e
+x
+Iron Hall
+Exits: north, east, west.
+
+l e
+ ^acks of *a Man* leading ^ north
+ (done less than 5 hours ago).
+
+$ AS. CW HP:Fine Mana:Burning>exits
+North - You can't distinguish a lot of details.
+East  - You can't distinguish a lot of details.
+West  - You can't distinguish a lot of details.
+
+$ AS. CW HP:Fine Mana:Burning>There is a dark avenue east through the iron arch.
+
+$ AS. CW HP:Fine Mana:Burning>l n
+There is a wide avenue north through the iron arch.
+
+$ AS. CW HP:Fine Mana:Burning>n
+xYavanna's Avenue
+Exits: north, south.
+
+
+ ^racks of *a Man* leading ^ down
+ (done less than 5 hours ago).
+
+$ AS. CW HP:Fine Mana:Burning>exits
+North - You can't distinguish a lot of details.
+South - You can't distinguish a lot of details.
+
+$ AS. CW HP:Fine Mana:Burning> n
+You cannot see a thing in the darkness to the north.
+
+$ AS. CW HP:Fine Mana:Burning>l
+You hear some apparently very far noise coming from the north.
+
+$ AS. CW HP:Fine Mana:Burning> d
+You notice a strange crack here. It outlines a square shape in the dirt.
+
+$ AS. CW HP:Fine Mana:Burning>tr
+You stop tracking your victim.
+
+$ AS. CW HP:Fine Mana:Burning>=120
+sccha wimpy 120
+Wimpy set to: 120
+
+$ AS. CW HP:Fine Mana:Burning>ou n
+You quietly scout northwards...
+
+Yavanna's Avenue
+
+You stop scouting.
+
+$ AS. CW HP:Fine Mana:Burning>l d
+You notice a strange crack here. It outlines a square shape in the dirt.
+
+$ AS. CW HP:Fine Mana:Burning>open crack
+That's impossible, I'm afraid.
+
+$ AS. CW HP:Fine Mana:Burning>open re
+You don't see any re here.
+
+$ AS. CW HP:Fine Mana:Burning>l 
+Yavanna's Avenue
+
+$ AS. CW HP:Fine Mana:Burning>q
+tewhere
+Players in your zone
+--------------------
+Droz                 - somewhere
+Temegl               - somewhere
+Mishrak              - somewhere	--> I DIDNT SEE THAT!!!!! :////
+Thrak                - somewhere
+Orhzul               - somewhere
+Jannu                - somewhere
+Naksitrall           - Yavanna's Avenue
+
+$ AS. CW HP:Fine>ll mis
+You hear some apparently very far noise coming from the north.
+
+$ AS. CW HP:Fine>hrak I break crakc?
+teOk.
+
+$ AS. CW HP:Fine>ll mishrak u dead?
+Ok.
+
+$ AS. CW HP:Fine>l d
+You notice a strange crack here. It outlines a square shape in the dirt.
+
+$ AS. CW HP:Fine>res
+l You sit down and rest your tired bones.
+
+$ AS. CW HP:Fine>d
+You notice a strange crack here. It outlines a square shape in the dirt.
+
+$ AS. CW HP:Fine>sc
+w130/154 hits, 139/139 mana, and 68/97 moves.
+Mishrak tells you 'YES'		-> I will never ask 2 questions at the same time :((
+				-> I didnt want to waste my only break mana on wrong exit:(((
+				-> I fucking thought ur angry now and in CAPS SAY YES U DIED, FUCKING stupid ME:(
+$ AS. CW HP:Fine>imp
+=Ok.
+
+$ AS. CW HP:Fine>120
+stcha wimpy 120
+Wimpy set to: 120
+
+$ AS. CW HP:Fine>
+brYou stop resting, and stand up.
+
+$ AS. CW HP:Fine>eak crack
+--------------- BREAK crack
+You muster all of your concentration...
+
+
+re$ AS. CW HP:Fine>p DEAD OR I BREAK
+q
+Ok.
+
+$ AS. CW HP:Fine>=where
+Players in your zone	-> not in zone.. dammit .. I wonder
+--------------------
+Droz                 - somewhere
+Temegl               - somewhere
+Thrak                - somewhere
+Orhzul               - somewhere
+Jannu                - somewhere
+Naksitrall           - Yavanna's Avenue
+
+$ AS. CW HP:Fine>120
+spcha wimpy 120
+Wimpy set to: 120
+
+$ AS. CW HP:Fine>n
+- SPELL-CASTING set to: NORMAL -
+l Ok.
+
+$ AS. CW HP:Fine>d
+You notice a strange crack here. It outlines a square shape in the dirt.
+
+$ AS. CW HP:Fine>l d
+=1You notice a strange crack here. It outlines a square shape in the dirt.
+
+$ AS. CW HP:Fine>20
+scha wimpy 120
+Wimpy set to: 120
+
+$ AS. CW HP:Fine>c
+s
+You hear some apparently very far noise coming from the north.
+
+$ AS. CW HP:Fine>pn131/154 hits, 139/139 mana, and 70/97 moves.
+
+$ AS. CW HP:Fine>
+- SPELL-CASTING set to: NORMAL -
+Ok.
+
+$ AS. CW HP:Fine>l d
+brYou notice a strange crack here. It outlines a square shape in the dirt.
+Mishrak tells you 'bearak'
+
+$ AS. CW HP:Fine>eak 
+break 
+break crack
+--------------- BREAK crack
+You muster all of your concentration...
+
+openVishnak tells you 'any other pukes in moria?'
+
+ crYour blood freezes as you hear a death cry from below.	-> nice timing.(
+
+ack
+The crack seems to blur for a while.
+
+$ AS. CW HP:Fine Mana:Hot>Ok.
+
+$ AS. CW HP:Fine Mana:Hot>o
+You don't see any sturdydoor here.
+
+$ AS. CW HP:Fine Mana:Hot>tell
+Who do you wish to tell what?
+
+$ AS. CW HP:Fine Mana:Hot>rep OPEN
+q
+Ok.
+
+$ AS. CW HP:Fine Mana:Hot>l dwhere
+Players in your zone
+--------------------
+Droz                 - somewhere
+Temegl               - somewhere
+Thrak                - somewhere
+Orhzul               - somewhere
+Jannu                - somewhere
+Naksitrall           - Yavanna's Avenue
+
+$ AS. CW HP:Fine Mana:Hot>
+You notice a strange crack here. It outlines a square shape in the dirt.
+The -[ crack ]- is OPEN
+
+$ AS. CW HP:Fine Mana:Hot>rep 
+tWho do you wish to tell what?
+
+$ AS. CW HP:Fine Mana:Hot>ell mishrak OPEN
+No-one by that name here...
+
+$ AS. CW HP:Fine Mana:Hot>!
+!
+!
+No-one by that name here...
+
+$ AS. CW HP:Fine Mana:Hot>No-one by that name here...
+
+$ AS. CW HP:Fine Mana:Hot>tNo-one by that name here...
+
+$ AS. CW HP:Fine Mana:Hot>ell mishrak oPEN
+No-one by that name here...
+
+$ AS. CW HP:Fine Mana:Hot>l d
+sYou notice a strange crack here. It outlines a square shape in the dirt.
+The -[ crack ]- is OPEN
+
+$ AS. CW HP:Fine Mana:Hot>cou d
+You quietly scout downwards...
+
+Under the Crack
+Traces of white tones form the aura of this place.
+The corpse of *an Orc* is lying here.
+A shadow is here, FIGHTING *Spiffy the Dwarf*.
+*Spiffy the Dwarf* is here, FIGHTING a shadow.
+*Khulakal the Dwarf* is standing here trying to concentrate.
+*Pup Man* is standing here.
+
+You stop scouting.
+
+$ AS. CW HP:Fine Mana:Hot>s
+Iron Hall
+Exits: north, east, west.
+
+$ AS. CW HP:Fine Mana:Hot>n
+yYavanna's Avenue
+Traces of rich red tones form the aura of this place.
+Exits: north, south, (down).
+
+$ AS. CW HP:Fine Mana:Hot>e
+The -[ crack ]- CLOSES from outside! _BREAK_
+
+$ AS. CW HP:Fine Mana:Hot>ll YAWN
+Ok.
+
+$ AS. CW HP:Fine Mana:Hot>o
+o
+oOk.
+
+$ AS. CW HP:Fine Mana:Hot>
+o
+It's already open!
+
+$ AS. CW HP:Fine Mana:Hot>It's already open!
+
+$ AS. CW HP:Fine Mana:Hot>lIt's already open!
+
+$ AS. CW HP:Fine Mana:Hot> d
+wimYou notice a strange crack here. It outlines a square shape in the dirt.
+The -[ crack ]- is OPEN
+
+$ AS. CW HP:Fine Mana:Hot>p
+
+You see *Pup Man* scouting from below!
+
+$ AS. CW HP:Fine Mana:Hot>=1The -[ crack ]- CLOSES from outside! _BREAK_
+Ok.
+
+$ AS. CW HP:Fine Mana:Hot>20
+cha wimpy 120
+Wimpy set to: 120
+
+$ AS. CW HP:Fine Mana:Hot>s
+Iron Hall
+Exits: north, east, west.
+
+$ AS. CW HP:Fine Mana:Hot>n
+oYavanna's Avenue
+Traces of pale red tones form the aura of this place.
+Exits: north, south.
+
+$ AS. CW HP:Fine Mana:Hot>
+scOk.
+
+$ AS. CW HP:Fine Mana:Hot>
+133/154 hits, 95/139 mana, and 74/97 moves.
+
+$ AS. CW HP:Fine Mana:Hot>
+The -[ crack ]- CLOSES from outside! _BREAK_
+
+$ AS. CW HP:Fine Mana:Hot>break crack
+--------------- BREAK crack
+You muster all of your concentration...
+
+o
+The crack is filled with a bright light.
+
+$ AS. CW HP:Fine Mana:Cold>That's impossible, I'm afraid.
+
+$ AS. CW HP:Fine Mana:Cold>scou d
+You quietly scout downwards...
+
+wimUnder the Crack
+Traces of fierce white tones form the aura of this place.
+The corpse of *an Orc* is lying here.
+A shadow is here, FIGHTING *Spiffy the Dwarf*.
+*Spiffy the Dwarf* is here, FIGHTING a shadow.
+*Khulakal the Dwarf* is standing here.
+*Pup Man* is standing here.
+
+p
+You stop scouting.
+
+$ AS. CW HP:Fine Mana:Cold>=120
+Ok.
+
+$ AS. CW HP:Fine Mana:Cold>cha wimpy 120
+Wimpy set to: 120
+
+$ AS. CW HP:Fine Mana:Cold>
+You see *Pup Man* scouting from below!
+
+$ AS. CW HP:Fine Mana:Cold>lic
+d
+l in corpse
+You can't find a corpse.
+
+$ AS. CW HP:Fine Mana:Cold>qw
+Under the Crack
+Traces of fierce white tones form the aura of this place.
+The corpse of *an Orc* is lying here.
+A shadow is here, FIGHTING *Spiffy the Dwarf*.
+*Spiffy the Dwarf* is here, FIGHTING a shadow.
+*Khulakal the Dwarf* is standing here.
+*Pup Man* is standing here.
+Exits: west, up.
+
+$ AS. CW HP:Fine Mana:Cold>The icy grasp of a shadow blocks your attempt!
+
+$ AS. CW HP:Fine Mana:Cold>u
+Yavanna's Avenue
+Traces of fierce red tones form the aura of this place.
+Exits: north, south, down.
+
+$ AS. CW HP:Fine Mana:Cold>d
+qw
+Under the Crack
+Traces of fierce white tones form the aura of this place.
+The corpse of *an Orc* is lying here.
+A shadow is here, FIGHTING *Spiffy the Dwarf*.
+*Spiffy the Dwarf* is here, FIGHTING a shadow.
+*Khulakal the Dwarf* is standing here searching for something.
+*Pup Man* is standing here.
+Exits: west, up.
+
+$ AS. CW HP:Fine Mana:Warm>u
+The icy grasp of a shadow blocks your attempt!
+
+$ AS. CW HP:Fine Mana:Warm>Yavanna's Avenue
+Traces of fierce red tones form the aura of this place.
+Exits: north, south, down.
+
+$ AS. CW HP:Fine Mana:Warm>m
+{mees}={*man*}
+TARGET="  "
+m shadow
+TARGET=" shadow "
+d
+cast 'light' $mees
+Under the Crack
+Traces of fierce white tones form the aura of this place.
+The corpse of *an Orc* is lying here.
+A shadow is here, FIGHTING *Spiffy the Dwarf*.
+*Spiffy the Dwarf* is here, FIGHTING a shadow.
+*Khulakal the Dwarf* is standing here.
+*Pup Man* is standing here.
+Exits: west, up.
+*Pup Man* BEGINS some strange INCANTATIONS...
+
+$ AS. CW HP:Fine Mana:Warm>You start to concentrate...
+
+qw
+*Spiffy the Dwarf* says 'spam loot then'
+*Pup Man* utters the words 'lightning bolt'
+*Pup Man* LIGHTNING BOLT at you!
+Aye! You cannot concentrate any more...
+
+$ AS. CW HP:Fine Mana:Warm *Pup Man*:Healthy>The icy grasp of a shadow blocks your attempt!
+#### !!! PANIK !!! ####
+
+$ AS. CW HP:Fine Mana:Warm *Pup Man*:Healthy>u
+*Khulakal the Dwarf* leaves UP.
+No way! You are fighting for your life!
+
+$ AS. CW HP:Fine Mana:Warm *Pup Man*:Healthy>f
+You are already attempting to flee!
+
+$ AS. CW HP:Fine Mana:Warm *Pup Man*:Healthy>
+You flee head over heels.
+Yavanna's Avenue
+Traces of fierce red tones form the aura of this place.
+*Khulakal the Dwarf* is standing here.
+Exits: north, south, down.
+
+$ AS. CW HP:Fine Mana:Warm>
+*Khulakal the Dwarf* tries to pierce you, but your parry is successful.
+
+$ AS. CW HP:Fine Mana:Warm *Khulakal the Dwarf*:Healthy>
+You flee head over heels.
+Iron Hall
+Exits: north, east, west.
+
+$ AS. CW HP:Fine Mana:Warm>f
+You flee head over heels.
+Yavanna's Avenue
+Traces of fierce red tones form the aura of this place.
+*Khulakal the Dwarf* is standing here.
+Exits: north, south, down.
+*Spiffy the Dwarf* has arrived from below.
+
+$ AS. CW HP:Fine Mana:Warm>
+*Khulakal the Dwarf* quickly approaches, trying to pierce you.
+
+$ AS. CW HP:Fine Mana:Warm *Khulakal the Dwarf*:Healthy>w
+fNo way! You are fighting for your life!
+
+$ AS. CW HP:Fine Mana:Warm *Khulakal the Dwarf*:Healthy>
+
+You flee head over heels.
+Yavanna's Avenue
+Exits: north, south.
+
+$ AS. CW HP:Fine Mana:Warm>s
+You flee head over heels.
+Yavanna's Avenue
+Traces of fierce red tones form the aura of this place.
+*Khulakal the Dwarf* is standing here.
+*Spiffy the Dwarf* is standing here.
+Exits: north, south, down.
+
+$ AS. CW HP:Fine Mana:Warm>w
+w
+*Khulakal the Dwarf* tries to pierce you, but your parry is successful.
+No way! You are fighting for your life!
+
+$ AS. CW HP:Fine Mana:Warm *Khulakal the Dwarf*:Healthy>No way! You are fighting for your life!
+
+$ AS. CW HP:Fine Mana:Warm *Khulakal the Dwarf*:Healthy>=!2No way! You are fighting for your life!
+You swiftly dodge *Spiffy the Dwarf*'s attempt to cleave you.
+
+$ AS. CW HP:Fine Mana:Warm *Khulakal the Dwarf*:Healthy>0
+fcha wimpy !20
+Wimpy set to: 0
+You stop your fleeing attempts.
+
+$ AS. CW HP:Fine Mana:Warm *Khulakal the Dwarf*:Healthy>
+wYou flee head over heels.
+Iron Hall
+A misshapen troll stands here, stooped over on his twisted legs.
+Exits: north, east, west.
+
+$ AS. CW HP:Fine Mana:Warm>
+wAvenue of Iron
+Exits: east, west.
+
+$ AS. CW HP:Fine Mana:Warm>
+Avenue of Iron
+Exits: east, west.
+
+$ AS. CW HP:Fine Mana:Warm>=120
+cha wimpy 120
+Wimpy set to: 120
+
+$ AS. CW HP:Fine Mana:Warm>east
+Avenue of Iron
+Exits: east, west.
+
+$ AS. CW HP:Fine Mana:Warm>east
+Iron Hall
+A misshapen troll stands here, stooped over on his twisted legs.
+*Spiffy the Dwarf* is standing here.
+*Khulakal the Dwarf* is standing here.
+Exits: north, east, west.
+*Spiffy the Dwarf* swiftly dodges a misshapen troll's attempt to hit him.
+
+$ AS. CW HP:Fine Mana:Warm>
+*Khulakal the Dwarf* lightly pierces your left foot and tickles it.
+
+$ AS. CW HP:Fine Mana:Warm *Khulakal the Dwarf*:Healthy>north
+No way! You are fighting for your life!
+
+$ AS. CW HP:Fine Mana:Warm *Khulakal the Dwarf*:Healthy>
+#### !!! PANIK !!! ####
+
+$ AS. CW HP:Fine Mana:Warm *Khulakal the Dwarf*:Healthy>f
+You are already attempting to flee!
+
+$ AS. CW HP:Fine Mana:Warm *Khulakal the Dwarf*:Healthy>
+*Spiffy the Dwarf* is FLEEING.
+*Spiffy the Dwarf* leaves EAST.
+
+$ AS. CW HP:Fine Mana:Warm *Khulakal the Dwarf*:Healthy>
+You flee head over heels.
+Avenue of Iron
+Exits: east, west.
+
+$ AS. CW HP:Fine Mana:Warm>north
+Alas, you cannot go that way...
+
+$ AS. CW HP:Fine Mana:Warm>east
+north
+Iron Hall
+A misshapen troll stands here, stooped over on his twisted legs.
+*Khulakal the Dwarf* is standing here.
+Exits: north, east, west.
+
+$ AS. CW HP:Fine Mana:Warm>north
+*Khulakal the Dwarf* fails to pierce you.
+No way! You are fighting for your life!
+
+$ AS. CW HP:Fine Mana:Warm *Khulakal the Dwarf*:Healthy>No way! You are fighting for your life!
+You flee head over heels.
+Avenue of Iron
+Exits: east, west.
+
+$ AS. CW HP:Fine Mana:Warm>
+*Spiffy the Dwarf* has arrived from the east.
+
+$ AS. CW HP:Fine Mana:Warm>west
+
+*Spiffy the Dwarf* leaves WEST.
+
+$ AS. CW HP:Fine Mana:Warm>west
+Iron Hall
+A misshapen troll is here, FIGHTING *Khulakal the Dwarf*.
+*Khulakal the Dwarf* is here, FIGHTING a misshapen troll.
+*Spiffy the Dwarf* is standing here.
+Exits: north, east, west.
+*Spiffy the Dwarf* leaves NORTH.
+
+$ AS. CW HP:Fine Mana:Warm>Avenue of Iron
+Exits: east, west.
+
+$ AS. CW HP:Fine Mana:Warm Move:Tired>east
+Iron Hall
+A misshapen troll is here, FIGHTING *Khulakal the Dwarf*.
+*Khulakal the Dwarf* is here, FIGHTING a misshapen troll.
+Exits: north, east, west.
+
+$ AS. CW HP:Fine Mana:Warm Move:Tired>east
+Avenue of Iron
+Exits: east, west.
+
+$ AS. CW HP:Fine Mana:Warm Move:Tired>north
+Orhzul tells you 'tihi'
+Alas, you cannot go that way...
+
+$ AS. CW HP:Fine Mana:Warm Move:Tired>east
+north
+Avenue of Iron
+Exits: east, west.
+
+$ AS. CW HP:Fine Mana:Warm Move:Tired>Alas, you cannot go that way...
+
+$ AS. CW HP:Fine Mana:Warm Move:Tired>e
+
+*Spiffy the Dwarf* has arrived from the west.
+
+$ AS. CW HP:Fine Mana:Warm Move:Tired>n*Spiffy the Dwarf* barely cleaves your right hand and tickles it.
+No way! You are fighting for your life!
+
+$ AS. CW HP:Hurt Mana:Warm Move:Tired *Spiffy the Dwarf*:Healthy>
+No way! You are fighting for your life!
+
+$ AS. CW HP:Hurt Mana:Warm Move:Tired *Spiffy the Dwarf*:Healthy>f
+
+You flee head over heels.
+Avenue of Iron
+Exits: west.
+
+$ AS. CW HP:Hurt Mana:Warm Move:Tired>wYou flee head over heels.
+Avenue of Iron
+*Spiffy the Dwarf* is standing here.
+Exits: east, west.
+
+$ AS. CW HP:Hurt Mana:Warm Move:Tired>
+w
+wAvenue of Iron
+*Khulakal the Dwarf* is standing here.
+Exits: east, west.
+
+$ AS. CW HP:Hurt Mana:Warm Move:Tired>
+Iron Hall
+A misshapen troll stands here, stooped over on his twisted legs.
+Exits: north, east, west.
+A misshapen troll quickly approaches, trying to hit you.
+
+$ AS. CW HP:Hurt Mana:Warm Move:Tired a misshapen troll:Fine>w
+wNo way! You are fighting for your life!
+
+$ AS. CW HP:Hurt Mana:Warm Move:Tired a misshapen troll:Fine>
+No way! You are fighting for your life!
+#### !!! PANIK !!! ####
+
+$ AS. CW HP:Hurt Mana:Warm Move:Tired a misshapen troll:Fine>f
+No way! You are fighting for your life!
+
+$ AS. CW HP:Hurt Mana:Warm Move:Tired a misshapen troll:Fine>west
+You are already attempting to flee!
+
+$ AS. CW HP:Hurt Mana:Warm Move:Tired a misshapen troll:Fine>west
+west
+No way! You are fighting for your life!
+
+$ AS. CW HP:Hurt Mana:Warm Move:Tired a misshapen troll:Fine>*Spiffy the Dwarf* has arrived from the east.
+No way! You are fighting for your life!
+You flee head over heels.
+Avenue of Iron
+Exits: east, west.
+
+$ AS. CW HP:Hurt Mana:Warm Move:Tired>Iron Hall
+A misshapen troll stands here, stooped over on his twisted legs.
+*Spiffy the Dwarf* is standing here.
+Exits: north, east, west.
+*Spiffy the Dwarf* barely cleaves your left arm and tickles it.
+
+$ AS. CW HP:Hurt Mana:Warm Move:Tired *Spiffy the Dwarf*:Healthy>west
+west
+No way! You are fighting for your life!
+You flee head over heels.
+Avenue of Iron
+Exits: east, west.
+
+$ AS. CW HP:Hurt Mana:Warm Move:Tired>f
+west
+Iron Hall
+A misshapen troll stands here, stooped over on his twisted legs.
+*Spiffy the Dwarf* is standing here.
+Exits: north, east, west.
+
+$ AS. CW HP:Hurt Mana:Warm Move:Tired>west
+*Spiffy the Dwarf* quickly approaches, trying to cleave you.
+You flee head over heels.
+Avenue of Iron
+Exits: east, west.
+
+$ AS. CW HP:Hurt Mana:Warm Move:Tired>north
+Iron Hall
+A misshapen troll stands here, stooped over on his twisted legs.
+Exits: north, east, west.
+
+$ AS. CW HP:Hurt Mana:Warm Move:Tired>north
+Avenue of Iron
+Exits: east, west.
+
+$ AS. CW HP:Hurt Mana:Warm Move:Tired>north
+Alas, you cannot go that way...
+
+$ AS. CW HP:Hurt Mana:Warm Move:Tired>west
+Alas, you cannot go that way...
+
+$ AS. CW HP:Hurt Mana:Warm Move:Tired>Alas, you cannot go that way...
+
+$ AS. CW HP:Hurt Mana:Warm Move:Tired>north
+Avenue of Iron
+Exits: east, west.
+
+$ AS. CW HP:Hurt Mana:Warm Move:Slow>north
+Alas, you cannot go that way...
+
+$ AS. CW HP:Hurt Mana:Warm Move:Slow>Alas, you cannot go that way...
+
+$ AS. CW HP:Hurt Mana:Warm Move:Slow>west
+Avenue of Iron
+Exits: east, west.
+
+$ AS. CW HP:Hurt Mana:Warm Move:Slow>west
+north
+Iron Hall
+Exits: north, east.
+
+$ AS. CW HP:Hurt Mana:Warm Move:Slow>north
+Ruined Avenue
+A large arrow lies on the ground.
+Exits: north, south.
+
+$ AS. CW HP:Hurt Mana:Warm Move:Slow>Ruined Avenue
+Exits: north, south.
+
+$ AS. CW HP:Hurt Mana:Warm Move:Slow>north
+Ruined Avenue
+A huge stone troll looms overhead, ready to crush your body.
+Exits: north, south.
+
+$ AS. CW HP:Hurt Mana:Warm Move:Slow>north
+Durin's Way
+Exits: north, east, south, west.
+
+$ AS. CW HP:Hurt Mana:Warm Move:Slow>east
+Durin's Way
+Exits: east, west.
+
+$ AS. CW HP:Hurt Mana:Warm Move:Slow>e
+Durin's Way
+Exits: (north), east, west.
+
+$ AS. CW HP:Hurt Mana:Warm Move:Slow>n
+Black Tunnel
+The corpse of a filthy troll is lying here.
+Exits: (south), west.
+
+$ AS. CW HP:Hurt Mana:Warm Move:Slow>l s
+You can reach Durin's Way through a small door in the south wall.
+The -[ door ]- is OPEN
+
+$ AS. CW HP:Hurt Mana:Warm Move:Slow>sc
+106/154 hits, 38/139 mana, and 23/97 moves.
+
+$ AS. CW HP:Hurt Mana:Warm Move:Slow>c
+Ok.
+
+$ AS. CW HP:Hurt Mana:Warm Move:Slow>bo
+You start to concentrate...
+
+=100
+tell vishnak SIGAn energy begins to flow within your legs as your body becomes lighter.
+
+$ AS. CW HP:Hurt Mana:Cold>Hcha wimpy 100
+Wimpy set to: 100
+
+$ AS. CW HP:Hurt Mana:Cold>
+Ok.
+
+$ AS. CW HP:Hurt Mana:Cold>sc
+107/154 hits, 14/139 mana, and 97/97 moves.
+
+$ AS. CW HP:Hurt Mana:Cold>wimp
+Ok.
+
+$ AS. CW HP:Hurt Mana:Cold>0100
+o
+Arglebargle, glop-glyf!?!
+
+$ AS. CW HP:Hurt Mana:Cold>s
+Ok.
+
+$ AS. CW HP:Hurt Mana:Cold>Durin's Way
+Exits: (north), east, west.
+
+$ AS. CW HP:Hurt Mana:Cold>o
+You don't see any door here.
+
+$ AS. CW HP:Hurt Mana:Cold>e
+Before Durin's Chimney
+A dark orkish archer is aiming a vicious bow at you.
+A dark orkish archer is aiming a vicious bow at you.
+Exits: north, east, south, west.
+
+$ AS. CW HP:Hurt Mana:Cold>e
+Durin's Chimney
+A dark orkish archer is aiming a vicious bow at you.
+Exits: east, west.
+
+$ AS. CW HP:Fine Mana:Cold>
+Vishnak tells you '???'
+
+$ AS. CW HP:Fine Mana:Cold>e
+Durin's Chimney
+Exits: [east], west.
+
+$ AS. CW HP:Fine Mana:Cold>rep
+You hear some apparently rather far noise coming from the east.
+
+$ AS. CW HP:Fine Mana:Cold> he died
+sc
+Ok.
+
+$ AS. CW HP:Fine Mana:Cold>108/154 hits, 17/139 mana, and 95/97 moves.
+
+sorry :(
+atleast now I know that spot:(

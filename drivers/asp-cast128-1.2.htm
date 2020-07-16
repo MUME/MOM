@@ -1,0 +1,654 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//IT">
+<html>
+<head>
+<title>Cast 128 ActiveX component v1.2 - Italiano</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css">
+<!--
+A:link {text-decoration: none}
+A:visited { text-decoration: none}
+A:hover { text-decoration: underline}
+
+-->
+</style>
+<META NAME="Generator" CONTENT="Midori">
+<META NAME="Author" CONTENT="Midori">
+<META NAME="Keywords" CONTENT="cast128 encryption activex component COM base64 dictionary objects fileSync folderSync linux masquerade nat sources">
+<META NAME="Description" CONTENT="Cast 128 ActiveX component v1.2 per Asp ">
+</head>
+
+<body bgcolor="#FFFFCC" text="#000099" link="#6699FF" vlink="#5A91A5" alink="#FF6666">
+
+  <TABLE border=0 cellPadding=0 cellSpacing=0 align=right>
+    <TBODY>
+    <TR>
+    <TD>
+      <H1 align=center>Cast 128 ActiveX component v1.2 </H1>
+        <P>A simple ActiveX component who allows to encrypt/decrypt data through
+          the Cast128 algorithm. He acts also as fast base64 codec and converter
+          from string to Array and viceversa.<BR>
+          <B>Coded by Midori (<A href="mailto:midori@paipai.net">midori@paipai.net
+          </A>, original Cast 128 implementation by Steve Reid &lt; <A
+      href="mailto:sreid@sea-to-sky.net">sreid@sea-to-sky.net </A>&gt; <BR>
+          <B><A
+      href="http://www.paipai.net/">http://www.paipai.net </A></B><BR>
+          <BR>
+        Versione Italiana: </B><A
+      href="http://www.paipai.net/conta/conta.asp?what=asp-cast128-1.2ita.htm&url=/texts/asp-cast128-1.2ita.htm">http://www.paipai.net/texts/asp-cast128-1.2.htm
+        </A></P>
+        <P>This document has been translate quickly from Italian to english using
+          http://www.systransoft.com/. If you found errors (above all in the code),
+          please write me about it.<B><br>
+          <br>
+          Information: </B><BR>
+        You can download the component here: <A
+      href="http://www.paipai.net/conta/conta.asp?what=asp-cast128-1.2.zip&url=/texts/asp-cast128-1.2.zip">http://www.paipai.net/texts/asp-cast128-1.2.zip
+        </A><BR>
+          In order to contact to me: <A
+      href="mailto:midori@paipai.net">Amato Giuseppe &lt; midori@paipai.net &gt;
+          </A><BR>
+        This page online: <A
+      href="http://www.paipai.net/conta/conta.asp?what=asp-cast128-1.2.htm&url=/texts/asp-cast128-1.2.htm">http://www.paipai.net/texts/asp-cast128-1.2.htm
+        </A><BR>
+          Components Home Page: <A
+      href="http://www.paipai.net/texts/components.htm">http://www.paipai.net/texts/components.htm
+          </A></P>
+      <P><I>(C) &amp; Disclaimer </I><BR>
+        This software is 100% free. You can disassemble, destroy, to modify it
+        or to throw it, without any restriction. Possibly, you don't forget about
+        me and Steve Reid in yours credits. <BR>
+          It is "donated as is ", without any type of guarantee. Sources VC++
+          are available.</P>
+      </TD></TR>
+  <TR>
+
+    <TD height=20><FONT color=#ff6c6c>The implementation of Cast128 has been made
+      outside of the USA </FONT></TD>
+    </TR>
+  <TR>
+    <TD>
+      <P></P>
+        <P>&nbsp;</P>
+        <P><FONT color=#cc0033 size=4>What's new in this version: </FONT></P>
+        <P>Added compatibility with ASP method Response.BinaryWrite of the output
+          of Array type ( <a href="#2.3">cast128ArrayEnc</a>, <a href="#2.4">cast128ArrayDec</a>,
+          <a href="#2.7">b64ArrayEnc</a> ) <BR>
+          Added methods of conversion from Stringa/Array to Array of byte and
+          viceversa( <a href="#2.11">toBArray</a>, <a href="#2.12">toString</a>
+          ).</P>
+        <H1>Index </H1>
+
+      <P>0. <a href="#bugs">Known Bugs</a><br>
+        1. <a href="#inst">Installation</a><br>
+        2. <a href="#doc">Documentation</a></P>
+      <blockquote>
+          <p>2.1.&nbsp;&nbsp; <a href="#2.1">cast128encode</a><br>
+            2.2.&nbsp;&nbsp; <a href="#2.2">cast128decode</a><br>
+            2.3. &nbsp; <a href="#2.3">cast128ArrayEnc</a><br>
+            2.4.&nbsp;&nbsp; <a href="#2.4"> cast128ArrayDec</a><br>
+            2.5.&nbsp;&nbsp; <a href="#2.5"> b64StrEnc</a><br>
+            2.6.&nbsp;&nbsp; <a href="#2.6"> b64StrDec</a><br>
+            2.7.&nbsp;&nbsp; <a href="#2.7"> b64ArrayEnc</a><br>
+            2.8.&nbsp;&nbsp; <a href="#2.8"> b64ArrayDec</a><br>
+            2.9.&nbsp;&nbsp; <a href="#2.9"> encode</a><br>
+            2.10. <a href="#2.10"> decode</a><br>
+            2.11 <a href="#2.11">toBArray</a><br>
+            2.12 <a href="#2.12">toString</a></p>
+        </blockquote>
+        <p>3. <a href="#ex">Example of Use</a><br>
+          4. <a href="#history">History</a><br>
+          5. <a href="#note1">Structure of the cast128encode output</a><br>
+          6. <a href="#noteb64">Note about the base64</a></p>
+        <p>&nbsp;</p>
+        <P></P>
+      <H2>1. Installation <A name=inst></A></H2>
+        <P><B>In order to install this component: </B></P>
+        <P>1) Copy the cast.dll file in a system folder (c:\windows or c:\winnt
+          or c:\winnt\system32 or similar) <BR>
+          2) execute the command regsvr32.exe c:\winnt\system32\cast.dll (if you
+          putted the cast.dll in c:\winnt\system32) <BR>
+          3) <a href="#doc">Use It</a>! </P>
+        <P><B>For uninstall the component: </B></P>
+        <P>1) There isn't a " clean way " to do it. <BR>
+          2) Execute regedit.exe and find these strigs: <BR>
+          B11567EB-ef87-4bdd-9070-581eab099a08
+      <BR>2121B8E7-e209-410d-af86-20cbd9a96527
+      <BR>12BBFB97-0aec-4837-8061-12ca8ead166b <BR>
+          3) Delete every key of the registry that contains one of these strig.
+          <BR>
+          4) Delete the file cast.dll <BR>
+          <BR></P>
+      <H2>2. Documentation <A name=doc></A></H2></TD></TR>
+  <TR>
+      <TD>
+        <P>The component uses Cast128 as encryption algorithm. Cast is an algorithm
+          of "symmetrical" type, and therefore is necessary to use the same key
+          in order to encrypt and decrypt data.<BR>
+          Some methods generate the output base64 codified: this allows to use
+          the output as an ASCII string. <BR>
+          The component can be used also as a fast Base64 codec. <BR>
+          As input you can use string or Array of bytes. All the Array that some
+          methods supply as output are compatible with the type accepted from
+          Response.BinaryWrite ASP method. <BR>
+          Finally, there are two methods ( <a href="#2.11">toBArray</a>, <a href="#2.12">toString</a>
+          ) that allow to convert Array of integer values in string and string
+          or the Array of integer values in Array of bytes. </P>
+        <P>The component has been created originally in order encrypt important
+          data sent through cookies (like login and password).<br>
+          It is is called "cast" and it implements only one interface called "cipher".
+        </P>
+        <P><B>In order to create an instance of cipher,</B> you can use the symbolic
+          reference "cast.cipher" or CLSID { 12BBFB97-0aec-4837-8061-12ca8ead166b
+          } <BR>
+        </P>
+        <P>In order to create an instance in VisualBasic/VBScript: <BR>
+          <b>Dim objCast As Object<br>
+          set objCast = CreateObject(&quot;cast.cipher&quot;) </b></P>
+        <p>In ASP:<br>
+          <b>Dim objCast</b><br>
+          <b>set objCast = Server.CreateObject(&quot;cast.cipher&quot;)</b></p>
+      <P></P>
+        <P><FONT color=#cc0033 size=+1>The cipher interface implements that methods:
+          </FONT></P>
+        <P>1)&nbsp;&nbsp; <a href="#2.1">VARIANT <font color="#CC0033"><b><font color="#0000CC">cast128encode</font></b></font>(VARIANT
+          key, VARIANT inString)</a><br>
+          2)&nbsp;&nbsp; <a href="#2.2">VARIANT <b><font color="#0000CC">cast128decode</font></b>(VARIANT
+          key, VARIANT inBase64String)</a><br>
+          3)&nbsp;&nbsp; <a href="#2.3">VARIANT <b><font color="#0000CC">cast128ArrayEnc</font></b>(VARIANT
+          key, VARIANT inArray)</a><br>
+          4)&nbsp;&nbsp; <a href="#2.4">VARIANT <b><font color="#0000CC">cast128ArrayDec</font></b>(VARIANT
+          key, VARIANT inArray)</a><br>
+          5)&nbsp;&nbsp; <a href="#2.5">VARIANT <b><font color="#0000CC">b64StrEnc</font></b>(VARIANT
+          inString)</a><br>
+          6)&nbsp;&nbsp; <a href="#2.6">VARIANT <b><font color="#0000CC">b64StrDec</font></b>(VARIANT
+          inBase64String)</a><br>
+          7)&nbsp;&nbsp; <a href="#2.7">VARIANT <b><font color="#0000CC">b64ArrayEnc</font></b>(VARIANT
+          inArray)</a><br>
+          8)&nbsp;&nbsp; <a href="#2.8">VARIANT <b><font color="#0000CC">b64ArrayDec</font></b>(VARIANT
+          inBase64String)</a><br>
+          9)&nbsp;&nbsp; <a href="#2.9">VARIANT <b><font color="#0000CC">encode</font></b>(VARIANT
+          key, VARIANT inString)</a><br>
+          10) <a href="#2.10">VARIANT <b><font color="#0000CC">decode</font></b>(VARIANT
+          key, VARIANT inBase64String)</a><br>
+          11) <a href="#2.11">VARIANT <font color="#0000CC"><b>toBArray</b></font>(VARIANT
+          inData)</a><br>
+          12) <a href="#2.12">VARIANT <font color="#0000CC"><b>toString</b></font>(VARIANT
+          inArray)</a></P>
+        <P>&nbsp;</P>
+      <P></P>
+      <P><B><FONT size=+1>2.1. cast128encode </FONT></B><A name=2.1></A></P>
+      <P>VARIANT cast128encode(VARIANT key, VARIANT inString) </P>
+        <P>Encrypt a string using the key specified in <b>key</b>. It gives return
+          a base64 string. Use <a href="#2.3">cast128ArrayEnc</a> <A
+      href="http://www.paipai.net/texts/asp-cast128-1.2ita.htm#2.3"> </A>if you
+          want to encrypt an Array. </P>
+      <P><FONT color=#cc0033><B>Parameters: </B></FONT><BR></P>
+      <TABLE border=0 cellPadding=1 cellSpacing=5>
+        <TBODY>
+        <TR>
+          <TD vAlign=top width=60><B>key </B><BR></TD>
+            <TD vAlign=top>
+              <P>a VARIANT containing a string that represents the encryption/decryption
+                key. <BR>
+                It must necessarily to be a string, or no output will be generated.
+                <BR>
+                Any character ASCII is valid, except that one represented from
+                the 0 (zero or NULL) </P>
+            </TD></TR>
+        <TR>
+          <TD vAlign=top width=60><B>inString </B></TD>
+            <TD vAlign=top>a VARIANT containing the string to encrypt.<BR>
+              It must necessarily to be a string, or no output will be generated.
+              <br>
+              Any character ASCII is valid, except that one represented from the
+              0 (zero or NULL) </TD>
+          </TR></TBODY></TABLE>
+        <P><FONT color=#cc0033><B>Returned Value: </B></FONT><BR>
+          A VARIANT containing a base64 string. It contains only these characters:
+          <BR>
+          ABCDEFGHIJKLMNOPQRSTUVWXYZ <BR>
+          abcdefghijklmnopqrstuvwxyz0123456789+ / <BR>
+          and the special termination character ' = ' <BR>
+        </P>
+        <P>The string returned is contained in a VARIANT. </P>
+        <P>&nbsp;</P>
+      <P></P>
+      <P><B><FONT size=+1>2.2. cast128decode </FONT></B><A name=2.2></A></P>
+      <P>VARIANT cast128decode(VARIANT key, VARIANT inBase64String) </P>
+        <P>It decrypts a string generated previously from cast128encode(), using
+          the key specified in <b>key</b>. It gives back a string representing
+          the original data. If you want to decrypt an Array it uses <a href="#2.4">cast128ArrayDec</a><A
+      href="http://www.paipai.net/texts/asp-cast128-1.2ita.htm#2.4"> </A></P>
+      <P><B><FONT color=#cc0033>Parameters: </FONT></B><BR></P>
+      <TABLE border=0 cellPadding=1 cellSpacing=5>
+        <TBODY>
+        <TR vAlign=top>
+          <TD width=60><B>key </B><BR></TD>
+            <TD>a VARIANT containing a string that represents the encryption/decryption
+              key. <br>
+              It must necessarily to be a string, or no output will be generated.
+              <br>
+              Any character ASCII is valid, except that one represented from the
+              0 (zero or NULL)</TD>
+          </TR>
+        <TR vAlign=top>
+          <TD width=60><B>inBase64String </B></TD>
+            <TD>a VARIANT containing the data to be decrypted. It must contain
+              a string previously generated by cast128encode() <BR>
+            </TD></TR></TBODY></TABLE>
+        <P><font color=#cc0033><b>Returned Value</b></font><FONT color=#cc0033><B>:
+          </B></FONT><BR>
+          A VARIANT containing a string, that represent the original data.</P>
+      <P>&nbsp;</P>
+      <P></P>
+        <P><B><FONT size=+1>2.3. cast128ArrayEnc </FONT></B><A name=2.3></A></P>
+        <P>VARIANT cast128ArrayEnc(VARIANT key, VARIANT inArray) </P>
+        <P>Encrypt an array using the key specified in <b>key</b>. It gives back
+          an Array of bytes containing the encrypted data. If you want Encrypt
+          strings, use <a href="#2.1">cast128encode</a><A
+      href="http://www.paipai.net/texts/asp-cast128-1.2ita.htm#2.1"> </A></P>
+      <P><B><FONT color=#cc0033>Parameters: </FONT></B><BR></P>
+      <TABLE border=0 cellPadding=1 cellSpacing=5>
+        <TBODY>
+        <TR vAlign=top>
+          <TD width=60><B>key </B><BR></TD>
+            <TD>a VARIANT containing a string that represents the encryption/decryption
+              key. <br>
+              It must necessarily to be a string, or no output will be generated.
+              <br>
+              Any character ASCII is valid, except that one represented from the
+              0 (zero or NULL)</TD>
+          </TR>
+        <TR vAlign=top>
+          <TD width=60><B>inArray </B></TD>
+            <TD>a VARIANT containing the array to encrypt. It must be an Array.
+              <BR>
+              Every element should be a byte (unsigned 8 bit). The Array must
+              contain a number of elements that is multiple of 8, or no output
+              is generated (cast accept only blocks of 64 bit as input). </TD>
+          </TR></TBODY></TABLE>
+        <P><font color=#cc0033><b>Returned Value</b></font><FONT color=#cc0033><B>:
+          </B></FONT><BR>
+          A VARIANT containing an Array of byte (unsigned 8 bit) that contains
+          the encrypted data; it is compatible with ASP method Response.BinaryWrite.
+          The number of elements is same of the the source Array. <BR>
+          For who is interested, the returned VARIANT is of type VT_ARRAY | VT_UI1
+          ( try words " VARIANT AND VARIANTARG " in the MSDN, <a
+      href="http://msdn.microsoft.com/">http://msdn.microsoft.com / </a>. </P>
+        <P></P>
+        <P></P>
+      <P></P>
+        <P>&nbsp;</P>
+        <P>&nbsp;</P>
+        <P><B><FONT size=+1>2.4. cast128ArrayDec </FONT></B><A name=2.4></A></P>
+        <P>VARIANT cast128ArrayDec(VARIANT key, VARIANT inArray) </P>
+        <P>It decrypts an Array of byte previously encrypted using cast 128 and
+          using the key specified in <b>key</b>. It return an Array containing
+          the original data. If you want to decrypt strings, use <a href="#2.2">cast128decode</a>.<A
+      href="http://www.paipai.net/texts/asp-cast128-1.2ita.htm#2.2"> </A></P>
+      <P><B><FONT color=#cc0033>Parameters: </FONT></B><BR></P>
+      <TABLE border=0 cellPadding=1 cellSpacing=5>
+        <TBODY>
+        <TR vAlign=top>
+          <TD width=60><B>key </B><BR></TD>
+            <TD>a VARIANT containing a string that represents the encryption/decryption
+              key. <br>
+              It must necessarily to be a string, or no output will be generated.
+              <br>
+              Any character ASCII is valid, except that one represented from the
+              0 (zero or NULL)</TD>
+          </TR>
+        <TR vAlign=top>
+          <TD width=60><B>inArray </B></TD>
+            <TD>
+              <P>a VARIANT containing the array to decrypt. It must be an Array.
+                <br>
+                Every element should be a byte (unsigned 8 bit). The Array must
+                contain a number of elements that is multiple of 8, or no output
+                is generated (cast accept only blocks of 64 bit as input). </P>
+            </TD></TR></TBODY></TABLE>
+        <P><font color=#cc0033><b>Returned Value</b></font><font color=#cc0033><b></b></font><FONT color=#cc0033><B>:
+          </B></FONT><BR>
+          A VARIANT containing an Array of byte (unsigned 8 bit) that contains
+          the decrypted original data; it is compatible with ASP method Response.BinaryWrite.
+          The number of elements is same of the the source Array. <br>
+          For who is interested, the returned VARIANT is of type VT_ARRAY | VT_UI1
+          ( try words " VARIANT AND VARIANTARG " in the MSDN, <a
+      href="http://msdn.microsoft.com/">http://msdn.microsoft.com / </a>. </P>
+        <P>&nbsp;</P>
+        <P>&nbsp;</P>
+        <P><B><FONT size=+1>2.5. b64StrEnc </FONT></B><A name=2.5></A></P>
+      <P>VARIANT b64StrEnc(VARIANT inString) </P>
+        <P>It codifies a string using base64. The output it is a base64 string.
+          If you want to codify Array, use <a href="#2.7">b64ArrayEnc</a><A
+      href="http://www.paipai.net/texts/asp-cast128-1.2ita.htm#2.7"> </A></P>
+      <P><B><FONT color=#cc0033>Parameters: </FONT></B><BR></P>
+      <TABLE border=0 cellPadding=1 cellSpacing=5>
+        <TBODY>
+        <TR vAlign=top>
+          <TD width=60><B>inString </B></TD>
+            <TD>a VARIANT containing a string to be encoded. <br>
+              It must necessarily to be a string, or no output will be generated.
+              <br>
+              Any character ASCII is valid, except that one represented from the
+              0 (zero or NULL) </TD>
+          </TR></TBODY></TABLE>
+        <P><font color=#cc0033><b>Returned Value</b></font><font color=#cc0033><b></b></font><font color=#cc0033><b></b></font><FONT color=#cc0033><B>:
+          </B></FONT><BR>
+          A VARIANT containing a Base64 string. </P>
+        <P></P>
+        <P>&nbsp;</P>
+        <P>&nbsp;</P>
+        <P><B><FONT size=+1>2.6. b64StrDec </FONT></B><A name=2.6></A></P>
+      <P>VARIANT b64StrDec(VARIANT inBase64String) </P>
+        <P>It decodes one tightens codified in base64. De you want to decodifcare
+          attay uses <a href="#2.8">b64ArrayDec</a><A
+      href="http://www.paipai.net/texts/asp-cast128-1.2ita.htm#2.8"> </A></P>
+      <P><B><FONT color=#cc0033>Parameters: </FONT></B><BR></P>
+      <TABLE border=0 cellPadding=1 cellSpacing=5>
+        <TBODY>
+        <TR vAlign=top>
+          <TD width=60><B>inBase64String </B></TD>
+            <TD>
+              <P>a VARIANT containing a string that represents the base64 data
+                do be decoded. <br>
+                It must necessarily to be a string, or no output will be generated.
+                <br>
+                Any character ASCII is valid, except that one represented from
+                the 0 (zero or NULL). Moreover the length must be multiple of
+                4, to be a valid base64 string, and must contain only the following
+                characters: ABCDEFGHIJKLMNOPQRSTUVWXYZ <BR>
+                abcdefghijklmnopqrstuvwxyz0123456789+ / <BR>
+                and the special termination character ' = ' </P>
+            </TD></TR></TBODY></TABLE>
+        <P><font color=#cc0033><b>Returned Value</b></font><FONT color=#cc0033><B>:
+          </B></FONT><BR>
+          A VARIANT containing the original string data.</P>
+        <P>&nbsp;</P>
+        <P><B><FONT size=+1>2.7. b64ArrayEnc </FONT></B><A name=2.7></A></P>
+        <P>VARIANT b64ArrayEnc(VARIANT inArray) </P>
+        <P>It codifies an Array of bytes using base64. The output it is a base64
+          string. <BR>
+          If you want to codify strings, use <a href="#2.5">b64StrEnc</a><A
+      href="http://www.paipai.net/texts/asp-cast128-1.2ita.htm#2.5"> </A>.</P>
+      <P><B><FONT color=#cc0033>Parameters: </FONT></B><BR></P>
+      <TABLE border=0 cellPadding=1 cellSpacing=5>
+        <TBODY>
+        <TR vAlign=top>
+          <TD width=60><B>inArray </B></TD>
+            <TD>A VARIANT containing the data to codify. It must be an Array.
+              <BR>
+              Every element must be a byte (unsigned 8 bit).</TD>
+          </TR></TBODY></TABLE>
+        <P><font color=#cc0033><b>Returned Value</b></font><font color=#cc0033><b></b></font><font color=#cc0033><b></b></font><font color=#cc0033><b>:
+          </b></font><br>
+          A VARIANT containing a Base64 string. </P>
+        <P></P>
+        <P>&nbsp;</P>
+        <P>&nbsp;</P>
+        <P><B><FONT size=+1>2.8. b64ArrayDec </FONT></B><A name=2.8></A></P>
+        <P>VARIANT b64ArrayDec(VARIANT inBase64String) </P>
+        <P>It decodes a base64 string and places decoded data in an Array of bytes
+          (unsigned 8 bit). If you want a string as output use <a href="#2.6">b64StrDec</a>.<A href="http://www.paipai.net/texts/asp-cast128-1.2ita.htm#2.6">
+          </A></P>
+      <P><B><FONT color=#cc0033>Parameters: </FONT></B><BR></P>
+      <TABLE border=0 cellPadding=1 cellSpacing=5>
+        <TBODY>
+        <TR vAlign=top>
+          <TD width=60><B>inBase64String </B></TD>
+            <TD>
+              <P>a VARIANT containing a string that represents the base64 data
+                do be decoded. <br>
+                It must necessarily to be a string, or no output will be generated.
+                <br>
+                Any character ASCII is valid, except that one represented from
+                the 0 (zero or NULL). Moreover the length must be multiple of
+                4, to be a valid base64 string, and must contain only the following
+                characters: ABCDEFGHIJKLMNOPQRSTUVWXYZ <br>
+                abcdefghijklmnopqrstuvwxyz0123456789+ / <br>
+                and the special termination character ' = ' </P>
+            </TD></TR></TBODY></TABLE>
+        <P><font color=#cc0033><b>Returned Value</b></font><FONT color=#cc0033><B>:
+          </B></FONT><BR>
+          A VARIANT containing an Array in which they are placed the original
+          decoded data; it is compatible with ASP method response.BinaryWrite.
+          <BR>
+          For who is interested, the returned VARIANT is of type VT_ARRAY | VT_UI1
+          ( try words " VARIANT AND VARIANTARG " in the MSDN, <A
+      href="http://msdn.microsoft.com/">http://msdn.microsoft.com / </A>. </P>
+        <P>&nbsp;</P>
+        <P>&nbsp;</P>
+        <P><B><FONT size=+1>2.9. encode </FONT></B><A name=2.9></A></P>
+        <P>VARIANT encode<B><FONT color=#0000cc> </FONT></B>(VARIANT key, VARIANT
+          inString) </P>
+        <P>A alias of <A
+      href="#2.1">cast128encode </A></P>
+        <P></P>
+        <P>&nbsp;</P>
+        <P>&nbsp;</P>
+        <P><B><FONT size=+1>2.10. decode </FONT></B><A name=2.10></A></P>
+      <P><BR>
+          VARIANT decode<B><FONT color=#0000cc> </FONT></B>(VARIANT key, VARIANT
+          inBase64String) </P>
+        <P>A alias of <A
+      href="#2.2">cast128decode </A></P>
+      <P></P>
+        <P>&nbsp;</P>
+        <P>&nbsp;</P>
+        <P><B><FONT size=+1>2.11. toBArray </FONT></B><A name=2.11></A></P>
+      <P>InData VARIANT toBArray(VARIANT) </P>
+        <P>It converts a string to an Array of bytes. Such Array is usable with
+          the other methods of the cipher class (ex. with <a href="#2.7">b64ArrayEnc</a>
+          ) and with the ASP method Response.BinaryWrite. If you want to convert
+          an Array to a string, use the method <a href="#2.12">toString</a>.</P>
+      <P><B><FONT color=#cc0033>Parameters: </FONT></B><BR></P>
+      <TABLE border=0 cellPadding=1 cellSpacing=5>
+        <TBODY>
+        <TR vAlign=top>
+          <TD width=60><B>inData </B></TD>
+            <TD>
+              <P>a VARIANT containing a string to convert, or an Array of integer
+                values (with or without sign). </P>
+            </TD></TR></TBODY></TABLE>
+      <P></P>
+        <P><FONT color=#cc0033><B>It gives back: </B></FONT><BR>
+          A VARIANT containing an Array of byte, compatible with ASP method Response.BinaryWrite.
+          <BR>
+          For who is interested, the returned VARIANT is of type VT_ARRAY | VT_UI1
+          ( try words " VARIANT AND VARIANTARG " in the MSDN, <a
+      href="http://msdn.microsoft.com/">http://msdn.microsoft.com / </a>. </P>
+      <P></P>
+        <P>&nbsp;</P>
+        <P>&nbsp;</P>
+        <P><B><FONT size=+1>2.12. toString </FONT></B><A name=2.12></A></P>
+      <P>VARIANT toString(VARIANT inArray) </P>
+        <P>It converts an Array of integer value in a string. If you want to convert
+          a string to an Array of Bytes use the method <a href="#2.11">toBArray</a><A
+      href="http://www.paipai.net/texts/asp-cast128-1.2ita.htm#2.11"> </A><BR>
+        </P>
+      <P><B><FONT color=#cc0033>Parameters: </FONT></B><BR></P>
+      <TABLE border=0 cellPadding=1 cellSpacing=5>
+        <TBODY>
+        <TR vAlign=top>
+          <TD width=60><B>inArray </B></TD>
+            <TD>
+              <P>a VARIANT containing an Array of integer values (with or without
+                sign). <BR>
+                For who is interested, the returned VARIANT is of type VT_ARRAY
+                | VT_UI1 ( try words " VARIANT AND VARIANTARG " in the MSDN, <a
+      href="http://msdn.microsoft.com/">http://msdn.microsoft.com / </a>. </P>
+            </TD></TR></TBODY></TABLE>
+      <P></P>
+        <P><FONT color=#cc0033><B>It gives back: </B></FONT><BR>
+          A VARIANT containing a string. </P>
+      <P><BR></P>
+      <H2>3. Examples of use <A name=ex></A></H2>
+        <P><font color="#CC0033">Cast Encrypt/Decrypt of a string in Visual Basic:</font><br>
+
+        <pre>
+ 	Set ObjCast = CreateObject("cast.cipher")
+	Dim tkey As Variant
+	Dim original As Variant
+	Dim encodedText As Variant
+	Dim decodedText As Variant
+	tkey = "the Key"
+	original = "Encoded Text"
+	encodedText = ObjCast.cast128encode(tkey, original)
+	decodedText = ObjCast.cast128decode(tkey, encodedText)
+	msgbox(&quot;Dati originali:" & original & vbNewline & &quot;Dati criptati: " & encodedText & vbNewline & _
+		"Dati decriptati: " & decodedText)
+	Set ObjCast = Nothing
+	</pre>
+        <br>
+        <font color="#CC0033">Cookies with ASP VBScript: </font><br>
+        Setting of an encrypted cookie
+        <pre>
+	set objCast128 = server.createObject("cast.cipher")
+	response.cookies("CookieName")("server") = objCast128.cast128encode("pass", "www.anon.net" )
+	response.cookies("CookieName")("login") = objCast128.cast128encode("pass", "myname")
+	response.cookies("CookieName")("password") = objCast128.cast128encode("pass","mypassword")
+	Response.Cookies("CookieName").Expires = dateadd("d",10,date)
+	Response.Cookies("maiCookieNamelclient").Domain = "www.anon.net"
+	Response.Cookies("CookieName").Path = "/"
+	Response.Cookies("CookieName").Secure = false
+	</pre>
+        Getting an encrypted cookie
+        <pre>
+	set objCast128 = server.createObject("cast.cipher")
+	encodedLogin = request.cookies("CookieName")("login")
+	encodedPassword = request.cookies("CookieName")("password")
+	encodedServer = request.cookies("CookieName")("server")
+	Login = objCast128.cast128decode(&quot;pass&quot;, encodedLogin )
+	Password = objCast128.cast128decode(&quot;pass&quot;, encodedPassword )
+	MyServer = objCast128.cast128decode(&quot;pass&quot;, encodedServer )
+ 	</pre>
+        <font color="#CC0033">Base64 encoding/decoding of an array in ASP VBScript:</font><br>
+        <pre>
+	set objCast128 = server.createObject("cast.cipher")
+	OriginalArray = Array(1, 3, 90, 23, 66, 3)
+	strB64EncodedArray = objCast128.b64ArrayEnc(OriginalArray)
+	DecodedArray = objCast128.b64ArrayDec(strB64EncodedArray)
+	response.write("Dati originali: " & OriginalArray(0) & ", " & OriginalArray(1) & _
+		", " & OriginalArray(2) & ", " & OriginalArray(3) & ", " & OriginalArray(4) & _
+		", " & OriginalArray(5) & )
+	response.write("dati codificati in Base64: " strB64EncodedArray & )
+	response.write("dati decodificati: " & DecodedArray(0) & ", " & DecodedArray(1) & _
+		", " & DecodedArray(2) & ", " & DecodedArray(3) & ", " & DecodedArray(4) & _
+		", " & DecodedArray(5) & )
+	</pre>
+        <font color="#CC0033">Cast encrypt/decrypt of an array in ASP VBScript:</font><br>
+        <pre>
+	set objCast128 = server.createObject("cast.cipher")
+	OriginalArray = Array(1, 3, 90, 23, 66, 3)
+	Key = "the Key"
+	Cast128EncryptedArray = objCast128.cast128ArrayEnc(Key,OriginalArray)
+	DecryptedArray = objCast128.b64ArrayDec(key, Cast128EncryptedArray)
+	response.write("dati originali: " & OriginalArray(0) & ", " & OriginalArray(1) & _
+		", " & OriginalArray(2) & ", " & OriginalArray(3) & ", " & OriginalArray(4) & _
+		", " & OriginalArray(5) )
+	response.write("dati criptati: " & Cast128EncryptedArray(0) & ", " & Cast128EncryptedArray(1) & _
+		", " & Cast128EncryptedArray(2) & ", " & Cast128EncryptedArray(3) & ", " & _
+		Cast128EncryptedArray(4) & ", " & Cast128EncryptedArray(5) )
+	response.write("dati decriptati: " & DecryptedArray(0) & ", " & DecryptedArray(1) & _
+		", " & DecryptedArray(2) & ", " & DecryptedArray(3) & _
+		", " & DecryptedArray(4) & ", " & DecryptedArray(5))</pre>
+        <P>&nbsp;
+        <H2>4. History<A name=history></A></H2>
+      <TABLE border=0 cellPadding=0 cellSpacing=7 width="75%">
+        <TBODY>
+        <TR>
+          <TD vAlign=top><B>1.0</B></TD>
+            <TD vAlign=top>Present only the methods encode and decode. It supports
+              only strings as input. </TD>
+          </TR>
+        <TR>
+          <TD vAlign=top><B>1.1</B></TD>
+            <TD vAlign=top>
+              <p>Renamed the methods encode and decode in cast128encode and cast128decode.<br>
+                Corrected an error in the name of the interface (previously called
+                chipher instead of cipher)<br>
+                Added the methods for encrypt/decrypt Arrays.<br>
+                Added the methods to encode and decode data using base64 (strings
+                and Array)</p>
+              </TD>
+          </TR>
+        <TR>
+          <TD vAlign=top><B>1.2</B></TD>
+            <TD vAlign=top>
+              <P>Added compatibility with the data types of ASP objects: all the
+                output of Array type is now compatible with the method Response.BinaryWrite.<br>
+                Added methods for conversion from Array of byte to string and
+                viceversa, and from Array of integer values to Array of byte.<BR>
+              </P>
+            </TD></TR>
+        <TR>
+          <TD vAlign=top><B>1.3</B></TD>
+            <TD vAlign=top>
+              <P>This will be next and the probably last one release: Output of
+                the method cast128encode will be smaller (the output now generated
+                is large approximately 50% more than the input)<BR>
+              </P>
+            </TD></TR></TBODY></TABLE>
+      <P>&nbsp;</P>
+        <H2>5. Structure of the cast128encode output<A
+      name=note1></A></H2>
+        <P>The cast128encode method transforms input string in an Array of unsigned
+          char. After that it codifies this Array using base64. If the obtained
+          string have an uneven number of blocks of 4 byte (or base64 blocks),
+          4 characters of ' = ' are added to the end of the string. That assures
+          that the string contains a multiple number of elements of 8. That String
+          is encrypted with the cast128 algorithm. The output it comes newly codified
+          in base64 in order obtaining an ASCII string. The output generated is
+          large approximately 50% in more than the input. In the next version
+          I will take care to change the algorithm to lower the space occupied
+          by the output, maintaining in any case a compatibility with old versions.</P>
+      <H2><BR>
+          6. Note about the Base64<A name=noteb64></A></H2>
+
+      <P>The base64 codifies data in a way that it can be represented with a printable
+        subset ASCII characters.<br>
+        The characters used are 65 (64 for the rapresentation, plus a special
+        one) and are that:<br>
+        ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz0123456789+ /<br>
+        and the special character ' = ', that is used like termination character
+        in some cases<BR>
+      </P>
+      <P>&nbsp;</P>
+      <h3>Known Bugs<a name="bugs"></a></h3>
+      <p> There is some problem using Encrypt/Decrypt inside ASP functions:<br>
+        there is a problem when using the function parameters as parameters to
+        the Cast calls.<br>
+        Thanks to Jim Lum for reporting it.</p>
+      A Workaround is available; use it until the bug will be removed (maybe in
+      the next release, 1.3)<br>
+      Please use:
+      <p>
+      <pre>
+Function Encrypt(istring,tkey)
+	Dim thekey, tistring
+	thekey = tkey
+	tistring = istring
+	Set objCast = Server.CreateObject("cast.cipher")
+	EncryptNote = objCast.cast128encode(thekey, tistring)
+	Set objCast = Nothing
+End function
+</pre>
+      Instead of:
+      <pre>
+Function Encrypt(istring,tkey)
+	Set objCast = Server.CreateObject("cast.cipher")
+	EncryptNote = objCast.cast128encode(tkey, istring)
+	Set objCast = Nothing
+End function
+</pre>
+      <p>If you found a bug, please report it to <a href="midori@paipai.net">midori@paipai.net</a></p>
+      <P>&nbsp;</P>
+      <P><BR>
+        <BR>
+        Listed on: </P>
+      <P><A href="http://www.aspin.com/"><IMG alt=Aspin.com border=0
+      src="http://www.paipai.net/image/aspin1005.gif"></A> <A
+      href="http://www.askasp.com/"><IMG alt="Got Questions? askASP.com!"
+      border=0 src="http://www.paipai.net/image/askasp_button2.gif"></A> </P>
+      <P><FONT color=#0099ff>Midori, Paipai Networks, Jan
+  2001.</FONT></P></TD></TR></TBODY></TABLE></BODY></HTML>

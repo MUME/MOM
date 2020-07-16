@@ -1,0 +1,12 @@
+You flee head over heels.
+You are too exhausted.
+is too exhausted.
+Alas, you cannot go that way...
+Your mount refuses to follow your orders!
+doesn't want you riding
+Oops! You cannot go there riding!
+You need to swim to go there.
+you need to climb to go there.
+
+You stop riding a hungry warg.
+You pick up a hungry warg's reins, and start riding it.

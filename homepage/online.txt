@@ -1,0 +1,214 @@
+The BestEST is a free software made to use for and with MUME.
+http://www.vendomar.ee/~jaanusl/demo.gif
+
+Needed system:
+Any MS Windows version starting from Windows 98.
+- Should have atleast 128MB memory
+- Should work fine with ~500MHz CPU. (Physical system memory is more important.)
+- 800x600 display resolution, with 16bit colours.
+
+Recommended system:
+- Operating system: Windows 2000, Windows XP
+- 1GHz CPU
+- 256MB memory
+- 1024x768 display resolution, with 24bit colours.
+
+Included features:
+Map is always there!
+The map always sits on top of MUME client(telnet,JMC,..) and has a fixed size.
+You don't have to switch windows or resize the client to see the map.
+
+Online mapping!
+The mapping is fast, efficient and too easy :)!
+Mapping a normal room takes no more than 3 seconds with a touch of one button!
+An example. When I mapped the road from New Orc Caves to Khuzur,
+through the new Ancient Broken Road zones, for the first time, it took me only 2 nights!
+Some folks walk there 3 nights! But when I got lost, I just synced myself back to the map and knew where I was!
+When you come to places like Old Forest, or cross the hills of Hollin and reach the west Moria,
+then you definitely have to use the gateways (I call them portals),
+a point where entering a direction the map jumps to another spot. All that is included and easy to use.
+Mapping dangerous areas, like Moria - online you may not have the time to enter the portal coordinates.
+That problem is also solved, because you can edit the map offline! Cut and paste, change the terrain, anything..
+
+The sync commands and online mapping, all can be done from MUME command line or with graphical interface.
+All can be bound under hotkeys.
+
+When in sync, the map always tracks the character movement in any direction, even through huge loops.
+And there is no delay(maybe 1ms). If you have only 64MB memory or 100MHz CPU, then there will be delay.
+Map display size is two room radius. Overall five rooms in diameter, like MUME command "map room ".
+
+When you flee, the program will know and instantly relocate your position.
+There is up to two rooms from fleed room synchronizer. Outdoors,
+where all rooms are next to another, usually one room check is enough.
+Two room radius check can solve even special cases like oneways and randoms.
+When you get totally lost, you have to locate yourself on the map and press the GET_IN_SYNC button.
+Locating yourself on the map is possible by manual seek or choosing to jump the map to closest city
+and then track yourself down.
+
+Live doorname display!
+Whenever you enter a mapped room, the program instantly displays the existing doornames.
+
+The happy and angry face!
+The faces show if the map is in or out of sync with the character.
+
+Everyone has to create his or her own Arda map. The maps can not be shared.
+Also the data from the map is not accessible. The database is protected,
+so you cannot just copy and steal the hard effort of creating realistic areas by MUME management and gods.
+
+Everyone will start out with basic Arda map, the backbone. All the great western cities and the roads
+between Blue Mountains, Grey Havens, Bree, Fornost, some south of Bree and towards Rivendell are done.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+But this is not all, there are three more special kits.
+
+ - The Roleplayer Kit.
+ - The Playerkiller Kit.
+ - The Complete Kit.
+
+The kits have everything what is already included in freeware version and more..
+
+The Roleplayer Kit.
+
+- Not can you only map the Arda, but also you can make your own legends and comments to any room desired.
+- Mark down the rooms with mysterious springs, fell beasts, hidden treasury or the dungeon where you slew the Monster.
+- You can be the great explorer, you will have the possibility to view and play the map up to 30+ rooms in diameter,
+  by decreasing the room size, increasing the map window or both. The map size is not fixed.
+- Whenever or wherever you get lost, misteleport from Blue Mountains to the swamps of Tharbad.
+  With only one button you will be relocated on the map, only in 5 - 15+ seconds(depends on CPU speed)!
+- When you need to flee, it will automatically sync with map up to 10 room radius(4 areas). Covering 90% of exceptions.
+
+
+The Playerkiller Kit.
+
+- You can see the map up to 20 rooms in diameter, basically covering 2 areas.
+  You can also resize the map and have special compact mode, what is not accessible to others.
+- After you flee, you can sync up to 30 rooms in radius, that is covering 9 areas(100% sure).
+  You can manualy change the fleeing check radius from 5 - 30(the larger the slower, but more efficient)
+- You will have special tracking buffer. Whenever you track, it will keep a path on map where you started
+  to where you finished. Thus you can learn the routes of the enemy or when you missed a track,
+  can go back to the start or midway. Start a new track will delete the old path.
+- You will have a prebuffer possibility. Spam 1 - 18 directions in buffer and cancel the route with one button
+  or press a kill *target* between the spam and it will go through! The buffer size is configurable.
+  With usual MUME, when you spam 18 directions.. then you have no hope hitting that target until the 18 rooms have passed!
+  Now, you can change that.
+
+
+The Complete Kit.
+
+- This kit will have both the Roleplayer and Playerkiller features mended together, fully configurable.
+
+And there is always Diamonium's kit... *evil laugh*
+
+
+If you are interested in special kits, mail me
+
+jaanus@it.ee
+Subject line has to contain word in capital letters, "MUME"
+
+

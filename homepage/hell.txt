@@ -1,0 +1,495 @@
+Entrance to the Castle Keep
+A vial filled with a reddish liquid lies in the dust.
+A hungry warg stands here, sniffing around for flesh.
+Qweeg is here, fighting *Elmir Man*.
+A hungry warg stands here, sniffing around for flesh.
+Praz is here, fighting *a Dwarf*.
+A hungry warg stands here, sniffing around for flesh.
+*Elmir Man* is here, fighting Qweeg.
+*Dorfl the Dwarf* is standing here.
+*a Dwarf* is here, fighting Praz.
+*Ellara Half-Elf* is standing here trying to concentrate.
+Azazello (aa) is here, fighting *a Dwarf*.
+A hungry warg stands here, sniffing around for flesh.
+*Tear the Dwarf* is standing here.
+Exits: *North* East [South] West.
+*a Dwarf* stabs Praz' right leg and tickles it.
+
+* W C HP:Hurt Mana:Warm>hit $mees
+You approach *Ellara Half-Elf*, trying to pound her.
+*Elmir Man* OPENS  -[ cloakroom ]-     _CLOSE_BLOCK_
+*Dorfl the Dwarf* CLOSES  -[ cloakroom ]-     _USE ROCK_
+
+* W C HP:Hurt Mana:Warm *Ellara Half-Elf*:Healthy>*Tear the Dwarf* leaves -< NORTH >-.
+*Elmir Man* OPENS  -[ cloakroom ]-     _CLOSE_BLOCK_
+No way! You are fighting for your life!
+Qweeg seems to have recovered his senses.
+
+* W C HP:Hurt Mana:Warm *Ellara Half-Elf*:Healthy>You're already fighting!
+
+* W C HP:Hurt Mana:Warm *Ellara Half-Elf*:Healthy>
+The -[ cloakroom ]- CLOSES from outside! _BREAK_
+*Ellara Half-Elf* utters the words 'qahijf gsfal'
+*Ellara Half-Elf* sprays Qweeg with painfully bright, concentrated rays of light.
+Qweeg leaves east.
+
+* W C HP:Hurt Mana:Warm *Ellara Half-Elf*:Healthy>
+*Enki Elf* has arrived from the east.
+
+* W C HP:Hurt Mana:Warm *Ellara Half-Elf*:Healthy>
+*Tear the Dwarf* has arrived from the north.
+Soother has arrived from the east.
+
+* W C HP:Hurt Mana:Warm *Ellara Half-Elf*:Healthy>
+- flees -
+*Enki Elf* leaves -< WEST >-.
+Horus has arrived from the west.
+- flees -
+*Ellara Half-Elf* leaves -< WEST >-.
+
+* W C HP:Hurt Mana:Warm>
+*Tear the Dwarf* pounds Praz' right foot extremely hard and tickles it.
+
+* W C HP:Hurt Mana:Warm>m ekni
+TARGET=" ekni "
+wk
+
+The cloakroom is opened from the other side.
+*Dorfl the Dwarf* strongly pounds Soother's right arm and shatters it.
+
+* W C HP:Hurt Mana:Warm>The -[ cloakroom ]- CLOSES from outside! _BREAK_
+*Ellara Half-Elf* has arrived from the west.
+*Francis the Dwarf* has arrived from the north.
+A pony has arrived from the north.
+Corridor
+*Enki Elf* is standing here.
+Exits: East South.
+
+o W C HP:Hurt Mana:Warm>They aren't here.
+
+o W C HP:Hurt Mana:Warm>k
+They aren't here.
+
+o W C HP:Hurt Mana:Warm>1
+TARGET=" *elf* "
++++++++ - E L F - +++++++
+
+k
+You pound *Enki Elf*'s body very hard.
+Your victim is shocked by your hit!
+
+o W C HP:Hurt Mana:Warm *Enki Elf*:Fine>
+- flees -
+*Enki Elf* leaves -< SOUTH >-.
+
+o W C HP:Hurt Mana:Warm>sk
+sk
+Corridor
+*Enki Elf* is standing here.
+Exits: North South.
+
+o W C HP:Hurt Mana:Warm>spq
+- SPELL-CASTING set to: QUICK -
+You approach *Enki Elf*, trying to pound her.
+
+o W C HP:Hurt Mana:Warm *Enki Elf*:Fine>No way! You are fighting for your life!
+
+o W C HP:Hurt Mana:Warm *Enki Elf*:Fine>You're already fighting!
+- flees -
+*Enki Elf* leaves -< SOUTH >-.
+o W C HP:Hurt Mana:Warm>cha spel q
+Ok.
+
+o W C HP:Hurt Mana:Warm>n
+Corridor
+*Ellara Half-Elf* is standing here.
+Exits: East South.
+
+* W C HP:Hurt Mana:Warm>hit $mees
+s
+You approach *Ellara Half-Elf*, trying to pound her.
+
+* W C HP:Hurt Mana:Warm *Ellara Half-Elf*:Healthy>hit $mees
+No way! You are fighting for your life!
+
+* W C HP:Hurt Mana:Warm *Ellara Half-Elf*:Healthy>You're already fighting!
+
+* W C HP:Hurt Mana:Warm *Ellara Half-Elf*:Healthy>
+- flees -
+
+* W C HP:Hurt Mana:Warm *Ellara Half-Elf*:Healthy>1
+TARGET=" *elf* "
++++++++ - E L F - +++++++
+
+f
+
+You lightly pound *Ellara Half-Elf*'s left arm and tickle it.
+
+* W C HP:Hurt Mana:Warm *Ellara Half-Elf*:Fine>w
+- flees -
+*Ellara Half-Elf* leaves -< EAST >-.
+
+o W C HP:Hurt Mana:Warm>s
+Alas, you cannot go that way...
+
+o W C HP:Hurt Mana:Warm>Corridor
+Exits: North South.
+
+o W C HP:Hurt Mana:Warm>s
+hit $mees
+End of Corridor
+*Enki Elf* is standing here.
+Exits: North East.
+
+o W C HP:Hurt Mana:Warm>*Enki Elf* leaves -< EAST >-.
+They aren't here.
+
+o W C HP:Hurt Mana:Warm>e
+o W C HP:Hurt Mana:Warm>e
+hit $mees
+e
+Banqueting Hall
+A dirty ruffian draped in rags advances towards you.
+*Enki Elf* is standing here.
+Exits: East [South] West.
+You suddenly notice a ruffian.
+
+o W C HP:Hurt Mana:Warm>hit $mees
+You approach *Enki Elf*, trying to pound her.
+
+o W C HP:Hurt Mana:Warm *Enki Elf*:Fine>No way! You are fighting for your life!
+
+o W C HP:Hurt Mana:Warm *Enki Elf*:Fine>You're already fighting!
+A ruffian leaves east.
+A young ruffian leaves east.
+- flees -
+*Enki Elf* leaves -< EAST >-.
+
+o W C HP:Hurt Mana:Warm>agre
+*Enki Elf* has arrived from the east.
+Ok.
+
+o W C HP:Hurt Mana:Warm>ost
+open stonedoor
+Ok.
+
+o W C HP:Hurt Mana:Warm>k
+You barely pound *Enki Elf*'s body and tickle it.
+
+o W C HP:Hurt Mana:Warm *Enki Elf*:Fine>
+- flees -
+*Enki Elf* leaves -< WEST >-.
+
+o W C HP:Hurt Mana:Warm>wk
+
+*Enki Elf* has arrived from the west.
+
+o W C HP:Hurt Mana:Warm>nk
+End of Corridor
+Exits: North East.
+
+o W C HP:Hurt Mana:Warm>They aren't here.
+
+o W C HP:Hurt Mana:Warm>Corridor
+Exits: North South.
+
+o W C HP:Hurt Mana:Warm>sk
+They aren't here.
+They aren't here.
+
+o W C HP:Hurt Mana:Warm>ek
+End of Corridor
+Exits: North East.
+
+o W C HP:Hurt Mana:Warm>They aren't here.
+
+o W C HP:Hurt Mana:Warm>ek
+Banqueting Hall
+*Enki Elf* is standing here.
+Exits: East South West.
+
+o W C HP:Hurt Mana:Warm>You strongly pound *Enki Elf*'s right foot.
+
+o W C HP:Hurt Mana:Warm *Enki Elf*:Hurt>No way! You are fighting for your life!
+
+o W C HP:Hurt Mana:Warm *Enki Elf*:Hurt>You're already fighting!
+- flees -
+*Enki Elf* leaves -< WEST >-.
+
+o W C HP:Hurt Mana:Warm>agre
+Ok.
+
+o W C HP:Hurt Mana:Warm>=100
+cha wimpy 100
+Wimpy set to: 100
+
+o W C HP:Hurt Mana:Warm>wk
+End of Corridor
+Exits: North East.
+
+o W C HP:Hurt Mana:Warm>wk
+They aren't here.
+
+o W C HP:Hurt Mana:Warm>Alas, you cannot go that way...
+
+o W C HP:Hurt Mana:Warm>n
+n
+They aren't here.
+
+o W C HP:Hurt Mana:Warm>hit $mees
+Corridor
+Exits: North South.
+
+o W C HP:Hurt Mana:Warm>Corridor
+*Enki Elf* is standing here.
+Exits: East South.
+
+o W C HP:Hurt Mana:Warm>You approach *Enki Elf*, t
+o W C HP:Hurt Mana:Warm>You approach *Enki Elf*, trying to pound her.
+*Enki Elf* lightly pierces your body and tickles it.
+
+o W C HP:Hurt Mana:Warm *Enki Elf*:Hurt>
+- flees -
+*Enki Elf* leaves -< EAST >-.
+
+o W C HP:Hurt Mana:Warm>m ekni
+TARGET=" ekni "
+m enki
+TARGET=" enki "
+e
+k
+Entrance to the Castle Keep
+A vial filled with a reddish liquid lies in the dust.
+A hungry warg stands here, sniffing around for flesh.
+*a Dwarf* is standing here.
+*Ellara Half-Elf* is standing here.
+*Dorfl the Dwarf* is standing here.
+Exits: *North* East South West.
+*Elmir Man* has arrived from the south.
+*Francis the Dwarf* has arrived from the south.
+A pony has arrived from the south.
+*Tear the Dwarf* has arrived from the south.
+*Enki Elf* has arrived from the south.
+*Ellara Half-Elf* carefully examines the ground around her, looking for tracks...
+
+* W C HP:Hurt Mana:Warm>You strongly pound *Enki Elf*'s left foot.
+
+* W C HP:Hurt Mana:Warm *Enki Elf*:Hurt>
+*Dorfl the Dwarf* pounds your right leg extremely hard and shatters it.
+*Elmir Man* leaves -< NORTH >-.
+*Francis the Dwarf* leaves -< NORTH >-.
+A pony leaves north.
+*Tear the Dwarf* leaves -< NORTH >-.
+
+* W C HP:Wounded Mana:Warm *Enki Elf*:Hurt>f
+
+- flees -
+*Enki Elf* leaves -< EAST >-.
+
+* W C HP:Wounded Mana:Warm *Dorfl the Dwarf*:Fine>You will attempt to flee!
+
+* W C HP:Wounded Mana:Warm *Dorfl the Dwarf*:Fine>
+*Elmir Man* has arrived from the north.
+*Francis the Dwarf* has arrived from the north.
+A pony has arrived from the north.
+*Tear the Dwarf* has arrived from the north.
+You flee head over heels.
+You blink and feel weaker under the cruel light of the su
+You blink and feel weaker under the cruel light of the sun.
+The Castle Square
+A crumbling fountain is in the middle of the place.
+A sturdy trained horse is standing here.
+A stocky mountain mule is here, waiting to serve.
+A large warhorse is standing here, clad in mail.
+Exits: *North* South.
+
+* W C HP:Wounded Mana:Warm>w
+n
+Alas, you cannot go that way...
+
+* W C HP:Wounded Mana:Warm>n
+
+*a Hobbit* has arrived from the north.
+*Elmir Man* has arrived from the south.
+*Francis the Dwarf* has arrived from the south.
+A pony has arrived from the south.
+*Tear the Dwarf* has arrived from the south.
+
+* W C HP:Wounded Mana:Warm>Castle Yard
+The corpse of *an Orc* is lying here.
+Exits: *North* East *South* *Up*.
+
+* W C HP:Wounded Mana:Warm>*Elmir Man* has arrived from the south.
+*a Hobbit* has arrived from the south.
+*Francis the Dwarf* has arrived from the south.
+A pony has arrived from the south.
+*Tear the Dwarf* has arrived from the south.
+
+n
+*Francis the Dwarf* pounds your head extremely hard.
+*Elmir Man* pounds your left leg extremely hard and shatters it.
+You feel a strong ache there!
+No way! You are fighting for your life!
+You pound *Francis the Dwarf*'s left leg extremely hard.
+
+* W C HP:Bad Mana:Warm *Francis the Dwarf*:Fine>n
+No way! You are fighting for your life!
+
+* W C HP:Bad Mana:Warm *Francis the Dwarf*:Fine>n
+No way! You are fighting for your life!
+###### !!! PANIK !!! ######################
+
+* W C HP:Bad Mana:Warm *Francis the Dwarf*:Fine>f
+No way! You are fighting for your life!
+
+* W C HP:Bad Mana:Warm *Francis the Dwarf*:Fine>n
+n
+You are already attempting to flee!
+You are already attempting to flee!
+
+* W C HP:Bad Mana:Warm *Francis the Dwarf*:Fine>n
+No way! You are fighting for your life!
+
+* W C HP:Bad Mana:Warm *Francis the Dwarf*:Fine>No way! You are fighting for your life!
+*Tear the Dwarf* joins *Elmir Man*'s fight.
+You flee head over heels.
+The Castle Square
+A crumbling fountain is in the middle of the place.
+A sturdy trained horse is standing here.
+A stocky mountain mule is here, waiting to serve.
+A large warhorse is standing here, clad in mail.
+Exits: *North* South.
+
+* W C HP:Bad Mana:Warm>wimp
+Castle Yard
+The corpse of *an Orc* is lying here.
+*Elmir Man* is standing here.
+*a Hobbit* is standing here.
+*Francis the Dwarf* is standing here.
+A domesticated pony, beast of burden to many, stands here.
+*Tear the Dwarf* is standing here.
+Exits: *North* East *South* *Up*.
+
+* W C HP:Bad Mana:Warm>Ok.
+
+* W C HP:Bad Mana:Warm>n
+*Elmir Man* quickly approaches, trying to pound you.
+*Francis the Dwarf* quickly approaches, trying to pound you.
+You stop using an ornate, steel-shafted warhammer.
+You confidently wield a mace, looking very evil-minded.
+*Digby the Dwarf* has arrived from the north.
+
+* W C HP:Bad Mana:Warm *Elmir Man*:Fine>n
+You don't have a shield.
+
+* W C HP:Bad Mana:Warm *Elmir Man*:Fine>f
+No way! You are fighting for your life!
+You flee head over heels.
+The Castle Square
+A crumbling fountain is in the middle of the place.
+A sturdy trained horse is standing here.
+A stocky mountain mule is here, waiting to serve.
+A large warhorse is standing here, clad in mail.
+*a Dwarf* is standing here.
+Exits: *North* South.
+
+* W C HP:Bad Mana:Warm>n
+Castle Yard
+Castle Yard
+The corpse of *an Orc* is lying here.
+*Elmir Man* is standing here.
+*a Hobbit* is standing here.
+*Francis the Dwarf* is standing here.
+A domesticated pony, beast of burden to many, stands here.
+*Tear the Dwarf* is standing here.
+*Digby the Dwarf* is standing here.
+Exits: *North* East *South* *Up*.
+
+* W C HP:Bad Mana:Warm>n
+n
+n
+You flee head over heels.
+You feel so much better hiding in the shadows!
+Old Stone Building
+Exits: *West*.
+
+o W C HP:Bad Mana:Warm>Alas, you cannot go that way...
+Saving Diamonium.
+
+o W C HP:Bad Mana:Warm>Alas, you cannot go that way...
+
+o W C HP:Bad Mana:Warm>Alas, you cannot go that way...
+
+o W C HP:Bad Mana:Warm>Alas, you cannot go that way...
+
+o W C HP:Bad Mana:Warm>w
+n
+n
+You blink and feel weaker under the cruel light of the sun.
+Castle Yard
+The corpse of *an Orc* is lying here.
+*Digby the Dwarf* is standing here.
+*Elmir Man* is standing here.
+*a Hobbit* is standing here.
+*Francis the Dwarf* is standing here.
+A domesticated pony, beast of burden to many, stands here.
+*Tear the Dwarf* is standing here.
+Exits: *North* East *South* *Up*.
+
+* W C HP:Bad Mana:Warm>n
+*Elmir Man* leaves -< EAST >-.
+*a Hobbit* leaves -< EAST >-.
+*Francis the Dwarf* leaves -< EAST >-.
+A pony leaves east.
+*Tear the Dwarf* leaves -< EAST >-.
+
+*Digby the Dwarf* leaves -< NORTH >-.
+Old Castle Gate
+A strip of leather with a buckle is lying here.
+A large arrow lies on the ground.
+A sturdy pack horse is standing here.
+*Digby the Dwarf* is standing here.
+Exits: *North* *South*.
+
+* W C HP:Bad Mana:Warm>n
+n
+*Digby the Dwarf* crushes your right arm very hard and shatters it.
+You wish that your wounds would stop BLEEDING so much!
+No way! You are fighting for your life!
+
+* W C HP:Bad Mana:Warm *Digby the Dwarf*:Healthy>*Elmir Man* has arrived from the south.
+*a Hobbit* has arrived from the south.
+*Francis the Dwarf* has arrived from the south.
+A pony has arrived from the south.
+*Tear the Dwarf* has arrived from the south.
+No way! You are fighting for your life!
+
+* W C HP:Bad Mana:Warm *Digby the Dwarf*:Healthy>f
+No way! You are fighting for your life!
+*Elmir Man* pounds your body extremely hard and shatters it.
+You wish that your wounds would stop BLEEDING so much!
+###### !!! PANIK !!! ######################
+
+* W C HP:Bad Mana:Warm *Digby the Dwarf*:Healthy>n
+No way! You are fighting for your life!
+
+* W C HP:Bad Mana:Warm *Digby the Dwarf*:Healthy>n
+You are already attempting to flee!
+*Ellara Half-Elf* has arrived from the south.
+*Dorfl the Dwarf* has arrived from the south.
+
+* W C HP:Bad Mana:Warm *Digby the Dwarf*:Healthy>No way! You are fighting for your life!
+
+* W C HP:Bad Mana:Warm *Digby the Dwarf*:Healthy>*Francis the Dwarf* pounds your body extremely hard and shatters it.
+You feel a strong ache there!
+You are incapacitated and will slowly die, if not aided.
+You are in a pretty bad shape, unable to do anything!
+
+* W C HP:Dying Mana:Warm *Digby the Dwarf*:Healthy>
+You feel a strong ache there!
+You lost some renown in this battle!
+
+You are dead! Sorry...
+
+
+* W C HP:Awful Mana:Warm>

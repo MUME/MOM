@@ -1,0 +1,8 @@
+Line 31: Class MSWinsockLib.Winsock of control tcpPlayer was not a loaded control class.
+Line 38: Class MSWinsockLib.Winsock of control tcpMUD was not a loaded control class.
+Line 34: The property name _ExtentX in tcpPlayer is invalid.
+Line 35: The property name _ExtentY in tcpPlayer is invalid.
+Line 36: The property name _Version in tcpPlayer is invalid.
+Line 41: The property name _ExtentX in tcpMUD is invalid.
+Line 42: The property name _ExtentY in tcpMUD is invalid.
+Line 43: The property name _Version in tcpMUD is invalid.

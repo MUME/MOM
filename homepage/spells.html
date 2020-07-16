@@ -1,0 +1,976 @@
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript">
+<!--
+function HideShow(a,b) {
+Offencive.style.visibility='hidden';
+Healing.style.visibility='hidden';
+Misc.style.visibility='hidden';
+Protective.style.visibility='hidden';
+Blindness.style.visibility='hidden';
+Curse.style.visibility='hidden';
+BlackBreath.style.visibility='hidden';
+Hold.style.visibility='hidden';
+Fear.style.visibility='hidden';
+BurningHands.style.visibility='hidden';
+ChillTouch.style.visibility='hidden';
+ShockingGrasp.style.visibility='hidden';
+Earthquake.style.visibility='hidden';
+Lightningbolt.style.visibility='hidden';
+Harm.style.visibility='hidden';
+Armour.style.visibility='hidden';
+Shield.style.visibility='hidden';
+Strength.style.visibility='hidden';
+Shroud.style.visibility='hidden';
+CureLight.style.visibility='hidden';
+CureSerious.style.visibility='hidden';
+CureBlindness.style.visibility='hidden';
+RemoveCurse.style.visibility='hidden';
+RemovePoison.style.visibility='hidden';
+CureCritical.style.visibility='hidden';
+BreakDoor.style.visibility='hidden';
+ControlWeather.style.visibility='hidden';
+WordofRecall.style.visibility='hidden';
+a.style.visibility='visible';
+b.style.visibility='visible';
+
+}
+//-->
+</script>
+</head>
+
+<body bgcolor="#000000" text="#333333" link="#FF6633" vlink="#3399FF" alink="#990033" onLoad="">
+<table border="0" cellspacing="0" cellpadding="0" height="394" width="554">
+  <tr> 
+    <td width="51" height="10"><b></b></td>
+    <td width="63" height="10" nowrap> 
+      <p><b></b></p>
+    </td>
+    <td width="375" height="10" nowrap><img src="IMAGES/healing.jpg" width="73" height="21" onMouseDown="HideShow(Healing,CureBlindness)">
+      <img src="IMAGES/protective.jpg" width="73" height="21" onMouseDown="HideShow(Protective, Armour)"></td>
+    <td width="217" height="10"><img src="IMAGES/offencive.jpg" width="73" height="21" onMouseDown="HideShow(Offencive, BurningHands)">
+      <img src="IMAGES/misc.jpg" width="73" height="21" onMouseDown="HideShow(Misc,BreakDoor)"></td>
+  </tr>
+  <BR>
+  <tr> 
+    <td width="73" height="403" nowrap><b></b></td>
+    <td height="403" colspan="3" nowrap><b><img src="IMAGES/book.jpg" width="649" height="419"></b></td>
+  </tr>
+  <tr> 
+    <td width="51"><b></b></td>
+    <td colspan="3" height="10" nowrap>
+      <div align="center"><b><font color="#666666">If You are unable to see this 
+        page, then I'm Sorry, but you need a newer Browser e.g. IE5!<br>
+        Please send me some curious descs of other spells.</font></b></div>
+    </td>
+  </tr>
+</table>
+<div id="Offencive" style="position:absolute; left:11px; top:74px; width:76px; height:253px; z-index:1; visibility: hidden; overflow: visible"> 
+  <p><img src="IMAGES/burn.jpg" width="73" height="41" onMouseDown="HideShow(Offencive,BurningHands)">
+<img src="IMAGES/chill.jpg" width="73" height="41" onMouseDown="HideShow(Offencive,ChillTouch)">
+<img src="IMAGES/quake.jpg" width="73" height="21" onMouseDown="HideShow(Offencive,Earthquake)">
+<img src="IMAGES/harm.jpg" width="73" height="21" onMouseDown="HideShow(Offencive,Harm)">
+<img src="IMAGES/lightning.jpg" width="73" height="41" onMouseDown="HideShow(Offencive,Lightningbolt)">
+<img src="IMAGES/shock.jpg" width="73" height="41" onMouseDown="HideShow(Offencive,ShockingGrasp)">
+<img src="IMAGES/blackbreath.jpg" width="73" height="41" onMouseDown="HideShow(Offencive,BlackBreath)">
+<img src="IMAGES/blindness.jpg" width="73" height="21" onMouseDown="HideShow(Offencive,Blindness)">
+<img src="IMAGES/curse.jpg" width="73" height="21" onMouseDown="HideShow(Offencive,Curse)">
+<img src="IMAGES/hold.jpg" width="73" height="21" onMouseDown="HideShow(Offencive,Hold)">
+<img src="IMAGES/fear.jpg" width="73" height="21" onMouseDown="HideShow(Offencive,Fear)">
+</div>
+<div id="Healing" style="position:absolute; left:11px; top:74px; width:76px; height:253px; z-index:1; visibility: hidden; overflow: visible"> 
+  <p><img src="IMAGES/cureblind.jpg" width="73" height="21" onMouseDown="HideShow(Healing,CureBlindness)">
+    <img src="IMAGES/curelight.jpg" width="73" height="21" onMouseDown="HideShow(Healing,CureLight)">
+    <img src="IMAGES/cureseri.jpg" width="73" height="41" onMouseDown="HideShow(Healing,CureSerious)">
+    <img src="IMAGES/curecrit.jpg" width="73" height="41" onMouseDown="HideShow(Healing,CureCritical)">
+    <img src="IMAGES/removecurse.jpg" width="73" height="41" onMouseDown="HideShow(Healing,RemoveCurse)">
+    <img src="IMAGES/removepoison.jpg" width="73" height="41" onMouseDown="HideShow(Healing,RemovePoison)">
+</div>
+<div id="Misc" style="position:absolute; left:11px; top:74px; width:76px; height:253px; z-index:1; visibility: hidden; overflow: visible"> 
+  <p><img src="IMAGES/break.jpg" width="73" height="41" onMouseDown="HideShow(Misc,BreakDoor)">
+    <img src="IMAGES/control.jpg" width="73" height="41" onMouseDown="HideShow(Misc,ControlWeather)">
+    <img src="IMAGES/word.jpg" width="73" height="41" onMouseDown="HideShow(Misc,WordofRecall)">
+</div>
+<div id="Protective" style="position:absolute; left:11px; top:74px; width:76px; height:370px; z-index:1; visibility: hidden; overflow: visible"> 
+  <p><img src="IMAGES/armour.jpg" width="73" height="21" onMouseDown="HideShow(Protective,Armour)">
+    <img src="IMAGES/shield.jpg" width="73" height="21" onMouseDown="HideShow(Protective,Shield)">
+    <img src="IMAGES/invis.jpg" width="73" height="21" onMouseDown="HideShow(Protective,Shroud)">
+    <img src="IMAGES/strength.jpg" width="73" height="21" onMouseDown="HideShow(Protective,Strength)">
+</div>
+<div id="Blindness" style="position:absolute; left:145px; top:79px; width:516px; height:365px; z-index:2; overflow: visible; visibility: hidden"> 
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" height="365">
+    <tr align="left" valign="top"> 
+      <td width="240" nowrap> 
+        <div align="left"> 
+          <p><font color="#000000" size="2"><b>Blindness</b><br>
+            <br>
+            Syntax : cast 'blindness' <br>
+            Type : Offensive, mental<br>
+            Accumulative: No<br>
+            Duration : Yes<br>
+            Casting : Long<br>
+            Position : Standing<br>
+            Level : Level 6<br>
+            Class : Cleric<br>
+            Min. Mana : 10<br>
+            Pracs: 16</font></p>
+          <p><font size="2" color="#000000">Teacher: East of Last Bridge the evil 
+            priest. </font></p>
+        </div>
+      </td>
+      <td width="50" nowrap> </td>
+      <td width="235" nowrap> 
+        <p><font color="#000000" size="2">This is one of the most useful spells 
+          on Arda! So every shaman should have it!</font></p>
+        <p><font size="2" color="#000000">Practice when possible and max it!<br>
+          <br>
+          </font><font size="2" color="#000000">The spell power increases with 
+          the levels, so dont be disappointed when you cant blind no more than 
+          frogs :) in the beginning.</font></p>
+        <p><font size="2" color="#000000">Use quick blinds when some targets are 
+          too aggressive. They take more mana, but most of the times its worth 
+          it</font><font size="2" color="#000000">.</font></p>
+        </td>
+    </tr>
+  </table>
+</div>
+<div id="Curse" style="position:absolute; left:145px; top:79px; width:516px; height:365px; z-index:2; overflow: visible; visibility: hidden"> 
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" height="365">
+    <tr align="left" valign="top"> 
+      <td width="240" nowrap> 
+        <div align="left"> 
+          <p><font color="#000000" size="2"><b>Curse</b><br>
+            <br>
+            Syntax : cast 'curse'<br>
+            Type : Offensive, mental<br>
+            Accumulative: No<br>
+            Duration : Yes (permanent on objects) Casting : Very long<br>
+            Position : Standing<br>
+            Level : Level 10<br>
+            </font><font color="#000000" size="2"> Class : Cleric Min. Mana : 
+            20<br>
+            Pracs: 16</font></p>
+          <p><font size="2" color="#000000">Teacher: East of Last Bridge the evil 
+            priest </font></p>
+          </div>
+      </td>
+      <td width="50" nowrap> </td>
+      <td width="235" nowrap> 
+        <p><font color="#000000" size="2">This spell curses its victims or even 
+          items by the will of Morgoth itself!</font><font color="#000000" size="2"> 
+          It makes your target more clumsy and also the weapons get more heavier 
+          and useless. When this magic is casted on the victim, his visions of 
+          land power lines comes hazed, so he cannot recall to safety anymore.<br>
+          <br>
+          </font><font color="#000000" size="2">Practice it once for cursing the 
+          curious artifacts, what u find on Arda what you can corrupt for your 
+          own use later on! </font></p>
+        </td>
+    </tr>
+  </table>
+</div>
+<div id="BlackBreath" style="position:absolute; left:145px; top:79px; width:516px; height:365px; z-index:2; overflow: visible; visibility: hidden"> 
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" height="365">
+    <tr align="left" valign="top"> 
+      <td width="240" nowrap> 
+        <div align="left"><font color="#000000" size="2"><b>Black Breath</b><br>
+          <br>
+          Syntax : cast 'black breath'<br>
+          Type : Offensive, special<br>
+          Accumulative: N/A <br>
+          Duration : No <br>
+          Casting : Very long <br>
+          Position : Standing <br>
+          Level : Level 16 <br>
+          Class : Cleric <br>
+          Min. Mana : 25<br>
+          Pracs: Alot</font></div>
+      </td>
+      <td width="50" nowrap> </td>
+      <td width="235" nowrap> 
+        <p><font size="2" color="#000000">If you are going to practice the dreadful 
+          spell of Black Breath, then you should find a fellow shaman to learn 
+          the ancient lore with you and also find a warrior to guide you around!<br>
+          Then when you have already hunted the whitescum and know that you have 
+          got tired, then know that also your victim must be tored, so use quickbreaths 
+          to finish him off. That will drain him the last moves and mana.</font></p>
+        <p><font size="2" color="#000000">I don't recommend practising this spell 
+          at all, unless you are in a lab or have other wise shamans who know 
+          this lore.</font></p>
+        </td>
+    </tr>
+  </table>
+</div>
+<div id="Hold" style="position:absolute; left:145px; top:79px; width:517px; height:365px; z-index:2; overflow: visible; visibility: hidden"> 
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" height="365">
+    <tr align="left" valign="top"> 
+      <td width="240" nowrap> 
+        <div align="left"><font color="#000000" size="2"><b>Hold</b><br>
+          <br>
+          Syntax : cast 'hold' <victim> <br>
+          Type : Offensive, mental <br>
+          Accumulative: No <br>
+          Duration : Yes <br>
+          Casting : Extremely long <br>
+          Position : Standing <br>
+          Level : Level 17 <br>
+          Class : Cleric <br>
+          Min. Mana : 25<br>
+          Pracs: Alot<br>
+          <br>
+          Teacher: East of Last Bridge the evil priest </font></div>
+      </td>
+      <td width="50" nowrap> </td>
+      <td width="235" nowrap> 
+        <p><font color="#000000" size="2">Oh man did this spell rock in MUME6 
+          or what. Every shaman walking on Arda, who knew the lore of Hold, was 
+          to be frightened.. Because the power unleashed with the paralyzing shock, 
+          came fatal even the to fastest, cleverest and wimpiest players on Middle 
+          Eearth.</font></p>
+        <p><font size="2" color="#000000">Now in MUME7 the spell is a JOKE.</font></p>
+        <p><font size="2" color="#000000">It paralyzes the victim, after what 
+          you can cause him some minor damage, after what he will still be shocked, 
+          what had happend.</font></p>
+        </td>
+    </tr>
+  </table>
+</div>
+<div id="Fear" style="position:absolute; left:145px; top:79px; width:516px; height:365px; z-index:2; overflow: visible; visibility: hidden"> 
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" height="365">
+    <tr align="left" valign="top"> 
+      <td width="240" nowrap> 
+        <div align="left"> 
+          <p><font color="#000000" size="2"><b>Fear<br>
+            <br>
+            </b></font><font color="#000000" size="2">Syntax : cast 'fear' <br>
+            Type : Offensive, mental <br>
+            Accumulative: N/A <br>
+            Duration : No <br>
+            Casting : Very long <br>
+            Position : Standing, fighting <br>
+            Level : Level 15 <br>
+            Class : Cleric <br>
+            Min. Mana : 20<br>
+            Pracs: 16 or so<br>
+            <br>
+            Teacher: East of Last Bridge the evil priest </font></p>
+          </div>
+      </td>
+      <td width="50" nowrap> </td>
+      <td width="235" nowrap> 
+        <p><font color="#000000" size="2">This spell is always handy, when exploring 
+          the strange land. It releases great amount of mental energy, forcing 
+          the weaker beings to flee in utter fear or even cause a hart attack 
+          to the mightiest of whiteskins.</font></p>
+        <p><font size="2" color="#000000">Use this spell wisely.<br>
+          When you notice a huge pack of tracking animals, or a fearsome whitepack, 
+          then walk away and start to concentrate on the fearsome powers, so that 
+          when the hunters walk in range, you can unleash the mental trash...</font></p>
+      </td>
+    </tr>
+  </table>
+</div>
+<div id="BurningHands" style="position:absolute; left:145px; top:79px; width:516px; height:365px; z-index:2; overflow: visible; visibility: hidden"> 
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" height="365">
+    <tr align="left" valign="top"> 
+      <td width="240" nowrap> 
+        <div align="left"> 
+          <p><font color="#000000" size="2"><b>Burning Hands<br>
+            <br>
+            </b>Syntax : cast 'burning hands' [victim] <br>
+            Type : Offensive, physical<br>
+            Accumulative: N/A <br>
+            Duration : No <br>
+            Casting : Short <br>
+            Position : Standing, fighting <br>
+            Level : Level 5 <br>
+            Class : Magic User <br>
+            Min. Mana : 7<br>
+            Pracs: 11<br>
+            <br>
+            Teacher: The black mage inside the Caves </font></p>
+        </div>
+      </td>
+      <td width="50" nowrap> </td>
+      <td width="235" nowrap> 
+        <p><font color="#000000" size="2">A fast and quite handy melee spell,<br>
+          where your hands start to burn and you try to cause a fire damage to 
+          your victim.</font></p>
+        <p><font size="2" color="#000000">When you are lower level or geting too 
+          tired from the focusing power of whiteskinss, use this fast spell to 
+          break their concentration or even some damage.</font></p>
+        <p><font size="2" color="#000000">The damage is not great, but when you 
+          have all the power elements, it's still a spell to even cause death 
+          to the enemy.</font></p>
+      </td>
+    </tr>
+  </table>
+</div>
+<div id="ChillTouch" style="position:absolute; left:145px; top:79px; width:516px; height:365px; z-index:2; overflow: visible; visibility: hidden"> 
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" height="365">
+    <tr align="left" valign="top"> 
+      <td width="240" nowrap> 
+        <div align="left"> 
+          <p><font color="#000000" size="2"><b>Chill Touch</b><br>
+            <br>
+            Syntax : cast 'chill touch' [victim]<br>
+            Type : Offensive, physical <br>
+            Accumulative: N/A <br>
+            Duration : Yes <br>
+            Casting : Short<br>
+            Position : Standing, fighting Level : Level 3<br>
+            Class : Magic User <br>
+            Min. Mana : 5<br>
+            Pracs: 10<br>
+            <br>
+            Teacher: The black mage inside the Caves </font></p>
+        </div>
+      </td>
+      <td width="50" nowrap> </td>
+      <td width="235" nowrap> 
+        <p><font color="#000000" size="2">This is even weaker spell, than the 
+          Burning Hands, but also causes victim to go in shock, after what he 
+          cant orientate so well and because of that, gets a little more clumsier.</font></p>
+        <p><font size="2" color="#000000">When you are lower level or geting too 
+          tired from the focusing power of whiteskinss, use this fast spell to 
+          break their concentration.</font></p>
+        </td>
+    </tr>
+  </table>
+</div>
+<div id="ShockingGrasp" style="position:absolute; left:145px; top:79px; width:516px; height:365px; z-index:2; overflow: visible; visibility: hidden"> 
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" height="365">
+    <tr align="left" valign="top"> 
+      <td width="240" nowrap> 
+        <div align="left"><font color="#000000" size="2"><b>Shocking Grasp</b><br>
+          <br>
+          Syntax : cast 'shocking grasp' [victim]<br>
+          Type : Offensive, physical<br>
+          Accumulative: N/A <br>
+          Duration : No <br>
+          Casting : Normal <br>
+          Position : Standing, fighting <br>
+          Level : Level 7 <br>
+          Class : Magic User <br>
+          Min. Mana : 9<br>
+          <br>
+          Teacher: The black mage inside the Caves<br>
+          </font></div>
+      </td>
+      <td width="50" nowrap> </td>
+      <td width="235" nowrap> 
+        <p><font color="#000000" size="2">This is stronger spell, than the Burning 
+          Hands and nothing more.<br>
+          <br>
+          I suggest that you don't learn this lore, because there are greater 
+          ones.</font></p>
+        <p><font size="2" color="#000000">When you are lower level or geting too 
+          tired from the focusing power of whiteskinss, you can also use this 
+          spell to break their concentration.</font></p>
+        </td>
+    </tr>
+  </table>
+</div>
+<div id="Earthquake" style="position:absolute; left:145px; top:79px; width:516px; height:365px; z-index:2; overflow: visible; visibility: hidden"> 
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" height="365">
+    <tr align="left" valign="top"> 
+      <td width="240" nowrap> 
+        <div align="left"> 
+          <p><font color="#000000" size="2"><b>Earthquake</b><br>
+            <br>
+            Syntax : cast 'earthquake' <br>
+            Type : Offensive, physical, area Accumulative: N/A <br>
+            Duration : No <br>
+            Casting : Long <br>
+            Position : Standing, fighting <br>
+            Level : Level 7 <br>
+            Class : Magic <br>
+            User Min. Mana : 15<br>
+            Pracs: 16</font><font color="#000000" size="2"><i><br>
+            </i><b><i><br>
+            </i></b>Teacher: The black mage inside the Caves</font></p>
+          </div>
+      </td>
+      <td width="50" nowrap> </td>
+      <td width="235" nowrap> 
+        <p><font color="#000000" size="2">This is a very dangerous spell indeed.<br>
+          I have used it very efficiently on aggressive and pitiful creatures. 
+          Only problem is that by making the earth go mad, all the victims will 
+          charge on you. So you'd better be in good health, or can go hunting 
+          to better realms.<br>
+          <br>
+          The damage this spell inflicts is quite great, compared the mana you 
+          need and the spell speed. The best is that no wonderer on Arda can deflect 
+          or save the quaking force of Earth.</font></p>
+        <p><font size="2" color="#000000">It is not so efficient with slaying 
+          the whitescum, because you will be in trouble after unleashing the spell 
+          and cannot concentrate enough to make a second attempt.</font></p>
+        </td>
+    </tr>
+  </table>
+</div>
+<div id="Lightningbolt" style="position:absolute; left:145px; top:79px; width:516px; height:365px; z-index:2; overflow: visible; visibility: hidden"> 
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" height="365">
+    <tr align="left" valign="top"> 
+      <td width="240" nowrap> 
+        <div align="left"> 
+          <p><font color="#000000" size="2"><b>Lightning Bolt</b><br>
+            <br>
+            Syntax : cast 'lightning bolt' [victim]<br>
+            Type : Offensive, physical <br>
+            Accumulative: N/A <br>
+            Duration : No <br>
+            Casting : Normal <br>
+            Position : Standing, fighting <br>
+            Level : Level 9<br>
+            </font><font color="#000000" size="2">Class : Magic User <br>
+            Min. Mana : 11<br>
+            Pracs: 16<br>
+            <br>
+            Teacher: The black mage inside the Caves </font></p>
+        </div>
+      </td>
+      <td width="50" nowrap> </td>
+      <td width="235" nowrap> 
+        <p><font color="#000000" size="2">This is the most used spell on Arda,<br>
+          both sides of the War know it's abilities and disadvantages.<br>
+          <br>
+          Practice the spell well and use it whenever </font><font color="#000000" size="2">you 
+          want lightning to strike thy opponent.</font></p>
+        <p><font size="2" color="#000000">Though be aware, an ancient lore goes, 
+          that in the realm of the Dragon, a powerful parchment is to be found, 
+          what can deflect any damage from lightning and even reverse its damage 
+          to the very source!</font></p>
+        </td>
+    </tr>
+  </table>
+</div>
+<div id="Harm" style="position:absolute; left:145px; top:79px; width:516px; height:365px; z-index:2; overflow: visible; visibility: hidden"> 
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" height="365">
+    <tr align="left" valign="top"> 
+      <td width="240" nowrap> 
+        <div align="left"> 
+          <p><font color="#000000" size="2"><b>Harm</b><br>
+            <br>
+            Syntax : cast 'harm' [victim] <br>
+            Type : Offensive, physical <br>
+            Accumulative: N/A<br>
+            Duration : No <br>
+            Casting : Very long<br>
+            </font><font color="#000000" size="2"> Position : Standing, fighting 
+            Level :<br>
+            Level 15 <br>
+            Class : Cleric <br>
+            Min. Mana : 25<br>
+            Pracs: 26<br>
+            <br>
+            Teacher: East of Last Bridge the evil priest </font></p>
+          </div>
+      </td>
+      <td width="50" nowrap> </td>
+      <td width="235" nowrap> 
+        <p><font color="#000000" size="2">This is the best spell for the true 
+          race on Arda. The mental damage of harm can be the last breath for the 
+          inconvenient disturber.</font></p>
+        <p><font size="2" color="#000000">The Power what is unleashed, will annihilite 
+          the very soul of the victim, thus causing him greatest harm possible.</font></p>
+        <p><font size="2" color="#000000">The maluse of the spell is its concentrating 
+          time and the huge cost of mental power. But when you already get your 
+          victim down, then be sure you call the great pain on your victim. With 
+          the power elements, it can cause damage unbelivable!</font></p>
+        <p><font size="2" color="#000000">Another backfire may be, that you will 
+          try to destroy the person, but when he is already insane, then the spell 
+          will have no effect and the final blow must be delivered by physical 
+          attack!!</font></p>
+        </td>
+    </tr>
+  </table>
+</div>
+<div id="Armour" style="position:absolute; left:145px; top:79px; width:516px; height:365px; z-index:2; overflow: visible; visibility: hidden"> 
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" height="365">
+    <tr align="left" valign="top"> 
+      <td width="240" nowrap> 
+        <div align="left"><font color="#000000" size="2"><b>Armour</b><br>
+          <br>
+          Syntax : cast 'armour' [self-only]<br>
+          Type : Defensive <br>
+          Accumulative: No<br>
+          Duration : Yes <br>
+          Casting : Long <br>
+          Position : Standing <br>
+          Level : Level 3 <br>
+          Class : Magic User <br>
+          Min. Mana : 30<br>
+          Pracs: 16<br>
+          <br>
+          Teacher: The black mage inside the Caves </font></div>
+      </td>
+      <td width="50" nowrap> </td>
+      <td width="235" nowrap> 
+        <p><font color="#000000" size="2">This spell is a must for every magical 
+          abilites creature on Arda. It will create a magical barrier around youy 
+          soul, so that all physical power will be saved on quite high scale.</font><font color="#000000" size="2"> 
+          Still this spell will not save from the mental harm, like Blinding and 
+          the spell of Harm.<br>
+          <br>
+          Be sure you refresh this spell every day or even more often, because 
+          after first concentrating, the power of Armour, will start diminish!</font></p>
+        <p><font size="2" color="#000000">This is the spell that eventually<br>
+          saved your life!</font></p>
+        </td>
+    </tr>
+  </table>
+</div>
+<div id="Shield" style="position:absolute; left:145px; top:79px; width:516px; height:365px; z-index:2; overflow: visible; visibility: hidden"> 
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" height="365">
+    <tr align="left" valign="top"> 
+      <td width="240" nowrap> 
+        <div align="left"> 
+          <p><font color="#000000" size="2"><b>Shield<br>
+            <br>
+            </b></font><font color="#000000" size="2">Syntax : cast 'shield' <br>
+            Type : Defensive <br>
+            Accumulative: No<br>
+            Duration : Yes<br>
+            Casting : Long <br>
+            Position : Standing <br>
+            Level : Level 13<br>
+            Class : Magic User <br>
+            Min. Mana : 30<br>
+            Pracs: 16<br>
+            <br>
+            Teacher: The black mage inside the Caves </font></p>
+          </div>
+      </td>
+      <td width="50" nowrap> </td>
+      <td width="235" nowrap> 
+        <p><font color="#000000" size="2">Spell with same importance as the Armour.<br>
+          <br>
+          This spell will make you existence more shadowy, thus making you seen 
+          to the enemy more blurred and his hits more disoriented!</font></p>
+        <p><font size="2" color="#000000">It raises considerable amount of your 
+          doding bonus. Learn it well!</font></p>
+        <p><font size="2" color="#000000">Be aware, that when you have practised 
+          the skill of dodging, the spell will be less efficient, because you 
+          already use the same lore by dodging naturally!</font></p>
+        <p><font color="#000000" size="2">Be sure you refresh this spell every 
+          day or even more often, because after first concentration it will start 
+          to diminish!</font></p>
+      </td>
+    </tr>
+  </table>
+</div>
+<div id="Strength" style="position:absolute; left:145px; top:79px; width:516px; height:365px; z-index:2; overflow: visible; visibility: hidden"> 
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" height="365">
+    <tr align="left" valign="top"> 
+      <td width="240" nowrap> 
+        <div align="left"> 
+          <p><font color="#000000" size="2"><b>Strength</b><br>
+            <br>
+            Syntax : cast 'strength' [recipient] <br>
+            Type : Miscellaneous<br>
+            Accumulative: No <br>
+            Duration : Yes <br>
+            Casting : Very long <br>
+            Position : Standing <br>
+            Level : Level 7<br>
+            Class : Cleric <br>
+            Min. Mana : 20<br>
+            Pracs: 12<br>
+            <br>
+            Teacher: Old Sage at the Great Redhorn Pass</font></p>
+        </div>
+      </td>
+      <td width="50" nowrap> </td>
+      <td width="235" nowrap> 
+        <p><font color="#000000" size="2">This spell will make your blood flow 
+          more easily. Thus affecting your body endurance and overall strength.<br>
+          Your body will reach its harmony with the very existence, thus making 
+          you physically stronger.<br>
+          <br>
+          I suggest that u keep the harmony flowing all the time, so refresh the 
+          spell every day.<br>
+          <br>
+          Use atleast five practices on this spell, because otherwise you will 
+          not gain the full power and also the better you know it the longer it 
+          will last.</font></p>
+        <p><font size="2" color="#000000">Also dont forget to grant this harmony 
+          to your fellow groupmembers and friends!</font></p>
+        </td>
+    </tr>
+  </table>
+</div>
+<div id="Shroud" style="position:absolute; left:145px; top:79px; width:516px; height:365px; z-index:2; overflow: visible; visibility: hidden"> 
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" height="365">
+    <tr align="left" valign="top"> 
+      <td width="240" nowrap> 
+        <div align="left"> 
+          <p><font color="#000000" size="2"><b>Shroud<br>
+            <br>
+            </b>Syntax : cast 'shroud' [recipient]Type : Miscellaneous <br>
+            Accumulative: No <br>
+            Duration : Yes<br>
+            Casting : Very long <br>
+            Position : Standing <br>
+            Level : Level 4<br>
+            Class : Magic User <br>
+            Min. Mana : 5<br>
+            Pracs: 5<br>
+            <b><br>
+            </b>Teacher: The black mage inside the Caves </font></p>
+        </div>
+      </td>
+      <td width="50" nowrap> </td>
+      <td width="235" nowrap> 
+        <p><font color="#000000" size="2">This is a useful spell, if you love 
+          to travel and hate geting interrupted by stupid animals, call the power 
+          of air to your aid.<br>
+          <br>
+          Use this spell when you travel and even when you go out hunting! Even 
+          when the other person can see you, the spell makes you look more blurred, 
+          thus making the opponent hit you less efficiently.<br>
+          <br>
+          Dont forget, that you will not be hidden from any wise creature on Arda.<br>
+          And trolls, the creation from earth itself, will always see you!</font></p>
+        </td>
+    </tr>
+  </table>
+</div>
+<div id="CureLight" style="position:absolute; left:145px; top:79px; width:516px; height:365px; z-index:2; overflow: visible; visibility: hidden"> 
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" height="365">
+    <tr align="left" valign="top"> 
+      <td width="240" nowrap> 
+        <div align="left"> 
+          <p><font color="#000000" size="2"><b>Cure Light</b><br>
+            <br>
+            Syntax : cast 'cure light' [victim] <br>
+            Type : Healing <br>
+            Accumulative: N/A <br>
+            Duration : No <br>
+            Casting : Normal <br>
+            Position : Standing, fighting<br>
+            Level : Level 1<br>
+            Class : Cleric <br>
+            Min. Mana : 10<br>
+            Pracs: some 10<br>
+            <br>
+            Teacher:Old Sage at the Great Redhorn Pass </font></p>
+          </div>
+      </td>
+      <td width="50" nowrap> </td>
+      <td width="235" nowrap> 
+        <p><font color="#000000" size="2">This spell will use the power of nature 
+          to heal your physical wounds.<br>
+          It's a low level spell, so it wont help you lot, but still enough to 
+          save your silly arse here and then. <br>
+          <br>
+          I suggest most of the classes to practice it. Because whenever you feel 
+          mentally fresh, you could use the power of elements to grant you health.</font></p>
+        </td>
+    </tr>
+  </table>
+</div>
+<div id="CureSerious" style="position:absolute; left:145px; top:79px; width:516px; height:365px; z-index:2; overflow: visible; visibility: hidden"> 
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" height="365">
+    <tr align="left" valign="top"> 
+      <td width="240" nowrap> 
+        <div align="left"> 
+          <p><font color="#000000" size="2"><b>Cure Serious</b><br>
+            <br>
+            Syntax : cast 'cure serious' [victim]<br>
+            Type : Healing <br>
+            Accumulative: N/A <br>
+            Duration : No <br>
+            Casting : Long <br>
+            Position : Standing, fighting <br>
+            Level : Level 5<br>
+            Class : Cleric <br>
+            Min. Mana : 15<br>
+            Pracs: 16</font><font color="#000000" size="2"><br>
+            <b><br>
+            </b>Teacher: East of Last Bridge the evil priest </font></p>
+          </div>
+      </td>
+      <td width="50" nowrap> </td>
+      <td width="235" nowrap> 
+        <p><font color="#000000" size="2">This spell will use the power of nature 
+          to heal your physical wounds.<br>
+          It is a medium level spell and will aid you quite much. The ability 
+          to heal, depends on the skill of the learned lore!<br>
+          <br>
+          Every shaman must learn this spell, if he attends to stay alive. Also 
+          helping his fellow Orcs in the War against the dying race of weak men 
+          and other silly creatures.</font></p>
+        </td>
+    </tr>
+  </table>
+</div>
+<div id="CureBlindness" style="position:absolute; left:145px; top:79px; width:516px; height:365px; z-index:2; overflow: visible; visibility: hidden"> 
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" height="365">
+    <tr align="left" valign="top"> 
+      <td width="240" nowrap> 
+        <div align="left"> 
+          <p><font color="#000000" size="2"><b>Cure Blindness</b><br>
+            <br>
+            Syntax : cast 'cure blindness' [victim] <br>
+            Type : Healing <br>
+            Accumulative: N/A <br>
+            Duration : No <br>
+            Casting : Long <br>
+            Position : Standing <br>
+            Level : Level 4 <br>
+            Class : Cleric <br>
+            Min. Mana : 5<br>
+            Pracs: quite alot</font><font color="#000000" size="2"><br>
+            <b><br>
+            </b>Teacher: Old Sage at the Great Redhorn Pass</font></p>
+          </div>
+      </td>
+      <td width="50" nowrap> </td>
+      <td width="235" nowrap> 
+        <p><font color="#000000" size="2">This spell is very efficent and can 
+          save your life in the daring situations.<br>
+          <br>
+          Practice it atleast once to help your friends and yourself!<br>
+          <br>
+          If you get into to closed area, where there are few rooms to run and 
+          get blinded by the forces of good, don't panic, but cast quickly the 
+          cure spell, before the enemy enters.</font></p>
+      </td>
+    </tr>
+  </table>
+</div>
+<div id="RemoveCurse" style="position:absolute; left:145px; top:79px; width:516px; height:365px; z-index:2; overflow: visible; visibility: hidden"> 
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" height="365">
+    <tr align="left" valign="top"> 
+      <td width="240" nowrap> 
+        <div align="left"> 
+          <p><font color="#000000" size="2"><b>Remove Curse</b><br>
+            <br>
+            Syntax : cast 'remove curse' <person | object> <br>
+            Type : Healing <br>
+            Accumulative: N/A <br>
+            Duration : No <br>
+            Casting : Very long <br>
+            Position : Standing <br>
+            Level 12 <br>
+            Class : Cleric <br>
+            Min. Mana : 10<br>
+            Pracs: 16</font><font color="#000000" size="2"><br>
+            <br>
+            Teacher: East of Last Bridge the evil priest </font></p>
+          </div>
+      </td>
+      <td width="50" nowrap> </td>
+      <td width="235" nowrap> 
+        <p><font color="#000000" size="2">This is another worthless spell,<br>
+          </font><font size="2" color="#000000">do not practice it, just practice 
+          the spell of Curse to make other creatures life a pain, who watch things 
+          with their hands and not with eyes!</font></p>
+        </td>
+    </tr>
+  </table>
+</div>
+<div id="RemovePoison" style="position:absolute; left:145px; top:79px; width:516px; height:365px; z-index:2; overflow: visible; visibility: hidden"> 
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" height="365">
+    <tr align="left" valign="top"> 
+      <td width="240" nowrap> 
+        <div align="left"> 
+          <p><font color="#000000" size="2"><b>Remove Poison</b><br>
+            <br>
+            Syntax : cast 'remove poison'<br>
+            <victim | food drink> Type : Healing <br>
+            Accumulative: N/A <br>
+            Duration : No <br>
+            Casting : Very long <br>
+            Position : Standing <br>
+            Level : Level 9 <br>
+            Class : Cleric<br>
+            </font><font color="#000000" size="2">Min. Mana : 5<br>
+            Pracs: 16<br>
+            <b><br>
+            </b>Teacher: East of Last Bridge the evil priest </font></p>
+          </div>
+      </td>
+      <td width="50" nowrap> </td>
+      <td width="235" nowrap> 
+        <p><font color="#000000" size="2">Every caster should learn this ancient 
+          spell of removing the poisons from the shivering body!<br>
+          <br>
+          Because, you never know, when u step on a rattlesnake!<br>
+          <br>
+          The spell itself is quite hard to learn,<br>
+          so practice it atleast two if not more times,<br>
+          so that no suprises in the face of backfire may occure!<br>
+          <br>
+          Scouts and warriors, who use the poisons to win their enemy, should 
+          also consider practic</font><font color="#000000" size="2">ing this 
+          spell. This suggestion stands for higher level players.</font></p>
+        </td>
+    </tr>
+  </table>
+</div>
+<div id="CureCritical" style="position:absolute; left:145px; top:79px; width:516px; height:365px; z-index:2; overflow: visible; visibility: hidden"> 
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" height="365">
+    <tr align="left" valign="top"> 
+      <td width="240" nowrap> 
+        <div align="left"> 
+          <p><font color="#000000" size="2"><b>Cure Critic<br>
+            <br>
+            </b>Syntax : cast 'cure critic' [victim] <br>
+            Type : Healing <br>
+            Accumulative: N/A <br>
+            Duration : No <br>
+            Casting : Very long <br>
+            Position : Standing, fighting <br>
+            Level : Level 9 <br>
+            Class : Cleric <br>
+            Min. Mana : 20<br>
+            Pracs: not sure 10+<br>
+            <b><br>
+            </b>Teacher: East of Last Bridge the evil priest </font></p>
+        </div>
+      </td>
+      <td width="50" nowrap> </td>
+      <td width="235" nowrap> 
+        <p><font color="#000000" size="2">This is the most powerful spell of healing, 
+          granted by our god Morgoth.</font></p>
+        <p><font color="#000000" size="2">You can never know, when the tree will 
+          fall on you, but you will die when you cant walk after that! <br>
+          <br>
+          This spell will not give you lifeforce,<br>
+          but will cure and fix the broken bones and heal the critical wounds 
+          of your body.<br>
+          <br>
+          This spell is a must for the mighty shamans.<br>
+          <br>
+          I suggest two or three practices on this lore.</font></p>
+        <p><font size="2" color="#000000">Warriors and other great classes of 
+          Orcs, when badly wounded, should just bound their wound and rest some 
+          a day,<br>
+          then the wound will get better and you can drag your corpse back to 
+          caves.</font></p>
+        </td>
+    </tr>
+  </table>
+</div>
+<div id="BreakDoor" style="position:absolute; left:145px; top:79px; width:516px; height:365px; z-index:2; overflow: visible; visibility: hidden"> 
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" height="365">
+    <tr align="left" valign="top"> 
+      <td width="240" nowrap> 
+        <div align="left"> 
+          <p><font color="#000000" size="2"><b>Break Door</b><br>
+            <br>
+            Syntax : cast 'break door' <door name><br>
+            Type : Miscellaneous <br>
+            Accumulative: No <br>
+            Duration : Yes <br>
+            Casting : Long <br>
+            Position : Standing <br>
+            Level : Level 17 <br>
+            Class : Cleric <br>
+            Min. Mana : 50<br>
+            Pracs: 14</font></p>
+          <p> <font color="#000000" size="2">Teacher: Old Sage at the Great Redhorn 
+            Pass</font> </p>
+        </div>
+      </td>
+      <td width="50" nowrap> </td>
+      <td width="235" nowrap> 
+        <p><font color="#000000" size="2">You can never know, when the guard locks 
+          the gate or a boulder crumbles.<br>
+          <br>
+          </font><font color="#000000" size="2">This spell will be unleashed from 
+          the the very power of your soul, thus making you almost powerless.<br>
+          It will drain atleast half of your mana and if you are dumb, then even 
+          more.</font></p>
+        <p><font size="2" color="#000000">I suggest that every shaman should learn 
+          this! M</font><font size="2" color="#000000">any don't and i can hear 
+          their deathcries, when their greed lured them to some old crypt or castle!<br>
+          <br>
+          </font><font size="2" color="#000000"> It will grant you the power to 
+          go where others have'nt, but returning is up to you.</font></p>
+        </td>
+    </tr>
+  </table>
+</div>
+<div id="ControlWeather" style="position:absolute; left:145px; top:79px; width:516px; height:365px; z-index:2; overflow: visible; visibility: hidden"> 
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" height="365">
+    <tr align="left" valign="top"> 
+      <td width="240" nowrap> 
+        <div align="left"> 
+          <p><font color="#000000" size="2"><b>Control Weather</b><br>
+            <br>
+            Syntax : cast 'control weather' <effect> <br>
+            Type : Miscellaneous <br>
+            Accumulative: Yes <br>
+            Duration : No <br>
+            Casting : Extremely long <br>
+            Position : Standing <br>
+            Level : Level 10 <br>
+            Class : Magic User <br>
+            Min. Mana : 25<br>
+            Pracs: 13<br>
+            <b><br>
+            </b>Teacher: The black mage inside the Caves </font></p>
+          </div>
+      </td>
+      <td width="50" nowrap> </td>
+      <td width="235" nowrap> 
+        <p><font color="#000000" size="2">A spell of great power and mystery.</font></p>
+        <p><font size="2" color="#000000">No one knows how well or bad you can 
+          control the powers of nature, but with this spell you can make the pretty 
+          sky to dark lightning throwing hell!<br>
+          <br>
+          Do not practice this, unless you are known amongst our allies the Black 
+          Numenors, who can call the lightning from the very sky, but dont have 
+          the knowledge to control it!</font></p>
+      </td>
+    </tr>
+  </table>
+</div>
+<div id="WordofRecall" style="position:absolute; left:145px; top:79px; width:516px; height:365px; z-index:2; overflow: visible; visibility: hidden"> 
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" height="365">
+    <tr align="left" valign="top"> 
+      <td width="240" nowrap> 
+        <div align="left"> 
+          <p><font color="#000000" size="2"><b>Word of Recall</b><br>
+            <br>
+            Syntax : cast 'word of recall' <br>
+            Type : Long range <br>
+            Accumulative: N/A <br>
+            Duration : No <br>
+            Casting : Extremely long <br>
+            Position : Standing <br>
+            Level : Level 11 <br>
+            Class : Cleric <br>
+            Min. Mana : 5<br>
+            Pracs: 15<br>
+            <b><br>
+            </b>Teacher: Old Sage at the Great Redhorn Pass</font></p>
+          </div>
+      </td>
+      <td width="50" nowrap> </td>
+      <td width="235" nowrap> 
+        <p><font color="#000000" size="2">This spell lets you recall to strange 
+          places on land, where the wild energy flows free.<br>
+          <br>
+          </font><font color="#000000" size="2"> Whenever you travel, you will 
+          notice the lines of power and whenever in danger, you have the possibility 
+          to call the same lines and be transported to the closest power source.<br>
+          <br>
+          This spell is very useful, so do not forget what our father Morgoth 
+          has granted to you and learn this ancient lore!<br>
+          </font><font color="#000000" size="2"><br>
+          Remember only, that the power of Morgoth does'nt rule over the great 
+          River of Neni!<br>
+          You can't use the spell everywhere!<br>
+          You must see the sky to recall!</font></p>
+        </td>
+    </tr>
+  </table>
+</div>
+</body>
+</html>
