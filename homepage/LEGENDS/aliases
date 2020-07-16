@@ -1,0 +1,115 @@
+agre       ==> cha mood aggres
+arm        ==> c 'armour'
+as         ==> assi ghimii
+bb         ==> c 'blind'
+bl         ==> ca 'bless'
+bless      ==> ca 'bless'
+blink      ==> emo blinks saintly.
+block      ==> ca 'block door'
+blow       ==> use horn
+bob        ==> cas 'breath of briskness'
+break      ==> ca 'break door'
+bu         ==> butcher corpse
+cal        ==> call
+cb         ==> close obstruction
+cbu        ==> close bushes
+cc         ==> close cask
+ccs        ==> c 'cure seri'
+cd         ==> close door
+cf         ==> close fence
+cg         ==> close gate
+ch         ==> close hatch
+clr        ==> close looserocks
+cm         ==> close mahogany
+cmt        ==> close mountainside
+cop        ==> drop 1 copper
+cp         ==> close panel
+cpa        ==> close passage
+cpclose    ==> pa
+cpi        ==> close picture
+cr         ==> close rock
+crr        ==> cast 'cure seri'
+cs         ==> close slab
+cst        ==> close stonedoor
+ct         ==> close thornbushes
+cv         ==> close vegetation
+cw         ==> close wall
+cww        ==> close woodendoor
+dinv       ==> c 'detect invis'
+disb       ==> gr saint
+dm         ==> dism
+dr         ==> drink water
+fea        ==> ca 'fear'
+fillit     ==> pour water skin
+food       ==> c 'create food'
+
+fq         ==> flush quick
+gac        ==> get all.coins all.corpse
+gg         ==> ca 'dispel' orc
+heal       ==> ca 'heal'
+hh         ==> hold lantern
+inv        ==> ca 'invis'
+lic        ==> l in corpse
+lig        ==> ca 'create lig' lantern
+lik        ==> look in sack
+lip        ==> l i pack
+lis        ==> l in sack
+ll         ==> dismo
+mov        ==> quaff draught
+night      ==> ca 'night'
+ob         ==> open obstruction
+oba        ==> open bearskin
+obu        ==> open bushes
+oc         ==> open crack
+od         ==> open door
+oew        ==> open earthwall
+of         ==> open fence
+og         ==> open gate
+ogd        ==> open greatdoor
+ogg        ==> open greatgate
+oh         ==> open hatch
+ohd        ==> open hugedoor
+ohs        ==> open hillside
+olr        ==> open looserocks
+om         ==> open mahogany
+omt        ==> open mountainside
+oo         ==> open slab
+op         ==> open panel
+opa        ==> open passage
+opi        ==> open picture
+opn        ==> open snowslide
+or         ==> open rock
+orr        ==> open rubble
+orv        ==> open rottenvines
+os         ==> open slab
+osl        ==> open slide
+ost        ==> open stonedoor
+ot         ==> open thornbushes
+oth        ==> open throne
+otr        ==> open trapdoor
+ow         ==> open wall
+oww        ==> open woodendoor
+q          ==> wher
+qw         ==> get all corpse
+rec        ==> recover
+remo       ==> ca 'remove poison'
+sanc       ==> ca 'sanc'
+sancit     ==> recite purple
+say        ==> emote prays '&'
+sek        ==> seek rivendell
+sh         ==> c 'shield'
+stbo       ==> ca 'store' lightning
+str        ==> ca 'stren'
+th         ==> where horse
+tm         ==> wher mule
+tp         ==> wher pack
+tt         ==> t vas
+tw         ==> wher warg
+v          ==> c 'light' troll
+vv         ==> ca 'light' orc
+wet        ==> weather local
+wimp       ==> cha mood wimpy
+wo         ==> stat
+x          ==> ca 'dispel'
+z          ==> search quick
+

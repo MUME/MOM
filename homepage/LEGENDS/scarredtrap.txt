@@ -1,0 +1,1385 @@
+Heart of the Forest
+Exits: North Down.
+
+o R W C Mana:Hot Move:Tired>sc
+272/272 hit, 61/118 mana, and 39/130 moves.
+
+o R W C Mana:Hot Move:Tired>track
+{mees}={*elf*}
+You carefully examine the ground around you, looking for tracks...
+Touchstone narrates 'welp, time for me to jet'
+
+{mees}={*elf*}
+You see:
+   - a track of a pony leading down (done less than 1 hour ago).
+   - a track of *a Dwarf* leading down (done less than 1 hour ago).
+   - a track of *a Dwarf* leading down (done less than 1 hour ago).
+   - a track of *a Dwarf* coming from the north (done less than 1 hour ago).
+   - a track of *a Dwarf* coming from the north (done less than 1 hour ago).
+
+
+You stop searching.
+
+o R W C Mana:Hot Move:Tired>lead
+You stop riding a hungry warg.
+A hungry warg starts following you.
+
+o W C Mana:Hot Move:Tired>d
+Inside the Rotten Trunk
+A small harmless centipede is here.
+Exits: Up Down.
+
+o W C Mana:Hot Move:Tired>close trunk
+Ok.
+
+o W C Mana:Hot Move:Tired>pick trunk
+Using your lockpicks, you try to enable the lock...
+Using your lockpicks, you try to enable the lock...
+
+Touchstone narrates 'see y'all later!!!!'
+
+Sloshed narrates 'ok who on pack abr last room then '
+
+{mees}={*elf*}
+You manage to enable the lock.
+
+o W C Mana:Hot Move:Tired>cha mood aggressive
+Ok.
+
+o W C Mana:Hot Move:Tired>{mees}={*elf*}
+rem cloak
+wear fur
+wi bastard
+You stop using a fine grey cloak.
+
+o W C Mana:Hot Move:Tired>You wear a black warg fur about your body.
+
+o W C Mana:Hot Move:Tired>You stop using an engraved broadsword.
+You decisively wield a bastard sword, looking very evil-minded.
+
+o W C Mana:Hot Move:Tired>-- SPELL-CASTING set to: NORMAL --
+sp n
+cha spel n
+Ok.
+
+o W C Mana:Hot Move:Tired>cast n 'breath of briskness'
+You start to concentrate...
+
+{mees}={*elf*}
+-- SPELL-CASTING set to: NORMAL --
+sp n
+An energy begins to flow within your legs as your body becomes lighter.
+
+
+o W C Mana:Warm>cha spel n
+Ok.
+
+o W C Mana:Warm>abandon
+A hungry warg stops following you.
+
+o W C Mana:Warm>d
+Dark Hole
+A stocky mountain mule is here, waiting to serve.
+Exits: North Up.
+
+o W C Mana:Warm>n
+Underneath the Trunk
+Exits: East South.
+
+o W C Mana:Warm>e
+Wet Tunnel
+A tiny spider is here, eating a tiny bug.
+Exits: East West.
+
+o W C Mana:Warm>ca 'harm' *elf*
+Nobody here by that name.
+
+o W C Mana:Warm>e
+ca 'harm' *elf*
+
+Saving Diamonium.
+
+o W C Mana:Warm>Cave
+The corpse of the young ruffian is lying here.
+The corpse of the young ruffian is lying here.
+*a Dwarf* is standing here.
+A domesticated pony, beast of burden to many, stands here.
+*a Dwarf* is standing here.
+Exits: North East West.
+Exits: North East West.
+
+* W C Mana:Warm>Nobody here by that name.
+
+* W C Mana:Warm>e
+Dining Room
+A half-rotten corpse is hanging here.
+A dirty ruffian draped in rags advances towards you.
+Exits: East West.
+
+* W C Mana:Warm>ca 'harm' *elf*
+Nobody here by that name.
+
+* W C Mana:Warm>TARGET - DWARF -
+w
+hit *dwarf*
+Cave
+The corpse of the young ruffian is lying here.
+The corpse of the young ruffian is lying here.
+*a Dwarf* is standing here.
+A domesticated pony, beast of burden to many, stands here.
+*a Dwarf* is standing here.
+Exits: North East West.
+
+* W C Mana:Warm>* W C Mana:Warm *a Dwarf*:Healthy>
+*a Dwarf* intercepts your blow.
+You try to slash *a Dwarf*, but he parries successfully.
+
+ca 'harm' *dwarf*
+* W C Mana:Warm *a Dwarf*:Healthy>
+*a Dwarf* leaves -- WEST --.
+A pony leaves west.
+
+* W C Mana:Warm *a Dwarf*:Healthy>
+*a Dwarf* cleaves your head and tickles it.
+
+
+* W C HP:Fine Mana:Warm *a Dwarf*:Healthy>w
+ca 'harm' *dwarf*
+You start to concentrate...
+
+*a Dwarf* panics, and attempts to flee.
+Your victim has disappeared!
+*a Dwarf* leaves -- WEST --.
+
+* W C HP:Fine Mana:Warm>Wet Tunnel
+A tiny spider is here, eating a tiny bug.
+*a Dwarf* is standing here.
+Exits: East West.
+
+* W C HP:Fine Mana:Warm>You start to concentrate...
+
+w
+ca 'harm' *dwarf*
+* W C HP:Fine Mana:Cold *a Dwarf*:Hurt>
+Ok.
+As you call on ancient powers, *a Dwarf* twists in great pain.
+
+* W C HP:Fine Mana:Cold *a Dwarf*:Hurt>
+No way! You are fighting for your life!
+
+* W C HP:Fine Mana:Cold *a Dwarf*:Hurt>Alas, not enough mana flows through you...
+
+* W C HP:Fine Mana:Cold *a Dwarf*:Hurt>* W C HP:Fine Mana:Cold *a Dwarf*:Hurt>
+*a Dwarf* panics, and attempts to flee.
+*a Dwarf* leaves -- EAST --.
+
+o W C HP:Fine Mana:Cold>cha mood wimpy
+Ok.
+
+o W C HP:Fine Mana:Cold>cha mood aggressive
+e
+e
+Ok.
+
+o W C HP:Fine Mana:Cold>hit *dwarf*
+Cave
+The corpse of the young ruffian is lying here.
+The corpse of the young ruffian is lying here.
+Exits: North East West.
+
+* W C HP:Fine Mana:Cold>They aren't here.
+
+* W C HP:Fine Mana:Cold>e
+kil *dwarf*
+Dining Room
+A half-rotten corpse is hanging here.
+A dirty ruffian draped in rags advances towards you.
+*a Dwarf* is standing here.
+Exits: East West.
+
+* W C HP:Fine Mana:Cold>* W C HP:Fine Mana:Cold *a Dwarf*:Hurt>
+You try to slash *a Dwarf*, but he parries successfully.
+
+e
+* W C HP:Fine Mana:Cold *a Dwarf*:Hurt>kil *dwarf*
+cha mood aggressive
+No way! You are fighting for your life!
+
+* W C HP:Fine Mana:Cold *a Dwarf*:Hurt>You're already fighting!
+
+* W C HP:Fine Mana:Cold *a Dwarf*:Hurt>Ok.
+
+* W C HP:Fine Mana:Cold *a Dwarf*:Hurt>cha mood wimpy
+Ok.
+
+* W C HP:Fine Mana:Cold *a Dwarf*:Hurt>
+*a Dwarf* panics, and attempts to flee.
+*a Dwarf* panics, and attempts to flee.
+*a Dwarf* leaves -- WEST --.
+
+* W C HP:Fine Mana:Cold>bow
+draw bow
+You have no bow.
+
+* W C HP:Fine Mana:Cold>sho *dwarf*
+Shoot whom?
+
+* W C HP:Fine Mana:Cold>w
+sho *dwarf*
+Cave
+The corpse of the young ruffian is lying here.
+The corpse of the young ruffian is lying here.
+*a Dwarf* is standing here.
+Exits: North East West.
+
+* W C HP:Fine Mana:Cold>Wielding something to shoot with might help...
+
+* W C HP:Fine Mana:Cold>
+*a Dwarf* leaves -- EAST --.
+
+* W C HP:Fine Mana:Cold>get bow pak
+You don't see a pak to get things from.
+
+* W C HP:Fine Mana:Cold>
+Sloshed narrates 'koar man'
+
+* W C HP:Fine Mana:Cold>get bow pack
+e
+You get an orkish shortbow from a leather backpack.
+
+* W C HP:Fine Mana:Cold>Dining Room
+A half-rotten corpse is hanging here.
+The young ruffian is here, fighting *a Dwarf*.
+The young ruffian is here, fighting *a Dwarf*.
+*a Dwarf* is here, fighting the young ruffian.
+Exits: East West.
+
+* W C HP:Fine Mana:Cold>sho *dwarf*
+Wielding something to shoot with might help...
+
+* W C HP:Fine Mana:Cold>bow
+draw bow
+You remove a bastard sword.
+You awkwardly wield an orkish shortbow, looking very evil-minded.
+
+* W C HP:Fine Mana:Cold>sho *dwarf*
+sho *dwarf*
+c 'blind' *dwarf*
+Lookhu narrates 'comin'
+
+Sloshed narrates 'KODAR man here'
+
+Palpatine narrates 'where'
+
+*a Dwarf* panics, and attempts to flee.
+Your victim has disappeared!
+*a Dwarf* leaves -- EAST --.
+Shoot whom?
+
+* W C HP:Fine Mana:Cold>Nobody here by that name.
+
+* W C HP:Fine Mana:Cold>e
+c 'blind' *dwarf*
+Chambers
+The ruffian leader Scarred grins as he draws his sword.
+A dirty ruffian draped in rags advances towards you.
+*a Dwarf* is standing here.
+Exits: West.
+
+
+* W C HP:Fine Mana:Cold>You start to concentrate...
+Scarred tries to slash *a Dwarf*, but he parries successfully.
+
+*a Dwarf* cleaves Scarred's right foot extremely hard and shatters it.
+
+Alas! There was no clear line of sight to him!
+
+* W C HP:Fine Mana:Cold>c 'blind' *dwarf*
+You start to concentrate...
+Sloshed narrates 'musty forest'
+
+*a Dwarf* panics, and attempts to flee.
+Your victim has disappeared!
+*a Dwarf* leaves -- WEST --.
+
+* W C HP:Fine Mana:Cold>w
+Dining Room
+A half-rotten corpse is hanging here.
+A dirty ruffian draped in rags advances towards you.
+*a Dwarf* is standing here.
+Exits: East West.
+
+* W C HP:Fine Mana:Cold>hit *dwarf*
+* W C HP:Fine Mana:Cold *a Dwarf*:Hurt>
+You try to hit *a Dwarf*, but he parries successfully.
+
+* W C HP:Fine Mana:Cold *a Dwarf*:Hurt>c 'blind' *dwarf*
+You start to concentrate...
+
+*a Dwarf* panics, and attempts to flee.
+Your victim has disappeared!
+*a Dwarf* leaves -- EAST --.
+Palpatine narrates 'bring gate'
+
+* W C HP:Fine Mana:Cold>e
+* W C HP:Fine Mana:Cold>e
+Chambers
+The ruffian leader Scarred grins as he draws his sword.
+A dirty ruffian draped in rags advances towards you.
+*a Dwarf* is standing here.
+Exits: West.
+
+* W C HP:Fine Mana:Cold>c 'blind' *dwarf*
+You start to concentrate...
+Scarred tries to slash *a Dwarf*, but he parries successfully.
+
+*a Dwarf* cleaves Scarred's right leg extremely hard and shatters it.
+
+Alas! There was no clear line of sight to him!
+
+* W C HP:Fine Mana:Cold>l w
+* W C HP:Fine Mana:Cold>c 'blind' *dwarf*
+You start to concentrate...
+
+*a Dwarf* cleaves Scarred's left leg extremely hard and shatters it.
+Scarred is incapacitated and will slowly die, if not aided.
+
+The young ruffian tries to pierce *a Dwarf*, but he parries successfully.
+
+Alas! There was no clear line of sight to him!
+
+* W C Mana:Cold>c 'blind' *dwarf*
+You start to concentrate...
+
+*a Dwarf* cleaves Scarred's body extremely hard and shatters it.
+Your blood freezes as you hear Scarred's death cry.
+Scarred is dead! R.I.P.
+
+c 'blind' *dwarf*
+Ok.
+*a Dwarf* seems to be blinded!
+*a Dwarf* seems to be blinded!
+
+* W C Mana:Icy>Alas, not enough mana flows through you...
+
+* W C Mana:Icy>
+* W C Mana:Icy>hit *dwarf*
+* W C Mana:Icy *a Dwarf*:Hurt the young ruffian:Healthy>
+You try to hit *a Dwarf*, but he parries successfully.
+
+* W C Mana:Icy *a Dwarf*:Hurt the young ruffian:Healthy>
+*a Dwarf* cleaves the young ruffian's left foot very hard and shatters it.
+
+* W C Mana:Icy *a Dwarf*:Hurt the young ruffian:Fine>cha mood aggressive
+rem cloak
+wear fur
+wi bastard
+cha mood aggressive
+Ok.
+
+* W C Mana:Icy *a Dwarf*:Hurt the young ruffian:Fine>You aren't wearing a cloak.
+
+* W C Mana:Icy *a Dwarf*:Hurt the young ruffian:Fine>You don't have a fur.
+
+* W C Mana:Icy *a Dwarf*:Hurt the young ruffian:Fine>You stop using an orkish shortbow.
+You decisively wield a bastard sword, looking very evil-minded.
+
+* W C Mana:Icy *a Dwarf*:Hurt the young ruffian:Fine>Ok.
+*a Dwarf* panics, and attempts to flee.
+
+* W C Mana:Icy *a Dwarf*:Hurt the young ruffian:Fine>l n
+Behind the totem pole, you notice a small niche outlined in the dirt ...
+
+* W C Mana:Icy *a Dwarf*:Hurt the young ruffian:Fine>
+*a Dwarf* cleaves the young ruffian's body very hard and shatters it.
+
+* W C Mana:Icy *a Dwarf*:Hurt the
+cha wimpy 150
+Wimpy set to: 150
+
+* W C Mana:Icy *a Dwarf*:Hurt the young ruffian:Wounded>l
+Chambers
+The corpse of Scarred is lying here.
+The young ruffian is here, fighting *a Dwarf*.
+*a Dwarf* is here, fighting the young ruffian.
+Sloshed narrates 'they ripped that troll god dammit!'
+
+* W C Mana:Icy *a Dwarf*:Hurt the young ruffian:Wounded>
+*a Dwarf* cleaves the young ruffian's right hand extremely hard and shatters
+it.
+
+* W C Mana:Icy *a Dwarf*:Hurt the young ruffian:Awful>exa
+Chambers
+Leaves and other woodland debris lie in heaps along the floor suitable
+for an uncomfortable bed. Across the northern wall, a totem pole,
+approximately 8' in height, made entirely of humanoid bones, stands
+tall and upright. Rodents scurry across the floor digging their homes
+in some of the scattered remains of the debris. Bones, ranging from all
+sorts of sizes, root themselves into the ground.
+The corpse of Scarred is lying here.
+The young ruffian, wielding a shortsword, is here, fighting *a Dwarf*.
+*a Dwarf*, wielding a battle axe, is here, fighting the young ruffian.
+The young ruffian barely pierces *a Dwarf*'s head and tickles it.
+
+* W C Mana:Icy *a Dwarf*:Hurt the young ruffian:Awful>
+You slash *a Dwarf*'s body extremely hard.
+
+* W C Mana:Icy *a Dwarf*:Hurt the young ruffian:Awful>stat
+OB: 96%, DB: 49%, PB: 37%, Armour: 58%. Wimpy: 150. Mood: aggressive.
+Needed: 1,012,311 xp, 0 tp. Wp: 36. Gold: 53. Alert: normal.
+Affected by:
+- noquit
+- armour
+- armour
+- shield
+- detect invisibility
+- novoid
+
+* W C Mana:Icy *a Dwarf*:Hurt the young ruffian:Awful>cha mood aggressive
+Ok.
+
+* W C Mana:Icy *a Dwarf*:Hurt the young ruffian:Awful>
+Sloshed narrates 'i asked fucking 10x where troll is'
+
+* W C Mana:Icy *a Dwarf*:Hurt the young ruffian:Awful>TARGET - DWARF -
+
+*a Dwarf* cleaves the young ruffian's right hand extremely hard and shatters
+it.
+Your blood freezes as you hear the young ruffian's death cry.
+The young ruffian is dead! R.I.P.
+
+* W C Mana:Icy *a Dwarf*:Hurt>cma
+cha mood aggre
+Ok.
+
+* W C Mana:Icy *a Dwarf*:Hurt>cha mood wimpy
+Ok.
+
+* W C Mana:Icy *a Dwarf*:Hurt>bow
+draw bow
+You remove a bastard sword.
+You awkwardly wield an orkish shortbow, looking very evil-minded.
+
+* W C Mana:Icy *a Dwarf*:Hurt>sho *dwarf*
+*Snapp the Harfoot Hobbit* has arrived from the west.
+*Qual the Silvan Elf* has arrived from the west.
+A pony has arrived from the west.
+*Snepp the Harfoot Hobbit* has arrived from the west.
+
+
+sho *dwarf*
+*Snapp the Harfoot Hobbit* smites your right foot hard and tickles it.
+Aye! You cannot concentrate any more...
+*a Dwarf* panics, and attempts to flee.
+*a Dwarf* leaves -- WEST --.
+
+* W C HP:Fine Mana:Icy *Snapp the Harfoot Hobbit*:Healthy>Shoot whom?
+
+* W C HP:Fine Mana:Icy *Snapp the Harfoot Hobbit*:Healthy>
+f
+* W C HP:Fine Mana:Icy *Snapp the Harfoot Hobbit*:Healthy>You flee head over heels.
+Dining Room
+A half-rotten corpse is hanging here.
+A dirty ruffian draped in rags advances towards you.
+*a Dwarf* is standing here.
+Exits: East West.
+
+* W C HP:Fine Mana:Icy>w
+Cave
+The corpse of the young ruffian is lying here.
+The corpse of the young ruffian is lying here.
+Exits: North East West.
+
+* W C HP:Fine Mana:Icy>w
+Wet Tunnel
+A tiny spider is here, eating a tiny bug.
+Exits: East West.
+
+o W C HP:Fine Mana:Icy>s
+Alas, you cannot go that way...
+
+o W C HP:Fine Mana:Icy>s
+Alas, you cannot go that way...
+
+o W C HP:Fine Mana:Icy>w
+o W C HP:Fine Mana:Icy>w
+w
+s
+Underneath the Trunk
+Exits: East South.
+
+o W C HP:Fine Mana:Icy>Alas, you cannot go that way...
+
+o W C HP:Fine Mana:Icy>s
+Dark Hole
+A stocky mountain mule is here, waiting to serve.
+A hungry warg stands here, sniffing around for flesh.
+Exits: North Up.
+
+o W C HP:Fine Mana:Icy>u
+Alas, you cannot go that way...
+
+o W C HP:Fine Mana:Icy>Inside the Rotten Trunk
+A small harmless centipede is here.
+*a Dwarf* is standing here.
+A domesticated pony, beast of burden to many, stands here.
+Exits: Up Down.
+
+* W C HP:Fine Mana:Icy>u
+The -[ Trunk ]- is CLOSED
+
+* W C HP:Fine Mana:Icy>IO
+Arglebargle, glop-glyf!?!
+
+* W C HP:Fine Mana:Icy>
+Sloshed narrates 'i said 2 pukes tracking him down and none would tell me :('
+
+* W C HP:Fine Mana:Icy>open Trunk
+That's impossible, I'm afraid.
+
+* W C HP:Fine Mana:Icy>pick Trunk
+* W C HP:Fine Mana:Icy>pick Trunk
+Using your lockpicks, you try to enable the lock...
+
+
+* W C HP:Fine Mana:Icy>
+*Snapp the Harfoot Hobbit* has arrived from below.
+*Qual the Silvan Elf* has arrived from below.
+A pony has arrived from below.
+*Snepp the Harfoot Hobbit* has arrived from below.
+
+* W C HP:Fine Mana:Icy>c n 'word'
+You muster all of your concentration...
+*Snepp the Harfoot Hobbit* strongly smites your right foot and tickles it.
+Aye! You cannot concentrate any more...
+
+* W C HP:Fine Mana:Icy *Snepp the Harfoot Hobbit*:Healthy>
+*Qual the Silvan Elf* begins some strange incantations...
+
+* W C HP:Fine Mana:Icy *Snepp the Harfoot Hobbit*:Healthy>
+* W C HP:Fine Mana:Icy *Snepp the Harfoot Hobbit*:Healthy>d
+No way! You are fighting for your life!
+
+* W C HP:Fine Mana:Icy *Snepp the Harfoot Hobbit*:Healthy>f
+You flee head over heels.
+Dark Hole
+A stocky mountain mule is here, waiting to serve.
+A hungry warg stands here, sniffing around for flesh.
+Exits: North Up.
+
+o W C HP:Fine Mana:Icy>d
+Alas, you cannot go that way...
+
+o W C HP:Fine Mana:Icy>n
+n
+Underneath the Trunk
+Exits: East South.
+Exits: East South.
+
+o W C HP:Fine Mana:Icy>n
+Alas, you cannot go that way...
+
+o W C HP:Fine Mana:Icy>e
+e
+Alas, you cannot go that way...
+
+o W C HP:Fine Mana:Icy>e
+Wet Tunnel
+A tiny spider is here, eating a tiny bug.
+Exits: East West.
+
+o W C HP:Fine Mana:Icy>Cave
+The corpse of the young ruffian is lying here.
+The corpse of the young ruffian is lying here.
+A dirty ruffian draped in rags advances towards you.
+Exits: North East West.
+
+* W C HP:Fine Mana:Icy>Dining Room
+A half-rotten corpse is hanging here.
+Exits: East West.
+
+* W C HP:Fine Mana:Icy>yell fuck seems im gona die:P
+Ok.
+
+* W C HP:Fine Mana:Icy>cha mood wimpy
+Ok.
+
+* W C HP:Fine Mana:Icy>=150
+cha wimpy 150
+Wimpy set to: 150
+The young ruffian has arrived from the west.
+
+* W C HP:Fine Mana:Icy>w
+* W C HP:Fine Mana:Icy>w
+Cave
+The corpse of the young ruffian is lying here.
+The corpse of the young ruffian is lying here.
+Exits: North East West.
+
+* W C HP:Fine Mana:Icy>n
+Garbage Pit
+Exits: South.
+
+* W C HP:Fine Mana:Cold>l s
+* W C HP:Fine Mana:Cold>sc
+251/272 hit, 12/118 mana, and 120/130 moves.
+
+* W C HP:Fine Mana:Cold>
+Palpatine narrates 'I at gat ewith 2 lionesses'
+
+* W C HP:Fine Mana:Cold>
+*Snapp the Harfoot Hobbit* has arrived from the south.
+*Qual the Silvan Elf* has arrived from the south.
+A pony has arrived from the south.
+*Snepp the Harfoot Hobbit* has arrived from the south.
+
+* W C HP:Fine Mana:Cold>
+*Snapp the Harfoot Hobbit* tries to smite you, but your parry is successful.
+*Snepp the Harfoot Hobbit* strongly smites your left leg and tickles it.
+
+* W C HP:Fine Mana:Cold *Snapp the Harfoot Hobbit*:Healthy>narr im gonna die:P 
+f
+*Qual the Silvan Elf* says 'others on wiy'
+Ok.
+You barely hit *Snapp the Harfoot Hobbit*'s head and tickle it.
+
+* W C HP:Fine Mana:Cold *Snapp the Harfoot Hobbit*:Fine>You flee head over heels.
+Cave
+The corpse of the young ruffian is lying here.
+
+* W C HP:Fine Mana:Cold>w
+s
+Wet Tunnel
+A tiny spider is here, eating a tiny bug.
+Exits: East West.
+
+o W C HP:Fine Mana:Cold>Alas, you cannot go that way...
+
+o W C HP:Fine Mana:Cold>s
+Alas, you cannot go that way...
+
+o W C HP:Fine Mana:Cold>s
+Alas, you cannot go that way...
+
+o W C HP:Fine Mana:Cold>
+*a Dwarf* has arrived from the west.
+A pony has arrived from the west.
+
+* W C HP:Fine Mana:Cold>
+Your magical shield wears off.
+
+* W C HP:Fine Mana:Cold>mnar CO
+
+*Snapp the Harfoot Hobbit* has arrived from the east.
+*Qual the Silvan Elf* has arrived from the east.
+A pony has arrived from the east.
+*Snepp the Harfoot Hobbit* has arrived from the east.
+
+* W C HP:Fine Mana:Cold>*Qual the Silvan Elf* begins some strange incantations...
+Arglebargle, glop-glyf!?!
+
+* W C HP:Fine Mana:Cold>
+*Snepp the Harfoot Hobbit* quickly approaches, trying to smite you.
+*Snapp the Harfoot Hobbit* quickly approaches, trying to smite you.
+
+
+* W C HP:Fine Mana:Cold *Snepp the Harfoot Hobbit*:Healthy>
+*a Dwarf* leaves -- WEST --.
+A pony leaves west.
+
+* W C HP:Fine Mana:Cold *Snepp the Harfoot Hobbit*:Healthy>
+*Snepp the Harfoot Hobbit* strongly smites your head and tickles it.
+
+* W C HP:Fine Mana:Cold *Snepp the Harfoot Hobbit*:Healthy>
+*Qual the Silvan Elf* utters the words 'qahijf gsfal'
+You feel less protected.
+*Qual the Silvan Elf* sprays you with piercing rays of many-coloured light.
+*Snapp the Harfoot Hobbit* smites your left foot extremely hard.
+
+* W C HP:Hurt Mana:Cold *Snepp the Harfoot Hobbit*:Healthy>nar COME BASH SCARRED
+Ok.
+
+* W C HP:Hurt Mana:Cold *Snepp the Harfoot Hobbit*:Healthy>f
+You flee head over heels.
+Cave
+The corpse of the young ruffian is lying here.
+The corpse of the young ruffian is lying here.
+Exits: North East West.
+
+* W C HP:Hurt Mana:Cold>n
+Garbage Pit
+Exits: South.
+
+* W C HP:Hurt Mana:Cold>e
+Alas, you cannot go that way...
+
+* W C HP:Hurt Mana:Cold>s
+e
+Cave
+The corpse of the young ruffian is lying here.
+The corpse of the young ruffian is lying here
+The corpse of the young ruffian is lying here.
+Exits: North East West.
+
+* W C HP:Hurt Mana:Cold>e
+Dining Room
+A half-rotten corpse is hanging here.
+The young ruffian is here, fighting *a Dwarf*.
+*a Dwarf* is here, fighting the young ruffian.
+Exits: East West.
+
+* W C HP:Hurt Mana:Cold>Chambers
+The corpse of the young ruffian is lying here.
+The corpse of Scarred is lying here.
+*Snapp the Harfoot Hobbit* is standing here.
+*Qual the Silvan Elf* is standing here.
+A domesticated pony, beast of burden to many, stands here.
+*Snepp the Harfoot Hobbit* is standing here.
+Exits: West.
+*Snapp the Harfoot Hobbit* leaves -- WEST --.
+*Qual the Silvan Elf* leaves -- WEST --.
+A pony leaves west.
+*Snepp the Harfoot Hobbit* leaves -- WEST --.
+
+* W C HP:Hurt Mana:Cold>nar NOW
+Ok.
+
+* W C HP:Hurt Mana:Cold>=150
+w
+*a Dwarf* has arrived from the west.
+cha wimpy 150
+Wimpy set to: 150
+
+* W C HP:Hurt Mana:Cold>w
+Dining Room
+A half-rotten corpse is hanging here.
+A dirty ruffian draped in rags advances tow
+A dirty ruffian draped in rags advances towards you.
+*Snapp the Harfoot Hobbit* is standing here.
+*Qual the Silvan Elf* is standing here.
+A domesticated pony, beast of burden to many, stands here.
+*Snepp the Harfoot Hobbit* is standing here.
+Exits: East West.
+*Snapp the Harfoot Hobbit* quickly approaches, trying to smite you.
+
+* W C HP:Hurt Mana:Cold *Snapp the Harfoot Hobbit*:Fine>No way! You are fighting for your life!
+
+* W C HP:Hurt Mana:Cold *Snapp the Harfoot Hobbit*:Fine>
+*Snepp the Harfoot Hobbit* smites your left leg extremely hard.
+
+* W C HP:Hurt Mana:Cold *Snapp the Harfoot Hobbit*:Fine>f
+You flee head over heels.
+Chambers
+The corpse of the young ruffian is lying here.
+The corpse of Scarred is lying here.
+*a Dwarf* is standing here.
+Exits: West.
+
+* W C HP:Hurt Mana:Cold>w
+w
+Dining Room
+A half-rotten corpse is hanging here.
+A dirty ruffian draped in rags advances towards you.
+*Snapp the Harfoot Hobbit* is standing here.
+*Qual the Silvan Elf* is standing here.
+A domesticated pony, beast of burden to many, stands here.
+*Snepp the Harfoot Hobbit* is standing here.
+Exits: East West.
+
+* W C HP:Hurt Mana:Cold>Cave
+The corpse of the young ruffian is lying here.
+The corpse of the young ruffian is lying here.
+Exits: North East West.
+Exits: North East West.
+
+* W C HP:Hurt Mana:Cold>s
+Alas, you cannot go that way...
+
+* W C HP:Hurt Mana:Cold>s
+Alas, you cannot go that way...
+
+* W C HP:Hurt Mana:Cold>w
+Wet Tunnel
+A tiny spider is here, eating a tiny bug.
+Exits: East West.
+
+o W C HP:Hurt Mana:Cold>s
+Alas, you cannot go that way...
+
+o W C HP:Hurt Mana:Cold>cha mood wimpy
+Ok.
+
+o W C HP:Hurt Mana:Cold>rem fur
+wear cloak
+wi engraved
+You stop using a black warg fur.
+
+o W C HP:Hurt Mana:Cold>You wear a fine grey cloak about your body.
+
+o W C HP:Hurt Mana:Cold>You stop using an orkish shortbow.
+You decisively wield an engraved broadsword, looking very evil-minded.
+
+o W C HP:Hurt Mana:Cold>w
+s
+Underneath the Trunk
+Exits: East South.
+
+o W C HP:Hurt Mana:Cold>Dark Hole
+A stocky mountain mule is here, waiting to serve.
+A stocky mountain mule is here, waiting to serve.
+A hungry warg stands here, sniffing around for flesh.
+Exits: North Up.
+
+o W C HP:Hurt Mana:Cold>s
+e
+Alas, you cannot go that way...
+
+o W C HP:Hurt Mana:Cold>u
+Alas, you cannot go that way...
+
+o W C HP:Hurt Mana:Cold>Lookhu narrates 'toof ar'
+Inside the Rotten Trunk
+A small harmless centipede is here.
+*Arte the Beorning Man* is standing here.
+*Lowyn the Rohir Woman* is standing here.
+*a Dwarf* is standing here.
+A stocky mountain mule is here, waiting to serve.
+*Tyrip the Dwarf* is standing here.
+A stocky mountain mule is here, waiting to serve.
+*a Dwarf* is standing here.
+A domesticated pony, beast of burden to many, stands here.
+Exits: Up Down.
+
+* W C HP:Hurt Mana:Cold>open Trunk
+That's impossible, I'm afraid.
+
+* W C HP:Hurt Mana:Cold>
+*Snapp the Harfoot Hobbit* has arrived from below.
+*Qual the Silvan Elf* has arrived from below.
+A pony has arrived from below.
+*Snepp the Harfoot Hobbit* has arrived from below.
+
+* W C HP:Hurt Mana:Cold>f
+*Tyrip the Dwarf* strongly pounds your left arm.
+You flee head over heels.
+You flee head over heels.
+Dark Hole
+A stocky mountain mule is here, waiting to serve.
+A hungry warg stands here, sniffing around for flesh.
+Exits: North Up.
+
+o W C HP:Hurt Mana:Cold>d
+Alas, you cannot go that way...
+
+o W C HP:Hurt Mana:Cold>n
+Lookhu narrates 'too far'
+Underneath the Trunk
+Exits: East South.
+
+o W C HP:Hurt Mana:Cold>n
+Alas, you cannot go that way...
+
+o W C HP:Hurt Mana:Cold>e
+Wet Tunnel
+A tiny spider is here, eating a tiny bug.
+Exits: East West.
+
+o W C HP:Hurt Mana:Cold>e
+e
+Cave
+The corpse of the young ruffian is lying here.
+The corpse of the young ruffian is lying here.
+Exits: North East West.
+
+* W C HP:Hurt Mana:Cold>e
+Dining Room
+A half-rotten corpse is hanging here.
+A dirty ruffian draped in rags advances towards you.
+Exits: East West.
+
+* W C HP:Hurt Mana:Cold>Chambers
+* W C HP:Hurt Mana:Cold>Chambers
+The corpse of the young ruffian is lying here.
+The corpse of Scarred is lying here.
+*a Dwarf* is standing here.
+Exits: West.
+
+* W C HP:Hurt Mana:Cold>narr im deaD:P
+TARGET - DWARF -
+Ok.
+
+* W C HP:Hurt Mana:Cold>c 'light' *dwarf*
+You are too afraid.
+
+* W C HP:Hurt Mana:Cold>
+*Arte the Beorning Man* has arrived from the west.
+*Lowyn the Rohir Woman* has arrived from the west.
+*a Dwarf* has arrived from the west.
+A mountain mule has arrived from the west.
+*Tyrip the Dwarf* has arrived from the west.
+A mountain mule has arrived from the west.
+You swiftly dodge *a Dwarf*'s attempt to pound you.
+
+* W C HP:Hurt Mana:Cold *a Dwarf*:Healthy>
+Sloshed narrates 'hehe to far i south abr :)'
+You flee head over heels.
+Dining Room
+A half-rotten corpse is hanging here.
+A dirty ruffian draped in rags advances towards you.
+Exits: East West.
+
+* W C HP:Hurt Mana:Cold>?
+*Arte the Beorning Man* has arrived from the east.
+*Lowyn the Rohir Woman* has arrived from the east.
+*a Dwarf* has arrived from the east.
+A mountain mule has arrived from the east.
+*Tyrip the Dwarf* has arrived from the east.
+*Tyrip the Dwarf* has arrived from the east.
+A mountain mule has arrived from the east.
+Arglebargle, glop-glyf!?!
+*a Dwarf* quickly approaches, trying to pound you.
+The young ruffian tries to pierce you, but your parry is successful.
+
+* W C HP:Hurt Mana:Cold *a Dwarf*:Healthy>
+*Tyrip the Dwarf* tries to pound you, but your parry is successful.
+
+* W C HP:Hurt Mana:Cold *a Dwarf*:Healthy>f
+You flee head over heels.
+Cave
+The corpse of the young ruffian is lying here.
+The corpse of the young ruffian is lying here.
+Exits: North East West.
+
+* W C HP:Hurt Mana:Cold>w
+w
+Wet Tunnel
+A tiny spider is here, eating a tiny bug.
+Exits: East West.
+
+o W C HP:Hurt Mana:Cold>Underneath the Trunk
+Exits: East South.
+
+o W C HP:Hurt Mana:Cold>=100
+cha wimpy 100
+Wimpy set to: 100
+
+o W C HP:Hurt Mana:Cold>
+*Arte the Beorning Man* has arrived from the east.
+*Lowyn the Rohir Woman* has arrived from the east.
+*a Dwarf* has arrived from the east.
+A mountain mule has arrived from the east.
+*Tyrip the Dwarf* has arrived from the east.
+A mountain mule has arrived from the east.
+A mountain mule has arrived from the east.
+*a Dwarf* quickly approaches, trying to pound you.
+
+* W C HP:Hurt Mana:Cold *a Dwarf*:Healthy>e
+No way! You are fighting for your life!
+*Arte the Beorning Man* smites your right leg extremely hard and shatters it.
+
+* W C HP:Wounded Mana:Cold *a Dwarf*:Healthy>e
+e
+No way! You are fighting for your life!
+
+* W C HP:Wounded Mana:Cold *a Dwarf*:Healthy>e
+c 'light' *dwarf*
+No way! You are fighting for your life!
+
+* W C HP:Wounded Mana:Cold *a Dwarf*:Healthy>f
+No way! You are fighting for your life!
+
+* W C HP:Wounded Mana:Cold *a Dwarf*:Healthy>You start to concentrate...
+
+n
+e
+e
+e
+Lookhu narrates 'NO! diam'
+*a Dwarf* pounds your head extremely hard and shatters it.
+Aye! You cannot concentrate any more...
+
+* W C HP:Wounded Mana:Cold *a Dwarf*:Healthy>You flee head over heels.
+Dark Hole
+A stocky mountain mule is here, waiting to serve.
+A hungry warg stands here, sniffing around for flesh.
+Exits: North Up.
+
+o W C HP:Wounded Mana:Cold>Underneath the Trunk
+*Arte the Beorning Man* is standing here.
+*Arte the Beorning Man* is standing here.
+*Lowyn the Rohir Woman* is standing here.
+*a Dwarf* is standing here.
+A stocky mountain mule is here, waiting to serve.
+*Tyrip the Dwarf* is standing here.
+A stocky mountain mule is here, waiting to serve.
+Exits: East South.
+
+* W C HP:Wounded Mana:Cold>=50
+*a Dwarf* quickly approaches, trying to pound you.
+No way! You are fighting for your life!
+
+* W C HP:Wounded Mana:Cold *a Dwarf*:Healthy>No way! You are fighting for your life!
+
+* W C HP:Wounded Mana:Cold *a Dwarf*:Healthy>*Arte the Beorning Man* quickly approaches, trying to
+ smite you.
+No way! You are fighting for your life!
+
+* W C HP:Wounded Mana:Cold *a Dwarf*:Healthy>recite purplescroll
+cha wimpy 50
+Wimpy set to: 50
+
+* W C HP:Wounded Mana:Cold *a Dwarf*:Healthy>You recite a purple scroll which dissolves.
+You start glowing.
+Diamonium creates a noxious cloud around you!
+You create a noxious cloud around him.
+You ignore the effects.
+Nothing happens.
+
+* W C HP:Wounded Mana:Cold *a Dwarf*:Healthy>f
+You flee head over heels.
+Dark Hole
+A stocky mountain mule is here, waiting to serve.
+A hungry warg stands here, sniffing around for flesh.
+Exits: North Up.
+
+
+o W C HP:Wounded Mana:Cold>n
+Underneath the Trunk
+*Arte the Beorning Man* is standing here.
+*Lowyn the Rohir Woman* is standing here.
+*a Dwarf* is standing here.
+A stocky mountain mule is here, waiting to serve.
+*Tyrip the Dwarf* is standing here.
+A stocky mountain mule is here, waiting to serve.
+Exits: East South.
+*a Dwarf* quickly approaches, trying to pound you.
+
+* W C HP:Wounded Mana:Cold *a Dwarf*:Healthy>e
+No way! You are fighting for your life!
+
+* W C HP:Wounded Mana:Cold *a Dwarf*:Healthy>
+*Arte the Beorning Man* quickly approaches, trying to smite you.
+
+* W C HP:Wounded Mana:Cold *a Dwarf*:Healthy>e
+*Tyrip the Dwarf* tries to pound you, but your parry is successful.
+No way! You are fighting for your life!
+
+* W C HP:Wounded Mana:Cold *a Dwarf*:Healthy>f
+You flee head over heels.
+Dark Hole
+A stocky mountain mule is here, waiting to serve.
+A hungry warg stands here, sniffing around for flesh.
+Exits: North Up.
+
+o W C HP:Wounded Mana:Cold>n
+e
+Underneath the Trunk
+*Arte the Beorning Man* is standing here.
+*Lowyn the Rohir Woman* is standing here.
+*a Dwarf* is standing here.
+A stocky mountain mule is here, waiting to serv
+
+* W C HP:Wounded Mana:Cold>*Lowyn the Rohir Woman* begins some strange incantations...
+Wet Tunnel
+A tiny spider is here, eating a tiny bug.
+Exits: East West.
+
+o W C HP:Wounded Mana:Cold>e
+e
+Cave
+The corpse of the young ruffian is lying here.
+The corpse of the young ruffian is lying here.
+Exits: North East West.
+
+* W C HP:Wounded Mana:Cold>e
+Dining Room
+A half-rotten corpse is hanging here.
+A dirty ruffian draped in rags advances towards you.
+Exits: East West.
+
+* W C HP:Wounded Mana:Cold>c 'light' *dwarf*
+Chambers
+The corpse of the young ruffian is lying here.
+The corpse of Scarred is lying here.
+*a Dwarf* is standing here.
+Exits: West.
+
+* W C HP:Wounded Mana:Cold>You cannot attack and flee at the same time.
+
+* W C HP:Wounded Mana:Cold>
+Sloshed narrates 'i told ya stick with us :P you said wanna go on own can't
+get tehre in time :('
+
+* W C HP:Wounded Mana:Cold>
+*a Dwarf* begins some strange incantations...
+
+* W C HP:Wounded Mana:Cold>=30
+* W C HP:Wounded Mana:Cold>=30
+cha wimpy 30
+Wimpy set to: 30
+
+* W C HP:Wounded Mana:Cold>c 'light' *dwarf*
+You start to concentrate...
+*Snapp the Harfoot Hobbit* has arrived from the west.
+*Qual the Silvan Elf* has arrived from the west.
+A pony has arrived from the west.
+*Snepp the Harfoot Hobbit* has arrived from the west.
+*a Dwarf* utters the words 'judicandus dies'
+
+*Qual the Silvan Elf* begins some strange incantations...
+
+*Arte the Beorning Man* has arrived from the west.
+*Lowyn the Rohir Woman* has arrived from the west.
+*a Dwarf* has arrived from the west.
+A mountain mule has arrived from the west.
+*Tyrip the Dwarf* has arrived from the west.
+A mountain mule has arrived from the west.
+*Snepp the Harfoot Hobbit* smites your right arm hard.
+Aye! You cannot concentrate any more...
+
+* W C HP:Bad Mana:Cold *Snepp the Harfoot Hobbit*:Healthy>
+*Arte the Beorning Man* smites your left arm extremely hard and shatters it.
+You wish that your wounds would stop BLEEDING so much!
+You barely slash *Snepp the Harfoot Hobbit*'s right leg and tickle it.
+
+* W C HP:Bad Mana:Cold *Snepp the Harfoot Hobbit*:Fine>f
+You flee head over heels.
+Dining Room
+A half-rotten corpse is hanging here.
+A dirty ruffian draped in rags advances towards you.
+Exits: East West.
+
+* W C HP:Bad Mana:Cold>w
+* W C HP:Bad Mana:Cold>w
+Cave
+The corpse of the young ruffian is lying here.
+The corpse of the young ruffian is lying here.
+Exits: North East West.
+
+* W C HP:Bad Mana:Cold>w
+Wet Tunnel
+A tiny spider is here, eating a tiny bug.
+Exits: East West.
+
+o W C HP:Bad Mana:Cold>
+*a Dwarf* has arrived from the west.
+A pony has arrived from the west.
+
+* W C HP:Bad Mana:Cold>e
+Cave
+The corpse of the young ruffian is lying here.
+The corpse of the young ruffian is lying here.
+*Arte the Beorning Man* is standing here.
+*a Dwarf* is standing here.
+A stocky mountain mule is here, waiting to serve.
+*Tyrip the Dwarf* is standing here.
+A stocky mountain mule is here, waiting to serve.
+Exits: North East West.
+You suddenly notice *Lowyn the Rohir Woman*.
+
+* W C HP:Bad Mana:Cold>n
+Garbage Pit
+Exits: South.
+
+* W C HP:Bad Mana:Cold>
+*Snapp the Harfoot Hobbit* has arrived from the south.
+*Qual the Silvan Elf* has arrived from the south.
+A pony has arrived from the south.
+*Snepp the Harfoot Hobbit* has arrived from the south.
+*Snepp the Harfoot Hobbit* has arrived from the south.
+*Snepp the Harfoot Hobbit* quickly approaches, trying to smite you.
+
+* W C HP:Bad Mana:Cold *Snepp the Harfoot Hobbit*:Fine>s
+You swiftly dodge *Snapp the Harfoot Hobbit*'s attempt to smite you.
+You wish that your wounds would stop BLEEDING so much!
+No way! You are fighting for your life!
+
+* W C HP:Bad Mana:Cold *Snepp the Harfoot Hobbit*:Fine>f
+e
+You flee head over heels.
+Cave
+The corpse of the young ruffian is lying here.
+The corpse of the young ruffian is lying here.
+*Arte the Beorning Man* is standing here.
+*Lowyn the Rohir Woman* is standing here.
+*a Dwarf* is standing here.
+A stocky mountain mule is here, waiting to serve.
+*Tyrip the Dwarf* is standing here.
+A stocky mountain mule is here, waiting to serve.
+Exits: North East West.
+*Tyrip the Dwarf* pounds your body hard and shatters it.
+You wish that your wounds would stop BLEEDING so much!
+
+* W C HP:Awful Mana:Cold *Tyrip the Dwarf*:Healthy>e
+*Arte the Beorning Man* leaves -- NORTH --.
+*Lowyn the Rohir Woman* leaves -- NORTH --.
+*a Dwarf* leaves -- NORTH --.
+A mountain mule leaves north.
+No way! You are fighting for your life!
+
+* W C HP:Awful Mana:Cold *Tyrip the Dwarf*:Healthy>No way! You are fighting for your life!
+
+* W C HP:Awful Mana:Cold *Tyrip the Dwarf*:Healthy>
+*Arte the Beorning Man* has arrived from the north.
+*Lowyn the Rohir Woman* has arrived from the north.
+*Lowyn the Rohir Woman* has arrived from the north.
+*a Dwarf* has arrived from the north.
+A mountain mule has arrived from the north.
+
+* W C HP:Awful Mana:Cold *Tyrip the Dwarf*:Healthy>f
+
+*Arte the Beorning Man* quickly approaches, trying to smite you.
+*a Dwarf* pounds your left arm hard and shatters it.
+You wish that your wounds would stop BLEEDING so much!
+You flee head over heels.
+Garbage Pit
+*Snapp the Harfoot Hobbit* is standing here.
+*Qual the Silvan Elf* is standing here.
+A domesticated pony, beast of burden to many, stands here.
+*Snepp the Harfoot Hobbit* is standing here.
+Exits: South.
+
+* W C HP:Awful Mana:Cold Move:Tired>You flee head over heels.
+Cave
+The corpse of the young ruffian is lying here.
+The corpse of the young ruffian is lying here.
+*Tyrip the Dwarf* is standing here.
+A stocky mountain mule is here, waiting to serve.
+*Arte the Beorning Man* is standing here.
+*Lowyn the Rohir Woman* is standing here.
+*a Dwarf* is standing here.
+A stocky mountain mule is here, waiting to serve.
+Exits: North East West.
+
+* W C HP:Awful Mana:Cold Move:Tired>e
+e
+Dining Room
+A half-rotten corpse is hanging here.
+A dirty ruffian draped in rags advances towards you.
+Exits: East West.
+
+
+* W C HP:Awful Mana:Cold Move:Tired>Chambers
+The corpse of the young ruffian is lying here.
+The corpse of Scarred is lying here.
+*a Dwarf* is standing here.
+Exits: West.
+
+* W C HP:Awful Mana:Cold Move:Tired>yrelL BYE
+*a Dwarf* panics, and attempts to flee.
+*a Dwarf* leaves -- WEST --.
+Arglebargle, glop-glyf!?!
+
+* W C HP:Awful Mana:Cold Move:Tired>yelL BYE
+*Arte the Beorning Man* has arrived from the west.
+*a Dwarf* has arrived from the west.
+A mountain mule has arrived from the west.
+*Tyrip the Dwarf* has arrived from the west.
+A mountain mule has arrived from the west.
+*a Dwarf* quickly approaches, trying to pound you.
+Ok.
+
+* W C HP:Awful Mana:Cold Move:Tired *a Dwarf*:Healthy>f
+You flee head over heels.
+PANIC! You couldn't escape!
+
+* W C HP:Awful Mana:Cold Move:Tired *a Dwarf*:Healthy>w
+No way! You are fighting for your life!
+
+* W C HP:Awful Mana:Cold Move:Tired *a Dwarf*:Healthy>s
+f
+w
+No way! You are fighting for your life!
+You suddenly notice *Lowyn the Rohir Woman*.
+*Snapp the Harfoot Hobbit* has arrived from the west.
+*Qual the Silvan Elf* has arrived from the west.
+A pony has arrived from the west.
+A pony has arrived from the west.
+*Snepp the Harfoot Hobbit* has arrived from the west.
+*Tyrip the Dwarf* quickly approaches, trying to pound you.
+
+* W C HP:Awful Mana:Cold Move:Tired *a Dwarf*:Healthy>w
+You flee head over heels.
+Dining Room
+A half-rotten corpse is hanging here.
+The young ruffian is here, fighting *a Dwarf*.
+*a Dwarf* is here, fighting the young ruffian.
+Exits: East West.
+
+* W C HP:Awful Mana:Cold Move:Tired>Cave
+The corpse of the young ruffian is lying here.
+The corpse of the young ruffian is lying here.
+*a Dwarf* is standing here.
+A domesticated pony, beast of burden to many, stands here.
+Exits: North East West.
+
+* W C HP:Awful Mana:Cold Move:Tired>f
+Wet Tunnel
+A tiny spider is here, eating a tiny bug.
+Exits: East West.
+
+o W C HP:Awful Mana:Cold Move:Tired>w
+You flee head over heels.
+Cave
+The corpse of the young ruffian is lying here.
+The corpse of the young ruffian is lying here.
+*a Dwarf* is standing here.
+A domesticated pony, beast of burden to many, stands here.
+Exits: North East West.
+
+* W C HP:Awful Mana:Cold Move:Tired>w
+Wet Tunnel
+A tiny spider is here, eating a tiny bug.
+Exits: East West.
+
+o W C HP:Awful Mana:Cold Move:Tired>Underneath the Trunk
+Exits: East South.
+
+o W C HP:Awful Mana:Cold Move:Tired>s
+Dark Hole
+A stocky mountain mule is here, waiting to serve.
+A hungry warg stands here, sniffing around for flesh.
+Exits: North Up.
+
+o W C HP:Awful Mana:Cold Move:Tired>s
+u
+Alas, you cannot go that way...
+
+o W C HP:Awful Mana:Cold Move:Tired>Inside the Rotten Trunk
+A small harmless centipede is here.
+Exits: Up Down.
+
+o W C HP:Awful Mana:Cold Move:Tired>sc
+14/272 hit, 22/118 mana, and 33/130 moves.
+
+o W C HP:Awful Mana:Cold Move:Tired>open Trunk
+That's impossible, I'm afraid.
+
+o W C HP:Awful Mana:Cold Move:Tired>
+*Arte the Beorning Man* has arrived from below.
+*Lowyn the Rohir Woman* has arrived from below.
+*a Dwarf* has arrived from below.
+A mountain mule has arrived from below.
+*Tyrip the Dwarf* has arrived from below.
+A mountain mule has arrived from below.
+
+* W C HP:Awful Mana:Cold Move:Tired>
+*Arte the Beorning Man* smites your body ex
+*Arte the Beorning Man* smites your body extremely hard and shatters it.
+You are incapacitated and will slowly die, if not aided.
+You feel a strong ache there!
+
+You are dead! Sorry...
+
+
+* W C HP:Awful Mana:Cold Move:Tired>stat
+OB: 91%, DB: -25%, PB: 0%, Armour: 0%. Wimpy: 30. Mood: wimpy.
+Needed: 1,522,187 xp, 0 tp. Wp: 30. Gold: 0. Alert: normal.
+Affected by:
+- Mandos sleep for 12 hours.
+
+* W C HP:Awful Mana:Cold Move:Tired>stat
+OB: 91%, DB: -25%, PB: 0%, Armour: 0%. Wimpy: 30. Mood: wimpy.
+Needed: 1,522,187 xp, 0 tp. Wp: 30. Gold: 0. Alert: normal.
+Affected by:
+- Mandos sleep for 13 hours.

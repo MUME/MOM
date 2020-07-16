@@ -1,0 +1,977 @@
+![ CW>hide n
+You attempt to hide yourself.
+
+{mees}={*man*}
+
+--->  *man*  ---  [door], [moer], [kala]
+--->  *man*
+--->  A S T $sense $detect
+
+Ok.
+
+![ CW>
+Galadorn narrates 'south of fornost'
+
+![ CW>sc
+272/272 hits, 60/60 mana, and 76/129 moves.
+
+![ CW>
+The door is opened from the other side.
+
+![ CW>
+You sneeze.
+
+![ CW>sneak
+s
+/show --- SNEAKING ON ---
+
+![ CSW>A Long Hallway
+A woman is here, looking for someone to chat with.
+A wolf cub happily plays here.
+Exits: (north), (east), down.
+
+![ CSW>n
+Master Bedroom
+Exits: (south).
+
+![ CSW>s
+A Long Hallway
+A woman is here, looking for someone to chat with.
+A wolf cub happily plays here.
+Exits: (north), (east), down.
+
+![ CSW>n
+Master Bedroom
+Exits: (south).
+
+![ CSW>ce
+
+Dreakor narrates 'any remp around gh?'
+
+![ CSW>z
+close exit
+A wolf cub has arrived from the south.
+
+Ok.
+
+![ CSW>reveal q
+You begin to search...
+
+hide q
+You didn't find anyone.
+The door is opened from the other side.
+
+![ CSW>You attempt to hide yourself.
+
+s
+Ok.
+
+![ CSW>n
+A Long Hallway
+Exits: (north), (east), down.
+
+![ CSW>Master Bedroom
+A wolf cub happily plays here.
+Exits: (south).
+You have found *a grim Man*!
+
+![ CSW>
+*a grim Man* leaves his hiding place.
+*a grim Man* CLOSES  -[ door ]-     _USE ROCK_
+
+![ CSW>s
+*a grim Man* OPENS  -[ door ]-     _CLOSE_BLOCK_
+A Long Hallway
+Exits: (north), (east), down.
+
+![ CSW>e
+A Bedroom
+A woman is here, looking for someone to chat with.
+Exits: (west).
+
+![ CSW>hide q
+You attempt to hide yourself.
+
+Ok.
+
+![ CSW>w
+A Long Hallway
+Exits: (north), (east), down.
+You have found *a grim Man*!
+
+![ CSW>
+*a grim Man* leaves his hiding place.
+
+![ CSW>e
+A Bedroom
+A woman is here, looking for someone to chat with.
+Exits: (west).
+
+![ CSW>w
+A Long Hallway
+*a grim Man* is standing here searching for tracks.
+Exits: (north), (east), down.
+
+![ CSW>shoo *man*
+Hilmar narrates 'so its no orc around fornost'
+
+tell Dunlop come
+You shoot *a grim Man*'s right hand extremely hard.
+You lightly hit *a grim Man*'s right leg and tickle it.
+
+![ CSW *a grim Man*:Fine>Ok.
+
+![ CSW *a grim Man*:Fine>shoo *man*
+*a grim Man* nocks a missile in a black horn shortbow.
+
+shoo *man*
+Hilmar narrates '??'
+*a grim Man* shoots your right arm very hard and tickles it.
+Aye! You cannot concentrate any more...
+
+![ CSW HP:Fine *a grim Man*:Fine>*a grim Man* is FLEEING.
+*a grim Man* leaves DOWN.
+Your victim has disappeared!
+
+![ CSW HP:Fine>shoo *man*
+Shoot whom?
+A simple farmer yells loudly from below 'A Black Numenorean is here in an Old Farmhouse!'
+
+![ CSW HP:Fine>shoo *man*
+Shoot whom?
+
+![ CSW HP:Fine>d
+An Old Farmhouse
+A peaceful farmer is here, whistling merrily.
+*a grim Man* is standing here.
+Exits: [south], up.
+
+![ CSW HP:Fine>shoo *man*
+*a grim Man* leaves UP.
+Your victim has disappeared!
+
+![ CSW HP:Fine>u
+Dunlop tells you 'where'
+A Long Hallway
+Exits: (north), (east), down.
+You have found *a grim Man*!
+
+![ CSW HP:Fine>shoo *man*
+*a grim Man* leaves NORTH.
+Shoot whom?
+You sneeze.
+
+![ CSW HP:Fine>n
+shoo *man*
+Master Bedroom
+A wolf cub happily plays here.
+Exits: (south).
+
+![ CSW HP:Fine>Shoot whom?
+
+![ CSW HP:Fine>s
+shoo *man*
+A Long Hallway
+Exits: (north), (east), down.
+
+![ CSW HP:Fine>Shoot whom?
+![ CSW HP:Fine>
+The -[ door ]- CLOSES from outside! _BREAK_.
+
+![ CSW HP:Fine>e
+A Bedroom
+A woman is here, looking for someone to chat with.
+Exits: (west).
+
+![ CSW HP:Fine>w
+A Long Hallway
+Exits: (north), (east), down.
+You have found *a grim Man*!
+*a grim Man* leaves east sneaking.
+
+![ CSW HP:Fine>
+*a grim Man* has arrived from the east.
+
+![ CSW HP:Fine>
+*a grim Man* nocks a missile in a black horn shortbow.
+
+![ CSW HP:Fine>n
+Master Bedroom
+A wolf cub happily plays here.
+Exits: (south).
+
+![ CSW HP:Fine>s
+A Long Hallway
+*a grim Man* is standing here.
+Exits: (north), (east), down.
+
+![ CSW HP:Fine>shoo *man*
+*a grim Man* leaves NORTH.
+Your victim has disappeared!
+
+![ CSW HP:Fine>
+Dunlop tells you 'coming'
+
+![ CSW HP:Fine>n
+close exit
+Master Bedroom
+A wolf cub happily plays here.
+Exits: (south).
+You have found *a grim Man*!
+*a grim Man* leaves his hiding place.
+*a grim Man* CLOSES  -[ door ]-     _USE ROCK_
+
+![ CSW HP:Fine>It's already closed!
+
+![ CSW HP:Fine>shoo *man*
+*a grim Man* nocks a missile in a black horn shortbow.
+
+shoo *man*
+shoo *man*
+shoo *man*
+*a grim Man* shoots your left leg very hard and tickles it.
+Aye! You cannot concentrate any more...
+
+![ CSW HP:Fine *a grim Man*:Fine>*a grim Man* nocks a missile in a black horn shortbow.
+
+shoo *man*
+shoo *man*
+You shoot *a grim Man*'s body extremely hard and shatter it.
+
+![ CSW HP:Fine *a grim Man*:Hurt>*a grim Man* nocks a missile in a black horn shortbow.
+
+shoo *man*
+shoo *man*
+shoo *man*
+You shoot *a grim Man*'s left arm extremely hard.
+
+![ CSW HP:Fine *a grim Man*:Hurt>*a grim Man* nocks a missile in a black horn shortbow.
+
+shoo *man*
+shoo *man*
+shoo *man*
+You shoot *a grim Man*'s head extremely hard and shatter it.
+
+![ CSW HP:Fine *a grim Man*:Wounded>*a grim Man* nocks a missile in a black horn shortbow.
+
+Stefani narrates 'i cant find anny f...tracks of it...but where is it seen
+last time?'
+
+shoo *man*
+*a grim Man* shoots your right foot extremely hard.
+Aye! You cannot concentrate any more...
+
+![ CSW HP:Fine *a grim Man*:Wounded>shoo *man*
+*a grim Man* nocks a missile in a black horn shortbow.
+
+shoo *man*
+You shoot *a grim Man*'s left leg extremely hard and shatter it.
+
+![ CSW HP:Fine *a grim Man*:Bad>*a grim Man* OPENS  -[ door ]-     _CLOSE_BLOCK_
+*a grim Man* is FLEEING.
+*a grim Man* leaves SOUTH.
+Your victim has disappeared!
+
+![ CSW HP:Fine>Shoot whom?
+
+![ CSW HP:Fine>shoo *man*
+Shoot whom?
+
+![ CSW HP:Fine>s
+Shoot whom?
+
+![ CSW HP:Fine>Shoot whom?
+
+![ CSW HP:Fine>hit *man*
+Shoot whom?
+
+![ CSW HP:Fine>d
+hit *man*
+Shoot whom?
+
+![ CSW HP:Fine>Shoot whom?
+
+![ CSW HP:Fine>Shoot whom?
+
+![ CSW HP:Fine>Shoot whom?
+
+![ CSW HP:Fine>s
+d
+A Long Hallway
+Exits: (north), (east), down.
+
+![ CSW HP:Fine>- No exit on map!
+hit *man*
+They aren't here.
+
+![ CSW HP:Fine>shoo *man*
+An Old Farmhouse
+Exits: [south], up.
+
+![ CSW HP:Fine>They aren't here.
+
+![ CSW HP:Fine>The -[ door ]- is CLOSED
+
+![ CSW HP:Fine>u
+Alas, you cannot go that way...
+
+![ CSW HP:Fine>They aren't here.
+
+![ CSW HP:Fine>Shoot whom?
+
+![ CSW HP:Fine>e
+A Long Hallway
+Exits: (north), [east], down.
+
+![ CSW HP:Fine>The -[ door ]- is CLOSED
+
+![ CSW HP:Fine>e
+The -[ door ]- is CLOSED
+
+![ CSW HP:Fine>
+Dunlop tells you 'its blocked'
+
+![ CSW HP:Fine>open exit
+It's already open!
+
+![ CSW HP:Fine>e
+The -[ door ]- is CLOSED
+
+![ CSW HP:Fine>
+You sneeze.
+
+![ CSW HP:Fine>
+You begin to feel hungry.
+
+![ CSW HP:Fine>oe e
+ce
+open exit e
+Ok.
+
+![ CSW HP:Fine>close exit
+Ok.
+
+![ CSW HP:Fine>e
+A Bedroom
+A woman is here, looking for someone to chat with.
+*a grim Man* is standing here.
+Exits: (west).
+
+![ CSW HP:Fine>
+*a grim Man* leaves WEST.
+
+![ CSW HP:Fine>w
+A Long Hallway
+Exits: [north], (east), down.
+You have found *a grim Man*!
+
+![ CSW HP:Fine>d
+*a grim Man* leaves DOWN.
+An Old Farmhouse
+A peaceful farmer is here, whistling merrily.
+Exits: [south], up.
+You have found *a grim Man*!
+
+![ CSW HP:Fine>shoo *man*
+*a grim Man* leaves up sneaking.
+Your victim has disappeared!
+
+![ CSW HP:Fine>u
+shoo *man*
+A Long Hallway
+Exits: [north], (east), down.
+
+![ CSW HP:Fine>d
+Shoot whom?
+
+![ CSW HP:Fine>shoo *man*
+An Old Farmhouse
+A peaceful farmer is here, whistling merrily.
+Exits: [south], up.
+
+![ CSW HP:Fine>Shoot whom?
+
+![ CSW HP:Fine>u
+shoo *man*
+A Long Hallway
+Exits: [north], (east), down.
+You have found *a grim Man*!
+
+![ CSW HP:Fine>e
+*a grim Man* leaves DOWN.
+Your victim has disappeared!
+
+![ CSW HP:Fine>shoo *man*
+A Bedroom
+A woman is here, looking for someone to chat with.
+Exits: (west).
+
+![ CSW HP:Fine>Shoot whom?
+
+![ CSW HP:Fine>w
+d
+A Long Hallway
+Exits: [north], (east), down.
+You have found *a grim Man*!
+
+![ CSW HP:Fine>An Old Farmhouse
+A peaceful farmer is here, whistling merrily.
+Exits: [south], up.
+
+![ CSW HP:Fine>assist
+d
+- No exit on map!
+Who do you want to assist?
+
+![ CSW HP:Fine>shoo *man*
+Alas, you cannot go that way...
+
+![ CSW HP:Fine>u
+Shoot whom?
+
+![ CSW HP:Fine>shoo *man*
+d
+A Long Hallway
+Exits: [north], (east), down.
+You have found *a grim Man*!
+
+![ CSW HP:Fine>shoo *man*
+*a grim Man* leaves down sneaking.
+Your victim has disappeared!
+An Old Farmhouse
+A peaceful farmer is here, whistling merrily.
+Exits: [south], up.
+You have found *a grim Man*!
+
+![ CSW HP:Fine>*a grim Man* leaves up sneaking.
+Your victim has disappeared!
+
+![ CSW HP:Fine>u
+A Long Hallway
+Exits: [north], (east), down.
+
+![ CSW HP:Fine>shoo *man*
+Shoot whom?
+
+![ CSW HP:Fine>cha mood aggressive
+Aribeth narrates 'some swede was downloading music from my comp!!!'
+
+fa
+Ok.
+
+![ CSW HP:Fine>wield fang
+
+e
+hit *man*
+You don't have a fang.
+
+![ CSW HP:Fine>A Bedroom
+A woman is here, looking for someone to chat with.
+Exits: (west).
+
+![ CSW HP:Fine>w
+hit *man*
+They aren't here.
+
+![ CSW HP:Fine Move:Tired>open exit
+A Long Hallway
+Exits: [north], (east), down.
+You have found *a grim Man*!
+
+![ CSW HP:Fine Move:Tired>*a grim Man* leaves his hiding place.
+*a grim Man* OPENS  -[ door ]-     _CLOSE_BLOCK_
+
+n
+hit *man*
+*a grim Man* leaves NORTH.
+They aren't here.
+
+![ CSW HP:Fine Move:Tired>It's already open!
+
+![ CSW HP:Fine Move:Tired>s
+Master Bedroom
+A wolf cub happily plays here.
+Exits: (south).
+You have found *a grim Man*!
+*a grim Man* leaves his hiding place.
+*a grim Man* CLOSES  -[ door ]-     _USE ROCK_
+
+![ CSW HP:Fine Move:Tired>hit *man*
+*a grim Man* OPENS  -[ door ]-     _CLOSE_BLOCK_
+You lightly hit *a grim Man*'s body and tickle it.
+
+![ CSW HP:Fine Move:Tired *a grim Man*:Bad>No way! You are fighting for your life!
+*a grim Man* is FLEEING.
+
+![ CSW HP:Fine Move:Tired *a grim Man*:Bad>close exit
+You're already fighting!
+
+![ CSW HP:Fine Move:Tired *a grim Man*:Bad>close exit
+close exit
+Ok.
+
+![ CSW HP:Fine Move:Tired *a grim Man*:Bad>It's already closed!
+
+![ CSW HP:Fine Move:Tired *a grim Man*:Bad>It's already closed!
+*a grim Man* is FLEEING.
+
+![ CSW HP:Fine Move:Tired *a grim Man*:Bad>fa
+wield fang
+You don't have a fang.
+
+![ CSW HP:Fine Move:Tired *a grim Man*:Bad>
+*a grim Man* OPENS  -[ door ]-     _CLOSE_BLOCK_
+
+![ CSW HP:Fine Move:Tired *a grim Man*:Bad>draw
+
+*a grim Man* is FLEEING.
+*a grim Man* leaves SOUTH.
+
+![ CSW HP:Fine Move:Tired>You hang an embellished longbow across your back.
+You masterfully draw a nasty orkish fang, ready to defend yourself.
+
+![ CSW HP:Fine Move:Tired>cha mood aggressive
+s
+hit *man*
+Ok.
+
+![ CSW HP:Fine Move:Tired>A Long Hallway
+Exits: (north), (east), down.
+
+![ CSW HP:Fine Move:Tired>d
+hit *man*
+*a grim Man* has arrived from the east.
+You approach *a grim Man*, trying to pierce him.
+
+![ CSW HP:Fine Move:Tired *a grim Man*:Bad>*a grim Man* nocks a missile in a black horn shortbow.
+No way! You are fighting for your life!
+*a grim Man* is FLEEING.
+*a grim Man* leaves NORTH.
+
+![ CSW HP:Fine Move:Tired>They aren't here.
+
+![ CSW HP:Fine Move:Tired>
+Dunlop tells you 'u died?'
+
+![ CSW HP:Fine Move:Tired>n
+hit *man*
+Master Bedroom
+A wolf cub happily plays here.
+*a grim Man* is standing here.
+Exits: (south).
+
+![ CSW HP:Fine Move:Tired>s
+hit *man*
+*a grim Man* leaves SOUTH.
+They aren't here.
+
+![ CSW HP:Fine Move:Tired>A Long Hallway
+Exits: (north), (east), down.
+You have found *a grim Man*!
+
+![ CSW HP:Fine Move:Tired>*a grim Man* leaves east sneaking.
+
+They aren't here.
+
+![ CSW HP:Fine Move:Tired>n
+Master Bedroom
+A wolf cub happily plays here.
+Exits: (south).
+
+![ CSW HP:Fine Move:Tired>s
+
+*a grim Man* has arrived from the south.
+
+![ CSW HP:Fine Move:Tired>e
+hit *man*
+A Long Hallway
+Exits: (north), (east), down.
+
+![ CSW HP:Fine Move:Tired>A Bedroom
+A woman is here, looking for someone to chat with.
+Exits: (west).
+
+![ CSW HP:Fine Move:Tired>w
+hit *man*
+They aren't here.
+
+![ CSW HP:Fine Move:Tired>n
+hit *man*
+A Long Hallway
+Exits: (north), (east), down.
+*a grim Man* has arrived from the north.
+
+![ CSW HP:Fine Move:Tired>You pierce *a grim Man*'s left arm hard and shatter it.
+
+![ CSW HP:Fine Move:Tired *a grim Man*:Bad>No way! You are fighting for your life!
+
+![ CSW HP:Fine Move:Tired *a grim Man*:Bad>You're already fighting!
+Dunlop tells you 'u died?'
+*a grim Man* is FLEEING.
+*a grim Man* leaves EAST.
+
+![ CSW HP:Fine Move:Tired>close exit
+Ok.
+
+![ CSW HP:Fine Move:Tired>
+Zaria narrates 'free enchants in bree'
+
+![ CSW HP:Fine Move:Tired>e
+hit *man*
+A Bedroom
+A woman is here, looking for someone to chat with.
+*a grim Man* is standing here.
+Exits: (west).
+*a grim Man* leaves WEST.
+
+![ CSW HP:Fine Move:Tired>close exit
+They aren't here.
+
+![ CSW HP:Fine Move:Tired>Ok.
+
+![ CSW HP:Fine Move:Tired>open exit
+w
+Ok.
+
+![ CSW HP:Fine Move:Tired>hit *man*
+A Long Hallway
+Exits: [north], (east), down.
+
+![ CSW HP:Fine Move:Tired>They aren't here.
+
+![ CSW HP:Fine Move:Tired>d
+hit *man*
+An Old Farmhouse
+A peaceful farmer is here, whistling merrily.
+Exits: [south], up.
+You have found *a grim Man*!
+
+![ CSW HP:Fine Move:Tired>close exit
+*a grim Man* leaves up sneaking.
+
+close exit
+They aren't here.
+
+![ CSW HP:Fine Move:Tired>close exit
+It's already closed!
+
+![ CSW HP:Fine Move:Tired>close exit
+It's already closed!
+You sneeze.
+
+![ CSW HP:Fine Move:Tired>u
+It's already closed!
+
+![ CSW HP:Fine Move:Tired>hit *man*
+It's already closed!
+
+![ CSW HP:Fine Move:Tired>A Long Hallway
+Exits: [north], (east), down.
+The -[ door ]- CLOSES from outside! _BREAK_.
+
+![ CSW HP:Fine Move:Tired>They aren't here.
+
+![ CSW HP:Fine Move:Tired>n
+The -[ door ]- is CLOSED
+
+![ CSW HP:Fine Move:Tired>open exit
+Ok.
+
+![ CSW HP:Fine Move:Tired>n
+close exit
+Master Bedroom
+A wolf cub happily plays here.
+Exits: (south).
+
+![ CSW HP:Fine Move:Tired>hit *man*
+Ok.
+
+![ CSW HP:Fine Move:Tired>They aren't here.
+
+![ CSW HP:Fine Move:Tired>s
+The -[ door ]- is CLOSED
+
+![ CSW HP:Fine Move:Tired>open exit
+Ok.
+
+![ CSW HP:Fine Move:Tired>s
+A Long Hallway
+Exits: (north), [east], down.
+
+![ CSW HP:Fine Move:Tired>hit *man*
+e
+They aren't here.
+They aren't here.
+
+![ CSW HP:Fine Move:Tired>The -[ door ]- is CLOSED
+
+![ CSW HP:Fine Move:Tired>oe e
+open exit e
+Ok.
+
+![ CSW HP:Fine Move:Tired>e
+ce
+A Bedroom
+A woman is here, looking for someone to chat with.
+*a grim Man* is standing here.
+Exits: (west).
+
+![ CSW HP:Fine Move:Tired>hit *man*
+close exit
+Ok.
+
+![ CSW HP:Fine Move:Tired>You strongly pierce *a grim Man*'s right foot and shatter it.
+
+![ CSW HP:Fine Move:Tired *a grim Man*:Bad>
+*a grim Man* is FLEEING.
+
+![ CSW HP:Fine Move:Tired *a grim Man*:Bad>
+*a grim Man* OPENS  -[ door ]-     _CLOSE_BLOCK_
+
+![ CSW HP:Fine Move:Tired *a grim Man*:Bad>ce
+close exit
+Ok.
+*a grim Man* is FLEEING.
+
+![ CSW HP:Fine Move:Tired *a grim Man*:Bad>
+*a grim Man* OPENS  -[ door ]-     _CLOSE_BLOCK_
+
+![ CSW HP:Fine Move:Tired *a grim Man*:Bad>close door
+
+You strongly pierce *a grim Man*'s right hand and shatter it.
+
+![ CSW HP:Fine Move:Tired *a grim Man*:Awful>close door
+Ok.
+*a grim Man* is FLEEING.
+
+![ CSW HP:Fine Move:Tired *a grim Man*:Awful>close door
+close door
+close door
+*a grim Man* OPENS  -[ door ]-     _CLOSE_BLOCK_
+Ok.
+
+![ CSW HP:Fine Move:Tired *a grim Man*:Awful>close door
+It's already closed!
+*a grim Man* OPENS  -[ door ]-     _CLOSE_BLOCK_
+
+![ CSW HP:Fine Move:Tired *a grim Man*:Awful>close door
+close door
+Ok.
+
+![ CSW HP:Fine Move:Tired *a grim Man*:Awful>close door
+*a grim Man* OPENS  -[ door ]-     _CLOSE_BLOCK_
+Ok.
+*a grim Man* is FLEEING.
+
+![ CSW HP:Fine Move:Tired *a grim Man*:Awful>close door
+It's already closed!
+*a grim Man* OPENS  -[ door ]-     _CLOSE_BLOCK_
+
+![ CSW HP:Fine Move:Tired *a grim Man*:Awful>close door
+close door
+Ok.
+*a grim Man* OPENS  -[ door ]-     _CLOSE_BLOCK_
+
+![ CSW HP:Fine Move:Tired *a grim Man*:Awful>close door
+Ok.
+*a grim Man* OPENS  -[ door ]-     _CLOSE_BLOCK_
+
+![ CSW HP:Fine Move:Tired *a grim Man*:Awful>close door
+close door
+Ok.
+*a grim Man* is FLEEING.
+
+![ CSW HP:Fine Move:Tired *a grim Man*:Awful>close door
+It's already closed!
+*a grim Man* OPENS  -[ door ]-     _CLOSE_BLOCK_
+
+![ CSW HP:Fine Move:Tired *a grim Man*:Awful>close door
+Ok.
+*a grim Man* OPENS  -[ door ]-     _CLOSE_BLOCK_
+
+![ CSW HP:Fine Move:Tired *a grim Man*:Awful>close door
+close door
+Ok.
+*a grim Man* is FLEEING.
+
+![ CSW HP:Fine Move:Tired *a grim Man*:Awful>*a grim Man* OPENS  -[ door ]-     _CLOSE_BLOCK_
+Ok.
+
+![ CSW HP:Fine Move:Tired *a grim Man*:Awful>close door
+close door
+*a grim Man* OPENS  -[ door ]-     _CLOSE_BLOCK_
+Ok.
+
+![ CSW HP:Fine Move:Tired *a grim Man*:Awful>close door
+*a grim Man* OPENS  -[ door ]-     _CLOSE_BLOCK_
+Ok.
+
+![ CSW HP:Fine Move:Tired *a grim Man*:Awful>*a grim Man* OPENS  -[ door ]-     _CLOSE_BLOCK_
+Ok.
+*a grim Man* is FLEEING.
+
+![ CSW HP:Fine Move:Tired *a grim Man*:Awful>close door
+close door
+*a grim Man* OPENS  -[ door ]-     _CLOSE_BLOCK_
+Ok.
+
+![ CSW HP:Fine Move:Tired *a grim Man*:Awful>close door
+It's already closed!
+*a grim Man* OPENS  -[ door ]-     _CLOSE_BLOCK_
+
+![ CSW HP:Fine Move:Tired *a grim Man*:Awful>close door
+close door
+Ok.
+*a grim Man* OPENS  -[ door ]-     _CLOSE_BLOCK_
+*a grim Man* is FLEEING.
+*a grim Man* leaves WEST.
+
+![ CSW HP:Fine Move:Tired>Ok.
+
+![ CSW HP:Fine Move:Tired>It's already closed!
+
+![ CSW HP:Fine Move:Tired>It's already closed!
+
+![ CSW HP:Fine Move:Tired>open door
+It's already closed!
+
+![ CSW HP:Fine Move:Tired>w
+d
+It's already closed!
+
+![ CSW HP:Fine Move:Tired>hit *man*
+It's already closed!
+
+![ CSW HP:Fine Move:Tired>It's already closed!
+
+![ CSW HP:Fine Move:Tired>Ok.
+
+![ CSW HP:Fine Move:Tired>A Long Hallway
+*a grim Man* is standing here.
+Exits: (north), (east), down.
+
+![ CSW HP:Fine Move:Tired>An Old Farmhouse
+A peaceful farmer is here, whistling merrily.
+Exits: [south], up.
+
+![ CSW HP:Fine Move:Tired>They aren't here.
+
+![ CSW HP:Fine Move:Tired>u
+hit *man*
+A Long Hallway
+Exits: (north), (east), down.
+
+![ CSW HP:Fine Move:Tired>*a grim Man* has arrived from below.
+
+You strongly pierce *a grim Man*'s body and shatter it.
+
+![ CSW HP:Fine Move:Tired *a grim Man*:Awful>n
+No way! You are fighting for your life!
+
+![ CSW HP:Fine Move:Tired *a grim Man*:Awful>
+*a grim Man* is FLEEING.
+*a grim Man* leaves NORTH.
+
+![ CSW HP:Fine Move:Tired>cha mood aggressive
+n
+Ok.
+
+![ CSW HP:Fine Move:Tired>hit *man*
+close exit
+Master Bedroom
+A wolf cub happily plays here.
+*a grim Man* is standing here.
+Exits: (south).
+
+![ CSW HP:Fine Move:Tired>*a grim Man* leaves SOUTH.
+
+They aren't here.
+
+![ CSW HP:Fine Move:Tired>Ok.
+
+![ CSW HP:Fine Move:Tired>open exit
+s
+Ok.
+
+![ CSW HP:Fine Move:Tired>hit *man*
+A Long Hallway
+Exits: (north), (east), down.
+
+![ CSW HP:Fine Move:Tired>d
+hit *man*
+They aren't here.
+
+![ CSW HP:Fine Move:Slow>close exit
+An Old Farmhouse
+A peaceful farmer is here, whistling merrily.
+Exits: [south], up.
+You have found *a grim Man*!
+*a grim Man* leaves up sneaking.
+
+![ CSW HP:Fine Move:Slow>They aren't here.
+
+![ CSW HP:Fine Move:Slow>It's already closed!
+
+![ CSW HP:Fine Move:Slow>u
+hit *man*
+A Long Hallway
+Exits: (north), (east), down.
+
+![ CSW HP:Fine Move:Slow>They aren't here.
+
+![ CSW HP:Fine Move:Slow>e
+hit *man*
+A Bedroom
+A woman is here, looking for someone to chat with.
+A woman is here, looking for someone to chat with.
+Exits: (west).
+You have found *a grim Man*!
+
+![ CSW HP:Fine Move:Slow>hit *man*
+w
+*a grim Man* leaves his hiding place.
+You pierce *a grim Man*'s right arm very hard and shatter it.
+*a grim Man* is INCAPACITATED and will slowly die, if not aided.
+
+![ CSW HP:Fine Move:Slow *a grim Man*:Awful>You're already fighting!
+
+![ CSW HP:Fine Move:Slow *a grim Man*:Awful>No way! You are fighting for your life!
+
+![ CSW HP:Fine Move:Slow *a grim Man*:Awful>cha mood aggressive
+Ok.
+You pierce *a grim Man*'s right arm extremely hard and shatter it.
+Your victim is shocked by your hit!
+You feel more experienced.
+Congratulations! This is the first time you've killed it!
+You gained some renown in this battle!
+Your blood freezes as you hear *Ghandi Black Man*'s death cry.
+*Ghandi Black Man* has drawn his last breath! R.I.P.
+
+![ CSW HP:Fine Move:Slow>tell Dunlop he dies
+Ok.
+
+![ CSW HP:Fine Move:Slow>lic
+l in corpse
+corpse (here) : 
+a black horn shortbow
+a black metal shield (worn)
+a cup
+a dark coloured flask
+a forest green cloak (worn)
+a nasty orkish fang (flawless)
+a plain flowing skirt (used)
+a plain leather belt
+a red ruby
+a set of lock picks
+a soft cloth cap (marred)
+a thin pair of leather gloves (worn out)
+a thin pair of soft leather sleeves (worn out)
+a thin, soft leather jerkin (used)
+a pile of coins
+five war arrows
+a quiver
+a pair of smooth, black boots
+a wooden pipe
+
+![ CSW HP:Fine Move:Slow>res
+You sit down and rest your tired bones.

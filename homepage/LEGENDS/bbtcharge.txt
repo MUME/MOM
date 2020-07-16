@@ -1,0 +1,6597 @@
+Dip in the Road
+Exits: *east*, *south*, *west*.
+
+* CRW>You carefully examine the ground around you, looking for tracks...
+
+
+You stop searching.
+
+* CRW>w
+trackmob
+
+--- track *dwarf* ---
+
+Old East Road
+Exits: *north*, *east*, *south*, *west*.
+
+* CRW>You carefully examine the ground around you, looking for tracks...
+
+say wierd gpr
+Aaz burps:  done
+
+m
+
+--->  > *dwarf* <  (Aggre), [bushypath], [stone], [drunk]
+--->  < *dwarf* >  ,a warhorse
+--->  Armour Shield Strength Sense  Detect
+
+Tracks of *a Dwarf* leading ^ east ^
+ (done less than 4 hours ago).
+
+* CRW>emote bitches 'wierd gpr'                         <- means stupid pukes doing walking strange route
+Ok.
+
+* CRW>e
+Dip in the Road
+Exits: *east*, *south*, *west*.
+
+e
+Tracks of *a Dwarf* leading ^ east ^
+ (done less than 4 hours ago).
+
+* CRW>Old East Road
+Exits: *north*, =east=, *south*, *west*.
+
+Suddenly, a dark and somber mist invades the sky. Your heart blackens with hope!
+You begin to feel hungry.
+
+Tracks of *a Dwarf* leading ^ east ^
+ (done less than 4 hours ago).
+
+o CRW>e
+Fordable Creek
+Exits: north, =east=, south, =west=.
+
+Tracks of *a Dwarf* leading ^ north ^
+ (done less than 4 hours ago).
+
+o CRW>n
+Source of the Creek
+Exits: north, east, south, west.
+
+Tracks of *a Dwarf* leading ^ north ^
+ (done less than 4 hours ago).
+
+o CRW>dri
+
+Aaz licks his mouth and smiles.
+
+o CRW>drink water
+You drink the water.
+You are not thirsty anymore.
+
+o CRW>n
+Scattered Clumps of Trees
+Exits: north, east, south, west.
+
+spq
+- SPELL-CASTING set to: QUICK -
+Tracks of *a Dwarf* leading ^ north ^
+ (done less than 4 hours ago).
+
+o CRW>Ok.
+
+o CRW>n
+Dreary Woodlands
+Exits: north, south, west.
+
+Tracks of *a Dwarf* leading ^ north ^
+ (done less than 4 hours ago).
+
+o CRW>n
+Tree-shrouded Hillside
+Exits: north, south, west, up.
+
+Tracks of *a Dwarf* leading ^ west ^
+ (done less than 4 hours ago).
+
+o CRW>w
+Oops! You cannot go there riding!
+
+o CRW>x
+ex
+North - Serpentine Trail
+South - Dreary Woodlands
+West  - Dreary Woodlands
+Up    - An Area of Precarious Badlands
+
+o CRW>lead
+You stop riding a hungry warg.
+A hungry warg starts following you.
+
+o CW>l w
+o CW>can
+cha ale n
+Ok.
+
+o CW>spq
+- SPELL-CASTING set to: QUICK -
+Ok.
+
+o CW>
+Aaz dismounts from a hungry warg, and stops riding it.
+A hungry warg now follows Aaz.
+
+o CW>w
+Dreary Woodlands
+Exits: north, east, south, west.
+
+Tracks of *a Dwarf* leading ^ west ^
+ (done less than 4 hours ago).
+
+o CW>w
+Secluded Valley
+Traces of pale white tones form the aura of this place.
+The burnt and blackened skeletal remains of a human are here.
+A sturdy trained horse is standing here.
+Exits: north, east, south, west, (down).
+
+Tracks of *a Dwarf* leading ^ down ^
+ (done less than 1 hour ago).
+
+o CW>l d
+Just beside the small rocky way which leads up to the hill north of here,
+a hedge-like wall of tangled brambles stand. A deeper section of the valley
+can be espied beyond it.
+The  -[ tangle ]-  is OPEN
+
+o CW>nar whities in BBT
+Ok.
+
+o CW>nar tell trolls
+Ok.
+
+o CW>
+Rootsikunn narrates 'pukes bbt'
+
+o CW>nar darkness covers way to BBT aswell
+Ok.
+
+o CW>tr
+You stop tracking your victim.
+
+o CW>
+Gryl narrates 'how manuy?'
+
+o CW>tr
+You carefully examine the ground around you, looking for tracks...
+
+can
+You see:
+   - a track of a mountain mule leading north (done less than 4 hours ago).
+
+Shalani narrates 'whities in bbt, dia reports'
+
+   - a track of an Orc coming from the east (done less than 1 hour ago).
+   - a track of an Orc coming from the east (done less than 1 hour ago).
+   - a track of *a Half-Elf* leading down (done less than 2 hours ago).
+   - a track of *an Elf* leading down (done less than 2 hours ago).
+   - a track of *a Dwarf* leading down (done less than 2 hours ago).
+   - a track of *an Elf* coming from the north (done less than 4 hours ago).
+   - a track of *an Elf* leading north (done less than 4 hours ago).
+   - a track of *an Elf* coming from the east (done less than 4 hours ago).
+   - a track of *a Half-Elf* coming from the east (done less than 4 hours ago).
+   - a track of *a Dwarf* coming from the east (done less than 4 hours ago).
+
+You stop searching, you don't seem to find anything else.
+
+o CW>cha ale n
+Ok.
+
+o CW>narr dawrf half elf
+Ok.
+
+o CW>
+Gryl narrates 'all hurry!'
+
+o CW>nar 3 seems
+Ok.
+
+o CW>scou d
+You quietly scout downwards...
+
+Dark Dip in the Valley
+
+Shalani narrates 'and darkness goes to bbt'
+You stop scouting.
+
+o CW>l
+Secluded Valley
+Traces of white tones form the aura of this place.
+The burnt and blackened skeletal remains of a human are here.
+A sturdy trained horse is standing here.
+A hungry warg stands here, sniffing around for flesh.
+Aaz is standing here.
+A hungry warg stands here, sniffing around for flesh.
+
+o CW>
+Limpy narrates 'coming'
+
+o CW>can
+x
+cha ale n
+Ok.
+
+o CW>ex
+North - On a Rocky Hilltop
+East  - Dreary Woodlands
+South - Jagged Hills
+West  - Trail through Hills Shrouded in Conifers
+Down  - Dark Dip in the Valley
+
+o CW>spn
+- SPELL-CASTING set to: NORMAL -
+Ok.
+
+o CW>l d
+Just beside the small rocky way which leads up to the hill north of here,
+a hedge-like wall of tangled brambles stand. A deeper section of the valley
+can be espied beyond it.
+The  -[ tangle ]-  is OPEN
+
+o CW>l
+Secluded Valley
+Traces of white tones form the aura of this place.
+The burnt and blackened skeletal remains of a human are here.
+A sturdy trained horse is standing here.
+A hungry warg stands here, sniffing around for flesh.
+Aaz is standing here.
+A hungry warg stands here, sniffing around for flesh.
+
+o CW>i
+Rootsikunn narrates '3 pukes bbt trollz move it!'
+You are carrying:
+a pair of ring mail gloves (brand new)
+an engraved broadsword (brand new); it glows blue
+a bejewelled shield (brand new); it glows blue
+a black pair of padded boots (brand new)
+a fine grey cloak (brand new); it glows blue
+a flask of orkish draught
+a flask of orkish draught
+a flask of orkish draught
+a flask of orkish draught
+a jewel-encrusted goblet
+
+o CW>
+Shalani narrates '3 of them'
+
+o CW>nar 1 tick
+Ok.
+
+o CW>i
+You are carrying:
+a pair of ring mail gloves (brand new)
+an engraved broadsword (brand new); it glows blue
+a bejewelled shield (brand new); it glows blue
+a black pair of padded boots (brand new)
+a fine grey cloak (brand new); it glows blue
+a flask of orkish draught
+a flask of orkish draught
+a flask of orkish draught
+a flask of orkish draught
+a jewel-encrusted goblet
+
+o CW>swo
+You stop using a great warsword.
+You decisively wield an engraved broadsword, looking very evil-minded.
+
+o CW>You fasten a bejewelled shield on your arm, becoming very impressive.
+
+o CW>i
+You are carrying:
+a great warsword (brand new); it glows blue
+a pair of ring mail gloves (brand new)
+a black pair of padded boots (brand new)
+a fine grey cloak (brand new); it glows blue
+a flask of orkish draught
+a flask of orkish draught
+a flask of orkish draught
+a flask of orkish draught
+a jewel-encrusted goblet
+
+o CW>wimp
+cha mood wimp
+Ok.
+
+o CW>can
+
+Aaz narrates 'faaaast!'
+
+o CW>cha ale n
+Ok.
+
+o CW>glo
+You stop using a thin pair of leather gloves.
+
+o CW>You wear a pair of ring mail gloves on your hands.
+
+o CW>fin
+You aren't wearing a wargfur.
+
+o CW>You stop using a forest green cloak.
+
+o CW>You wear a fine grey cloak about your body.
+
+o CW>wimp
+cha mood wimp
+Ok.
+Gryl narrates 'dia charge solo'
+
+o CW>200
+Wimpy set to: 200
+
+o CW>i
+You are carrying:
+a forest green cloak (brand new); it glows blue
+a thin pair of leather gloves (used)
+a great warsword (brand new); it glows blue
+a black pair of padded boots (brand new)
+a flask of orkish draught
+a flask of orkish draught
+a flask of orkish draught
+a flask of orkish draught
+a jewel-encrusted goblet
+
+o CW>can
+cha ale n
+Ok.
+
+o CW>
+Shrouds of dark clouds roll in above you, blotting out the skies.
+You begin to feel hungry.
+
+o CW>nar never!:)
+Ok.
+
+o CW>food
+You start to concentrate... CURE BLINDNESS 
+
+Rootsikunn narrates 'darkness bbt area so spam!'
+
+A magic mushroom suddenly appears.
+
+o CW Mana:Burning>You eat the mushroom.
+
+o CW Mana:Burning>
+Virtus narrates 'cmon!'
+
+o CW Mana:Burning>
+_____________________________________________________________________________
+TELL! Shalani: "'lkuzk and else on way'" 
+
+o CW Mana:Burning>nar cant manage the mobs if I manage the whities
+Ok.
+
+o CW Mana:Burning>narr simple as that
+Ok.
+
+o CW Mana:Burning>res
+You sit down and rest your tired bones.
+
+o CW Mana:Burning>
+Limpy narrates 'bob someone me at NOC ?'
+
+o CW>     
+Gryl narrates 'wait till opens then'
+
+o CW>
+Some apparently close noise can be heard from the east.
+
+o CW>q
+where
+Players in your zone
+--------------------
+Aaz                  - Secluded Valley
+Diamonium            - Secluded Valley
+
+o CW>q
+
+Gryl narrates 'so they dont get out'
+
+o CW>where
+Players in your zone
+--------------------
+Aaz                  - Secluded Valley
+Diamonium            - Secluded Valley
+
+o CW>st
+You stop resting, and stand up.
+
+o CW>scou e
+You quietly scout eastwards...
+
+-Ichor the Cave Troll- has arrived from the east.
+-Vij the Hill Troll- has arrived from the east.
+-Lkuzk the Mountain Troll- has arrived from the east.
+
+Dreary Woodlands
+
+You stop scouting.
+
+o CW>
+-Ichor the Cave Troll- leaves down.
+-Vij the Hill Troll- leaves down.
+-Lkuzk the Mountain Troll- leaves down.
+Some very close noise can be heard from below.
+
+o CW>say eltgo
+emote bitches 'eltgo'
+Ok.
+
+o CW>d
+Dark Dip in the Valley
+A brown bear fur is here lying on the ground.
+Covering a section of ground is a pool of a thick red liquid.
+A skull is here, spiked to the end of a pole.
+A sturdy leather backpack has been left here.
+-Ichor the Cave Troll- is standing here.
+-Vij the Hill Troll- is standing here.
+-Lkuzk the Mountain Troll- is standing here.
+Exits: north, [west], (up).
+
+o CW>
+-Ichor the Cave Troll- leaves north.
+-Vij the Hill Troll- leaves north.
+-Lkuzk the Mountain Troll- leaves north.
+You hear some very close noise from the north.
+
+o CW>spn
+- SPELL-CASTING set to: NORMAL -
+Ok.
+
+o CW>n
+Very Steep Passage
+Exits: south, down.
+Faster and faster, you slide down the steep passage.
+Sinister-looking Cave
+Traces of fierce white tones form the aura of this place.
+You see two barrels on the ground.
+A pan is here, ready for use.
+The corpse of Bert the stone-troll is lying here.
+The corpse of Tom the stone-troll is lying here.
+The corpse of Bill the stone-troll is lying here.
+A half-rotten corpse is hanging here.
+The shadow of Bill the stone-troll is floating here.
+The shadow of Bert the stone-troll is floating here.
+-Lkuzk the Mountain Troll- is sitting here.
+-Vij the Hill Troll- is standing here.
+-Ichor the Cave Troll- is standing here.
+A hungry warg stands here, sniffing around for flesh.
+Aaz is sitting here.
+A hungry warg stands here, sniffing around for flesh.
+
+o CW HP:Fine>st
+You stand up.
+-Ichor the Cave Troll- leaves west.
+-Vij the Hill Troll- leaves west.
+You hear some very close noise from the west.
+-Lkuzk the Mountain Troll- clambers on his feet.
+
+o CW HP:Fine>x
+ex
+West  - Dreadful Cave
+Up    - Very Steep Passage
+
+o CW HP:Fine>w
+-Lkuzk the Mountain Troll- leaves west.
+Dreadful Cave
+A butcher knife is lying here. 
+Covering a section of ground is a pool of a thick red liquid.
+*Taki the Dwarf* is standing here (glowing).
+*Earanion the Half-Elf* is here, fighting -Vij the Hill Troll- (glowing).
+*Thyrn the Sindarin Elf* is standing here.
+-Ichor the Cave Troll- is standing here.
+-Vij the Hill Troll- is here, fighting *Earanion the Half-Elf*.
+-Lkuzk the Mountain Troll- is standing here.
+Exits: east, [south].
+
+! CW HP:Fine>
+Gryl narrates 'I brt there!'
+The boulder stops moving.
+------( STRENGTH GONE )------
+
+! CW HP:Fine>1
+
+--->  > *elf* <  (Aggre), [tangle], [stone], [drunk]
+--->  < *elf* >  ,a warhorse
+--->  Armour Shield . Sense  Detect
+
+! CW HP:Fine>k
+
+-Ichor the Cave Troll- smites *Earanion the Half-Elf*'s left foot hard.
+
+! CW HP:Fine>*Earanion the Half-Elf* swiftly dodges your attempt to slash him.
+*Earanion the Half-Elf* is fleeing...
+*Earanion the Half-Elf* leaves  East  
+
+! CW HP:Fine>spn
+- SPELL-CASTING set to: NORMAL -
+
+*Taki the Dwarf* intercepts -Ichor the Cave Troll-'s blow.
+-Ichor the Cave Troll- approaches *Taki the Dwarf*, trying to smite him.
+
+! CW HP:Fine>Ok.
+
+! CW HP:Fine>can
+cha ale n
+Ok.
+
+! CW HP:Fine>
+*Taki the Dwarf* intercepts -Vij the Hill Troll-'s blow.
+-Vij the Hill Troll- approaches *Taki the Dwarf*, trying to hit him.
+*Earanion the Half-Elf* has arrived from the east.
+*Taki the Dwarf* is fleeing...
+*Taki the Dwarf* leaves  East  
+
+! CW HP:Fine>
+-Ichor the Cave Troll- approaches *Thyrn the Sindarin Elf*, trying to smite him.
+-Vij the Hill Troll- approaches *Thyrn the Sindarin Elf*, trying to hit him.
+
+! CW HP:Fine>spn
+- SPELL-CASTING set to: NORMAL -
+Ok.
+-Vij the Hill Troll- hits *Thyrn the Sindarin Elf*'s left arm.
+
+! CW HP:Fine>ager
+Arglebargle, glop-glyf!?!
+*Taki the Dwarf* has arrived from the east.
+*Earanion the Half-Elf* begins some strange incantations...
+
+! CW HP:Fine>
+*Thyrn the Sindarin Elf* is fleeing...
+*Thyrn the Sindarin Elf* leaves  East  
+
+! CW HP:Fine>
+-Ichor the Cave Troll- approaches *Earanion the Half-Elf*, trying to smite him.
+*Taki the Dwarf* puts all his weight against the boulder, trying to open it.
+
+! CW HP:Fine>
+-Vij the Hill Troll- approaches *Earanion the Half-Elf*, trying to hit him.
+
+! CW HP:Fine>nar hit elf
+Ok.
+
+! CW HP:Fine>agre
+*Thyrn the Sindarin Elf* has arrived from the east.
+Ok.
+
+! CW HP:Fine>spn
+- SPELL-CASTING set to: NORMAL -
+Ok.
+The boulder stops moving.
+
+! CW HP:Fine>war
+
+*Thyrn the Sindarin Elf* leaves  East  
+
+! CW HP:Fine>You stop using a bejewelled shield.
+
+! CW HP:Fine>agre
+You stop using an engraved broadsword.
+You confidently wield a great warsword, looking very evil-minded.
+You are too weak to use this warsword effectively.
+
+! CW HP:Fine>Ok.
+
+! CW HP:Fine>spn
+- SPELL-CASTING set to: NORMAL -
+Ok.
+
+! CW HP:Fine>can
+cha ale n
+Ok.
+*Earanion the Half-Elf* fumbles and hits himself HARD.
+
+! CW HP:Fine>1
+
+--->  > *elf* <  (Aggre), [tangle], [stone], [drunk]
+--->  < *elf* >  ,a warhorse
+--->  Armour Shield . Sense  Detect
+
+! CW HP:Fine>
+-Ichor the Cave Troll- smites *Earanion the Half-Elf*'s head hard.
+
+! CW HP:Fine>
+*Taki the Dwarf* leaves  East  
+
+! CW HP:Fine>
+-Vij the Hill Troll- hits *Earanion the Half-Elf*'s body hard.
+
+! CW HP:Fine>cli
+
+*Thyrn the Sindarin Elf* has arrived from the east.
+
+! CW HP:Fine>You won't climb anymore.
+
+! W HP:Fine>
+*Earanion the Half-Elf* lightly slashes -Ichor the Cave Troll-'s left foot and tickles it.
+
+! W HP:Fine>
+_____________________________________________________________________________
+TELL! Hamster: "'kus'" 
+*Earanion the Half-Elf* is fleeing...
+*Earanion the Half-Elf* leaves  East  
+
+! W HP:Fine>
+*Taki the Dwarf* has arrived from the east.
+*Thyrn the Sindarin Elf* leaves  East  
+
+! W HP:Fine>
+*Thyrn the Sindarin Elf* has arrived from the east.
+
+! W HP:Fine>nar CLIMB OFF AAZ
+-Ichor the Cave Troll- leaves east.
+-Vij the Hill Troll- leaves east.
+-Lkuzk the Mountain Troll- leaves east.
+Some very close noise can be heard from the east.
+Ok.
+*Taki the Dwarf* gets a twisted rock fragment from a sable pouch.
+
+! W HP:Fine>ek
+[e] 
+As *Taki the Dwarf* throws a twisted rock fragment at the boulder, there is an explosion.
+The boulder is filled with a bright light.
+Sinister-looking Cave
+Traces of fierce white tones form the aura of this place.
+You see two barrels on the ground.
+A pan is here, ready for use.
+The corpse of Bert the stone-troll is lying here.
+The corpse of Tom the stone-troll is lying here.
+The corpse of Bill the stone-troll is lying here.
+A half-rotten corpse is hanging here.
+The shadow of Bill the stone-troll is floating here.
+The shadow of Bert the stone-troll is floating here.
+A hungry warg stands here, sniffing around for flesh.
+Aaz is here, fighting *Earanion the Half-Elf*.
+*Earanion the Half-Elf* is here, fighting Aaz (glowing).
+-Ichor the Cave Troll- is standing here.
+-Vij the Hill Troll- is here, fighting *Earanion the Half-Elf*.
+-Lkuzk the Mountain Troll- is standing here.
+Exits: west, up.
+*Thyrn the Sindarin Elf* has arrived from the west.
+
+! W HP:Fine>You strongly smite *Earanion the Half-Elf*'s right leg.
+-Vij the Hill Troll- hits *Earanion the Half-Elf*'s left arm hard.
+
+! W HP:Fine *Earanion the Half-Elf*:Wounded Aaz:Fine>
+*Earanion the Half-Elf* is fleeing...
+
+! W HP:Fine *Earanion the Half-Elf*:Wounded Aaz:Fine>
+*Thyrn the Sindarin Elf* leaves  West  
+
+! W HP:Fine *Earanion the Half-Elf*:Wounded Aaz:Fine>spq
+- SPELL-CASTING set to: QUICK -
+Ok.
+*Earanion the Half-Elf* is fleeing...
+*Earanion the Half-Elf* leaves  West  
+
+o W HP:Fine>g
+Nobody here by that name.
+
+o W HP:Fine Mana:Burning>w
+k
+Dreadful Cave
+A butcher knife is lying here. 
+Covering a section of ground is a pool of a thick red liquid.
+*Earanion the Half-Elf* is standing here (glowing).
+Exits: east, south.
+-Ichor the Cave Troll- has arrived from the east.
+-Vij the Hill Troll- has arrived from the east.
+-Lkuzk the Mountain Troll- has arrived from the east.
+Aaz strongly stabs *Earanion the Half-Elf*'s right arm and shatters it.
+
+! W HP:Fine Mana:Burning>g
+! W HP:Fine Mana:Burning>
+-Ichor the Cave Troll- approaches *Earanion the Half-Elf*, trying to smite him.
+Alas! ---------> MELEE <----------
+*Earanion the Half-Elf* is fleeing...
+*Earanion the Half-Elf* leaves  South  
+
+e
+k
+o W HP:Fine Mana:Burning>g
+
+-Vij the Hill Troll- leaves east.
+-Ichor the Cave Troll- leaves south.
+-Lkuzk the Mountain Troll- leaves south.
+
+o W HP:Fine Mana:Burning>w
+k
+s
+Nobody here by that name.
+
+o W HP:Fine Mana:Burning>k
+Sinister-looking Cave
+Traces of fierce white tones form the aura of this place.
+On the ground, there are two barrels.
+A pan is here, ready for use.
+The corpse of Bert the stone-troll is lying here.
+The corpse of Tom the stone-troll is lying here.
+The corpse of Bill the stone-troll is lying here.
+A half-rotten corpse is hanging here.
+The shadow of Bill the stone-troll is floating here.
+The shadow of Bert the stone-troll is floating here.
+-Vij the Hill Troll- is standing here.
+Exits: west, up.
+
+o W HP:Fine Mana:Burning>They aren't here.
+
+o W HP:Fine Mana:Burning>Nobody here by that name.
+-Vij the Hill Troll- leaves west.
+
+o W HP:Fine Mana:Burning>Dreadful Cave
+A butcher knife is lying here. 
+Covering a section of ground is a pool of a thick red liquid.
+-Vij the Hill Troll- is standing here.
+Exits: east, south.
+
+o W HP:Fine Mana:Burning>They aren't here.
+-Vij the Hill Troll- leaves south.
+
+o W HP:Fine Mana:Burning>The heavy slope makes it a real effort to move upwards.
+Entrance to a Dreadful Cave
+*Taki the Dwarf* is here, fighting -Lkuzk the Mountain Troll- (glowing).
+*Thyrn the Sindarin Elf* is standing here.
+*Earanion the Half-Elf* is here, fighting -Ichor the Cave Troll- (glowing).
+-Ichor the Cave Troll- is here, fighting *Earanion the Half-Elf*.
+-Lkuzk the Mountain Troll- is here, fighting *Taki the Dwarf*.
+-Vij the Hill Troll- is standing here.
+Exits: north, [east].
+*Taki the Dwarf* intercepts Aaz' blow.
+Aaz approaches *Taki the Dwarf*, trying to stab him.
+*Taki the Dwarf* is fleeing...
+*Earanion the Half-Elf* is fleeing...
+
+! W HP:Fine Mana:Burning>You try to smite *Thyrn the Sindarin Elf*, but he parries successfully.
+-Vij the Hill Troll- hits *Thyrn the Sindarin Elf*'s head very hard.
+
+! W HP:Fine Mana:Burning *Thyrn the Sindarin Elf*:Fine>
+*Taki the Dwarf* is fleeing...
+*Earanion the Half-Elf* is fleeing...
+
+! W HP:Fine Mana:Burning *Thyrn the Sindarin Elf*:Fine>
+*Thyrn the Sindarin Elf* is fleeing...
+*Thyrn the Sindarin Elf* leaves  North  
+
+! W HP:Fine Mana:Burning>n
+
+*Taki the Dwarf* is fleeing...
+*Taki the Dwarf* leaves  North  
+*Earanion the Half-Elf* is fleeing...
+
+! W HP:Fine Mana:Burning>k
+The tunnel slopes heavily downwards, it is a strain staying on your feet.
+Dreadful Cave
+A butcher knife is lying here. 
+Covering a section of ground is a pool of a thick red liquid.
+*Taki the Dwarf* is standing here (glowing).
+Exits: east, south.
+
+! W HP:Fine Mana:Burning>s
+They aren't here.
+
+! W HP:Fine Mana:Burning>k
+*Taki the Dwarf* leaves  East  
+The heavy slope makes it a real effort to move upwards.
+Entrance to a Dreadful Cave
+*Earanion the Half-Elf* is here, fighting -Ichor the Cave Troll- (glowing).
+-Ichor the Cave Troll- is here, fighting *Earanion the Half-Elf*.
+-Lkuzk the Mountain Troll- is standing here.
+-Vij the Hill Troll- is here, fighting *Earanion the Half-Elf*.
+Exits: north, [east].
+
+! W HP:Fine Mana:Burning>You approach *Earanion the Half-Elf*, trying to smite him.
+*Earanion the Half-Elf* is fleeing...
+
+! W HP:Fine Mana:Burning *Earanion the Half-Elf*:Bad -Ichor the Cave Troll-:Fine>n
+No way! You are fighting for your life!
+
+! W HP:Fine Mana:Burning *Earanion the Half-Elf*:Bad -Ichor the Cave Troll-:Fine>k
+You're already fighting!
+
+! W HP:Fine Mana:Burning *Earanion the Half-Elf*:Bad -Ichor the Cave Troll-:Fine>n
+k
+No way! You are fighting for your life!
+
+! W HP:Fine Mana:Burning *Earanion the Half-Elf*:Bad -Ichor the Cave Troll-:Fine>g
+n
+You're already fighting!
+*Earanion the Half-Elf* is fleeing...
+-Ichor the Cave Troll- smites *Earanion the Half-Elf*'s body hard and shatters it.
+
+! W HP:Fine Mana:Burning *Earanion the Half-Elf*:Awful -Ichor the Cave Troll-:Fine>k
+You start to concentrate... CURE BLINDNESS 
+
+-Vij the Hill Troll- hits *Earanion the Half-Elf*'s head extremely hard and shatters it.
+*Earanion the Half-Elf* is mortally wounded and will die soon if not aided.
+
+Ok.
+*Earanion the Half-Elf* dies as you shock him.
+You feel more experienced.
+Yes! You're beginning to get the idea.
+Your blood freezes as you hear *Earanion the Half-Elf*'s death cry.
+*Earanion the Half-Elf* has drawn his last breath! R.I.P.
+
+o W HP:Fine Mana:Burning>The tunnel slopes heavily downwards, it is a strain staying on your feet.
+Dreadful Cave
+A butcher knife is lying here. 
+Covering a section of ground is a pool of a thick red liquid.
+Exits: east, south.
+
+o W HP:Fine Mana:Burning>They aren't here.
+
+o W HP:Fine Mana:Burning>n
+e
+k
+Alas, you cannot go that way...
+
+o W HP:Fine Mana:Burning>Sinister-looking Cave
+Traces of fierce white tones form the aura of this place.
+On the ground, there are two barrels.
+A pan is here, ready for use.
+The corpse of Bert the stone-troll is lying here.
+The corpse of Tom the stone-troll is lying here.
+The corpse of Bill the stone-troll is lying here.
+A half-rotten corpse is hanging here.
+The shadow of Bill the stone-troll is floating here.
+The shadow of Bert the stone-troll is floating here.
+*Taki the Dwarf* is standing here (glowing).
+*Thyrn the Sindarin Elf* is standing here.
+Exits: west, up.
+*Thyrn the Sindarin Elf* tries to climb up, but he slips.
+You see *Thyrn the Sindarin Elf* falling down.
+*Taki the Dwarf* leaves  Up  
+*Thyrn the Sindarin Elf* tries to climb up, but he slips.
+You see *Thyrn the Sindarin Elf* falling down.
+Aaz barely stabs *Thyrn the Sindarin Elf*'s right arm.
+Suddenly *Taki the Dwarf* falls down from the hole in the wall and lands with a thud.
+
+! W HP:Fine Mana:Burning>! W HP:Fine Mana:Burning>
+Alas! ---------> MELEE <----------
+*Thyrn the Sindarin Elf* is fleeing...
+*Thyrn the Sindarin Elf* leaves  West  
+
+! W HP:Fine Mana:Burning>w
+k
+
+Aaz approaches *Taki the Dwarf*, trying to stab him.
+
+e
+k
+! W HP:Fine Mana:Burning>
+Your blood freezes as you hear a death cry from the west.
+*Taki the Dwarf* pounds Aaz' right leg extremely hard and tickles it.
+
+! W HP:Fine Mana:Burning>Dreadful Cave
+A butcher knife is lying here. 
+Covering a section of ground is a pool of a thick red liquid.
+The corpse of *an Elf* is lying here.
+-Ichor the Cave Troll- is standing here.
+-Vij the Hill Troll- is standing here.
+-Lkuzk the Mountain Troll- is standing here.
+The shadow of *an Elf* is floating here.
+Exits: east, south.
+*Taki the Dwarf* has arrived from the east.
+
+*Taki the Dwarf* leaves  South  
+They aren't here.
+As -Vij the Hill Troll- greedily kneels down towards the corpse, the icy grasp of a shadow stops him!
+
+o W HP:Fine Mana:Burning>Sinister-looking Cave
+Traces of fierce white tones form the aura of this place.
+You see two barrels on the ground.
+A pan is here, ready for use.
+The corpse of Bert the stone-troll is lying here.
+The corpse of Tom the stone-troll is lying here.
+The corpse of Bill the stone-troll is lying here.
+A half-rotten corpse is hanging here.
+The shadow of Bill the stone-troll is floating here.
+The shadow of Bert the stone-troll is floating here.
+Aaz is standing here.
+A hungry warg stands here, sniffing around for flesh.
+Exits: west, up.
+
+o W HP:Fine Mana:Burning>They aren't here.
+
+o W HP:Fine Mana:Burning>4
+
+--->  > *dwarf* <  (Aggre), [tangle], [stone], [drunk]
+--->  < *dwarf* >  ,a warhorse
+--->  Armour Shield . Sense  Detect
+
+o W HP:Fine Mana:Burning>w
+k
+s
+-Ichor the Cave Troll- has arrived from the west.
+-Vij the Hill Troll- has arrived from the west.
+-Lkuzk the Mountain Troll- has arrived from the west.
+Dreadful Cave
+A butcher knife is lying here. 
+Covering a section of ground is a pool of a thick red liquid.
+The corpse of *an Elf* is lying here.
+The shadow of *an Elf* is floating here.
+Exits: east, south.
+
+o W HP:Fine Mana:Burning>k
+They aren't here.
+
+o W HP:Fine Mana:Burning>The heavy slope makes it a real effort to move upwards.
+Entrance to a Dreadful Cave
+The corpse of *a Half-Elf* is lying here.
+*Taki the Dwarf* is standing here (glowing).
+Exits: north, [east].
+
+! W HP:Fine Mana:Burning Move:Tired>You strongly smite *Taki the Dwarf*'s right foot and tickle it.
+
+! W HP:Fine Mana:Burning Move:Tired *Taki the Dwarf*:Hurt>
+You hear some very close noise from the north.
+
+! W HP:Fine Mana:Burning Move:Tired *Taki the Dwarf*:Hurt>
+*Taki the Dwarf* is fleeing...
+
+! W HP:Fine Mana:Burning Move:Tired *Taki the Dwarf*:Hurt>
+*Taki the Dwarf* is fleeing...
+*Taki the Dwarf* leaves  North  
+
+o W HP:Fine Mana:Burning Move:Tired>spn
+- SPELL-CASTING set to: NORMAL -
+
+-Ichor the Cave Troll- has arrived from the north.
+-Vij the Hill Troll- has arrived from the north.
+-Lkuzk the Mountain Troll- has arrived from the north.
+
+o W HP:Fine Mana:Burning Move:Tired>Ok.
+
+o W HP:Fine Mana:Burning Move:Tired>n
+The tunnel slopes heavily downwards, it is a strain staying on your feet.
+Dreadful Cave
+A butcher knife is lying here. 
+Covering a section of ground is a pool of a thick red liquid.
+The corpse of *an Elf* is lying here.
+The shadow of *an Elf* is floating here.
+Exits: east, south.
+
+o W HP:Fine Mana:Burning Move:Tired>k
+They aren't here.
+
+o W HP:Fine Mana:Burning Move:Tired>e
+k
+n
+-Ichor the Cave Troll- has arrived from the south.
+-Vij the Hill Troll- has arrived from the south.
+-Lkuzk the Mountain Troll- has arrived from the south.
+Sinister-looking Cave
+Traces of fierce white tones form the aura of this place.
+There are two barrels here.
+A pan is here, ready for use.
+The corpse of Bert the stone-troll is lying here.
+The corpse of Tom the stone-troll is lying here.
+The corpse of Bill the stone-troll is lying here.
+A half-rotten corpse is hanging here.
+The shadow of Bill the stone-troll is floating here.
+The shadow of Bert the stone-troll is floating here.
+*Taki the Dwarf* is standing here (glowing).
+Exits: west, up.
+
+! W HP:Fine Mana:Burning Move:Tired>Aaz strongly stabs *Taki the Dwarf*'s right foot and tickles it.
+You approach *Taki the Dwarf*, trying to smite him.
+*Taki the Dwarf* pounds Aaz' body extremely hard and tickles it.
+
+! W HP:Fine Mana:Burning Move:Tired *Taki the Dwarf*:Wounded Aaz:Fine>w
+k
+No way! You are fighting for your life!
+
+! W HP:Fine Mana:Burning Move:Tired *Taki the Dwarf*:Wounded Aaz:Fine>No way! You are fighting for your life!
+
+! W HP:Fine Mana:Burning Move:Tired *Taki the Dwarf*:Wounded Aaz:Fine>You're already fighting!
+-Ichor the Cave Troll- has arrived from the west.
+-Vij the Hill Troll- has arrived from the west.
+-Lkuzk the Mountain Troll- has arrived from the west.
+
+! W HP:Fine Mana:Burning Move:Tired *Taki the Dwarf*:Wounded Aaz:Fine>
+*Taki the Dwarf* is fleeing...
+*Taki the Dwarf* leaves  West  
+
+o W HP:Fine Mana:Burning Move:Tired>w
+k
+Dreadful Cave
+A butcher knife is lying here. 
+Covering a section of ground is a pool of a thick red liquid.
+The corpse of *an Elf* is lying here.
+The shadow of *an Elf* is floating here.
+*Taki the Dwarf* is standing here (glowing).
+Exits: east, south.
+
+! W HP:Fine Mana:Burning Move:Tired>s
+k
+Aaz approaches *Taki the Dwarf*, trying to stab him.
+You approach *Taki the Dwarf*, trying to smite him.
+
+! W HP:Fine Mana:Burning Move:Tired *Taki the Dwarf*:Wounded Aaz:Fine>-Ichor the Cave Troll- has arrived from the east.
+-Vij the Hill Troll- has arrived from the east.
+-Lkuzk the Mountain Troll- has arrived from the east.
+No way! You are fighting for your life!
+
+! W HP:Fine Mana:Burning Move:Tired *Taki the Dwarf*:Wounded Aaz:Fine>You're already fighting!
+
+! W HP:Fine Mana:Burning Move:Tired *Taki the Dwarf*:Wounded Aaz:Fine>
+-Ichor the Cave Troll- smites *Taki the Dwarf*'s left arm hard.
+*Taki the Dwarf* is fleeing...
+*Taki the Dwarf* leaves  East  
+
+o W HP:Fine Mana:Burning Move:Tired>s
+k
+*Taki the Dwarf* has arrived from the east.
+The heavy slope makes it a real effort to move upwards.
+Entrance to a Dreadful Cave
+The corpse of *a Half-Elf* is lying here.
+Exits: north, [east].
+
+o W HP:Fine Mana:Burning Move:Tired>They aren't here.
+-Ichor the Cave Troll- has arrived from the north.
+-Vij the Hill Troll- has arrived from the north.
+-Lkuzk the Mountain Troll- has arrived from the north.
+
+o W HP:Fine Mana:Burning Move:Tired>e
+
+*Taki the Dwarf* has arrived from the north.
+
+! W HP:Fine Mana:Burning Move:Tired>n
+k
+The  -[ stonedoor ]-  is CLOSED
+-Lkuzk the Mountain Troll- strongly hits *Taki the Dwarf*'s right leg.
+
+! W HP:Fine Mana:Burning Move:Tired>The tunnel slopes heavily downwards, it is a strain staying on your feet.
+Dreadful Cave
+A butcher knife is lying here. 
+Covering a section of ground is a pool of a thick red liquid.
+The corpse of *an Elf* is lying here.
+The shadow of *an Elf* is floating here.
+Exits: east, south.
+
+o W HP:Fine Mana:Burning Move:Slow>s
+They aren't here.
+-Ichor the Cave Troll- has arrived from the south.
+-Vij the Hill Troll- has arrived from the south.
+
+o W HP:Fine Mana:Burning Move:Slow>k
+The heavy slope makes it a real effort to move upwards.
+Entrance to a Dreadful Cave
+The corpse of *a Half-Elf* is lying here.
+-Lkuzk the Mountain Troll- is here, fighting *Taki the Dwarf*.
+*Taki the Dwarf* is here, fighting -Lkuzk the Mountain Troll- (glowing).
+Exits: north, [east].
+Aaz strongly stabs *Taki the Dwarf*'s right foot.
+
+! W HP:Fine Mana:Burning Move:Slow>! W HP:Fine Mana:Burning Move:Slow>
+Alas! ---------> MELEE <----------
+*Taki the Dwarf* is fleeing...
+*Taki the Dwarf* leaves  North  
+
+o W HP:Fine Mana:Burning Move:Slow>n
+k
+
+-Ichor the Cave Troll- has arrived from the north.
+-Vij the Hill Troll- has arrived from the north.
+
+e
+k
+o W HP:Fine Mana:Burning Move:Slow>
+-Ichor the Cave Troll- leaves north.
+-Vij the Hill Troll- leaves north.
+-Lkuzk the Mountain Troll- leaves north.
+You hear some very close noise from the north.
+
+You hear some very close noise from the north.
+
+o W HP:Fine Mana:Burning Move:Slow>The tunnel slopes heavily downwards, it is a strain staying on your feet.
+Dreadful Cave
+A butcher knife is lying here. 
+Covering a section of ground is a pool of a thick red liquid.
+The corpse of *an Elf* is lying here.
+The shadow of *an Elf* is floating here.
+Exits: east, south.
+
+o W HP:Fine Mana:Burning Move:Slow>They aren't here.
+
+o W HP:Fine Mana:Burning Move:Slow>Sinister-looking Cave
+Traces of fierce white tones form the aura of this place.
+There are two barrels here.
+A pan is here, ready for use.
+The corpse of Bert the stone-troll is lying here.
+The corpse of Tom the stone-troll is lying here.
+The corpse of Bill the stone-troll is lying here.
+A half-rotten corpse is hanging here.
+The shadow of Bill the stone-troll is floating here.
+The shadow of Bert the stone-troll is floating here.
+*Taki the Dwarf* is here, fighting -Lkuzk the Mountain Troll- (glowing).
+-Ichor the Cave Troll- is here, fighting *Taki the Dwarf*.
+-Vij the Hill Troll- is standing here.
+-Lkuzk the Mountain Troll- is here, fighting *Taki the Dwarf*.
+Exits: west, up.
+-Lkuzk the Mountain Troll- hits *Taki the Dwarf*'s left arm hard.
+
+! W HP:Fine Mana:Burning Move:Slow>! W HP:Fine Mana:Burning Move:Slow>
+Alas! ---------> MELEE <----------
+
+! W HP:Fine Mana:Burning Move:Slow>
+*Taki the Dwarf* is fleeing...
+*Taki the Dwarf* leaves  Up  
+
+o W HP:Fine Mana:Burning Move:Slow>
+Suddenly *Taki the Dwarf* falls down from the hole in the wall and lands with a thud.
+
+! W HP:Fine Mana:Burning Move:Slow>
+-Lkuzk the Mountain Troll- approaches *Taki the Dwarf*, trying to hit him.
+-Ichor the Cave Troll- leaves west.
+-Vij the Hill Troll- leaves west.
+You hear some very close noise from the west.
+
+sp
+! W HP:Fine Mana:Burning Move:Slow>k
+cha spell
+   _    Default spellcasting mode:
+  | |   thoroughly
+  | |   carefully
+  |~|<- normally
+  | |   fast
+  | |   quickly
+  / \ 
+  \_/
+-Ichor the Cave Troll- has arrived from the west.
+-Vij the Hill Troll- has arrived from the west.
+*Taki the Dwarf* is fleeing...
+*Taki the Dwarf* leaves  West  
+
+o W HP:Fine Mana:Burning Move:Slow>They aren't here.
+
+o W HP:Fine Mana:Burning Move:Slow>w
+k
+Dreadful Cave
+A butcher knife is lying here. 
+Covering a section of ground is a pool of a thick red liquid.
+The corpse of *an Elf* is lying here.
+The shadow of *an Elf* is floating here.
+*Taki the Dwarf* is standing here (glowing).
+Exits: east, south.
+Aaz strongly stabs *Taki the Dwarf*'s right arm.
+
+! W HP:Fine Mana:Burning Move:Slow>s
+You strongly smite *Taki the Dwarf*'s body.
+*Taki the Dwarf* pounds Aaz' left arm extremely hard.
+
+! W HP:Fine Mana:Burning Move:Weak *Taki the Dwarf*:Bad Aaz:Fine>k
+No way! You are fighting for your life!
+-Ichor the Cave Troll- has arrived from the east.
+-Vij the Hill Troll- has arrived from the east.
+-Lkuzk the Mountain Troll- has arrived from the east.
+
+! W HP:Fine Mana:Burning Move:Weak *Taki the Dwarf*:Bad Aaz:Fine>You're already fighting!
+*Taki the Dwarf* is fleeing...
+*Taki the Dwarf* leaves  East  
+
+o W HP:Fine Mana:Burning Move:Weak>g
+Nobody here by that name.
+
+o W HP:Fine Mana:Burning Move:Weak>e
+k
+Sinister-looking Cave
+Traces of fierce white tones form the aura of this place.
+On the ground, there are two barrels.
+A pan is here, ready for use.
+The corpse of Bert the stone-troll is lying here.
+The corpse of Tom the stone-troll is lying here.
+The corpse of Bill the stone-troll is lying here.
+A half-rotten corpse is hanging here.
+The shadow of Bill the stone-troll is floating here.
+The shadow of Bert the stone-troll is floating here.
+*Taki the Dwarf* is standing here (glowing).
+Exits: west, up.
+Aaz approaches *Taki the Dwarf*, trying to stab him.
+
+! W HP:Fine Mana:Burning Move:Weak>g
+! W HP:Fine Mana:Burning Move:Weak>
+Alas! ---------> MELEE <----------
+
+! W HP:Fine Mana:Burning Move:Weak>
+-Ichor the Cave Troll- has arrived from the west.
+-Vij the Hill Troll- has arrived from the west.
+-Lkuzk the Mountain Troll- has arrived from the west.
+
+mov
+! W HP:Fine Mana:Burning Move:Weak>
+-Ichor the Cave Troll- smites *Taki the Dwarf*'s body hard and shatters it.
+Suddenly Gryl falls down from the hole in the wall and lands with a thud.
+
+! W HP:Fine Mana:Burning Move:Weak>
+*Taki the Dwarf* is fleeing...
+*Taki the Dwarf* leaves  West  
+
+k
+o W HP:Fine Mana:Burning Move:Weak>Nobody here by that name.
+
+o W HP:Fine Mana:Burning Move:Weak>w
+k
+quaff draught
+Ok.
+The draught burns down your throat, and a fiery feeling fills your limbs.
+
+o W HP:Fine Mana:Burning Move:Slow>s
+They aren't here.
+-Ichor the Cave Troll- leaves west.
+-Vij the Hill Troll- leaves west.
+-Lkuzk the Mountain Troll- leaves west.
+You hear some very close noise from the west.
+
+o W HP:Fine Mana:Burning Move:Slow>k
+Dreadful Cave
+A butcher knife is lying here. 
+Covering a section of ground is a pool of a thick red liquid.
+The corpse of *an Elf* is lying here.
+The shadow of *an Elf* is floating here.
+*Taki the Dwarf* is here, fighting -Lkuzk the Mountain Troll- (glowing).
+-Ichor the Cave Troll- is here, fighting *Taki the Dwarf*.
+-Vij the Hill Troll- is standing here.
+-Lkuzk the Mountain Troll- is here, fighting *Taki the Dwarf*.
+Exits: east, south.
+
+! W HP:Fine Mana:Burning Move:Slow>! W HP:Fine Mana:Burning Move:Slow>
+Alas! ---------> MELEE <----------
+
+! W HP:Fine Mana:Burning Move:Slow>
+*Taki the Dwarf* is fleeing...
+
+! W HP:Fine Mana:Burning Move:Slow>
+*Taki the Dwarf* pounds -Lkuzk the Mountain Troll-'s body extremely hard.
+
+! W HP:Fine Mana:Burning Move:Slow>
+*Taki the Dwarf* is fleeing...
+
+! W HP:Fine Mana:Burning Move:Slow>n
+The heavy slope makes it a real effort to move upwards.
+Entrance to a Dreadful Cave
+The corpse of *a Half-Elf* is lying here.
+Exits: north, [east].
+
+o W HP:Fine Mana:Burning Move:Slow>k
+They aren't here.
+*Taki the Dwarf* has arrived from the north.
+
+! W HP:Fine Mana:Burning Move:Slow>Aaz strongly stabs *Taki the Dwarf*'s left arm and shatters it.
+*Taki the Dwarf* is incapacitated and will slowly die, if not aided.
+The tunnel slopes heavily downwards, it is a strain staying on your feet.
+Dreadful Cave
+A butcher knife is lying here. 
+Covering a section of ground is a pool of a thick red liquid.
+The corpse of *an Elf* is lying here.
+The shadow of *an Elf* is floating here.
+-Ichor the Cave Troll- is standing here.
+-Vij the Hill Troll- is standing here.
+-Lkuzk the Mountain Troll- is standing here.
+Exits: east, south.
+
+o W HP:Fine Mana:Burning Move:Weak>They aren't here.
+
+o W HP:Fine Mana:Burning Move:Weak>s
+k
+The heavy slope makes it a real effort to move upwards.
+Entrance to a Dreadful Cave
+The corpse of *a Half-Elf* is lying here.
+Aaz is here, fighting *Taki the Dwarf*.
+A hungry warg stands here, sniffing around for flesh.
+*Taki the Dwarf* is lying here, incapacitated (glowing).
+Exits: north, [east].
+
+! W HP:Fine Mana:Burning Move:Weak>You smite *Taki the Dwarf*'s left foot extremely hard and shatter it.
+You feel more experienced.
+Yes! You're beginning to get the idea.
+Your blood freezes as you hear *Taki the Dwarf*'s death cry.
+*Taki the Dwarf* has drawn his last breath! R.I.P.
+
+o W HP:Fine Mana:Burning Move:Weak>
+-Vij the Hill Troll- has arrived from the north.
+
+o W HP:Fine Mana:Burning Move:Weak>
+-Ichor the Cave Troll- has arrived from the north.
+-Lkuzk the Mountain Troll- has arrived from the north.
+
+o W HP:Fine Mana:Burning Move:Weak>lic
+l in corpse
+corpse (here) : 
+the Hammer of Belegost; it glows blue
+a bejewelled shield (brand new); it glows blue
+a diamond ring
+an engraved broadsword (brand new); it glows blue
+a fine grey cloak (brand new); it glows blue
+a forest green cloak (used); it glows blue
+a fortune in gold
+a gleaming belt; it glows blue
+a pair of iron-shod boots (brand new)
+a pair of plate vambraces (brand new)
+a pale blue stone; it glows blue
+a receipt for a sacred cloak
+a red ruby; it glows blue
+a sapphire ring; it glows blue
+a stone
+a thin metal breastplate (brand new)
+a thin pair of greaves (brand new)
+a thin pair of metal gauntlets (brand new)
+a water skin
+a white chain mail coif (brand new)
+a sable pouch; it glows blue
+a sable pouch; it glows blue
+a keyring with a set of lock picks
+a leather backpack
+-Ichor the Cave Troll- gets a fine grey cloak from the corpse of *a Dwarf*.
+-Ichor the Cave Troll- gets an engraved broadsword from the corpse of *a Dwarf*.
+-Ichor the Cave Troll- gets a receipt for a sacred cloak from the corpse of *a Dwarf*.
+-Ichor the Cave Troll- gets a water skin from the corpse of *a Dwarf*.
+-Ichor the Cave Troll- gets a stone from the corpse of *a Dwarf*.
+-Ichor the Cave Troll- gets a sapphire ring from the corpse of *a Dwarf*.
+-Ichor the Cave Troll- gets a diamond ring from the corpse of *a Dwarf*.
+-Ichor the Cave Troll- gets a pale blue stone from the corpse of *a Dwarf*.
+-Ichor the Cave Troll- gets a thin metal breastplate from the corpse of *a Dwarf*.
+-Ichor the Cave Troll- gets a white chain mail coif from the corpse of *a Dwarf*.
+-Ichor the Cave Troll- gets a thin pair of greaves from the corpse of *a Dwarf*.
+-Ichor the Cave Troll- gets a pair of iron-shod boots from the corpse of *a Dwarf*.
+-Ichor the Cave Troll- gets a thin pair of metal gauntlets from the corpse of *a Dwarf*.
+-Ichor the Cave Troll- gets a pair of plate vambraces from the corpse of *a Dwarf*.
+-Ichor the Cave Troll- gets a bejewelled shield from the corpse of *a Dwarf*.
+
+o W HP:Fine Mana:Burning Move:Weak>gac
+Gryl has arrived from the north.
+get all.coins all.corpse
+You get a fortune in gold from the corpse of *a Dwarf*.
+There was 105 gold coins, 6 silver pennies, and 86 copper pennies.
+
+o W HP:Fine Mana:Burning Move:Weak>qw
+You get a forest green cloak from the corpse of *a Dwarf*.
+You get a leather backpack from the corpse of *a Dwarf*.
+You get the Hammer of Belegost from the corpse of *a Dwarf*.
+You get a gleaming belt from the corpse of *a Dwarf*.
+You get a keyring with a set of lock picks from the corpse of *a Dwarf*.
+You get a red ruby from the corpse of *a Dwarf*.
+You get a sable pouch from the corpse of *a Dwarf*.
+You get a sable pouch from the corpse of *a Dwarf*.
+
+o W HP:Fine Mana:Burning Move:Weak>gig
+You giggle.
+
+o W HP:Fine Mana:Burning Move:Weak>spn
+- SPELL-CASTING set to: NORMAL -
+bo
+Ok.
+Gryl says: bah
+
+You start to concentrate... BOB
+
+can
+-Ichor the Cave Troll- smiles viciously.
+
+Aaz roars loudly.
+
+An energy begins to flow within your legs as your body becomes lighter.
+
+o W HP:Fine Mana:Hot Move:Tired>cha ale n
+Ok.
+
+o W HP:Fine Mana:Hot Move:Tired>
+Gryl raises his hand.
+
+o W HP:Fine Mana:Hot Move:Tired>say thanks tho! trolls
+Google narrates 'bbt dead?'
+-Ichor the Cave Troll- claps her hands viciously together in applause.
+emote bitches 'thanks tho! trolls'
+Ok.
+-Lkuzk the Mountain Troll- says : level
+
+o W HP:Fine Mana:Hot Move:Tired>say GOOD FAST COMING
+emote bitches 'GOOD FAST COMING'
+Ok.
+
+o W HP:Fine Mana:Hot Move:Tired>
+-Vij the Hill Troll- rawrz: hu hu
+
+o W HP:Fine Mana:Hot Move:Tired>gro gryl
+Gryl is now a group member.
+-Vij the Hill Troll- rawrz: same here
+
+o W HP:Fine Mana:Hot Move:Tired>can
+cha ale n
+Ok.
+
+o W HP:Fine Mana:Hot Move:Tired>spn
+- SPELL-CASTING set to: NORMAL -
+Ok.
+
+o W HP:Fine Mana:Hot Move:Tired>l
+Entrance to a Dreadful Cave
+Traces of rich red tones form the aura of this place.
+The corpse of *a Dwarf* is lying here.
+The corpse of *a Half-Elf* is lying here.
+Aaz is standing here.
+A hungry warg stands here, sniffing around for flesh.
+A hungry warg stands here, sniffing around for flesh.
+-Vij the Hill Troll- is standing here.
+-Ichor the Cave Troll- is standing here.
+-Lkuzk the Mountain Troll- is standing here.
+Gryl is standing here.
+
+o W HP:Fine Mana:Hot Move:Tired>can
+
+-Ichor the Cave Troll- nods solemnly.
+
+o W HP:Fine Mana:Hot Move:Tired>st
+-Lkuzk the Mountain Troll- smiles viciously.
+cha ale n
+Ok.
+
+o W HP:Fine Mana:Hot Move:Tired>You are already standing.
+
+o W HP:Fine Mana:Hot Move:Tired>lic
+l in corpse
+corpse (here) : 
+Nothing.
+
+o W HP:Fine Mana:Hot Move:Tired>l in 2.corpse
+corpse (here) : 
+Nothing.
+
+o W HP:Fine Mana:Hot Move:Tired>
+Gryl says: bob again please? :/
+
+o W HP:Fine Mana:Hot Move:Tired>nar 3 whities die
+
+-Lkuzk the Mountain Troll- says : well lucky darkness
+
+o W HP:Fine Mana:Hot>Ok.
+
+o W HP:Fine Mana:Hot Move:Tired>
+-Lkuzk the Mountain Troll- smiles viciously.
+
+o W HP:Fine Mana:Hot Move:Tired>
+-Vij the Hill Troll- rawrz: gleaming for us plz!
+
+o W HP:Fine Mana:Hot>nar trolls came fast GOOD:)
+Ok.
+
+o W HP:Fine Mana:Hot Move:Tired>n
+The tunnel slopes heavily downwards, it is a strain staying on your feet.
+Dreadful Cave
+A butcher knife is lying here. 
+Covering a section of ground is a pool of a thick red liquid.
+The corpse of *an Elf* is lying here.
+The shadow of *an Elf* is floating here.
+Exits: east, south.
+
+o W HP:Fine Mana:Hot Move:Tired>lic
+l in corpse
+corpse (here) : 
+the scalp of Rhand
+a bejewelled oak staff; it glows blue
+a ceremonial dagger (brand new); it glows blue
+a copper ring; it glows blue
+a diamond ring
+a fine chain mail shirt (brand new)
+a fine grey cloak (brand new); it glows blue
+a fortune in gold
+a gem-inlaid knife (brand new)
+a gleaming belt; it glows blue
+a fragrant-smelling bag
+a mithril circlet; it glows blue
+a necklace; it glows blue
+a shining pair of greaves (brand new); it glows blue
+a pale blue stone; it glows blue
+a shining pair of vambraces (brand new); it glows blue
+a thin pair of metal gauntlets (brand new)
+a sable pouch; it glows blue
+a sable pouch; it glows blue
+a keyring with a few keys and some sets of lock picks
+a leather backpack
+a pair of smooth, black boots
+
+o W HP:Fine Mana:Hot Move:Tired>
+Gryl has arrived from the south.
+
+o W HP:Fine Mana:Hot Move:Tired>
+Virtus narrates 'clap!'
+
+o W HP:Fine Mana:Hot Move:Tired>mm shadow
+o W HP:Fine Mana:Hot Move:Tired>
+-Ichor the Cave Troll- has arrived from the south.
+-Vij the Hill Troll- has arrived from the south.
+-Lkuzk the Mountain Troll- has arrived from the south.
+
+o W HP:Fine Mana:Hot Move:Tired>blind shadow
+You start to concentrate... BLIND shadow
+
+Daemonicus has arrived from the east.
+A hungry warg has arrived from the east.
+
+Rootsikunn narrates 'cackle'
+
+Ok.
+A shadow seems to be blinded!
+
+o W HP:Fine Mana:Hot>nar HIT SHADOW
+Ok.
+
+o W HP:Fine Mana:Hot Move:Tired>
+Shalani narrates 'CLAPPERS'
+
+o W HP:Fine Mana:Hot Move:Tired>
+Gryl says: oh
+
+o W HP:Fine Mana:Hot Move:Tired>hit shadow
+
+-Ichor the Cave Troll- smites a shadow's body extremely hard and shatters it.
+A shadow says 'Stop hiding, you wimp!'
+
+o W HP:Fine Mana:Hot Move:Tired>Daemonicus throws back his head and cackles with insane glee!
+A shadow swiftly dodges your attempt to smite it.
+A shadow says 'Stop hiding, you wymp!'
+A hungry warg sits down and rests.
+
+o W HP:Fine Mana:Hot Move:Tired a shadow:Fine -Ichor the Cave Troll-:Fine>
+-Vij the Hill Troll- hits a shadow's right arm very hard.
+A shadow says 'Stop hiding, you wimp!'
+
+o W HP:Fine Mana:Hot Move:Tired a shadow:Fine -Ichor the Cave Troll-:Fine>lic
+
+Gryl says: nice shit
+Aaz joins your fight.
+A shadow says 'Stop hiding, you wimp!'
+Aaz stabs a shadow's body very hard.
+
+o W HP:Fine Mana:Hot Move:Tired a shadow:Hurt -Ichor the Cave Troll-:Fine>Gryl joins your fight.
+-Lkuzk the Mountain Troll- hits a shadow's head extremely hard and shatters it.
+l in corpse
+corpse (here) : 
+the scalp of Rhand
+a bejewelled oak staff; it glows blue
+a ceremonial dagger (brand new); it glows blue
+a copper ring; it glows blue
+a diamond ring
+a fine chain mail shirt (brand new)
+a fine grey cloak (brand new); it glows blue
+a fortune in gold
+a gem-inlaid knife (brand new)
+a gleaming belt; it glows blue
+a fragrant-smelling bag
+a mithril circlet; it glows blue
+a necklace; it glows blue
+a shining pair of greaves (brand new); it glows blue
+a pale blue stone; it glows blue
+a shining pair of vambraces (brand new); it glows blue
+a thin pair of metal gauntlets (brand new)
+a sable pouch; it glows blue
+a sable pouch; it glows blue
+a keyring with a few keys and some sets of lock picks
+a leather backpack
+a pair of smooth, black boots
+A shadow says 'Stop hiding, you wimp!'
+A shadow says 'Stop hiding, you wimp!'
+Gryl smites a shadow's right leg extremely hard and shatters it.
+A shadow hits -Ichor the Cave Troll-'s left foot and tickles it.
+
+o W HP:Fine Mana:Hot Move:Tired a shadow:Wounded -Ichor the Cave Troll-:Fine>nar good eq
+Ok.
+Google leaves her hiding place.
+Google raises her hand.
+
+o W HP:Fine Mana:Hot Move:Tired a shadow:Wounded -Ichor the Cave Troll-:Fine>i
+You are carrying:
+a sable pouch; it glows blue
+a sable pouch; it glows blue
+a red ruby; it glows blue
+a keyring with a set of lock picks
+a gleaming belt; it glows blue
+the Hammer of Belegost; it glows blue
+a leather backpack
+a forest green cloak (used); it glows blue
+an engraved broadsword (brand new); it glows blue
+a bejewelled shield (brand new); it glows blue
+a forest green cloak (brand new); it glows blue
+a thin pair of leather gloves (used)
+a black pair of padded boots (brand new)
+a flask of orkish draught
+a flask of orkish draught
+a flask of orkish draught
+a jewel-encrusted goblet
+
+o W HP:Fine Mana:Hot Move:Tired a shadow:Wounded -Ichor the Cave Troll-:Fine>
+Daemonicus disbands his group.
+
+o W HP:Fine Mana:Hot Move:Tired a shadow:Wounded -Ichor the Cave Troll-:Fine>
+-Ichor the Cave Troll- puts a cave-bear fur in a leather backpack.
+-Ichor the Cave Troll- puts a small key carved from ebony in a leather backpack.
+-Ichor the Cave Troll- puts a metal key in a leather backpack.
+-Ichor the Cave Troll- puts a dark broadsword in a leather backpack.
+-Ichor the Cave Troll- puts a dark shield in a leather backpack.
+-Ichor the Cave Troll- puts a fine grey cloak in a leather backpack.
+-Ichor the Cave Troll- puts an engraved broadsword in a leather backpack.
+-Ichor the Cave Troll- puts a receipt for a sacred cloak in a leather backpack.
+-Ichor the Cave Troll- puts a water skin in a leather backpack.
+-Ichor the Cave Troll- puts a stone in a leather backpack.
+-Ichor the Cave Troll- puts a sapphire ring in a leather backpack.
+-Ichor the Cave Troll- puts a diamond ring in a leather backpack.
+-Ichor the Cave Troll- puts a pale blue stone in a leather backpack.
+-Ichor the Cave Troll- puts a thin metal breastplate in a leather backpack.
+-Ichor the Cave Troll- puts a white chain mail coif in a leather backpack.
+-Ichor the Cave Troll- puts a thin pair of greaves in a leather backpack.
+-Ichor the Cave Troll- puts a pair of iron-shod boots in a leather backpack.
+
+o W HP:Fine Mana:Hot Move:Tired a shadow:Wounded -Ichor the Cave Troll-:Fine>
+A shadow strongly hits -Ichor the Cave Troll-'s right arm and tickles it.
+
+o W HP:Fine Mana:Hot Move:Tired a shadow:Wounded -Ichor the Cave Troll-:Fine>
+-Vij the Hill Troll- puts a giant spear in a leather backpack.
+-Vij the Hill Troll- puts a metal wall shield in a leather backpack.
+-Vij the Hill Troll- puts an icy ring in a leather backpack.
+-Vij the Hill Troll- puts a thin metal breastplate in a leather backpack.
+-Vij the Hill Troll- puts a blood-encrusted helm in a leather backpack.
+-Vij the Hill Troll- puts a thin pair of greaves in a leather backpack.
+-Vij the Hill Troll- puts a thin pair of soft leather boots in a leather backpack.
+-Vij the Hill Troll- puts a thin pair of metal gauntlets in a leather backpack.
+-Vij the Hill Troll- puts a plain leather belt in a leather backpack.
+
+o W HP:Fine Mana:Hot Move:Tired a shadow:Wounded -Ichor the Cave Troll-:Fine>
+A shadow swiftly dodges Google's attempt to pierce it.
+A shadow says 'Stop hiding, you wamp!'
+
+o W HP:Fine Mana:Hot Move:Tired a shadow:Wounded -Ichor the Cave Troll-:Fine>         
+Daemonicus raises his hand.
+-Lkuzk the Mountain Troll- hits a shadow's right hand extremely hard and shatters it.
+-Vij the Hill Troll- hits a shadow's body extremely hard and shatters it.
+A shadow is incapacitated and will slowly die, if not aided.
+
+o W HP:Fine Mana:Hot Move:Tired a shadow:Dying -Ichor the Cave Troll-:Fine>
+Rootsikunn narrates 'nice'
+Gryl smites a shadow's body extremely hard and shatters it.
+You receive your share of experience.
+This is really a genocide...
+Your blood freezes as you hear a shadow's death cry.
+A shadow disappears into nothing.
+
+o W HP:Fine Mana:Hot Move:Tired>i
+-Vij the Hill Troll- gets a diamond ring from the corpse of *an Elf*.
+-Vij the Hill Troll- gets a copper ring from the corpse of *an Elf*.
+-Vij the Hill Troll- gets a necklace from the corpse of *an Elf*.
+-Vij the Hill Troll- gets a pale blue stone from the corpse of *an Elf*.
+-Vij the Hill Troll- gets a fine chain mail shirt from the corpse of *an Elf*.
+-Vij the Hill Troll- gets a mithril circlet from the corpse of *an Elf*.
+-Vij the Hill Troll- gets a shining pair of greaves from the corpse of *an Elf*.
+-Vij the Hill Troll- gets a pair of smooth, black boots from the corpse of *an Elf*.
+-Vij the Hill Troll- gets a thin pair of metal gauntlets from the corpse of *an Elf*.
+-Vij the Hill Troll- gets a shining pair of vambraces from the corpse of *an Elf*.
+-Vij the Hill Troll- gets a bejewelled oak staff from the corpse of *an Elf*.
+-Vij the Hill Troll- gets a fine grey cloak from the corpse of *an Elf*.
+Gryl gets a fortune in gold from the corpse of *an Elf*.
+You are carrying:
+a sable pouch; it glows blue
+a sable pouch; it glows blue
+a red ruby; it glows blue
+a keyring with a set of lock picks
+a gleaming belt; it glows blue
+the Hammer of Belegost; it glows blue
+a leather backpack
+a forest green cloak (used); it glows blue
+an engraved broadsword (brand new); it glows blue
+a bejewelled shield (brand new); it glows blue
+a forest green cloak (brand new); it glows blue
+a thin pair of leather gloves (used)
+a black pair of padded boots (brand new)
+a flask of orkish draught
+a flask of orkish draught
+a flask of orkish draught
+a jewel-encrusted goblet
+
+o W HP:Fine Mana:Hot Move:Tired>qw
+You get a leather backpack from the corpse of *an Elf*.
+You get a keyring with a few keys and some sets of lock picks from the corpse of *an Elf*.
+You get a ceremonial dagger from the corpse of *an Elf*.
+You can't get a gleaming belt, you are carrying too many items already.
+
+o W HP:Fine Mana:Hot>
+Aaz gets a gleaming belt from the corpse of *an Elf*.
+Aaz gets a sable pouch from the corpse of *an Elf*.
+Aaz gets a sable pouch from the corpse of *an Elf*.
+Aaz gets a fragrant-smelling bag from the corpse of *an Elf*.
+Aaz gets the scalp of Rhand from the corpse of *an Elf*.
+Aaz gets a gem-inlaid knife from the corpse of *an Elf*.
+
+o W HP:Fine Mana:Hot>gi
+You giggle.
+
+o W HP:Fine Mana:Hot>ta loot
+tell aaz loot
+Ok.
+
+o W HP:Fine Mana:Hot>
+-Vij the Hill Troll- grins evilly, showing his teeth.
+Daemonicus raises his hand.
+
+o W HP:Fine Mana:Hot>
+Shalani narrates 'spare crown/circlet ? :p'
+
+o W HP:Fine Mana:Hot>i       
+You are carrying:
+a ceremonial dagger (brand new); it glows blue
+a keyring with a few keys and some sets of lock picks
+a leather backpack
+a sable pouch; it glows blue
+a sable pouch; it glows blue
+a red ruby; it glows blue
+a keyring with a set of lock picks
+a gleaming belt; it glows blue
+the Hammer of Belegost; it glows blue
+a leather backpack
+a forest green cloak (used); it glows blue
+an engraved broadsword (brand new); it glows blue
+a bejewelled shield (brand new); it glows blue
+a forest green cloak (brand new); it glows blue
+a thin pair of leather gloves (used)
+a black pair of padded boots (brand new)
+a flask of orkish draught
+a flask of orkish draught
+a flask of orkish draught
+a jewel-encrusted goblet
+
+o W HP:Fine Mana:Hot>l
+
+-Ichor the Cave Troll- starts butchering the corpse.
+Google leaves south.
+
+o W HP:Fine Mana:Hot>Dreadful Cave
+A butcher knife is lying here. 
+Covering a section of ground is a pool of a thick red liquid.
+The corpse of *an Elf* is lying here.
+A hungry warg stands here, sniffing around for flesh.
+Aaz is standing here.
+A hungry warg stands here, sniffing around for flesh.
+Gryl is standing here.
+-Ichor the Cave Troll- is standing here.
+-Vij the Hill Troll- is standing here.
+-Lkuzk the Mountain Troll- is standing here.
+Daemonicus is standing here.
+A hungry warg is resting here.
+
+o W HP:Fine Mana:Hot>
+Gryl leaves east.
+
+o W HP:Fine Mana:Hot>
+_____________________________________________________________________________
+TELL! Rootsikunn: "'mingi kena asjake kunnile kaa?:P'" 
+
+o W HP:Fine Mana:Hot>
+Gryl has arrived from the east.
+
+o W HP:Fine Mana:Hot>lic
+l in corpse
+corpse (here) : 
+Nothing.
+
+o W HP:Fine Mana:Hot>bu
+butcher corpse
+Someone else is already busy handling the corpse.
+
+o W HP:Fine Mana:Hot>
+Google has arrived from the south.
+Aaz burps:  shining
+Daemonicus incantates: 'any ornate?'
+
+o W HP:Fine Mana:Hot>st
+You are already standing.
+
+o W HP:Fine Mana:Hot>s
+The heavy slope makes it a real effort to move upwards.
+Entrance to a Dreadful Cave
+Traces of pale red tones form the aura of this place.
+The corpse of *a Dwarf* is lying here.
+The corpse of *a Half-Elf* is lying here.
+Exits: north, [east].
+
+o W HP:Fine Mana:Hot>bu
+butcher corpse
+You start butchering the corpse.
+
+-Ichor the Cave Troll- has arrived from the north.
+-Vij the Hill Troll- has arrived from the north.
+-Lkuzk the Mountain Troll- has arrived from the north.
+
+bu2
+Virtus narrates 'who was it?'
+
+Gryl has arrived from the north.
+
+_____________________________________________________________________________
+TELL! Hamster: "'metalit on h2id?'" 
+
+You produce three pieces of tough meat.
+You can't carry that.
+You can't carry that.
+You can't carry that.
+
+o W HP:Fine Mana:Hot>butcher 2.corpse
+You start butchering the corpse.
+
+l e
+_____________________________________________________________________________
+TELL! Scave: "'too mulle metal gauntletsid kui on?'" 
+-Ichor the Cave Troll- drips : we split warrens guys?
+
+drop all.meat
+Limpy narrates 'fuck'
+
+Gryl says: who was elf?
+
+Daemonicus has arrived from the north.
+
+-Vij the Hill Troll- rawrz: yes
+
+put all.scalp pack
+You produce two bloody pieces of meat.
+You can't carry that.
+You can't carry that.
+You produce a piece of sweet meat.
+You can't carry that.
+
+o W HP:Fine Mana:Hot>A heavy stonedoor is set in the eastern wall. High above it a large hole can
+be seen.
+The  -[ stonedoor ]-  is CLOSED
+
+o W HP:Fine Mana:Hot>You don't have any meat.
+
+o W HP:Fine Mana:Hot>You don't have any scalp.
+
+o W HP:Fine Mana:Hot>put all.fine pack
+You don't have any fine.
+
+o W HP:Fine Mana:Hot>i
+You are carrying:
+a ceremonial dagger (brand new); it glows blue
+a keyring with a few keys and some sets of lock picks
+a leather backpack
+a sable pouch; it glows blue
+a sable pouch; it glows blue
+a red ruby; it glows blue
+a keyring with a set of lock picks
+a gleaming belt; it glows blue
+the Hammer of Belegost; it glows blue
+a leather backpack
+a forest green cloak (used); it glows blue
+an engraved broadsword (brand new); it glows blue
+a bejewelled shield (brand new); it glows blue
+a forest green cloak (brand new); it glows blue
+a thin pair of leather gloves (used)
+a black pair of padded boots (brand new)
+a flask of orkish draught
+a flask of orkish draught
+a flask of orkish draught
+a jewel-encrusted goblet
+
+o W HP:Fine Mana:Hot>wimp
+cha mood wimp
+Ok.
+
+o W HP:Fine Mana:Hot>put all.sable pack
+You put a sable pouch in a leather backpack.
+You put a sable pouch in a leather backpack.
+
+o W HP:Fine Mana:Hot>wimp
+cha mood wimp
+Ok.
+
+o W HP:Fine Mana:Hot>200
+Wimpy set to: 200
+
+o W HP:Fine Mana:Hot>can
+cha ale n
+Ok.
+
+o W HP:Fine Mana:Hot>l
+Entrance to a Dreadful Cave
+Traces of red tones form the aura of this place.
+There are two bloody pieces of meat here.
+A piece of meat, still bloody, is lying here.
+You see three pieces of tough meat on the ground.
+The butchered corpse of *a Dwarf* is lying here.
+The butchered corpse of *a Half-Elf* is lying here.
+A hungry warg stands here, sniffing around for flesh.
+Aaz is standing here.
+A hungry warg stands here, sniffing around for flesh.
+-Ichor the Cave Troll- is standing here.
+-Vij the Hill Troll- is standing here.
+-Lkuzk the Mountain Troll- is standing here.
+Gryl is standing here.
+Daemonicus is standing here.
+
+o W HP:Fine Mana:Hot>say now, letsgetout
+emote bitches 'now, letsgetout'
+Ok.
+
+o W HP:Fine Mana:Hot>gi
+x
+Aaz burps:  do trollz need shining?
+You giggle.
+
+o W HP:Fine Mana:Hot>ex
+North - Dreadful Cave
+East  - A closed 'stonedoor'
+
+o W HP:Fine Mana:Hot>
+-Lkuzk the Mountain Troll- says : thryn earanion
+
+o W HP:Fine Mana:Hot>l e
+A heavy stonedoor is set in the eastern wall. High above it a large hole can
+be seen.
+The  -[ stonedoor ]-  is CLOSED
+
+o W HP:Fine Mana:Hot>i
+You are carrying:
+a ceremonial dagger (brand new); it glows blue
+a keyring with a few keys and some sets of lock picks
+a leather backpack
+a red ruby; it glows blue
+a keyring with a set of lock picks
+a gleaming belt; it glows blue
+the Hammer of Belegost; it glows blue
+a leather backpack
+a forest green cloak (used); it glows blue
+an engraved broadsword (brand new); it glows blue
+a bejewelled shield (brand new); it glows blue
+a forest green cloak (brand new); it glows blue
+a thin pair of leather gloves (used)
+a black pair of padded boots (brand new)
+a flask of orkish draught
+a flask of orkish draught
+a flask of orkish draught
+a jewel-encrusted goblet
+
+o W HP:Fine Mana:Hot>
+Gryl says: wait
+
+o W HP:Fine Mana:Hot>get key all
+You remove a small stone key from your keyring.
+
+o W HP:Fine Mana:Hot>
+Gryl says: reveal?
+
+o W HP:Fine Mana:Hot>
+Rootsikunn narrates 'spare beje/manaring?:P'
+
+o W HP:Fine Mana:Hot>say who has key
+emote bitches 'who has key'
+Ok.
+
+o W HP:Fine Mana:Hot>z
+reveal q
+You begin to search...
+
+Gryl leaves north.
+-Ichor the Cave Troll- drips : give gleamings etc trolls,orcs get rest
+
+can
+spn
+- SPELL-CASTING set to: NORMAL -
+You didn't find anyone.
+
+o W HP:Fine Mana:Hot>cha ale n
+Ok.
+
+o W HP:Fine Mana:Hot>Ok.
+
+o W HP:Fine Mana:Hot>
+-Vij the Hill Troll- rawrz: LOOt BBT?
+
+o W HP:Fine Mana:Hot>
+-Ichor the Cave Troll- gets a metal key from a leather backpack.
+
+o W HP:Fine Mana:Hot>
+-Ichor the Cave Troll- gets a small key carved from ebony from a leather backpack.
+
+o W HP:Fine Mana:Hot>
+Shalani narrates 'who poor bn died on abr ?'
+
+o W HP:Fine Mana:Hot>say we DO that in wrns
+emote bitches 'we DO that in wrns'
+Ok.
+
+o W HP:Fine Mana:Hot>
+-Ichor the Cave Troll- leaves north.
+-Vij the Hill Troll- leaves north.
+-Lkuzk the Mountain Troll- leaves north.
+Some apparently very close noise can be heard from the north.
+
+o W HP:Fine Mana:Hot>say please openup
+emote bitches 'please openup'
+Ok.
+
+o W HP:Fine Mana:Hot>n
+The tunnel slopes heavily downwards, it is a strain staying on your feet.
+Dreadful Cave
+A butcher knife is lying here. 
+Covering a section of ground is a pool of a thick red liquid.
+The butchered corpse of *an Elf* is lying here.
+A hungry warg is resting here.
+-Ichor the Cave Troll- is standing here.
+-Vij the Hill Troll- is standing here.
+-Lkuzk the Mountain Troll- is standing here.
+Exits: east, south.
+-Ichor the Cave Troll- leaves east.
+-Vij the Hill Troll- leaves east.
+-Lkuzk the Mountain Troll- leaves east.
+
+o W HP:Fine Mana:Hot>tim
+According to the Dunadan calendar, it is:
+1.SYGIS [20-6] 4pm on Highday, the 9th of Winterfilth
+The present Tan Istar, Lord of the Istari Council is Kristian.
+Real time is Wed Jan  7 15:29:00 2004 GMT.
+Last reboot due to manual reboot at Wed Jan  7 10:03:26 2004 GMT.
+
+o W HP:Fine Mana:Hot>e
+
+Daemonicus has arrived from the south.
+Gryl narrates 'do shadow'
+
+o W HP:Fine Mana:Hot>Sinister-looking Cave
+Traces of fierce white tones form the aura of this place.
+On the ground, there are two barrels.
+A pan is here, ready for use.
+The corpse of Bert the stone-troll is lying here.
+The corpse of Tom the stone-troll is lying here.
+The corpse of Bill the stone-troll is lying here.
+A half-rotten corpse is hanging here.
+The shadow of Bill the stone-troll is floating here.
+The shadow of Bert the stone-troll is floating here.
+Google is standing here.
+Gryl is standing here.
+-Ichor the Cave Troll- is standing here.
+-Vij the Hill Troll- is standing here.
+-Lkuzk the Mountain Troll- is standing here.
+Exits: west, up.
+
+o W HP:Fine Mana:Hot>
+Daemonicus has arrived from the west.
+
+o W HP:Fine Mana:Hot>say dont want charge on us
+emote bitches 'dont want charge on us'
+Ok.
+
+o W HP:Fine Mana:Hot>gi
+You giggle.
+
+o W HP:Fine Mana:Hot>lic
+l in corpse
+corpse (here) : 
+a pile of coins
+a ring; it glows blue
+a stone club
+Gryl says: 1.
+
+o W HP:Fine Mana:Hot>
+-Vij the Hill Troll- rawrz: 3rd corpse
+
+o W HP:Fine Mana:Hot>get key all
+The icy grasp of a shadow blocks your attempt!
+The icy grasp of a shadow blocks your attempt!
+You remove a shining key from your keyring.
+
+o W HP:Fine Mana:Hot>mm shadowb
+o W HP:Fine Mana:Hot>
+A shadow whispers 'I won't allow the looting of my fallen body!'
+A shadow whispers 'I won't allow the looting of my fallen body!'
+
+o W HP:Fine Mana:Hot>mm shadow
+o W HP:Fine Mana:Hot>
+-Lkuzk the Mountain Troll- says : there is no puke group on
+Gryl says: 1.shadow
+
+o W HP:Fine Mana:Hot>b
+You start to concentrate... BLIND shadow
+
+Daemonicus raises his hand.
+
+hit shadow
+Ok.
+A shadow seems to be blinded!
+
+o W HP:Fine Mana:Hot>swo
+You try to smite a shadow, but it parries successfully.
+A shadow says 'Stop hiding, you wimp!'
+
+o W HP:Fine Mana:Hot a shadow:Healthy>Daemonicus incantates: 'gr me'
+You can't carry that many items.
+
+o W HP:Fine Mana:Hot a shadow:Healthy>Aaz joins your fight.
+-Ichor the Cave Troll- smites a shadow's right foot extremely hard.
+You are already holding too much.
+A shadow says 'Stop hiding, you wimp!'
+A shadow says 'Stop hiding, you wimp!'
+Aaz stabs a shadow's body very hard and tickles it.
+
+o W HP:Fine Mana:Hot a shadow:Fine>shi
+wear shield
+You are already holding too much.
+
+o W HP:Fine Mana:Hot a shadow:Fine>
+Gryl joins your fight.
+A shadow says 'Stop hiding, you wimp!'
+Gryl smites a shadow's head extremely hard and tickles it.
+
+o W HP:Fine Mana:Hot a shadow:Fine>wimp
+cha mood wimp
+Ok.
+
+o W HP:Fine Mana:Hot a shadow:Fine>
+-Lkuzk the Mountain Troll- joins -Ichor the Cave Troll-'s fight.
+-Vij the Hill Troll- hits a shadow's body extremely hard.
+A shadow says 'Stop hiding, you wimp!'
+A shadow says 'Stop hiding, you wimp!'
+-Lkuzk the Mountain Troll- hits a shadow's left leg extremely hard and tickles it.
+
+o W HP:Fine Mana:Hot a shadow:Fine>gro daemonicus
+Daemonicus is now a group member.
+Aaz stabs a shadow's body extremely hard.
+
+o W HP:Fine Mana:Hot a shadow:Hurt>i
+You are carrying:
+a shining key
+a small stone key
+a ceremonial dagger (brand new); it glows blue
+a keyring with a key and some sets of lock picks
+a leather backpack
+a red ruby; it glows blue
+a keyring with a set of lock picks
+a gleaming belt; it glows blue
+the Hammer of Belegost; it glows blue
+a leather backpack
+a forest green cloak (used); it glows blue
+an engraved broadsword (brand new); it glows blue
+a bejewelled shield (brand new); it glows blue
+a forest green cloak (brand new); it glows blue
+a thin pair of leather gloves (used)
+a black pair of padded boots (brand new)
+a flask of orkish draught
+a flask of orkish draught
+a flask of orkish draught
+a jewel-encrusted goblet
+
+o W HP:Fine Mana:Hot a shadow:Hurt>wimp
+cha mood wimp
+Ok.
+
+o W HP:Fine Mana:Hot a shadow:Hurt>can
+Google joins Gryl's fight.
+cha ale n
+Ok.
+A shadow says 'Stop hiding, you wimp!'
+
+o W HP:Fine Mana:Hot a shadow:Hurt>
+Gryl smites a shadow's body extremely hard and tickles it.
+
+o W HP:Fine Mana:Hot a shadow:Hurt>
+-Vij the Hill Troll- hits a shadow's left foot very hard and tickles it.
+
+o W HP:Fine Mana:Hot a shadow:Hurt>
+You smite a shadow's right hand extremely hard.
+
+o W HP:Fine Mana:Hot a shadow:Hurt>
+-Lkuzk the Mountain Troll- hits a shadow's left leg extremely hard.
+
+o W HP:Fine Mana:Hot a shadow:Wounded>
+-Ichor the Cave Troll- smites a shadow's left arm extremely hard and shatters it.
+
+o W HP:Fine Mana:Hot a shadow:Wounded>put dagger pack
+You put a ceremonial dagger in a leather backpack.
+
+o W HP:Fine Mana:Hot a shadow:Wounded>i
+You are carrying:
+a shining key
+a small stone key
+a keyring with a key and some sets of lock picks
+a leather backpack
+a red ruby; it glows blue
+a keyring with a set of lock picks
+a gleaming belt; it glows blue
+the Hammer of Belegost; it glows blue
+a leather backpack
+a forest green cloak (used); it glows blue
+an engraved broadsword (brand new); it glows blue
+a bejewelled shield (brand new); it glows blue
+a forest green cloak (brand new); it glows blue
+a thin pair of leather gloves (used)
+a black pair of padded boots (brand new)
+a flask of orkish draught
+a flask of orkish draught
+a flask of orkish draught
+a jewel-encrusted goblet
+
+o W HP:Fine Mana:Hot a shadow:Wounded>
+Aaz stabs a shadow's left foot extremely hard.
+
+o W HP:Fine Mana:Hot a shadow:Wounded>
+-Vij the Hill Troll- hits a shadow's body extremely hard.
+Gryl smites a shadow's left hand very hard.
+
+o W HP:Fine Mana:Hot a shadow:Bad>
+-Lkuzk the Mountain Troll- hits a shadow's right arm extremely hard and shatters it.
+
+o W HP:Fine Mana:Hot a shadow:Bad>
+You smite a shadow's body extremely hard and shatter it.
+
+o W HP:Fine Mana:Hot a shadow:Awful>l in 2.pack
+backpack (carried) : 
+a black runed dagger (brand new); it glows blue
+a blue scroll; it glows blue
+a bright red amulet; it glows blue
+a fine pair of chain mail sleeves (brand new)
+five flasks of orkish draught
+a handful of clover
+two handfuls of narrow leaves
+three herbal kits
+a lembas wafer; it glows blue
+three man-like roots
+a small metal flask
+a small pouch
+a vellum scroll; it glows blue
+a wooden pipe
+
+o W HP:Fine Mana:Hot a shadow:Awful>wimp
+cha mood wimp
+Ok.
+
+o W HP:Fine Mana:Hot a shadow:Awful>spn
+- SPELL-CASTING set to: NORMAL -
+
+Aaz stabs a shadow's right leg extremely hard and shatters it.
+
+o W HP:Fine Mana:Hot a shadow:Awful>Ok.
+
+o W HP:Fine Mana:Hot a shadow:Awful>can
+cha ale n
+Ok.
+-Ichor the Cave Troll- smites a shadow's right foot extremely hard and shatters it.
+Your blood freezes as you hear a shadow's death cry.
+A shadow disappears into nothing.
+
+o W HP:Fine Mana:Hot>wimp
+200
+cha mood wimp
+Ok.
+
+o W HP:Fine Mana:Hot>Wimpy set to: 200
+
+o W HP:Fine Mana:Hot>can
+cha ale n
+Ok.
+
+o W HP:Fine Mana:Hot>l
+Sinister-looking Cave
+Traces of fierce white tones form the aura of this place.
+On the ground, there are two barrels.
+A pan is here, ready for use.
+The corpse of Bert the stone-troll is lying here.
+The corpse of Tom the stone-troll is lying here.
+The corpse of Bill the stone-troll is lying here.
+A half-rotten corpse is hanging here.
+The shadow of Bert the stone-troll is floating here.
+Google is standing here.
+Gryl is standing here.
+-Ichor the Cave Troll- is standing here.
+-Vij the Hill Troll- is standing here.
+-Lkuzk the Mountain Troll- is standing here.
+A hungry warg stands here, sniffing around for flesh.
+Aaz is standing here.
+A hungry warg stands here, sniffing around for flesh.
+Daemonicus is standing here.
+
+o W HP:Fine Mana:Hot>hit shadow
+A shadow swiftly dodges your attempt to smite it.
+A shadow says 'It was your last mistake Diamonium! I will remember you!'
+
+o W Mana:Hot a shadow:Healthy>
+Google gets a big stone key from the corpse of Bill the stone-troll.
+As Google greedily kneels down towards the corpse, the icy grasp of a shadow stops her!
+
+o W Mana:Hot a shadow:Healthy>
+Gryl joins your fight.
+Gryl smites a shadow's right arm hard and tickles it.
+
+o W Mana:Hot a shadow:Fine>
+As -Ichor the Cave Troll- greedily kneels down towards the corpse, the icy grasp of a shadow stops her!
+A shadow whispers 'I won't allow the looting of my fallen body!'
+
+o W Mana:Hot a shadow:Fine>blind
+You start to concentrate... BLIND 
+Daemonicus joins Gryl's fight.
+Daemonicus pounds a shadow's right foot extremely hard and tickles it.
+
+Aaz joins Gryl's fight.
+Aaz stabs a shadow's left leg extremely hard and tickles it.
+
+Google giggles.
+A shadow whispers 'I won't allow the looting of my fallen body!'
+
+-Vij the Hill Troll- puts a diamond ring in a leather backpack.
+-Ichor the Cave Troll- smites a shadow's left foot extremely hard.
+A shadow says 'It was your last mistake Troll! I will remember you!'
+
+-Lkuzk the Mountain Troll- hits a shadow's right foot extremely hard.
+A shadow says 'Prepare to die, Troll!'
+
+get key all.corpse
+Ok.
+A shadow seems to be blinded!
+
+o W Mana:Hot a shadow:Fine>The icy grasp of a shadow blocks your attempt!
+You can't find a key in any corpse.
+Google says 'got key!'
+
+o W Mana:Hot a shadow:Fine>
+Aaz stabs a shadow's left foot extremely hard.
+
+o W Mana:Hot a shadow:Hurt>
+A shadow whispers 'I won't allow the looting of my fallen body!'
+
+o W Mana:Hot a shadow:Hurt>
+Daemonicus pounds a shadow's body extremely hard.
+
+o W Mana:Hot a shadow:Hurt>
+Gryl smites a shadow's left arm hard and tickles it.
+
+o W Mana:Hot a shadow:Hurt>
+-Vij the Hill Troll- joins -Ichor the Cave Troll-'s fight.
+A shadow says 'Stop hiding, you wimp!'
+-Vij the Hill Troll- hits a shadow's head extremely hard.
+
+o W Mana:Hot a shadow:Hurt>nod
+You nod solemnly.
+
+o W Mana:Hot a shadow:Hurt>
+-Ichor the Cave Troll- smites a shadow's body extremely hard and shatters it.
+
+o W Mana:Hot a shadow:Wounded>wimp
+cha mood wimp
+Ok.
+
+o W Mana:Hot a shadow:Wounded>200
+Wimpy set to: 200
+Daemonicus pounds a shadow's right arm extremely hard.
+
+o W Mana:Hot a shadow:Wounded>can
+cha ale n
+Ok.
+
+o W Mana:Hot a shadow:Wounded>
+-Vij the Hill Troll- hits a shadow's right arm extremely hard.
+
+o W Mana:Hot a shadow:Wounded>spn
+- SPELL-CASTING set to: NORMAL -
+Ok.
+
+o W Mana:Hot a shadow:Wounded>x
+ex
+West  - Dreadful Cave
+Up    - Very Steep Passage
+-Lkuzk the Mountain Troll- hits a shadow's head extremely hard and shatters it.
+
+o W Mana:Hot a shadow:Bad>
+Aaz stabs a shadow's body extremely hard and shatters it.
+
+o W Mana:Hot a shadow:Bad>
+Gryl smites a shadow's body extremely hard and shatters it.
+
+o W Mana:Hot a shadow:Awful>
+Daemonicus pounds a shadow's left foot extremely hard and shatters it.
+
+o W Mana:Hot a shadow:Awful>
+You smite a shadow's right arm extremely hard and shatter it.
+A shadow is incapacitated and will slowly die, if not aided.
+
+o W Mana:Hot a shadow:Dying>
+-Lkuzk the Mountain Troll- hits a shadow's head extremely hard and shatters it.
+Your blood freezes as you hear a shadow's death cry.
+A shadow disappears into nothing.
+
+o W Mana:Hot>lic
+l in corpse
+corpse (here) : 
+a pile of coins
+a ring; it glows blue
+a stone club
+
+o W Mana:Hot>gac
+get all.coins all.corpse
+You get a pile of coins from the corpse of Bill the stone-troll.
+There was 1 silver penny.
+You get a pile of coins from the corpse of Bert the stone-troll.
+There was 1 silver penny.
+
+o W Mana:Hot>
+-Vij the Hill Troll- hides a necklace.
+
+o W Mana:Hot>spn
+- SPELL-CASTING set to: NORMAL -
+Ok.
+
+o W Mana:Hot>get key all.corpse
+You can't find a key in any corpse.
+
+o W Mana:Hot>
+-Ichor the Cave Troll- leaves west.
+-Vij the Hill Troll- leaves west.
+-Lkuzk the Mountain Troll- leaves west.
+Some very close noise can be heard from the west.
+
+o W Mana:Hot>say and now ou
+
+Daemonicus leaves west.
+
+o W Mana:Hot>emote bitches 'and now ou'
+Ok.
+
+o W Mana:Hot>w
+Dreadful Cave
+A butcher knife is lying here. 
+Covering a section of ground is a pool of a thick red liquid.
+The butchered corpse of *an Elf* is lying here.
+A hungry warg stands here, sniffing around for flesh.
+-Ichor the Cave Troll- is standing here.
+-Vij the Hill Troll- is standing here.
+-Lkuzk the Mountain Troll- is standing here.
+Daemonicus is standing here.
+Exits: east, south.
+
+o W Mana:Hot>
+Google has arrived from the east.
+
+o W Mana:Hot>
+Daemonicus leaves south.
+A hungry warg leaves south.
+
+o W Mana:Hot>
+Gryl has arrived from the east.
+
+o W Mana:Hot>s
+The heavy slope makes it a real effort to move upwards.
+Entrance to a Dreadful Cave
+On the ground, there are two bloody pieces of meat.
+A piece of meat, still bloody, is lying here.
+There are three pieces of tough meat here.
+The butchered corpse of *a Dwarf* is lying here.
+The butchered corpse of *a Half-Elf* is lying here.
+Daemonicus is standing here.
+A hungry warg stands here, sniffing around for flesh.
+Exits: north, [east].
+
+o W Mana:Hot>l e
+
+Gryl has arrived from the north.
+-Ichor the Cave Troll- has arrived from the north.
+-Vij the Hill Troll- has arrived from the north.
+-Lkuzk the Mountain Troll- has arrived from the north.
+
+o W Mana:Hot>A heavy stonedoor is set in the eastern wall. High above it a large hole can
+be seen.
+The  -[ stonedoor ]-  is CLOSED
+
+o W Mana:Hot>
+Daemonicus leaves north.
+A hungry warg leaves north.
+
+o W Mana:Hot>spn
+- SPELL-CASTING set to: NORMAL -
+Ok.
+
+o W Mana:Hot>
+Daemonicus has arrived from the north.
+A hungry warg has arrived from the north.
+
+o W Mana:Hot>
+-Ichor the Cave Troll- leaves north.
+-Vij the Hill Troll- leaves north.
+-Lkuzk the Mountain Troll- leaves north.
+You hear some very close noise from the north.
+
+o W Mana:Hot>
+Gryl leaves north.
+
+o W Mana:Hot>unlock stonedoor
+You do not have the proper key for that.
+
+o W Mana:Hot>n
+The tunnel slopes heavily downwards, it is a strain staying on your feet.
+Dreadful Cave
+A butcher knife is lying here. 
+Covering a section of ground is a pool of a thick red liquid.
+The butchered corpse of *an Elf* is lying here.
+Google is standing here.
+-Ichor the Cave Troll- is standing here.
+-Vij the Hill Troll- is standing here.
+-Lkuzk the Mountain Troll- is standing here.
+Gryl is standing here.
+Exits: east, south.
+
+o W Mana:Hot>
+Daemonicus has arrived from the south.
+A hungry warg has arrived from the south.
+
+o W Mana:Hot>i
+You are carrying:
+a shining key
+a small stone key
+a keyring with a key and some sets of lock picks
+a leather backpack
+a red ruby; it glows blue
+a keyring with a set of lock picks
+a gleaming belt; it glows blue
+the Hammer of Belegost; it glows blue
+a leather backpack
+a forest green cloak (used); it glows blue
+an engraved broadsword (brand new); it glows blue
+a bejewelled shield (brand new); it glows blue
+a forest green cloak (brand new); it glows blue
+a thin pair of leather gloves (used)
+a black pair of padded boots (brand new)
+a flask of orkish draught
+a flask of orkish draught
+a flask of orkish draught
+a jewel-encrusted goblet
+
+o W Mana:Hot>l 
+Dreadful Cave
+A butcher knife is lying here. 
+Covering a section of ground is a pool of a thick red liquid.
+The butchered corpse of *an Elf* is lying here.
+Google is standing here.
+-Ichor the Cave Troll- is standing here.
+-Vij the Hill Troll- is standing here.
+-Lkuzk the Mountain Troll- is standing here.
+Gryl is standing here.
+A hungry warg stands here, sniffing around for flesh.
+Aaz is standing here.
+A hungry warg stands here, sniffing around for flesh.
+Daemonicus is standing here.
+A hungry warg stands here, sniffing around for flesh.
+Google unlocks the rock.
+
+o W Mana:Hot>wimp
+cha mood wimp
+Ok.
+Hamster has arrived from the east.
+
+o W Mana:Hot>
+Gryl puts all his weight against the rock, trying to open it.
+
+o W Mana:Hot>x
+ex
+East  - Sinister-looking Cave
+South - Entrance to a Dreadful Cave
+
+o W Mana:Hot>
+Google tries to help the rock's movement as it opens.
+
+o W Mana:Hot>open rock
+You try to help the rock open.
+
+-Vij the Hill Troll- tries to help the rock's movement as it opens.
+
+-Lkuzk the Mountain Troll- tries to help the rock's movement as it opens.
+-Ichor the Cave Troll- tries to help the rock's movement as it opens.
+
+x
+Limpy has arrived from the east.
+
+Hamster burps loudly.
+
+Hamster leaves east.
+
+Gryl opens the rock.
+
+o W Mana:Hot>ex
+East  - Sinister-looking Cave
+South - Entrance to a Dreadful Cave
+West  - Trolls' Treasure Chamber
+Gryl leaves west.
+-Vij the Hill Troll- leaves west.
+
+o W Mana:Hot>
+Daemonicus leaves west.
+A hungry warg leaves west.
+
+o W Mana:Hot>x
+
+Hamster has arrived from the east.
+
+o W Mana:Hot>ex
+East  - Sinister-looking Cave
+South - Entrance to a Dreadful Cave
+West  - Trolls' Treasure Chamber
+Google leaves west.
+
+o W Mana:Hot>w
+Trolls' Treasure Chamber
+A full metal shield is on the ground.
+A pair of chain mail leggings are lying here.
+You see three silver pieces on the ground.
+On the ground, there are two small piles of copper pennies.
+On the floor is a foul orkish-looking metal helmet.
+A wooden chest stands in the corner.
+A rotten corpse is hanging here.
+A half-rotten corpse is hanging here.
+Gryl is standing here.
+-Vij the Hill Troll- is standing here.
+Daemonicus is standing here.
+A hungry warg stands here, sniffing around for flesh.
+Google is standing here.
+Exits: (east).
+-Ichor the Cave Troll- has arrived from the east.
+-Lkuzk the Mountain Troll- has arrived from the east.
+
+o W Mana:Hot>
+Limpy has arrived from the east.
+Hamster has arrived from the east.
+
+o W Mana:Hot>
+Google looks around her.
+
+o W Mana:Hot>
+Gryl looks around him.
+
+o W Mana:Hot>get all.coins
+You get a silver piece.
+There was 1 silver penny.
+You get a small pile of copper pennies.
+There was 20 copper pennies.
+You get a silver piece.
+There was 1 silver penny.
+You get a small pile of copper pennies.
+There was 20 copper pennies.
+You get a silver piece.
+There was 1 silver penny.
+
+o W Mana:Hot>
+-Ichor the Cave Troll- looks around her.
+
+o W Mana:Hot>
+-Vij the Hill Troll- gets a metal wall shield from a leather backpack.
+
+o W Mana:Hot>rev sting
+You start to search for a sting.
+
+-Lkuzk the Mountain Troll- looks around him.
+Hamster gets a full metal shield.
+Hamster gets a spiked metal helmet.
+Hamster gets a pair of chain mail leggings.
+
+Your legs feel heavier.
+
+Limpy says 'LMW'
+
+Google looks around her.
+
+bo
+You didn't find a sting hidden here.
+
+You start to concentrate... BOB
+
+Limpy says 'Gimme'
+
+-Vij the Hill Troll- rawrz: open chest
+
+Hamster drops a full metal shield.
+Hamster drops a spiked metal helmet.
+Hamster drops a pair of chain mail leggings.
+An energy begins to flow within your legs as your body becomes lighter.
+
+o W Mana:Hot>l in corpse
+corpse (here) : 
+Nothing.
+-Vij the Hill Troll- rawrz: plz
+
+o W Mana:Hot>l ni 2.corpse
+You don't see a ni.
+
+o W Mana:Hot>can
+cha ale n
+Ok.
+
+o W Mana:Hot>spn
+- SPELL-CASTING set to: NORMAL -
+Ok.
+
+o W Mana:Hot>can
+cha ale n
+Ok.
+
+o W Mana:Hot>unlock chest
+You don't seem to have the proper key.
+
+o W Mana:Hot>open chest
+It seems to be locked.
+
+o W Mana:Hot>
+-Lkuzk the Mountain Troll- looks around him.
+
+o W Mana:Hot>l in chest
+It is closed.
+
+o W Mana:Hot>
+Google looks around her.
+
+o W Mana:Hot>
+Aaz burps:  Vij shining plz
+
+o W Mana:Hot>pick chest
+
+-Ichor the Cave Troll- drips : give lmv vij pls
+
+o W Mana:Hot>It resists your attempts at picking it.
+
+o W Mana:Hot>i
+You are carrying:
+a shining key
+a small stone key
+a keyring with a key and some sets of lock picks
+a leather backpack
+a red ruby; it glows blue
+a keyring with a set of lock picks
+a gleaming belt; it glows blue
+the Hammer of Belegost; it glows blue
+a leather backpack
+a forest green cloak (used); it glows blue
+an engraved broadsword (brand new); it glows blue
+a bejewelled shield (brand new); it glows blue
+a forest green cloak (brand new); it glows blue
+a thin pair of leather gloves (used)
+a black pair of padded boots (brand new)
+a flask of orkish draught
+a flask of orkish draught
+a flask of orkish draught
+a jewel-encrusted goblet
+
+o W Mana:Hot>say open chest
+x
+emote bitches 'open chest'
+Ok.
+
+o W Mana:Hot>ex
+East  - Dreadful Cave
+
+o W Mana:Hot>can
+
+Daemonicus sniffs sadly.
+Google unlocks a wooden chest.
+
+o W Mana:Hot>cha ale n
+Ok.
+
+o W Mana:Hot>
+Google opens a wooden chest.
+
+o W Mana:Hot>
+Hamster gets a large metal wall shield from a wooden chest.
+Hamster gets a few gold coins from a wooden chest.
+Hamster gets a pair of greaves from a wooden chest.
+Hamster gets a heavy pair of vambraces from a wooden chest.
+
+o W Mana:Hot>
+-Vij the Hill Troll- gives a shining pair of greaves to Aaz.
+-Vij the Hill Troll- gives a shining pair of vambraces to Aaz.
+
+o W Mana:Hot>l ni chest
+sm
+You don't see a ni.
+
+o W Mana:Hot>You smile viciously.
+
+o W Mana:Hot>es
+Dreadful Cave
+A butcher knife is lying here. 
+Covering a section of ground is a pool of a thick red liquid.
+The butchered corpse of *an Elf* is lying here.
+Exits: east, south, (west).
+
+o W Mana:Hot>The heavy slope makes it a real effort to move upwards.
+Entrance to a Dreadful Cave
+There are two bloody pieces of meat here.
+A piece of meat, still bloody, is lying here.
+On the ground, there are three pieces of tough meat.
+The butchered corpse of *a Dwarf* is lying here.
+The butchered corpse of *a Half-Elf* is lying here.
+Exits: north, [east].
+
+o W Mana:Hot>l e
+A heavy stonedoor is set in the eastern wall. High above it a large hole can
+be seen.
+The  -[ stonedoor ]-  is CLOSED
+
+o W Mana:Hot>o
+It seems to be locked.
+
+o W Mana:Hot>P
+You seem to be unable to pick this lock.
+
+o W Mana:Hot>n
+The tunnel slopes heavily downwards, it is a strain staying on your feet.
+Dreadful Cave
+A butcher knife is lying here. 
+Covering a section of ground is a pool of a thick red liquid.
+The butchered corpse of *an Elf* is lying here.
+Exits: east, south, (west).
+
+o W Mana:Hot>
+-Vij the Hill Troll- yells loudly from the west 'open chest'
+
+o W Mana:Hot>w
+Trolls' Treasure Chamber
+Traces of red tones form the aura of this place.
+A full metal shield is on the ground.
+A large metal wall shield rests on the ground.
+A pair of chain mail leggings are lying here.
+On the floor is a foul orkish-looking metal helmet.
+A wooden chest stands in the corner.
+A rotten corpse is hanging here.
+A half-rotten corpse is hanging here.
+Gryl is standing here.
+-Vij the Hill Troll- is standing here.
+Daemonicus is standing here.
+A hungry warg stands here, sniffing around for flesh.
+Google is standing here.
+-Ichor the Cave Troll- is standing here.
+-Lkuzk the Mountain Troll- is standing here.
+Limpy is standing here.
+Hamster is standing here.
+Exits: (east).
+
+o W Mana:Hot>l in chest
+chest (here) : 
+Nothing.
+
+o W Mana:Hot>
+Daemonicus leaves east.
+A hungry warg leaves east.
+
+o W Mana:Hot>say did
+-Vij the Hill Troll- yells 'i need shield'
+emote bitches 'did'
+Ok.
+
+o W Mana:Hot>say and now OUT
+
+-Lkuzk the Mountain Troll- gets a large metal wall shield.
+
+o W Mana:Hot>emote bitches 'and now OUT'
+Ok.
+
+o W Mana:Hot>gi
+
+Aaz burps:  who troll need gleaming?
+
+o W Mana:Hot>You giggle.
+
+o W Mana:Hot>tim
+Hamster purrs 'dropped lmw'
+According to the Dunadan calendar, it is:
+1.SYGIS [20-6] 6pm on Highday, the 9th of Winterfilth
+The present Tan Istar, Lord of the Istari Council is Kristian.
+Real time is Wed Jan  7 15:30:52 2004 GMT.
+Last reboot due to manual reboot at Wed Jan  7 10:03:26 2004 GMT.
+
+o W Mana:Hot>can
+cha ale n
+Ok.
+
+o W Mana:Hot>
+-Lkuzk the Mountain Troll- gives a large metal wall shield to -Vij the Hill Troll-.
+
+o W Mana:Hot>say we GIVE EQ in wrns
+
+Daemonicus has arrived from the east.
+A hungry warg has arrived from the east.
+
+o W Mana:Hot>emote bitches 'we GIVE EQ in wrns'
+Ok.
+
+o W Mana:Hot>
+-Vij the Hill Troll- rawrz: thanc
+Limpy leaves east.
+Hamster leaves east.
+
+o W Mana:Hot>
+Aaz burps:  who troll need gleaming?
+
+o W Mana:Hot>
+-Lkuzk the Mountain Troll- says : wall given to vij
+
+o W Mana:Hot>
+-Ichor the Cave Troll- drips : nod
+
+o W Mana:Hot>say i want out of here:P
+l
+emote bitches 'i want out of here:P'
+Ok.
+
+o W Mana:Hot>Trolls' Treasure Chamber
+Traces of red tones form the aura of this place.
+A full metal shield is on the ground.
+A pair of chain mail leggings are lying here.
+On the floor is a foul orkish-looking metal helmet.
+A wooden chest stands in the corner.
+A rotten corpse is hanging here.
+A half-rotten corpse is hanging here.
+Gryl is standing here.
+-Vij the Hill Troll- is standing here.
+Google is standing here.
+-Ichor the Cave Troll- is standing here.
+-Lkuzk the Mountain Troll- is standing here.
+A hungry warg stands here, sniffing around for flesh.
+Aaz is standing here.
+A hungry warg stands here, sniffing around for flesh.
+Daemonicus is standing here.
+A hungry warg stands here, sniffing around for flesh.
+
+o W Mana:Hot>e
+Dreadful Cave
+A butcher knife is lying here. 
+A heavy pair of vambraces are lying here.
+A pair of metal greaves are lying here.
+Covering a section of ground is a pool of a thick red liquid.
+The butchered corpse of *an Elf* is lying here.
+Exits: east, south, (west).
+
+o W Mana:Hot>
+Limpy has arrived from the east.
+Hamster has arrived from the east.
+
+o W Mana:Hot>l
+
+Limpy leaves south.
+Hamster leaves south.
+
+o W Mana:Hot>Dreadful Cave
+A butcher knife is lying here. 
+A heavy pair of vambraces are lying here.
+A pair of metal greaves are lying here.
+Covering a section of ground is a pool of a thick red liquid.
+The butchered corpse of *an Elf* is lying here.
+A hungry warg stands here, sniffing around for flesh.
+Aaz is standing here.
+A hungry warg stands here, sniffing around for flesh.
+
+o W Mana:Hot>
+Daemonicus has arrived from the west.
+A hungry warg has arrived from the west.
+
+o W Mana:Hot>
+Daemonicus leaves south.
+A hungry warg leaves south.
+
+o W Mana:Hot>s
+The heavy slope makes it a real effort to move upwards.
+Entrance to a Dreadful Cave
+On the ground, there are two bloody pieces of meat.
+A piece of meat, still bloody, is lying here.
+There are three pieces of tough meat here.
+The butchered corpse of *a Dwarf* is lying here.
+The butchered corpse of *a Half-Elf* is lying here.
+Limpy is standing here.
+Hamster is standing here.
+Daemonicus is standing here.
+A hungry warg stands here, sniffing around for flesh.
+Exits: north, [east].
+
+o W Mana:Hot>l e
+A heavy stonedoor is set in the eastern wall. High above it a large hole can
+be seen.
+The  -[ stonedoor ]-  is CLOSED
+
+o W Mana:Hot>
+Some apparently very close noise can be heard from the north.
+
+o W Mana:Hot>o
+It seems to be locked.
+
+o W Mana:Hot>
+Gryl has arrived from the north.
+
+o W Mana:Hot>U
+You do not have the proper key for that.
+
+o W Mana:Hot>I
+It seems to be locked.
+-Ichor the Cave Troll- has arrived from the north.
+-Vij the Hill Troll- has arrived from the north.
+-Lkuzk the Mountain Troll- has arrived from the north.
+
+o W Mana:Hot>You are carrying:
+a shining key
+a small stone key
+a keyring with a key and some sets of lock picks
+a leather backpack
+a red ruby; it glows blue
+a keyring with a set of lock picks
+a gleaming belt; it glows blue
+the Hammer of Belegost; it glows blue
+a leather backpack
+a forest green cloak (used); it glows blue
+an engraved broadsword (brand new); it glows blue
+a bejewelled shield (brand new); it glows blue
+a forest green cloak (brand new); it glows blue
+a thin pair of leather gloves (used)
+a black pair of padded boots (brand new)
+a flask of orkish draught
+a flask of orkish draught
+a flask of orkish draught
+a jewel-encrusted goblet
+
+o W Mana:Hot>
+-Vij the Hill Troll- binds a large metal wall shield on his arm.
+
+o W Mana:Hot>
+Gryl starts following you.
+
+o W Mana:Hot>
+-Vij the Hill Troll- drops a metal wall shield.
+
+o W Mana:Hot>say ur safe if pops trolls, im not.P
+emote bitches 'ur safe if pops trolls, im not.P'
+Ok.
+
+o W Mana:Hot>l e
+Hamster purrs '2kki tulevad tagasi'
+A heavy stonedoor is set in the eastern wall. High above it a large hole can
+be seen.
+The  -[ stonedoor ]-  is CLOSED
+
+o W Mana:Hot>U
+O
+You do not have the proper key for that.
+
+o W Mana:Hot>It seems to be locked.
+
+o W Mana:Hot>It seems to be locked.
+-Vij the Hill Troll- gives you a fine grey cloak.
+
+o W Mana:Hot>
+-Lkuzk the Mountain Troll- nods solemnly.
+
+o W Mana:Hot>wimp
+cha mood wimp
+Ok.
+
+o W Mana:Hot>200
+Wimpy set to: 200
+
+o W Mana:Hot>can
+cha ale n
+Ok.
+
+o W Mana:Hot>l
+Entrance to a Dreadful Cave
+There are two bloody pieces of meat here.
+A metal wall shield rests on the ground.
+A piece of meat, still bloody, is lying here.
+You see three pieces of tough meat on the ground.
+The butchered corpse of *a Dwarf* is lying here.
+The butchered corpse of *a Half-Elf* is lying here.
+Limpy is standing here.
+Hamster is standing here.
+Daemonicus is standing here.
+A hungry warg stands here, sniffing around for flesh.
+A hungry warg stands here, sniffing around for flesh.
+Aaz is standing here.
+A hungry warg stands here, sniffing around for flesh.
+Gryl is standing here.
+-Ichor the Cave Troll- is standing here.
+-Vij the Hill Troll- is standing here.
+-Lkuzk the Mountain Troll- is standing here.
+
+o W Mana:Hot>
+-Ichor the Cave Troll- tries to bash the stonedoor.
+
+o W Mana:Hot>
+-Vij the Hill Troll- gives a bejewelled oak staff to -Ichor the Cave Troll-.
+
+o W Mana:Hot>
+Google has arrived from the north.
+
+o W Mana:Hot>
+-Vij the Hill Troll- rawrz: eat
+
+o W Mana:Hot>
+Hamster purrs 'maybe they come for eq'
+
+o W Mana:Hot>
+-Vij the Hill Troll- giggles.
+
+o W Mana:Hot>
+-Ichor the Cave Troll- tries to bash the stonedoor.
+
+o W Mana:Hot>
+Google leaves north.
+
+o W Mana:Hot>
+Limpy asks you 'annad ehk grey mulle?'
+
+o W Mana:Hot>say well, if they come back I can wait down tangle, but not here
+gi
+emote bitches 'well, if they come back I can wait down tangle, but not here'
+Ok.
+
+o W Mana:Hot>You giggle.
+
+o W Mana:Hot>
+Mordim narrates 'so who died in bbt?'
+
+o W Mana:Hot>
+-Ichor the Cave Troll- tries to bash the stonedoor.
+
+o W Mana:Hot>say ODA LIMPY seal anname
+emote bitches 'ODA LIMPY seal anname'
+Ok.
+Google has arrived from the north.
+
+o W Mana:Hot>break stonedoor
+- - - - - - - - - - - - - - - >  BREAK stonedoor
+-Lkuzk the Mountain Troll- tries to bash the stonedoor.
+You start to concentrate... BOB
+
+You seem unable to break it...
+
+o W Mana:Cold>
+-Vij the Hill Troll- rawrz: ulock e
+
+o W Mana:Cold>sc
+326/326 hits, 22/102 mana, and 132/132 moves.
+
+o W Mana:Cold>can
+l e
+cha ale n
+Ok.
+
+o W Mana:Cold>U
+A heavy stonedoor is set in the eastern wall. High above it a large hole can
+be seen.
+The  -[ stonedoor ]-  is CLOSED
+
+o W Mana:Cold>O
+You do not have the proper key for that.
+
+o W Mana:Cold>It seems to be locked.
+
+o W Mana:Cold>It seems to be locked.
+
+o W Mana:Cold>
+Google unlocks the stonedoor.
+
+o W Mana:Cold>
+Google puts all her weight against the stonedoor, trying to open it.
+
+o W Mana:Cold>O     
+You try to help the stonedoor open.
+
+-Ichor the Cave Troll- tries to help the stonedoor's movement as it opens.
+Daemonicus tries to help the stonedoor's movement as it opens.
+
+-Vij the Hill Troll- hides a thin pair of metal gauntlets.
+
+Hamster tries to help the stonedoor's movement as it opens.
+
+-Vij the Hill Troll- hides a thin pair of vambraces.
+
+spn
+- SPELL-CASTING set to: NORMAL -
+-Lkuzk the Mountain Troll- tries to help the stonedoor's movement as it opens.
+Limpy tries to help the stonedoor's movement as it opens.
+
+x
+-Vij the Hill Troll- gets a thin metal breastplate from a leather backpack.
+-Vij the Hill Troll- gets a blood-encrusted helm from a leather backpack.
+-Vij the Hill Troll- gets a thin pair of greaves from a leather backpack.
+-Vij the Hill Troll- gets a thin pair of metal gauntlets from a leather backpack.
+
+Google opens the stonedoor.
+
+o W Mana:Cold>Ok.
+
+o W Mana:Cold>ex
+North - Dreadful Cave
+East  - Dark Dip in the Valley
+
+o W Mana:Cold>x
+ex
+North - Dreadful Cave
+East  - Dark Dip in the Valley
+
+o W Mana:Cold>e
+Dark Dip in the Valley
+A brown bear fur is here lying on the ground.
+Covering a section of ground is a pool of a thick red liquid.
+A skull is here, spiked to the end of a pole.
+A sturdy leather backpack has been left here.
+A hungry warg stands here, sniffing around for flesh.
+Exits: north, (west), (up).
+
+o W Mana:Cold>
+Google has arrived from the west.
+Limpy has arrived from the west.
+Hamster has arrived from the west.
+
+o W Mana:Cold>
+Daemonicus has arrived from the west.
+A hungry warg has arrived from the west.
+A hungry warg stops following Gryl.
+A hungry warg now follows Gryl.
+
+o W Mana:Cold>x
+ex
+North - Very Steep Passage
+West  - Entrance to a Dreadful Cave
+Up    - Secluded Valley
+
+o W Mana:Warm>
+-Ichor the Cave Troll- has arrived from the west.
+-Vij the Hill Troll- has arrived from the west.
+-Lkuzk the Mountain Troll- has arrived from the west.
+
+o W Mana:Warm>l u
+
+A hungry warg stops following Daemonicus.
+A hungry warg now follows Daemonicus.
+
+The  -[ tangle ]-  is OPEN
+Hamster stops following Limpy.
+Hamster starts following you.
+Limpy leaves up.
+
+o W Mana:Warm>u
+Secluded Valley
+The burnt and blackened skeletal remains of a human are here.
+A sturdy trained horse is standing here.
+Limpy is standing here.
+Exits: north, east, south, west, (down).
+Hamster has arrived from below.
+A hungry warg has arrived from below.
+
+o W Mana:Warm>rid
+It's too difficult to ride here.
+Daemonicus has arrived from below.
+A hungry warg has arrived from below.
+
+o W Mana:Warm>l
+Secluded Valley
+The burnt and blackened skeletal remains of a human are here.
+A sturdy trained horse is standing here.
+Limpy is standing here.
+Hamster is standing here.
+Gryl is standing here.
+A hungry warg stands here, sniffing around for flesh.
+A hungry warg stands here, sniffing around for flesh.
+Aaz is standing here.
+A hungry warg stands here, sniffing around for flesh.
+Daemonicus is standing here.
+A hungry warg stands here, sniffing around for flesh.
+
+o W Mana:Warm>clap
+You clap your hands together.
+
+o W Mana:Warm>say good work
+emote bitches 'good work'
+Ok.
+Limpy leaves down.
+
+o W Mana:Warm>
+-Ichor the Cave Troll- has arrived from below.
+-Vij the Hill Troll- has arrived from below.
+-Lkuzk the Mountain Troll- has arrived from below.
+
+o W Mana:Warm>
+Google has arrived from below.
+
+o W Mana:Warm>cha lang m
+Very well, you now speak Morbeth.
+
+o W Mana:Warm>
+Limpy has arrived from below.
+
+o W Mana:Warm>
+Aaz nods in agreement with you.
+
+o W Mana:Warm>yell c u in cave
+Ok.
+
+o W Mana:Warm>
+Google leaves west.
+Hamster purrs 'kes surid siis'
+
+o W Mana:Warm>e
+Dreary Woodlands
+Exits: north, east, south, west.
+Hamster has arrived from the west.
+A hungry warg has arrived from the west.
+
+o W Mana:Warm>rid
+It's too difficult to ride here.
+
+o W Mana:Warm>can
+cha ale n
+Ok.
+
+o W Mana:Warm>spn
+- SPELL-CASTING set to: NORMAL -
+e
+-Ichor the Cave Troll- has arrived from the west.
+-Vij the Hill Troll- has arrived from the west.
+-Lkuzk the Mountain Troll- has arrived from the west.
+Ok.
+
+o W Mana:Warm>Tree-shrouded Hillside
+Exits: north, south, west, up.
+Hamster has arrived from the west.
+A hungry warg has arrived from the west.
+
+o W Mana:Warm>rid
+A hungry warg stops following you.
+You pick up a hungry warg's reins, and start riding it.
+
+o RW Mana:Warm>n
+Serpentine Trail
+A swift and agile forest cat moves silently through the vegetation.
+Exits: north, east, south, west.
+Hamster has arrived from the south.
+A hungry warg has arrived from the south.
+
+o RW Mana:Warm>n
+A hungry warg stops following Gryl.
+Gryl picks up a hungry warg's reins, and starts riding it.
+
+n
+Serpentine Trail
+Exits: east, south, west.
+Hamster has arrived from the south.
+
+o RW Mana:Warm>A hungry warg stops following Aaz.
+Aaz picks up a hungry warg's reins, and starts riding it.
+Alas, you cannot go that way...
+
+o RW Mana:Warm>n
+Alas, you cannot go that way...
+
+o RW Mana:Warm>
+Some very close noise can be heard from the west.
+
+o RW Mana:Warm>e
+Serpentine Trail
+Exits: north, east, south, west.
+Hamster has arrived from the west.
+
+o RW Mana:Warm>n
+n
+Serpentine Trail
+Exits: north, east, south, west.
+Hamster has arrived from the south.
+
+o RW Mana:Warm>You hear some very close noise from the west.
+Broadly Sloping Hills
+Exits: north, east, south, up.
+Hamster has arrived from the south.
+
+o RW Mana:Warm>n
+
+Hamster mounts on a hungry warg, and begins riding it.
+
+o RW Mana:Warm>Grassy Hills
+Hamster is here, riding a hungry warg driven by you.
+Exits: north, east, south, west, [down].
+
+o RW Mana:Warm>n
+n
+Bushy Hills
+A ferocious warg is here, snarling angrily.
+Hamster is here, riding a hungry warg driven by you.
+Exits: east, south, west, down.
+
+o RW Mana:Warm>Alas, you cannot go that way...
+
+o RW Mana:Warm>e
+Trail Between Forest and Hills
+Hamster is here, riding a hungry warg driven by you.
+Exits: =north=, east, =south=, west.
+
+o RW Mana:Warm>n
+On a Bending Trail
+Hamster is here, riding a hungry warg driven by you.
+Exits: north, =east=, =south=, west.
+
+o RW Mana:Warm>
+Some very close noise can be heard from the south.
+
+o RW Mana:Warm>
+-Ichor the Cave Troll- has arrived from the south.
+-Vij the Hill Troll- has arrived from the south.
+-Lkuzk the Mountain Troll- has arrived from the south.
+
+o RW Mana:Warm>
+-Ichor the Cave Troll- leaves north.
+-Vij the Hill Troll- leaves north.
+-Lkuzk the Mountain Troll- leaves north.
+You hear some apparently very close noise from the north.
+
+o RW Mana:Warm>
+Daemonicus has arrived from the south riding a hungry warg.
+
+o RW Mana:Warm>
+Daemonicus leaves east riding a hungry warg.
+
+o RW Mana:Warm>
+Shrouds of dark clouds roll in above you, blotting out the skies.
+
+o RW Mana:Warm>arr taki earnion thyrn dies ni BBT
+Arglebargle, glop-glyf!?!
+
+o RW Mana:Warm>n
+Near a Forest Trail
+Hamster is here, riding a hungry warg driven by you.
+Exits: north, east, south, west.
+
+o RW Mana:Warm>
+Hamster disbands his group.
+
+o RW Mana:Warm>narr taki earnion thyrn dies ni BBT
+Ok.
+Hamster raises his hand.
+
+o RW Mana:Warm>e
+n
+On a Bending Trail
+Hamster is here, riding a hungry warg driven by you.
+Exits: north, =east=, =south=, west.
+
+o RW Mana:Warm>Outside a Dark Forest
+Hamster is here, riding a hungry warg driven by you.
+Exits: north, south, west, up.
+
+o RW Mana:Warm>gro hamster
+Hamster is now a group member.
+
+o RW Mana:Warm>n
+Wet Plains
+A broadsword lies here. (blue aura)
+Exits: north, south, west, up.
+
+o RW Mana:Warm>n
+n
+An Old Farm Field
+Exits: east, south, west.
+
+o RW Mana:Warm>Alas, you cannot go that way...
+
+o RW Mana:Warm>e
+A Trail by a Field
+Exits: =north=, east, =south=, west.
+
+o RW Mana:Warm>e
+n
+At Some Young Spruces
+Exits: north, east, south, west.
+Rootsikunn narrates 'lol Taki'
+
+o RW Mana:Warm>n
+On a Forested Trail
+A ferocious warg is here, snarling angrily.
+Exits: north, =east=, south, =west=.
+
+o RW Mana:Warm>n
+A Break in the Forest
+Exits: north, east, south, west.
+
+o RW Mana:Warm>n
+Shalani narrates 'nice !'
+Opening in the Forest
+Exits: east, south, west.
+
+o RW Mana:Warm>n
+Alas, you cannot go that way...
+
+o RW Mana:Warm>Alas, you cannot go that way...
+
+o RW Mana:Warm>e
+Edge of the Dreary Forest
+Exits: east, south, west.
+
+o RW Mana:Warm>e
+e
+Ant Hill in the Dreary Forest
+A colony of red ants is here. The ants seem to ignore you.
+Exits: east, south, west.
+
+o RW Mana:Warm>Plain beside the Gloomy Forest
+A fallow deer is grazing peacefully here.
+Exits: east, south, west.
+
+o RW Mana:Warm>e
+e
+On a Trail
+Exits: =east=, =south=, west.
+
+o RW Mana:Warm>Bend in a Trail
+A large rabbit looks peacefully at you, ready to dart away.
+Exits: =north=, east, south, =west=.
+
+o RW Mana:Warm>n
+Small Trail
+Exits: north, =east=, =south=.
+
+o RW Mana:Warm>n
+Oops! You cannot go there riding!
+
+o RW Mana:Warm>lea
+You are outside... where do you want to go?
+
+o RW Mana:Warm>
+Rootsikunn narrates 'taki da overkillah'
+
+o RW Mana:Warm>lead
+You stop riding a hungry warg.
+A hungry warg starts following you.
+
+o W Mana:Warm>can
+cha ale n
+Ok.
+
+o W Mana:Warm>spn
+- SPELL-CASTING set to: NORMAL -
+Ok.
+
+o W Mana:Warm>m
+
+--->  > shadow <  (Aggre), [tangle], [stone], [drunk]
+--->  < *dwarf* >  ,a warhorse
+--->  Armour Shield . Sense  Detect
+
+o W Mana:Warm>l
+Small Trail
+Hamster is here, riding a hungry warg.
+Gryl is here, riding a hungry warg.
+Aaz is here, riding a hungry warg.
+
+o W Mana:Warm>
+Hamster dismounts from a hungry warg, and stops riding it.
+
+o W Mana:Warm>
+Aaz dismounts from a hungry warg, and stops riding it.
+A hungry warg now follows Aaz.
+
+o W Mana:Warm>n
+Dreary Forest
+A little stone lies on the ground.
+Exits: north, east, south.
+ACK! Gryl didn't follow you, you lost him.
+
+o W Mana:Warm>n
+n
+Dark Dreary Forest
+A disgusting forest troll is searching for fresh meat here.
+Exits: north, east, south.
+
+o W Mana:Warm>d
+Dark Dreary Forest
+A brutish forest troll is hunting here, looking for some tasty flesh.
+Exits: east, south, down.
+
+o W Mana:Warm>s
+A Smelly Tunnel
+The corpse of a demon wolf is lying here.
+A fierce bat is here, lusting for your blood.
+A small bat is standing here.
+Exits: south, up.
+You have found a bloodthirsty bat!
+
+o W Mana:Warm>s
+A Smelly Tunnel
+Exits: north, east, south.
+
+o W Mana:Warm>s
+A Little Cavern
+The small fierce-looking bat is hanging from the ceiling, obviously sleeping.
+The small fierce-looking bat is hanging from the ceiling, obviously sleeping.
+The small fierce-looking bat is hanging from the ceiling, obviously sleeping.
+A demon wolf lurks here, its dark form twisting and hiding its shape.
+Exits: north, east.
+
+o W Mana:Warm>e
+Alas, you cannot go that way...
+
+o W Mana:Warm>A Large Pile of Rocks
+An old, strong cave troll is standing here.
+An old, strong cave troll is standing here.
+Exits: east, west.
+
+o W Mana:Warm>e
+Battered Tunnel
+A grey-skinned mountain troll stands here.
+A grey-skinned mountain troll stands here.
+A grey-skinned mountain troll stands here.
+Exits: east, south, west.
+
+o W Mana:Warm>e
+
+Aaz intercepts a mountain troll's blow.
+Aaz tries to keep a mountain troll at bay, but fails.
+Aaz stabs a mountain troll's body extremely hard and tickles it.
+A mountain troll approaches Aaz, trying to crush him.
+
+o W Mana:Warm>Battered Tunnel
+Exits: east, west.
+
+o W Mana:Warm>e
+A Dark Tunnel
+A large steel keyring is lying here.
+Exits: north, west.
+
+o W Mana:Warm>
+Gryl has arrived from the west.
+A hungry warg has arrived from the west.
+
+o W Mana:Warm>ta e
+tell aaz e
+Ok.
+
+o W Mana:Warm>l
+A Dark Tunnel
+A large steel keyring is lying here.
+A hungry warg stands here, sniffing around for flesh.
+Hamster is standing here.
+Gryl is standing here.
+A hungry warg stands here, sniffing around for flesh.
+
+o W Mana:Warm>
+Aaz has arrived from the west.
+
+o W Mana:Warm>n
+A Dark Tunnel
+A set of tools, wrapped in black leather, lies here.
+Exits: east, south.
+A hungry warg has arrived from the south.
+
+o W Mana:Warm>e
+A Dark Tunnel
+A demon wolf lurks here, its dark form twisting and hiding its shape.
+A demon wolf lurks here, its dark form twisting and hiding its shape.
+Exits: east, west.
+A hungry warg has arrived from the west.
+
+o W Mana:Warm>e
+A Dark Tunnel
+A demon wolf lurks here, its dark form twisting and hiding its shape.
+A demon wolf lurks here, its dark form twisting and hiding its shape.
+Exits: east, west.
+A hungry warg has arrived from the west.
+
+o W Mana:Warm>e
+Rough Passageway
+Exits: north, south, west.
+A hungry warg has arrived from the west.
+
+o W Mana:Warm>n
+Rough Passageway
+A demon wolf lurks here, its dark form twisting and hiding its shape.
+A demon wolf lurks here, its dark form twisting and hiding its shape.
+Exits: north, south.
+A hungry warg has arrived from the south.
+
+o W Mana:Warm>n
+Rough Passageway
+Exits: north, south.
+A hungry warg has arrived from the south.
+
+o W Mana:Warm>n
+Rough Passageway
+Exits: north, south.
+A hungry warg has arrived from the south.
+
+o W Mana:Warm>n
+Rough Passageway
+Exits: north, south.
+A hungry warg has arrived from the south.
+
+o W Mana:Warm>n
+Cave
+A big, heavy stone key has been left here.
+A mailbox stands here stuffed full of messages.
+A pair of smooth boots lie on the ground.
+A half-decayed corpse of a goblin lies rotting on the ground.
+A half-rotten corpse is hanging here.
+A huge olog-hai troll is here staring blankly at you.
+A young and vicious olog-hai eagerly awaits intruders.
+A demon wolf lurks here, its dark form twisting and hiding its shape.
+A demon wolf lurks here, its dark form twisting and hiding its shape.
+Google is resting here.
+A hungry warg stands here, sniffing around for flesh.
+-Ichor the Cave Troll- is resting here.
+-Vij the Hill Troll- is standing here.
+-Lkuzk the Mountain Troll- is resting here.
+Exits: south, [up], down.
+A hungry warg has arrived from the south.
+
+! W Mana:Warm>wo
+OB: 104%, DB: 53%, PB: 61%, Armour: 92%. Wimpy: 200. Mood: wimpy.
+Needed: 2,694,060 xp, 0 tp. Gold: 765. Alert: normal.
+Affected by:
+- breath of briskness
+- novoid
+- noquit
+- sense life
+- detect magic
+- armour
+- shield
+
+! W Mana:Warm>
+Google gets a pair of smooth, black boots.
+
+! W Mana:Warm>sm
+You smile viciously.
+
+! W Mana:Warm>
+Hamster sits down and rests.
+
+! W Mana:Warm>res
+You sit down and rest your tired bones.
+
+! W Mana:Warm>i
+You are carrying:
+a fine grey cloak (brand new); it glows blue
+a shining key
+a small stone key
+a keyring with a key and some sets of lock picks
+a leather backpack
+a red ruby; it glows blue
+a keyring with a set of lock picks
+a gleaming belt; it glows blue
+the Hammer of Belegost; it glows blue
+a leather backpack
+a forest green cloak (used); it glows blue
+an engraved broadsword (brand new); it glows blue
+a bejewelled shield (brand new); it glows blue
+a forest green cloak (brand new); it glows blue
+a thin pair of leather gloves (used)
+a black pair of padded boots (brand new)
+a flask of orkish draught
+a flask of orkish draught
+a flask of orkish draught
+a jewel-encrusted goblet
+
+! W Mana:Warm>
+-Vij the Hill Troll- gets a wooden pipe from a leather backpack.
+
+! W Mana:Hot>wimp
+cha mood wimp
+Ok.
+
+! W Mana:Hot>
+-Vij the Hill Troll- drops a leather backpack.
+Aaz burps:  who troll need gleaming?
+
+! W Mana:Hot>can
+cha ale n
+Ok.
+
+! W Mana:Hot>l
+Cave
+A big, heavy stone key has been left here.
+A mailbox stands here stuffed full of messages.
+A sturdy leather backpack has been left here.
+A half-decayed corpse of a goblin lies rotting on the ground.
+A half-rotten corpse is hanging here.
+A huge olog-hai troll is here staring blankly at you.
+A young and vicious olog-hai eagerly awaits intruders.
+A demon wolf lurks here, its dark form twisting and hiding its shape.
+A demon wolf lurks here, its dark form twisting and hiding its shape.
+Google is resting here.
+A hungry warg stands here, sniffing around for flesh.
+-Ichor the Cave Troll- is resting here.
+-Vij the Hill Troll- is standing here.
+-Lkuzk the Mountain Troll- is resting here.
+A hungry warg stands here, sniffing around for flesh.
+Hamster is resting here.
+Gryl is standing here.
+A hungry warg stands here, sniffing around for flesh.
+Aaz is standing here.
+A hungry warg stands here, sniffing around for flesh.
+
+! W Mana:Hot>say trolls
+emote bitches 'trolls'
+Ok.
+
+! W Mana:Hot>
+------( SHIELD GONE )------
+
+! W Mana:Hot>
+-Ichor the Cave Troll- raises her hand.
+
+! W Mana:Hot>
+-Lkuzk the Mountain Troll- says : all of us
+
+! W Mana:Hot>exa ichor
+You see nothing special about her.
+-Ichor the Cave Troll- has a few scratches. [ High-Fine ]
+-Ichor the Cave Troll- seems to have:
+       A light wound at the right leg.
+-Ichor the Cave Troll- is using: 
+<wielded two-handed> a great warsword (brand new); it glows blue
+<worn on head>       a soft leather cap (ragged)
+<worn on body>       a soft leather jerkin (ragged)
+<worn about body>    a forest green cloak (worn out); it glows blue
+<worn on arms>       a pair of soft leather sleeves (ragged)
+<worn on legs>       a pair of soft leather trousers (ragged)
+<worn on feet>       a pair of smooth, black boots
+<worn around neck>   a grotesque necklace
+<worn on finger>     a ruby ring; it glows blue
+<worn on finger>     a ring; it glows blue
+<worn on back>       a leather backpack
+<worn as belt>       a broad silver belt; it glows blue
+<worn on belt>       a water skin
+<worn on belt>       a butcher knife (dented)
+<worn on belt>       a stone
+<worn on belt>       a water skin
+Hamster gets a large sack from a leather backpack.
+
+! W Mana:Hot>
+Hamster drops a large sack.
+
+! W Mana:Hot>give gleaming ichor
+Ok.
+
+! W Mana:Hot>
+Aaz gives a gleaming belt to -Vij the Hill Troll-.
+
+! W Mana:Hot>l
+Cave
+A big, heavy stone key has been left here.
+A mailbox stands here stuffed full of messages.
+A large sack is on the ground.
+A sturdy leather backpack has been left here.
+A half-decayed corpse of a goblin lies rotting on the ground.
+A half-rotten corpse is hanging here.
+A huge olog-hai troll is here staring blankly at you.
+A young and vicious olog-hai eagerly awaits intruders.
+A demon wolf lurks here, its dark form twisting and hiding its shape.
+A demon wolf lurks here, its dark form twisting and hiding its shape.
+Google is resting here.
+A hungry warg stands here, sniffing around for flesh.
+-Ichor the Cave Troll- is resting here.
+-Vij the Hill Troll- is standing here.
+-Lkuzk the Mountain Troll- is resting here.
+A hungry warg stands here, sniffing around for flesh.
+Hamster is resting here.
+Gryl is standing here.
+A hungry warg stands here, sniffing around for flesh.
+Aaz is standing here.
+A hungry warg stands here, sniffing around for flesh.
+
+! W Mana:Hot>exa lkzuzk
+-Vij the Hill Troll- gives you a copper ring.
+You don't see a lkzuzk.
+
+! W Mana:Hot>lip
+l in pack
+backpack (used) : 
+a ceremonial dagger (brand new); it glows blue
+a handful of narrow leaves
+a fragrant-smelling bag
+seven small metal flasks
+a vial of preserved blood
+a sable pouch; it glows blue
+a sable pouch; it glows blue
+
+! W Mana:Hot>
+Your legs feel heavier.
+
+! W Mana:Hot>exa lkuzk
+You see nothing special about him.
+-Lkuzk the Mountain Troll- has a few scratches. [ High-Fine ]
+-Lkuzk the Mountain Troll- seems to have:
+       A light wound at the body,
+       A light wound at the head.
+-Lkuzk the Mountain Troll- is using: 
+<held>               a water skin
+<worn on head>       a hard leather cap (ragged)
+<worn on body>       a thin, soft leather jerkin (ragged)
+<worn about body>    a forest green cloak (worn out); it glows blue
+<worn on arms>       a pair of soft leather sleeves (ragged)
+<worn on legs>       a pair of soft leather trousers (ragged)
+<worn on feet>       a pair of smooth, black boots
+<worn around neck>   a grotesque necklace with a pair of ears
+<worn on wrist>      a keyring with a set of lock picks
+<worn on wrist>      a keyring with a key and a set of lock picks
+<worn on back>       a leather backpack
+<worn as belt>       a plain leather belt
+<worn on belt>       a gem-inlaid knife (brand new)
+<worn on belt>       a water skin
+
+! W Mana:Hot>i
+You are carrying:
+a copper ring; it glows blue
+a fine grey cloak (brand new); it glows blue
+a shining key
+a small stone key
+a keyring with a key and some sets of lock picks
+a leather backpack
+a red ruby; it glows blue
+a keyring with a set of lock picks
+the Hammer of Belegost; it glows blue
+a leather backpack
+a forest green cloak (used); it glows blue
+an engraved broadsword (brand new); it glows blue
+a bejewelled shield (brand new); it glows blue
+a forest green cloak (brand new); it glows blue
+a thin pair of leather gloves (used)
+a black pair of padded boots (brand new)
+a flask of orkish draught
+a flask of orkish draught
+a flask of orkish draught
+a jewel-encrusted goblet
+
+! W Mana:Hot>
+Google says 'brd?'
+
+! W Mana:Hot>
+-Ichor the Cave Troll- drops a metal key.
+-Ichor the Cave Troll- drops a small key carved from ebony.
+
+! W Mana:Hot>
+Gryl drinks water from a water skin.
+
+! W Mana:Hot>
+-Lkuzk the Mountain Troll- drinks water from a water skin.
+
+! W Mana:Hot>
+-Vij the Hill Troll- drinks water from a water skin.
+
+! W Mana:Hot>get all.gleaming all
+You can't find any gleaming in any container.
+
+! W Mana:Hot>
+Google smiles viciously.
+Hamster purrs 'any brds or emb?'
+
+! W Mana:Hot>say no more gleamings here
+emote bitches 'no more gleamings here'
+Ok.
+
+! W Mana:Hot>
+-Vij the Hill Troll- rawrz: diam hands full
+
+! W Mana:Hot>wimp
+cha mood wimp
+Ok.
+
+! W Mana:Hot>i
+You are carrying:
+a copper ring; it glows blue
+a fine grey cloak (brand new); it glows blue
+a shining key
+a small stone key
+a keyring with a key and some sets of lock picks
+a leather backpack
+a red ruby; it glows blue
+a keyring with a set of lock picks
+the Hammer of Belegost; it glows blue
+a leather backpack
+a forest green cloak (used); it glows blue
+an engraved broadsword (brand new); it glows blue
+a bejewelled shield (brand new); it glows blue
+a forest green cloak (brand new); it glows blue
+a thin pair of leather gloves (used)
+a black pair of padded boots (brand new)
+a flask of orkish draught
+a flask of orkish draught
+a flask of orkish draught
+a jewel-encrusted goblet
+
+! W Mana:Hot>nod
+-Lkuzk the Mountain Troll- pouts.
+You nod solemnly.
+-Ichor the Cave Troll- gets a short, moist tail from a leather backpack.
+-Ichor the Cave Troll- gets a short, moist tail from a leather backpack.
+-Ichor the Cave Troll- gets a short, moist tail from a leather backpack.
+-Ichor the Cave Troll- gets a flask of orkish draught from a leather backpack.
+-Ichor the Cave Troll- gets a flask of orkish draught from a leather backpack.
+-Ichor the Cave Troll- gets a flask of orkish draught from a leather backpack.
+-Ichor the Cave Troll- gets a flask of orkish draught from a leather backpack.
+-Ichor the Cave Troll- gets a flask of orkish draught from a leather backpack.
+-Ichor the Cave Troll- gets a flask of orkish draught from a leather backpack.
+-Ichor the Cave Troll- gets a purple scroll from a leather backpack.
+-Ichor the Cave Troll- gets a heavy warhammer from a leather backpack.
+
+! W Mana:Hot>     
+A demon wolf leaves south.
+A demon wolf leaves south.
+
+! W Mana:Hot>
+-Vij the Hill Troll- rawrz: let me give ye copped
+
+! W Mana:Hot>
+-Ichor the Cave Troll- puts a thin pair of metal gauntlets in a leather backpack.
+-Ichor the Cave Troll- puts a pair of plate vambraces in a leather backpack.
+-Ichor the Cave Troll- puts a bloody pair of elf ears in a leather backpack.
+-Ichor the Cave Troll- puts a gleaming belt in a leather backpack.
+-Ichor the Cave Troll- puts a short, moist tail in a leather backpack.
+-Ichor the Cave Troll- puts a short, moist tail in a leather backpack.
+-Ichor the Cave Troll- puts a short, moist tail in a leather backpack.
+-Ichor the Cave Troll- puts a purple scroll in a leather backpack.
+
+! W Mana:Hot>drop all.key
+You drop the key.
+You drop the key.
+-Ichor the Cave Troll- ponders life, the universe, and everything.
+
+! W Mana:Hot>i
+You are carrying:
+a copper ring; it glows blue
+a fine grey cloak (brand new); it glows blue
+a keyring with a key and some sets of lock picks
+a leather backpack
+a red ruby; it glows blue
+a keyring with a set of lock picks
+the Hammer of Belegost; it glows blue
+a leather backpack
+a forest green cloak (used); it glows blue
+an engraved broadsword (brand new); it glows blue
+a bejewelled shield (brand new); it glows blue
+a forest green cloak (brand new); it glows blue
+a thin pair of leather gloves (used)
+a black pair of padded boots (brand new)
+a flask of orkish draught
+a flask of orkish draught
+a flask of orkish draught
+a jewel-encrusted goblet
+
+! W Mana:Hot>
+-Vij the Hill Troll- rawrz: and circlet
+
+! W Mana:Hot>
+-Ichor the Cave Troll- gets a gleaming belt from a leather backpack.
+
+! W Mana:Hot>put all.red pack
+
+Aaz gets a fragrant-smelling bag from a sable pouch.
+Aaz gets a fragrant-smelling bag from a sable pouch.
+Aaz gets a receipt for a blackened spear from a sable pouch.
+
+! W Mana:Hot>You put a red ruby in a leather backpack.
+-Ichor the Cave Troll- gets a dark shield from a leather backpack.
+
+! W Mana:Hot>i
+You are carrying:
+a copper ring; it glows blue
+a fine grey cloak (brand new); it glows blue
+a keyring with a key and some sets of lock picks
+a leather backpack
+a keyring with a set of lock picks
+the Hammer of Belegost; it glows blue
+a leather backpack
+a forest green cloak (used); it glows blue
+an engraved broadsword (brand new); it glows blue
+a bejewelled shield (brand new); it glows blue
+a forest green cloak (brand new); it glows blue
+a thin pair of leather gloves (used)
+a black pair of padded boots (brand new)
+a flask of orkish draught
+a flask of orkish draught
+a flask of orkish draught
+a jewel-encrusted goblet
+
+! W Mana:Hot>
+-Lkuzk the Mountain Troll- cheers for -Ichor the Cave Troll-'s success!
+
+! W Mana:Hot>
+-Vij the Hill Troll- gives you a wooden pipe.
+
+! W Mana:Hot>put all.draught pack
+You put a flask of orkish draught in a leather backpack.
+You put a flask of orkish draught in a leather backpack.
+You put a flask of orkish draught in a leather backpack.
+
+! W Mana:Hot>say ah PIPE
+emote bitches 'ah PIPE'
+Ok.
+
+! W Mana:Hot>say at last
+gi
+emote bitches 'at last'
+Ok.
+
+! W Mana:Hot>i
+You giggle.
+
+! W Mana:Hot>You are carrying:
+a wooden pipe
+a copper ring; it glows blue
+a fine grey cloak (brand new); it glows blue
+a keyring with a key and some sets of lock picks
+a leather backpack
+a keyring with a set of lock picks
+the Hammer of Belegost; it glows blue
+a leather backpack
+a forest green cloak (used); it glows blue
+an engraved broadsword (brand new); it glows blue
+a bejewelled shield (brand new); it glows blue
+a forest green cloak (brand new); it glows blue
+a thin pair of leather gloves (used)
+a black pair of padded boots (brand new)
+a jewel-encrusted goblet
+
+! W Mana:Hot>
+-Vij the Hill Troll- gives you a mithril circlet.
+
+! W Mana:Hot>wimp
+cha mood wimp
+Ok.
+
+! W Mana:Hot>can
+cha ale n
+Ok.
+
+! W Mana:Hot>
+-Ichor the Cave Troll- gets a thin metal breastplate from a leather backpack.
+-Ichor the Cave Troll- gets a thin pair of greaves from a leather backpack.
+-Ichor the Cave Troll- gets a pair of iron-shod boots from a leather backpack.
+-Ichor the Cave Troll- gets a thin pair of metal gauntlets from a leather backpack.
+-Ichor the Cave Troll- gets a pair of plate vambraces from a leather backpack.
+Hamster giggles.
+
+! W Mana:Hot>put pipe pack
+You put a wooden pipe in a leather backpack.
+
+! W Mana:Hot>put all.ring pack
+You put a copper ring in a leather backpack.
+
+! W Mana:Hot>get all.ring all
+You get a copper ring from a leather backpack.
+_____________________________________________________________________________
+TELL! Limpy: "'ega hammerit polnd ? '" 
+
+! W Mana:Hot>
+Google gets a shining key.
+
+! W Mana:Hot>put all.ring pack
+Aaz burps:  s "the Rivendell Smithy, a blackened spear"
+You put a copper ring in a leather backpack.
+
+! W Mana:Hot>wimp
+cha mood wimp
+Ok.
+
+! W Mana:Hot>200
+Wimpy set to: 200
+
+! W Mana:Hot>can
+cha ale n
+Ok.
+
+! W Mana:Hot>i
+Google gets a small key carved from ebony.
+You are carrying:
+a mithril circlet; it glows blue
+a fine grey cloak (brand new); it glows blue
+a keyring with a key and some sets of lock picks
+a leather backpack
+a keyring with a set of lock picks
+the Hammer of Belegost; it glows blue
+a leather backpack
+a forest green cloak (used); it glows blue
+an engraved broadsword (brand new); it glows blue
+a bejewelled shield (brand new); it glows blue
+a forest green cloak (brand new); it glows blue
+a thin pair of leather gloves (used)
+a black pair of padded boots (brand new)
+a jewel-encrusted goblet
+
+! W Mana:Hot>
+Aaz hides a receipt for a blackened spear.
+
+! W Mana:Hot>
+Google gets a small stone key.
+
+! W Mana:Hot>
+_____________________________________________________________________________
+TELL! Limpy: "'orante'i'" 
+
+! W Mana:Hot>
+-Vij the Hill Troll- gives a fine chain mail shirt to Gryl.
+Hamster purrs 'gimme plate vambs?'
+
+! W Mana:Hot>l in 2.pack
+backpack (carried) : 
+a black runed dagger (brand new); it glows blue
+a blue scroll; it glows blue
+a bright red amulet; it glows blue
+a fine pair of chain mail sleeves (brand new)
+five flasks of orkish draught
+a handful of clover
+two handfuls of narrow leaves
+three herbal kits
+a lembas wafer; it glows blue
+three man-like roots
+a small metal flask
+a small pouch
+a vellum scroll; it glows blue
+a wooden pipe
+
+! W Mana:Hot>rep eip
+Ok.
+
+! W Mana:Hot>
+Gryl licks -Vij the Hill Troll-.
+
+! W Mana:Hot>get all.ornate all
+You get an ornate, steel-shafted warhammer from a leather backpack.
+
+! W Mana:Hot>
+_____________________________________________________________________________
+TELL! Limpy: "'sigh'" 
+
+! W Mana:Hot>
+-Vij the Hill Troll- rawrz: i dopped all metals
+
+! W Mana:Hot>give ornate limpy
+Aaz drops a fragrant-smelling bag.
+No one by that name around here.
+
+! W Mana:Hot>
+Google gets a metal key.
+
+! W Mana:Hot>rep ah ao
+Ok.
+
+! W Mana:Hot>
+-Vij the Hill Troll- rawrz: err hid em
+
+! W Mana:Hot>rep ah oli packis
+Ok.
+
+! W Mana:Hot>
+-Ichor the Cave Troll- gets a sapphire ring from a leather backpack.
+
+! W Mana:Hot>
+_____________________________________________________________________________
+TELL! Hamster: "'anna ornate:P'" 
+
+! W Mana:Hot>give ornate limpy
+No one by that name around here.
+___________________________
+------( ARMOUR GONE )------, >BACKSTAB<
+
+! W Mana:Hot>
+Google gets a fragrant-smelling bag.
+
+! W Mana:Hot>l
+Google puts a fragrant-smelling bag on her belt.
+Cave
+A big, heavy stone key has been left here.
+A mailbox stands here stuffed full of messages.
+A large sack is on the ground.
+A sturdy leather backpack has been left here.
+A half-decayed corpse of a goblin lies rotting on the ground.
+A half-rotten corpse is hanging here.
+A huge olog-hai troll is here staring blankly at you.
+A young and vicious olog-hai eagerly awaits intruders.
+Google is resting here.
+A hungry warg stands here, sniffing around for flesh.
+-Ichor the Cave Troll- is resting here.
+-Vij the Hill Troll- is standing here.
+-Lkuzk the Mountain Troll- is resting here.
+A hungry warg stands here, sniffing around for flesh.
+Hamster is resting here.
+Gryl is standing here.
+A hungry warg stands here, sniffing around for flesh.
+Aaz is standing here.
+A hungry warg stands here, sniffing around for flesh.
+
+! W Mana:Hot>whios limpy
+
+-Vij the Hill Troll- leaves south.
+
+! W Mana:Hot>whois limpy
+Limpy the Orkish Rider is a level twenty-five Tarkhnarb Battlemaster.
+Is playing from *.ee.
+
+! W Mana:Hot>
+-Vij the Hill Troll- has arrived from the south.
+
+! W Mana:Hot>
+_____________________________________________________________________________
+TELL! Limpy: "'hoia mulle'" 
+
+! W Mana:Hot>
+-Ichor the Cave Troll- drops a dark shield.
+
+! W Mana:Burning>
+-Ichor the Cave Troll- stops resting, and clambers on her feet.
+
+! W Mana:Burning>
+-Vij the Hill Troll- wears a gleaming belt about his waist.
+
+! W Mana:Burning>
+-Ichor the Cave Troll- hides a pair of plate vambraces.
+
+! W Mana:Burning>
+-Ichor the Cave Troll- hides a thin pair of metal gauntlets.
+
+! W Mana:Burning>
+-Ichor the Cave Troll- hides a pair of iron-shod boots.
+-Vij the Hill Troll- drops a plain leather belt.
+
+! W Mana:Burning>
+-Ichor the Cave Troll- hides a thin pair of greaves.
+
+! W Mana:Burning>
+-Ichor the Cave Troll- hides a thin metal breastplate.
+
+! W Mana:Burning>
+-Vij the Hill Troll- awkwardly draws a butcher knife.
+-Vij the Hill Troll- puts a stone on his belt.
+-Vij the Hill Troll- puts a water skin on his belt.
+
+! W Mana:Burning>
+Aaz burps:  scaly lores
+
+! W Mana:Burning>rep ei saa lubada:) kui ened kes faidis olid tahavad
+Ok.
+
+! W Mana:Burning>
+_____________________________________________________________________________
+TELL! Limpy: "'olen kohe cave'is'" 
+
+! W Mana:Burning>
+Aaz burps:  2x
+
+! W Mana:Burning>rep nemad saavad
+Ok.
+
+! W Mana:Burning>
+Gryl says: full?
+-Ichor the Cave Troll- drops a sapphire ring.
+
+! W Mana:Burning>
+An olog-hai troll gets a dark shield.
+
+! W Mana:Burning>say trolls need the ornate? do u use?
+emote bitches 'trolls need the ornate? do u use?'
+Ok.
+
+! W Mana:Burning>
+-Vij the Hill Troll- rawrz: c00l
+
+! W Mana:Burning>
+Google says 'me'
+
+! W Mana:Burning>
+Hamster purrs 'dima gimme ornate i give warsword to aaz'
+
+! W Mana:Burning>rep ok
+Ok.
+
+! W Mana:Burning>
+A demon wolf has arrived from the south.
+A demon wolf has arrived from the south.
+
+! W Mana:Burning>
+Hamster purrs 'i mean to gryl'
+
+! W Mana:Burning>        
+-Vij the Hill Troll- gets a giant spear from a leather backpack.
+
+! W Mana:Burning>can
+cha ale n
+Ok.
+
+! W Mana:Burning>say hm
+emote bitches 'hm'
+Ok.
+
+! W Mana:Burning>l
+Cave
+A big, heavy stone key has been left here.
+A mailbox stands here stuffed full of messages.
+A strip of leather with a buckle is lying here.
+A ring, with a star sapphire mounted on it, has been left here. (blue aura)
+A large sack is on the ground.
+A sturdy leather backpack has been left here.
+A half-decayed corpse of a goblin lies rotting on the ground.
+A half-rotten corpse is hanging here.
+A huge olog-hai troll is here staring blankly at you.
+A young and vicious olog-hai eagerly awaits intruders.
+Google is resting here.
+A hungry warg stands here, sniffing around for flesh.
+-Ichor the Cave Troll- is standing here.
+-Lkuzk the Mountain Troll- is resting here.
+A hungry warg stands here, sniffing around for flesh.
+Hamster is resting here.
+Gryl is standing here.
+A hungry warg stands here, sniffing around for flesh.
+Aaz is standing here.
+A hungry warg stands here, sniffing around for flesh.
+-Vij the Hill Troll- is standing here.
+A demon wolf lurks here, its dark form twisting and hiding its shape.
+A demon wolf lurks here, its dark form twisting and hiding its shape.
+
+! W Mana:Burning>i
+You are carrying:
+an ornate, steel-shafted warhammer; it glows blue
+a mithril circlet; it glows blue
+a fine grey cloak (brand new); it glows blue
+a keyring with a key and some sets of lock picks
+a leather backpack
+a keyring with a set of lock picks
+the Hammer of Belegost; it glows blue
+a leather backpack
+a forest green cloak (used); it glows blue
+an engraved broadsword (brand new); it glows blue
+a bejewelled shield (brand new); it glows blue
+a forest green cloak (brand new); it glows blue
+a thin pair of leather gloves (used)
+a black pair of padded boots (brand new)
+a jewel-encrusted goblet
+
+! W Mana:Burning>
+Gryl slobbers and drools all over himself.
+
+! W Mana:Burning>
+-Lkuzk the Mountain Troll- shakes his head.
+
+! W Mana:Burning>
+Gryl says: would rock!
+-Ichor the Cave Troll- gets a white chain mail coif from a leather backpack.
+
+! W Mana:Burning>
+-Vij the Hill Troll- gets a diamond ring from a leather backpack.
+
+! W Mana:Burning>
+-Vij the Hill Troll- gets an icy ring from a leather backpack.
+
+! W Mana:Burning>
+Hamster stops using a great warsword.
+
+! W Mana:Burning>
+-Vij the Hill Troll- puts a diamond ring on his finger with delicacy.
+-Vij the Hill Troll- puts an icy ring on his finger with delicacy.
+
+! W Mana:Burning>         
+-Ichor the Cave Troll- drips : white coif anyone?
+
+! W Mana:Burning>
+Aaz burps:  Dima?
+
+! W Mana:Burning>
+Hamster purrs 'oww white coif!'
+
+! W Mana:Burning>
+The  -[ tendrils ]- is OPENED from the other side
+
+! W Mana:Burning>
+An olog-hai troll gets a plain leather belt.
+
+! W Mana:Burning>say was warsword in there?
+emote bitches 'was warsword in there?'
+Ok.
+
+! W Mana:Burning>l
+
+-a Troll- has arrived from above.
+-a Troll- has arrived from above.
+
+! W Mana:Burning>Cave
+A big, heavy stone key has been left here.
+A mailbox stands here stuffed full of messages.
+A ring, with a star sapphire mounted on it, has been left here. (blue aura)
+A large sack is on the ground.
+A sturdy leather backpack has been left here.
+A half-decayed corpse of a goblin lies rotting on the ground.
+A half-rotten corpse is hanging here.
+A huge olog-hai troll is here staring blankly at you.
+A young and vicious olog-hai eagerly awaits intruders.
+Google is resting here.
+A hungry warg stands here, sniffing around for flesh.
+-Ichor the Cave Troll- is standing here.
+-Lkuzk the Mountain Troll- is resting here.
+A hungry warg stands here, sniffing around for flesh.
+Hamster is resting here.
+Gryl is standing here.
+A hungry warg stands here, sniffing around for flesh.
+Aaz is standing here.
+A hungry warg stands here, sniffing around for flesh.
+-Vij the Hill Troll- is standing here.
+A demon wolf lurks here, its dark form twisting and hiding its shape.
+A demon wolf lurks here, its dark form twisting and hiding its shape.
+-a Troll- is standing here.
+-a Troll- is standing here.
+
+! W Mana:Burning>
+-a Troll- closes the tendrils.
+
+! W Mana:Burning>
+Hamster purrs 'gimme:P'
+-a Troll- leaves down.
+-a Troll- leaves down.
+
+! W Mana:Burning>
+Aaz burps:  coif
+
+! W Mana:Burning>
+_____________________________________________________________________________
+TELL! Limpy: "'ei joudnud kurat mul olid movid tired kui nocist tulema hakkasin'" 
+
+! W Mana:Burning>
+Aaz nods solemnly.
+
+! W Mana:Burning>
+Hamster purrs 'no was mine'
+
+! W Mana:Burning>say limpy started whining too
+emote bitches 'limpy started whining too'
+Ok.
+
+! W Mana:Burning>
+A demon wolf leaves south.
+A demon wolf leaves south.
+
+! W Mana:Burning>rep gig
+Ok.
+Aaz points at himself.
+
+! W Mana:Burning>l
+Cave
+A big, heavy stone key has been left here.
+A mailbox stands here stuffed full of messages.
+A ring, with a star sapphire mounted on it, has been left here. (blue aura)
+A large sack is on the ground.
+A sturdy leather backpack has been left here.
+A half-decayed corpse of a goblin lies rotting on the ground.
+A half-rotten corpse is hanging here.
+A huge olog-hai troll is here staring blankly at you.
+A young and vicious olog-hai eagerly awaits intruders.
+Google is resting here.
+A hungry warg stands here, sniffing around for flesh.
+-Ichor the Cave Troll- is standing here.
+-Lkuzk the Mountain Troll- is resting here.
+A hungry warg stands here, sniffing around for flesh.
+Hamster is resting here.
+Gryl is standing here.
+A hungry warg stands here, sniffing around for flesh.
+Aaz is standing here.
+A hungry warg stands here, sniffing around for flesh.
+-Vij the Hill Troll- is standing here.
+
+! W Mana:Burning>
+Aaz giggles.
+
+! W Mana:Burning>give ornate hamster
+Ok.
+
+! W Mana:Burning>
+-Vij the Hill Troll- stops using a diamond ring.
+
+! W Mana:Burning>
+-Vij the Hill Troll- stops using an icy ring.
+
+! W Mana:Burning>
+Hamster gives a great warsword to Gryl.
+
+! W Mana:Burning>
+-Ichor the Cave Troll- gives a white chain mail coif to Aaz.
+
+! W Mana:Burning>
+Gryl drools all over Hamster - he must like him!
+
+! W Mana:Burning>
+Hamster awkwardly draws an ornate, steel-shafted warhammer.
+
+! W Mana:Burning>rep l2ks kes faidis oli
+Ok.
+
+! W Mana:Burning>
+Hamster smiles viciously.
+
+! W Mana:Burning>
+-Vij the Hill Troll- gives an icy ring to -Lkuzk the Mountain Troll-.
+Gryl stops using a two-handed sword.
+Gryl masterfully draws a great warsword.
+
+! W Mana:Burning>
+-Vij the Hill Troll- gives a diamond ring to -Lkuzk the Mountain Troll-.
+
+! W Mana:Burning>       
+Hamster purrs '18 pracs:P'
+
+! W Mana:Burning>
+Gryl drops a two-handed sword.
+
+! W Mana:Burning>
+-Lkuzk the Mountain Troll- thanks -Vij the Hill Troll- heartily.
+
+! W>
+_____________________________________________________________________________
+TELL! Google: "'hamster is lev 10'" 
+
+! W>
+-Lkuzk the Mountain Troll- puts an icy ring on his finger with delicacy.
+-Lkuzk the Mountain Troll- puts a diamond ring on his finger with delicacy.
+Hamster purrs 'damn now i need shield'
+
+! W>
+Google ponders life, the universe, and everything.
+
+! W>
+Hamster purrs 'gave my bej to some snaga'
+
+! W>                
+Hamster ponders life, the universe, and everything.
+
+! W>
+Limpy has arrived from the south.
+
+! W>rep but he had warsword for my warrior!
+Ok.
+
+! W>i
+You are carrying:
+a mithril circlet; it glows blue
+a fine grey cloak (brand new); it glows blue
+a keyring with a key and some sets of lock picks
+a leather backpack
+a keyring with a set of lock picks
+the Hammer of Belegost; it glows blue
+a leather backpack
+a forest green cloak (used); it glows blue
+an engraved broadsword (brand new); it glows blue
+a bejewelled shield (brand new); it glows blue
+a forest green cloak (brand new); it glows blue
+a thin pair of leather gloves (used)
+a black pair of padded boots (brand new)
+a jewel-encrusted goblet
+
+! W>exa aaz
+You see nothing special about him.
+Aaz is an adult male Orc.
+Aaz the pervert is in an excellent condition.
+Aaz the pervert is using: 
+<wielded>            a blackened spear (brand new); it glows blue
+<worn as shield>     a bejewelled shield (brand new); it glows blue
+<worn on head>       a blood-encrusted helm (brand new)
+<worn on body>       a fine chain mail shirt (brand new)
+<worn about body>    a russet cloak (brand new); it glows blue
+<worn on arms>       a shining pair of vambraces (brand new); it glows blue
+<worn on hands>      a thin pair of metal gauntlets (brand new)
+<worn on legs>       a fine pair of chain mail leggings (brand new)
+<worn on feet>       a pair of iron-shod boots (brand new)
+<worn around neck>   a necklace of bones
+<worn on wrist>      a wolfskin wristband (brand new)
+<worn on wrist>      a keyring with a set of lock picks
+<worn on finger>     a ruby ring; it glows blue
+<worn on finger>     a diamond ring
+<worn on back>       a leather backpack
+<worn as belt>       a gleaming belt; it glows blue
+<worn on belt>       a stone
+<worn on belt>       a water skin
+<worn on belt>       a gem-inlaid knife (brand new)
+<worn on belt>       a sable pouch; it glows blue
+A demon wolf has arrived from the south.
+A demon wolf has arrived from the south.
+
+! W>
+-Vij the Hill Troll- gets a thin pair of soft leather boots from a leather backpack.
+
+! W>
+-Vij the Hill Troll- drops a thin pair of soft leather boots.
+
+! W>
+Limpy says 'any hammer's were spare ?'
+
+! W>
+_____________________________________________________________________________
+TELL! Google: "'ahh okie'" 
+
+! W>ta u got warsword now?
+tell aaz u got warsword now?
+Ok.
+
+! W>i
+You are carrying:
+a mithril circlet; it glows blue
+a fine grey cloak (brand new); it glows blue
+a keyring with a key and some sets of lock picks
+a leather backpack
+a keyring with a set of lock picks
+the Hammer of Belegost; it glows blue
+a leather backpack
+a forest green cloak (used); it glows blue
+an engraved broadsword (brand new); it glows blue
+a bejewelled shield (brand new); it glows blue
+a forest green cloak (brand new); it glows blue
+a thin pair of leather gloves (used)
+a black pair of padded boots (brand new)
+a jewel-encrusted goblet
+
+! W>wimp
+cha mood wimp
+Ok.
+
+! W>can
+cha ale n
+Ok.
+
+! W>
+_____________________________________________________________________________
+TELL! Aaz: "'vambraces spare'" 
+
+! W>
+Limpy says 'better than engr hammer ?'
+Hamster purrs 'was any shields:P ?'
+
+! W>
+A demon wolf leaves south.
+A demon wolf leaves south.
+
+! W>
+-Vij the Hill Troll- gets a plain leather belt from a leather backpack.
+
+! W>
+An olog-hai troll gets a two-handed sword.
+
+! W>ta no
+tell aaz no
+Ok.
+
+! W>ta durcano needs:p
+tell aaz durcano needs:p
+Ok.
+
+! W>
+_____________________________________________________________________________
+TELL! Aaz: "'no'" 
+
+! W>
+-Vij the Hill Troll- drops a plain leather belt.
+
+! W>ta nothign spare
+tell aaz nothign spare
+Ok.
+
+! W>
+-Lkuzk the Mountain Troll- says : any str rings?
+
+! W>
+_____________________________________________________________________________
+TELL! Aaz: "'no sword'" 
+
+! W>
+-Lkuzk the Mountain Troll- ponders life, the universe, and everything.
+
+! W>
+_____________________________________________________________________________
+TELL! Aaz: "'okok'" 
+
+! W>
+Limpy begins some strange incantations...
+
+! W>ta unless trolls really bitch, we dont give orcs:p
+-Vij the Hill Troll- gets a lustrous opal from a leather backpack.
+-Vij the Hill Troll- gets a lustrous opal from a leather backpack.
+tell aaz unless trolls really bitch, we dont give orcs:p
+Ok.
+
+! W>
+Limpy utters the word 'strength'
+
+! W>
+-Vij the Hill Troll- gives you a lustrous opal.
+-Vij the Hill Troll- gives you a lustrous opal.
+
+! W>ta we did the work with trolls:P
+tell aaz we did the work with trolls:P
+Ok.
+
+! W>
+-Vij the Hill Troll- gets an amethyst from a leather backpack.
+-Vij the Hill Troll- gets an amethyst from a leather backpack.
+
+! W>
+-Vij the Hill Troll- gives you an amethyst.
+-Vij the Hill Troll- gives you an amethyst.
+
+! W>
+Aaz nods in agreement with you.
+
+! W>
+Mordim narrates '1 rips'
+
+! W>put all.opal pack
+You put a lustrous opal in a leather backpack.
+You put a lustrous opal in a leather backpack.
+
+! W>
+-Ichor the Cave Troll- drips : yeah check fer str ring pls
+
+! W>drop all.amethyst
+You drop the amethyst.
+You drop the amethyst.
+
+! W>
+Virtus narrates 'clap'
+
+! W>inf
+
+You are a male Tarkhnarb Orc.
+You are 48 years, 11 months and 6 days old.
+You have played 8 months, 18 days and 9 hours (real time). Session: 5 hrs.
+This ranks you as Diamonium , Ambassador of Sauron (level 82).
+You are five feet five and weigh eight stone and five pounds.
+Perception: vision 33, hearing 18, smell 32. Alertness: normal.
+You are totally corrupted by the Evilness of Morgoth!
+You are welcome in Goblin Town.
+Your equipment weighs 159 pounds. That is REALLY heavy!
+Your base abilities are: Str:15 Int:16 Wis:14 Dex:14 Con:15 Wil:15 Per:13.
+Offensive Bonus: 104%, Dodging Bonus: -29%, Parrying Bonus: 61%.
+Your armour provides an average protection of 86%.
+You have 326/326 hit, 102/102 mana, and 132/132 movement points.
+Your mood is wimpy. You will flee if your hit points go below 200.
+You have scored 103,305,940 experience points and you have 840,560 travel points.
+You are one of the greatest chieftains of the forces of the Dark Lord.
+You need 2,694,060 exp. points and 0 travel points to reach the next level.
+You have 765 gold coins, 6 silver pennies, and 12 copper pennies.
+You are speaking Morbeth.
+You will swim if necessary.
+
+You are subjected to the following temporary effects:
+- novoid
+- sense life
+- detect magic
+
+! W>! W>
+-Vij the Hill Troll- gets a golden harp from a leather backpack.
+
+! W>
+Google says 'and for brds'
+
+! W>
+Google smiles viciously.
+
+! W>i
+-Vij the Hill Troll- gives you a golden harp.
+You are carrying:
+a golden harp
+a mithril circlet; it glows blue
+a fine grey cloak (brand new); it glows blue
+a keyring with a key and some sets of lock picks
+a leather backpack
+a keyring with a set of lock picks
+the Hammer of Belegost; it glows blue
+a leather backpack
+a forest green cloak (used); it glows blue
+an engraved broadsword (brand new); it glows blue
+a bejewelled shield (brand new); it glows blue
+a forest green cloak (brand new); it glows blue
+a thin pair of leather gloves (used)
+a black pair of padded boots (brand new)
+a jewel-encrusted goblet
+
+! W>get all.dagger all
+You get a black runed dagger from a leather backpack.
+You get a ceremonial dagger from a leather backpack.
+
+! W>
+Aaz gets a jewelled ring from a sable pouch.
+
+! W>say need?
+emote bitches 'need?'
+Ok.
+
+! W>
+Hamster purrs 'oww brd'
+
+! W>can
+cha ale n
+Ok.
+
+! W>
+Hamster licks his mouth and smiles.
+
+! W>
+Gryl licks Hamster's mouth and smiles.
+
+! W>
+A demon wolf has arrived from the south.
+A demon wolf has arrived from the south.
+
+! W>
+Google gets an amethyst.
+
+! W>exa google
+You see nothing special about her.
+Google is an adult female Orc.
+Google the Orc is in an excellent condition.
+Google the Orc is using: 
+<wielded>            a sacrificial knife (dented); it glows blue
+<worn as shield>     a metal wall shield (brand new)
+<worn on head>       a green hood (used)
+<worn on body>       a plain shirt (brand new)
+<worn about body>    a forest green cloak (used); it glows blue
+<worn on legs>       a plain pair of pants (brand new)
+<worn on feet>       a black pair of padded boots (used)
+<worn on wrist>      a silver bracer
+<worn on finger>     a ring; it glows blue
+<worn on back>       a leather backpack
+<worn as belt>       a plain leather belt
+<worn on belt>       a water skin
+<worn on belt>       a stone
+<worn on belt>       a quiver
+<worn on belt>       a set of lock picks
+<worn on belt>       a fragrant-smelling bag
+
+! W>whois google
+Google is a Tarkhnarb Orc.
+Is playing.
+
+! W>l
+Cave
+A delicate indigo crystal lies here.
+A big, heavy stone key has been left here.
+A mailbox stands here stuffed full of messages.
+A strip of leather with a buckle is lying here.
+A ring, with a star sapphire mounted on it, has been left here. (blue aura)
+A thin pair of soft leather boots are on the ground.
+A large sack is on the ground.
+A sturdy leather backpack has been left here.
+A half-decayed corpse of a goblin lies rotting on the ground.
+A half-rotten corpse is hanging here.
+A huge olog-hai troll is here staring blankly at you.
+A young and vicious olog-hai eagerly awaits intruders.
+Google is resting here.
+A hungry warg stands here, sniffing around for flesh.
+-Ichor the Cave Troll- is standing here.
+-Lkuzk the Mountain Troll- is resting here.
+A hungry warg stands here, sniffing around for flesh.
+Hamster is resting here.
+Gryl is standing here.
+A hungry warg stands here, sniffing around for flesh.
+Aaz is standing here.
+A hungry warg stands here, sniffing around for flesh.
+-Vij the Hill Troll- is standing here.
+Limpy is standing here.
+A demon wolf lurks here, its dark form twisting and hiding its shape.
+A demon wolf lurks here, its dark form twisting and hiding its shape.
+
+! W>exa hamster
+You see nothing special about him.
+Hamster is a youthful male Orc.
+Hamster the Orc is in an excellent condition.
+Hamster the Orc is using: 
+<wielded>            an ornate, steel-shafted warhammer; it glows blue
+<worn on head>       a spiked metal helmet (brand new)
+<worn on body>       a metal breastplate (brand new)
+<worn about body>    a fine grey cloak (brand new); it glows blue
+<worn on arms>       a thin pair of vambraces (brand new)
+<worn on hands>      a pair of metal gauntlets (brand new)
+<worn on legs>       a pair of plate greaves (brand new)
+<worn on feet>       a pair of iron-shod boots (brand new)
+<worn on wrist>      a keyring
+<worn on back>       a leather backpack
+<worn as belt>       a plain leather belt
+<worn on belt>       a water skin
+<worn on belt>       a butcher knife (dented)
+
+! W>
+-Lkuzk the Mountain Troll- cringes away from Gryl in mortal terror.
+
+! W>
+Aaz burps:  topaz ring
+Google smiles viciously.
+
+! W>say who needs brd cememorinial
+emote bitches 'who needs brd cememorinial'
+Ok.
+
+! W>i
+You are carrying:
+a ceremonial dagger (brand new); it glows blue
+a black runed dagger (brand new); it glows blue
+a golden harp
+a mithril circlet; it glows blue
+a fine grey cloak (brand new); it glows blue
+a keyring with a key and some sets of lock picks
+a leather backpack
+a keyring with a set of lock picks
+the Hammer of Belegost; it glows blue
+a leather backpack
+a forest green cloak (used); it glows blue
+an engraved broadsword (brand new); it glows blue
+a bejewelled shield (brand new); it glows blue
+a forest green cloak (brand new); it glows blue
+a thin pair of leather gloves (used)
+a black pair of padded boots (brand new)
+a jewel-encrusted goblet
+
+! W>
+Google says 'me'
+
+! W>
+Hamster purrs 'aaz gimme str ring?'
+
+! W>
+-Ichor the Cave Troll- drips : give lkuzk pls
+
+! W>
+Rootsikunn narrates '2 zorc oie'
+
+! W>
+-Vij the Hill Troll- rawrz: give str-ring to torlls!
+
+! W>
+Hamster purrs 'so i can wield ornate normally:P'
+-Vij the Hill Troll- roars loudly.
+
+! W>give 2.dagger google
+Google says 'brd me'
+Ok.
+
+! W>
+-Ichor the Cave Troll- drips : hey give trolls,
+
+! W>
+Google nods to herself. Must need some reassurance...
+
+! W>
+Google smiles viciously.
+
+! W>
+Google stops using a sacrificial knife.
+Google masterfully draws a black runed dagger.
+
+! W>
+A demon wolf leaves south.
+A demon wolf leaves south.
+
+! W>
+Hamster shrugs indifferently.
+
+! W>
+Google thanks you heartily.
+
+! W>drop dagger
+You drop the dagger.
+
+! W>i
+You are carrying:
+a golden harp
+a mithril circlet; it glows blue
+a fine grey cloak (brand new); it glows blue
+a keyring with a key and some sets of lock picks
+a leather backpack
+a keyring with a set of lock picks
+the Hammer of Belegost; it glows blue
+a leather backpack
+a forest green cloak (used); it glows blue
+an engraved broadsword (brand new); it glows blue
+a bejewelled shield (brand new); it glows blue
+a forest green cloak (brand new); it glows blue
+a thin pair of leather gloves (used)
+a black pair of padded boots (brand new)
+a jewel-encrusted goblet
+
+! W>
+Aaz gives a jewelled ring to -Vij the Hill Troll-.
+
+! W>
+Limpy gets a ceremonial dagger.
+
+! W>
+-Vij the Hill Troll- rawrz: thanx
+
+! W>
+A demon wolf has arrived from the south.
+A demon wolf has arrived from the south.
+
+! W>l in 2.keyring
+keyring (carried) : 
+a set of lock picks
+
+! W>drop harp
+You drop the harp.
+
+! W>
+-Vij the Hill Troll- gives a jewelled ring to -Ichor the Cave Troll-.
+
+! W>drop keyring
+You drop the keyring.
+
+! W>
+-Ichor the Cave Troll- gives a jewelled ring to -Lkuzk the Mountain Troll-.
+
+! W>l in 2.keyring
+keyring (here) : 
+a Tharbad gate key
+two sets of lock picks
+
+! W>
+-Lkuzk the Mountain Troll- snickers softly.
+
+! W>
+Gryl gets a keyring with a key and some sets of lock picks.
+
+! W>
+-Vij the Hill Troll- nods solemnly.
+Limpy gets a short, moist tail from a leather backpack.
+
+! W>
+Limpy gets some short, black fur from a leather backpack.
+
+! W>
+Limpy gets a vial of preserved blood from a leather backpack.
+
+! W>
+Limpy gets a handful of narrow leaves from a leather backpack.
+
+! W>get all 2.keyring
+
+Limpy starts mixing some stuff in a fragrant-smelling bag.
+
+! W>i
+You don't see a second keyring to get things from.
+
+! W>You are carrying:
+a mithril circlet; it glows blue
+a fine grey cloak (brand new); it glows blue
+a leather backpack
+a keyring with a set of lock picks
+the Hammer of Belegost; it glows blue
+a leather backpack
+a forest green cloak (used); it glows blue
+an engraved broadsword (brand new); it glows blue
+a bejewelled shield (brand new); it glows blue
+a forest green cloak (brand new); it glows blue
+a thin pair of leather gloves (used)
+a black pair of padded boots (brand new)
+a jewel-encrusted goblet
+
+! W>get all 2.keyring
+You don't see a second keyring to get things from.
+
+! W>i
+You are carrying:
+a mithril circlet; it glows blue
+a fine grey cloak (brand new); it glows blue
+a leather backpack
+a keyring with a set of lock picks
+the Hammer of Belegost; it glows blue
+a leather backpack
+a forest green cloak (used); it glows blue
+an engraved broadsword (brand new); it glows blue
+a bejewelled shield (brand new); it glows blue
+a forest green cloak (brand new); it glows blue
+a thin pair of leather gloves (used)
+a black pair of padded boots (brand new)
+a jewel-encrusted goblet
+
+! W>
+-Ichor the Cave Troll- drips : ok all trolls got a piece of eq,nice
+
+! W>
+Gryl removes a Tharbad gate key from his keyring.
+Gryl removes a strange set of lock picks from his keyring.
+Gryl removes a strange set of lock picks from his keyring.
+
+! W>get all keyring
+You remove a set of lock picks from your keyring.
+
+! W>
+-Lkuzk the Mountain Troll- jumps up and down cheering wildly.
+Limpy puts a flask of orkish draught in a leather backpack.
+
+! W>get all all.keyring
+You can't find anything in any keyring.
+Hamster purrs 'any shield?'
+
+! W>i
+You are carrying:
+a set of lock picks
+a mithril circlet; it glows blue
+a fine grey cloak (brand new); it glows blue
+a leather backpack
+a keyring
+the Hammer of Belegost; it glows blue
+a leather backpack
+a forest green cloak (used); it glows blue
+an engraved broadsword (brand new); it glows blue
+a bejewelled shield (brand new); it glows blue
+a forest green cloak (brand new); it glows blue
+a thin pair of leather gloves (used)
+a black pair of padded boots (brand new)
+a jewel-encrusted goblet
+
+! W>
+Aaz stops using a blood-encrusted helm.
+
+! W>say ow dropped wrong picks
+emote bitches 'ow dropped wrong picks'
+Ok.
+-Ichor the Cave Troll- drips : name orc?
+
+! W>gi
+You giggle.
+
+! W>say I mean wrong keyring
+emote bitches 'I mean wrong keyring'
+Ok.
+
+! W>gi
+You giggle.
+
+! W>
+Hamster purrs 'hamster'
+
+! W>say what upgrades google
+emote bitches 'what upgrades google'
+Ok.
+
+! W>i
+You are carrying:
+a set of lock picks
+a mithril circlet; it glows blue
+a fine grey cloak (brand new); it glows blue
+a leather backpack
+a keyring
+the Hammer of Belegost; it glows blue
+a leather backpack
+a forest green cloak (used); it glows blue
+an engraved broadsword (brand new); it glows blue
+a bejewelled shield (brand new); it glows blue
+a forest green cloak (brand new); it glows blue
+a thin pair of leather gloves (used)
+a black pair of padded boots (brand new)
+a jewel-encrusted goblet
+
+! W>
+An olog-hai troll gets a golden harp.
+
+! W>drop picks
+You drop the lockpicks.
+
+! W>
+Aaz puts a white chain mail coif in a leather backpack.
+Gryl drops a keyring.
+-Ichor the Cave Troll- gives a bejewelled shield to Hamster.
+
+! W>drop keyring
+You drop the keyring.
+
+! W>
+Hamster gets a set of lock picks.
+
+! W>
+Hamster smiles viciously.
+
+! W>i
+Aaz protects his head with a blood-encrusted helm.
+You are carrying:
+a mithril circlet; it glows blue
+a fine grey cloak (brand new); it glows blue
+a leather backpack
+the Hammer of Belegost; it glows blue
+a leather backpack
+a forest green cloak (used); it glows blue
+an engraved broadsword (brand new); it glows blue
+a bejewelled shield (brand new); it glows blue
+a forest green cloak (brand new); it glows blue
+a thin pair of leather gloves (used)
+a black pair of padded boots (brand new)
+a jewel-encrusted goblet
+
+! W>
+Hamster puts a set of lock picks on his keyring.
+
+! W>l in 2.pack
+backpack (carried) : 
+a blue scroll; it glows blue
+a bright red amulet; it glows blue
+a fine pair of chain mail sleeves (brand new)
+five flasks of orkish draught
+a handful of clover
+two handfuls of narrow leaves
+three herbal kits
+a lembas wafer; it glows blue
+three man-like roots
+a small metal flask
+a small pouch
+a vellum scroll; it glows blue
+a wooden pipe
+
+! W>l in 3.pack
+backpack (carried) : 
+a black pair of padded boots (used)
+a grey fluid-sack
+
+! W>
+Hamster purrs 'neat'
+
+! W>say DAMn those dudes were loaded
+emote bitches 'DAMn those dudes were loaded'
+Ok.
+Aaz burps:  was WS in corpses?
+
+! W>gi
+You giggle.
+
+! W>
+-Vij the Hill Troll- stops using a butcher knife.
+
+! W>
+Limpy asks Hamster a question.
+
+! W>                
+-Ichor the Cave Troll- nods solemnly.
+
+! W>
+Gryl puts a strange set of lock picks on his keyring.
+
+! W>
+Hamster purrs 'hoarders'
+-Vij the Hill Troll- skillfully draws a giant spear.
+
+! W>
+Google says 'no upgrades onm me'
+-Vij the Hill Troll- puts a butcher knife on his belt.
+
+! W>res
+You are already resting.
+
+! W>
+Gryl drops a strange set of lock picks.
+
+! W>can
+Hamster shakes his head at Limpy.
+cha ale n
+Ok.
+
+! W>
+Hamster purrs 'pukes are hoarders'
+
+! W>
+Hamster gets a strange set of lock picks.
+
+! W>
+Rootsikunn narrates '2 zorc still oie gate:('
+
+! W>
+Google says 'and no keyring on me'
+
+! W>say google, how can u lie so plain
+Limpy stares at the sky.
+emote bitches 'google, how can u lie so plain'
+Ok.
+
+! W>
+-Ichor the Cave Troll- drips : and i now have 2 staffs to eat
+
+! W>
+Gryl puts a Tharbad gate key on his keyring.
+
+! W>
+Hamster removes a set of lock picks from his keyring.
+
+! W>
+Hamster puts a strange set of lock picks on his keyring.
+
+! W>
+Hamster drops a set of lock picks.
+
+! W>
+Google says 'got simple one'
+Gryl says: No
+
+! W>say if u loot 2 strange picks, and u say no upgrades on them
+emote bitches 'if u loot 2 strange picks, and u say no upgrades on them'
+Ok.
+
+! W>
+Google stops using a set of lock picks.
+
+! W>
+Gryl says: gimme a staff
+
+! W>
+Google puts a set of lock picks on her belt.
+
+! W>say the simple ones got no upgrades
+emote bitches 'the simple ones got no upgrades'
+Ok.
+
+! W>gi
+Limpy asks if trolls got spare a bejewelled ?
+Gryl says: for upgrades please
+You giggle.
+
+! W>
+-Lkuzk the Mountain Troll- stops using an icy ring.
+
+! W>
+Aaz stops using a diamond ring.
+Aaz stops using a ruby ring.
+
+! W>
+Aaz gets a jewelled ring from a sable pouch.
+
+! W>
+Aaz puts a jewelled ring on his finger with delicacy.
+
+! W>
+Urja narrates 'level :-)'
+
+! W>
+-Lkuzk the Mountain Troll- puts a jewelled ring on his finger with delicacy.
+
+! W>
+Aaz stops using a jewelled ring.
+
+! W>
+Aaz puts a jewelled ring in a sable pouch.
+
+! W>
+Aaz puts a diamond ring on his finger with delicacy.
+Aaz puts a ruby ring on his finger with delicacy.
+
+! W>
+Hamster stops resting, and clambers on his feet.
+
+! W>
+-Ichor the Cave Troll- gives a bejewelled oak staff to Gryl.
+
+! W>
+Hamster gets a strip of dried meat from a leather backpack.
+
+! W>i
+You are carrying:
+a mithril circlet; it glows blue
+a fine grey cloak (brand new); it glows blue
+a leather backpack
+the Hammer of Belegost; it glows blue
+a leather backpack
+a forest green cloak (used); it glows blue
+an engraved broadsword (brand new); it glows blue
+a bejewelled shield (brand new); it glows blue
+a forest green cloak (brand new); it glows blue
+a thin pair of leather gloves (used)
+a black pair of padded boots (brand new)
+a jewel-encrusted goblet
+
+! W>
+Hamster gets a strip of dried meat from a leather backpack.
+
+! W>
+Aaz gets a jewelled ring from a sable pouch.
+
+! W>
+Hamster eats a strip of dried meat.
+
+! W>
+Hamster eats a strip of dried meat.
+Gryl thanks -Ichor the Cave Troll- heartily.
+
+! W>
+-Vij the Hill Troll- rawrz: no shields i looted
+Google says 'hey look at me if u got steal skill'
+
+! W>
+Hamster sits down and rests.
+
+! W>say trolls, got all u needeD?
+emote bitches 'trolls, got all u needeD?'
+Ok.
+
+! W>
+Google says 'check my inventory'
+
+! W>eq
+
+Aaz puts a jewelled ring in a sable pouch.
+
+! W>You are using:
+<wielded two-handed> a great warsword (brand new); it glows blue
+<worn on head>       a white chain mail coif (brand new)
+<worn on body>       a shining breastplate (brand new); it glows blue
+<worn about body>    a fine grey cloak (brand new); it glows blue
+<worn on arms>       a shining pair of vambraces (brand new); it glows blue
+<worn on hands>      a pair of ring mail gloves (brand new)
+<worn on legs>       a shining pair of greaves (brand new); it glows blue
+<worn on feet>       a pair of iron-shod boots (brand new)
+<worn around neck>   an old length of iron chain; it glows blue
+<worn around neck>   a black amulet; it glows blue
+<worn on finger>     a jewelled ring; it glows blue
+<worn on back>       a leather backpack
+<worn as belt>       a gleaming belt; it glows blue
+<worn on belt>       a butcher knife (brand new)
+<worn on belt>       a sable pouch; it glows blue
+<worn on belt>       a strange set of lock picks
+<worn on belt>       the scalp of Damaster
+<worn on belt>       the scalp of Lowyn
+
+! W>
+An olog-hai troll gets an amethyst.
+
+! W>
+Hamster purrs 'was any cc/remp/str ring ?'
+
+! W>get all.shield all
+You have to hold the keyring to use it.
+You have to hold the keyring to use it.
+You can't find any shield in any container.
+
+! W>
+-Ichor the Cave Troll- drips : i just gave a shield to hamster
+
+! W>
+Hamster smiles viciously.
+
+! W>exa hamster
+You see nothing special about him.
+Hamster is a youthful male Orc.
+Hamster the Orc is in an excellent condition.
+Hamster the Orc is using: 
+<wielded>            an ornate, steel-shafted warhammer; it glows blue
+<worn on head>       a spiked metal helmet (brand new)
+<worn on body>       a metal breastplate (brand new)
+<worn about body>    a fine grey cloak (brand new); it glows blue
+<worn on arms>       a thin pair of vambraces (brand new)
+<worn on hands>      a pair of metal gauntlets (brand new)
+<worn on legs>       a pair of plate greaves (brand new)
+<worn on feet>       a pair of iron-shod boots (brand new)
+<worn on wrist>      a keyring with a set of lock picks
+<worn on back>       a leather backpack
+<worn as belt>       a plain leather belt
+<worn on belt>       a water skin
+<worn on belt>       a butcher knife (dented)
+
+! W>
+-a Troll- has arrived from the south.
+
+! W>say HASMTER IS level 5
+emote bitches 'HASMTER IS level 5'
+Ok.
+
+! W>
+Google says 'no upgrades on me. just eimple tools'
+
+! W>say dont give him anything
+emote bitches 'dont give him anything'
+Ok.
+
+! W>gi
+You giggle.
+
+! W>
+-Lkuzk the Mountain Troll- says : was str ring but I take it, sorry orc ;)
+
+! W>
+A demon wolf leaves south.
+A demon wolf leaves south.
+
+! W>
+Hamster purrs 'so?'
+
+! W>
+-Ichor the Cave Troll- drips : is he?
+
+! W>
+Hamster purrs 'i do nocexp'
+
+! W>say unless noone else wants
+gi
+emote bitches 'unless noone else wants'
+Ok.
+
+! W>You giggle.
+-Ichor the Cave Troll- drips : hrm
+
+! W>
+Limpy says 'yes'
+
+! W>
+Hamster purrs 'i have 6k tps'
+
+! W>
+-Vij the Hill Troll- rawrz: kill hamster!
+
+! W>
+-Vij the Hill Troll- giggles.
+
+! W>
+-a Troll- looks around him.
+
+! W>
+Hamster shrugs indifferently.
+
+! W>
+Scave narrates 'frambo dies'
+
+! W>
+Limpy says 'hmm'
+
+! W>
+-Ichor the Cave Troll- drips : sorry duidnt realise
+
+! W>say np
+gi
+emote bitches 'np'
+Ok.
+
+! W>You giggle.
+
+! W>
+Shalani narrates 'at last again !'
+
+! W>
+Limpy says 'guess lev 25 could use it better'
+
+! W>
+Hamster purrs 'i have played this mud way too long'
+
+! W>
+-Lkuzk the Mountain Troll- stops using a diamond ring.
+
+! W>say we take frmo him by force if necessary
+emote bitches 'we take frmo him by force if necessary'
+Ok.
+
+! W>gi
+-Lkuzk the Mountain Troll- puts an icy ring on his finger with delicacy.
+You giggle.
+
+! W>
+-a Troll- leaves south.
+
+! W>
+Google smiles viciously.
+
+! W>
+Hamster purrs 'so dont expect me to die 20x per day'
+
+! W>
+Limpy says 'LoL'
+
+! W>
+-Lkuzk the Mountain Troll- gives a diamond ring to -Vij the Hill Troll-.
+
+! W>say hamster give shield who needs
+emote bitches 'hamster give shield who needs'
+Ok.
+
+! W>
+-Lkuzk the Mountain Troll- smiles viciously.
+
+! W>gi
+You giggle.
+
+! W>
+Hamster purrs 'erm'
+
+! W>
+-Ichor the Cave Troll- drips : really hamster give it to the uruk
+
+! W>
+Aaz burps:  what shield
+
+! W>
+Limpy says 'bet i have been one of longest playtime here'
+
+! W>say yes.yes.
+emote bitches 'yes.yes.'
+Ok.
+
+! W>
+Aaz burps:  was
+Hamster purrs 'i got it first'
+
+! W>
+Hamster stops resting, and clambers on his feet.
+
+! W>sc
+326/326 hits, 102/102 mana, and 132/132 moves.
+
+! W>say what shield wasit?
+emote bitches 'what shield wasit?'
+Ok.
+
+! W>i
+You are carrying:
+a mithril circlet; it glows blue
+a fine grey cloak (brand new); it glows blue
+a leather backpack
+the Hammer of Belegost; it glows blue
+a leather backpack
+a forest green cloak (used); it glows blue
+an engraved broadsword (brand new); it glows blue
+a bejewelled shield (brand new); it glows blue
+a forest green cloak (brand new); it glows blue
+a thin pair of leather gloves (used)
+a black pair of padded boots (brand new)
+a jewel-encrusted goblet
+
+! W>
+Hamster purrs 'this is bullshit i need it for nocexp'
+
+! W>
+-Vij the Hill Troll- rawrz: ok, hamster dies...
+
+! W>
+Hamster purrs 'bej'
+
+! W>can
+cha ale n
+Ok.
+-Ichor the Cave Troll- drips : bejewlled
+
+! W>l
+Cave
+A big, heavy stone key has been left here.
+A mailbox stands here stuffed full of messages.
+A strip of leather with a buckle is lying here.
+A ring, with a star sapphire mounted on it, has been left here. (blue aura)
+A set of tools, wrapped in black leather, lies here.
+A thin pair of soft leather boots are on the ground.
+A large steel keyring is lying here.
+A large steel keyring is lying here.
+A large sack is on the ground.
+A sturdy leather backpack has been left here.
+A half-decayed corpse of a goblin lies rotting on the ground.
+A half-rotten corpse is hanging here.
+A huge olog-hai troll is here staring blankly at you.
+A young and vicious olog-hai eagerly awaits intruders.
+Google is resting here.
+A hungry warg stands here, sniffing around for flesh.
+-Ichor the Cave Troll- is standing here.
+-Lkuzk the Mountain Troll- is resting here.
+A hungry warg stands here, sniffing around for flesh.
+Hamster is standing here.
+Gryl is standing here.
+A hungry warg stands here, sniffing around for flesh.
+Aaz is standing here.
+A hungry warg stands here, sniffing around for flesh.
+-Vij the Hill Troll- is standing here.
+Limpy is standing here.
+
+! W>
+-Vij the Hill Troll- giggles.
+
+! W>say who orc in here needs beje?
+emote bitches 'who orc in here needs beje?'
+Ok.
+
+! W>
+Gryl puts a fine chain mail shirt in a leather backpack.
+Gryl puts a bejewelled oak staff in a leather backpack.
+
+! W>say exept hamster?
+emote bitches 'exept hamster?'
+Ok.
+
+! W>
+-Ichor the Cave Troll- drips : hamster were you there?
+
+! W>
+Daemonicus narrates 'any ornates spare?'
+
+! W>
+Gryl says: I would need bej...
+
+! W>
+Hamster purrs 'i got too late'
+
+! W>exa gryl   
+You see nothing special about him.
+Gryl is a mature male Orc.
+Gryl deals pryl [ML] is in an excellent condition.
+Gryl deals pryl [ML] is using: 
+<wielded two-handed> a great warsword (brand new); it glows blue
+<worn on head>       a great helm (brand new)
+<worn on body>       a thick metal breastplate (brand new)
+<worn about body>    a forest green cloak (brand new); it glows blue
+<worn on arms>       a pair of vambraces (brand new)
+<worn on hands>      a thick pair of metal gauntlets (brand new)
+<worn on legs>       a pair of greaves (brand new)
+<worn on feet>       a thick pair of metal boots (brand new)
+<worn on wrist>      a keyring with a key and a set of lock picks
+<worn on back>       a leather backpack
+<worn as belt>       a plain leather belt
+<worn on belt>       a water skin
+<worn on belt>       a sable pouch; it glows blue
+<worn on belt>       a stone
+
+! W>
+Aaz drops the scalp of Rhand.
+
+! W>say gryl gets beje
+Hamster ponders life, the universe, and everything.
+emote bitches 'gryl gets beje'
+Ok.
+
+! W>
+A demon wolf has arrived from the south.
+A demon wolf has arrived from the south.
+
+! W>
+Hamster gives a bejewelled shield to Gryl.
+
+! W>
+Google gets a keyring.
+
+! W>
+Hamster purrs 'nice'
+
+! W>
+Google gets a set of lock picks.
+
+! W>i
+You are carrying:
+a mithril circlet; it glows blue
+a fine grey cloak (brand new); it glows blue
+a leather backpack
+the Hammer of Belegost; it glows blue
+a leather backpack
+a forest green cloak (used); it glows blue
+an engraved broadsword (brand new); it glows blue
+a bejewelled shield (brand new); it glows blue
+a forest green cloak (brand new); it glows blue
+a thin pair of leather gloves (used)
+a black pair of padded boots (brand new)
+a jewel-encrusted goblet
+
+! W>
+-Ichor the Cave Troll- drips : well i let you orcs sort it out yerselves
+
+! W>
+Google drops a set of lock picks.
+
+! W>wo
+OB: 104%, DB: -28%, PB: 61%, Armour: 86%. Wimpy: 200. Mood: wimpy.
+Needed: 2,694,060 xp, 0 tp. Gold: 765. Alert: normal.
+Affected by:
+- novoid
+- sense life
+- detect magic
+
+! W>
+Aaz burps:  i need that warsword
+Google puts a keyring around her wrist.
+
+! W>
+Google stops using a set of lock picks.
+
+! W>give 50 gold hamster
+Ok.
+
+! W>
+Aaz burps:  who got it?
+
+! W>
+Google puts a set of lock picks on her keyring.
+
+! W>
+Google puts a shining key on her keyring.
+Google puts a small key carved from ebony on her keyring.
+Google puts a small stone key on her keyring.
+Google puts a metal key on her keyring.
+
+! W>i
+You are carrying:
+a mithril circlet; it glows blue
+a fine grey cloak (brand new); it glows blue
+a leather backpack
+the Hammer of Belegost; it glows blue
+a leather backpack
+a forest green cloak (used); it glows blue
+an engraved broadsword (brand new); it glows blue
+a bejewelled shield (brand new); it glows blue
+a forest green cloak (brand new); it glows blue
+a thin pair of leather gloves (used)
+a black pair of padded boots (brand new)
+a jewel-encrusted goblet
+
+! W>say aaz u didnt get ws?
+emote bitches 'aaz u didnt get ws?'
+Ok.
+
+! W>
+Aaz shakes his head.
+
+! W>
+-Ichor the Cave Troll- whispers to you 'sorry bout that,didnt realises his level'
+
+! W>say hamster was suppose to give u ws
+emote bitches 'hamster was suppose to give u ws'
+Ok.
+
+! W>say as I gave hm ornate 
+emote bitches 'as I gave hm ornate'
+Ok.
+
+! W>gi
+You giggle.
+
+! W>
+Gryl says: was no ws in loot
+
+! W>
+Gryl says: he gave to me
+
+! W>
+Hamster purrs 'i gave warsword to gryl'
+
+! W>say WELL GRYL
+emote bitches 'WELL GRYL'
+Ok.
+
+! W>
+Mordim narrates 'any lowbie bn needs beje?'
+
+! W>say thast why I gave ornate to hamster
+emote bitches 'thast why I gave ornate to hamster'
+Ok.
+
+! W>
+Rootsikunn narrates 'yes'
+
+! W>asy so h gives WS to aaz
+gi
+say so h gives WS to aaz
+Ok.
+
+! W>You giggle.
+
+! W>
+Hamster purrs 'because gryl told him?'
+
+! W>
+Gryl says: he said he'd give to me
+
+! W>
+Hamster purrs 'umm confusing'
+
+! W>say whatever
+gi
+emote bitches 'whatever'
+Ok.
+
+! W>You giggle.
+
+! W>
+Hamster purrs 'i told you: gimme ornate i give warsword for gryl'
+
+! W>
+Hamster giggles.
+
+! W>say lil things dont matter to me
+emote bitches 'lil things dont matter to me'
+Ok.
+
+! W>
+-Vij the Hill Troll- rawrz: greedy orcs
+
+! W>
+-Vij the Hill Troll- grins evilly, showing his teeth.
+
+! W>say we get new u aaz
+emote bitches 'we get new u aaz'
+Ok.
+
+! W>gi
+You giggle.
+
+! W>
+Hamster purrs 'get more pukes'
+
+! W>
+Hamster purrs 'more warswords'
+
+! W>
+Hamster shrugs indifferently.
+
+! W>
+Aaz burps:  okok
+
+! W>
+Hamster purrs 'or lets go do gc'
+
+! W>
+An olog-hai troll gets a set of lock picks.
+
+! W>say gryl wasnt in my grp hamster
+gi
+emote bitches 'gryl wasnt in my grp hamster'
+Ok.
+
+! W>You giggle.
+
+! W>
+-Ichor the Cave Troll- leaves south.
+-Vij the Hill Troll- leaves south.
+Some very close noise can be heard from the south.
+
+! W>
+Hamster purrs 'and dima im not lev 5 anymore'
+
+! W>
+-Ichor the Cave Troll- has arrived from the south.
+-Vij the Hill Troll- has arrived from the south.
+
+! W>sc
+326/326 hits, 102/102 mana, and 132/132 moves.
+
+! W>
+Google says 'damn mob looting us'
+
+! W>
+-Ichor the Cave Troll- drinks water from a water skin.
+
+! W>say ur lev 7
+emote bitches 'ur lev 7'
+Ok.
+
+! W>
+Google giggles.
+
+! W>
+-Lkuzk the Mountain Troll- stops resting, and clambers on his feet.
+
+! W>
+Hamster purrs 'and i didnt knew it'
+
+! W>
+-Vij the Hill Troll- puts a diamond ring on his finger with delicacy.
+
+! W>
+-Ichor the Cave Troll- leaves down.
+-Vij the Hill Troll- leaves down.
+-Lkuzk the Mountain Troll- leaves down.
+
+! W>shiv hamster
+Brrrrrrrrr.
+
+! W>
+! W>
+Aaz burps:  whois dima?
+
+! W>say u die in 1 spray
+emote bitches 'u die in 1 spray'
+Ok.
+
+! W>whois dima
+No-one by that name.
+
+! W>
+A demon wolf leaves south.
+A demon wolf leaves south.
+
+! W>res          
+You are already resting.
+
+! W>
+Gryl tips his hat.
+
+! W>
+Gryl leaves south.
+A hungry warg leaves south.
+
+! W>
+Hamster purrs 'anyway'
+
+! W>say they call me dima here:p
+emote bitches 'they call me dima here:p'
+Ok.
+
+! W>gi
+You giggle.
+
+! W>
+Hamster purrs 'was any fgc for spare?'
+
+! W>
+A demon wolf has arrived from the south.
+A demon wolf has arrived from the south.
+
+! W>
+Limpy says 'diam'
+
+! W>
+Hamster leaves south.
+
+! W>
+! W>
+Aaz falls down laughing.
+
+! W>
+Limpy says 'they call you'
+
+! W>
+Hamster has arrived from the south.
+
+! W>
+Hamster sits down and rests.
+
+! W>
+Hamster stops resting, and clambers on his feet.
+
+! W>
+Hamster looks around him.
+
+! W>
+Limpy says 'shortened from diamonium'
+
+! W>
+Hamster sits down and rests.
+
+! W>
+Google drinks blood from a water skin.
+
+! W>
+Limpy says 'ok going LD'
+
+! W>
+Aaz yells 'trollz com here'
+
+! W>
+Limpy says 'need leave'
+
+! W>
+Google stops resting, and clambers on her feet.
+
+! W>
+Aaz yells 'Vij'
+
+! W>
+Hamster purrs 'spare fgc?'
+
+! W>
+-Ichor the Cave Troll- has arrived from the south.
+-Lkuzk the Mountain Troll- has arrived from the south.
+
+! W>
+-Vij the Hill Troll- has arrived from the south.
+
+! W>
+-Ichor the Cave Troll- drips : yep?
+
+! W>
+-Vij the Hill Troll- rawrz: w00t
+
+! W>
+-Ulruh the Mountain Troll- has arrived from the south.
+
+! W>
+Aaz burps:  who was out og gleaming?
+
+! W>
+-Lkuzk the Mountain Troll- bows before Aaz.
+
+! W>
+-Lkuzk the Mountain Troll- says : I didn't get
+
+! W>
+-Ichor the Cave Troll- drips : lkuzk
+
+! W>
+-Lkuzk the Mountain Troll- says : other two did
+
+! W>i
+-Lkuzk the Mountain Troll- smiles viciously.
+You are carrying:
+a mithril circlet; it glows blue
+a fine grey cloak (brand new); it glows blue
+a leather backpack
+the Hammer of Belegost; it glows blue
+a leather backpack
+a forest green cloak (used); it glows blue
+an engraved broadsword (brand new); it glows blue
+a bejewelled shield (brand new); it glows blue
+a forest green cloak (brand new); it glows blue
+a thin pair of leather gloves (used)
+a black pair of padded boots (brand new)
+a jewel-encrusted goblet
+
+! W>wimp
+cha mood wimp
+Ok.
+
+! W>200
+Wimpy set to: 200
+
+! W>can
+cha ale n
+Ok.
+
+! W>
+-Ulruh the Mountain Troll- sits down and rests.
+
+! W>
+An olog-hai troll gets a plain leather belt.
+
+! W>
+Aaz gets a gleaming belt from a sable pouch.
+
+! W>
+A demon wolf leaves south.
+A demon wolf leaves south.
+
+! W>
+-Lkuzk the Mountain Troll- blinks his eyes innocently.
+
+! W>
+-Vij the Hill Troll- licks Aaz.
+
+! W>
+-Lkuzk the Mountain Troll- drools all over Aaz - he must like him!
+
+! W>
+Aaz gives a gleaming belt to -Lkuzk the Mountain Troll-.
+
+! W>
+Hamster purrs 'lkuzk i give you fullset in lost realms if i get gleaming:P'
+
+! W>
+-Ulruh the Mountain Troll- stops resting, and clambers on his feet.
+
+! W>
+Aaz burps:  was mine
+
+! W>
+-Lkuzk the Mountain Troll- points his finger at Hamster and laughs obnoxiously.
+
+! W>
+Hamster giggles.
+
+! W>
+Limpy asks Aaz a question.
+
+! W>
+-Ulruh the Mountain Troll- looks around him.
+
+! W>
+Aaz burps:  got in today
+
+! W>
+-Lkuzk the Mountain Troll- says : who are you?
+
+! W>
+-Ichor the Cave Troll- thanks Aaz heartily.
+
+! W>
+-Ulruh the Mountain Troll- sits down and rests.
+
+! W>
+-Ulruh the Mountain Troll- stops resting, and clambers on his feet.
+
+! W>
+-Ulruh the Mountain Troll- leaves down.
+
+! W>
+-Lkuzk the Mountain Troll- thanks Aaz heartily.
+
+! W>
+Daemonicus has arrived from the south.
+A hungry warg has arrived from the south.
+A demon wolf has arrived from the south.
+A demon wolf has arrived from the south.
+
+! W>
+Daemonicus sits down and rests.
+
+! W>
+Google gets a sapphire ring.
+
+! W>exa aaz
+You see nothing special about him.
+Aaz is an adult male Orc.
+Aaz the pervert is in an excellent condition.
+Aaz the pervert is using: 
+<wielded>            a blackened spear (brand new); it glows blue
+<worn as shield>     a bejewelled shield (brand new); it glows blue
+<worn on head>       a blood-encrusted helm (brand new)
+<worn on body>       a fine chain mail shirt (brand new)
+<worn about body>    a russet cloak (brand new); it glows blue
+<worn on arms>       a shining pair of vambraces (brand new); it glows blue
+<worn on hands>      a thin pair of metal gauntlets (brand new)
+<worn on legs>       a fine pair of chain mail leggings (brand new)
+<worn on feet>       a pair of iron-shod boots (brand new)
+<worn around neck>   a necklace of bones
+<worn on wrist>      a wolfskin wristband (brand new)
+<worn on wrist>      a keyring with a set of lock picks
+<worn on finger>     a diamond ring
+<worn on finger>     a ruby ring; it glows blue
+<worn on back>       a leather backpack
+<worn as belt>       a gleaming belt; it glows blue
+<worn on belt>       a stone
+<worn on belt>       a water skin
+<worn on belt>       a gem-inlaid knife (brand new)
+<worn on belt>       a sable pouch; it glows blue
+
+! W>
+Google hides a sapphire ring.
+
+! W>
+Daemonicus gets a keyring.
+
+! W>
+-Lkuzk the Mountain Troll- ponders life, the universe, and everything.
+
+! W>ta who got shining greaves?
+tell aaz who got shining greaves?
+Ok.
+
+! W>
+Daemonicus puts a keyring around his wrist.
+
+! W>
+Aaz looks around him.
+
+! W>
+Aaz discovered a sapphire ring.
+
+! W>
+_____________________________________________________________________________
+TELL! Aaz: "'ma?'" 
+
+! W>
+Limpy is fleeing...
+Limpy leaves south.
+
+! W>ta nod
+tell aaz nod
+Ok.
+
+! W>
+-Lkuzk the Mountain Troll- gives a broad silver belt to -Ichor the Cave Troll-.
+-Ichor the Cave Troll- gets a dark broadsword from a leather backpack.
+
+! W>ta keepit
+tell aaz keepit
+Ok.
+
+! W>
+_____________________________________________________________________________
+TELL! Aaz: "'nod'" 
+
+! W>ta dont give to some random orc:)
+tell aaz dont give to some random orc:)
+Ok.
+
+! W>
+-Ichor the Cave Troll- hides a dark broadsword.
+
+! W>
+-Lkuzk the Mountain Troll- stops using a gem-inlaid knife.
+
+! W>
+Daemonicus stops resting, and clambers on his feet.
+
+! W>
+-Lkuzk the Mountain Troll- stops using a water skin.
+
+! W>
+-Lkuzk the Mountain Troll- stops using a plain leather belt.
+A water skin falls on the ground.
+
+! W>
+Daemonicus looks around him.
+
+! W>
+-Lkuzk the Mountain Troll- wears a gleaming belt about his waist.
+
+! W>ta oda, sul mingi shining jupp preagu yle ka?
+tell aaz oda, sul mingi shining jupp preagu yle ka?
+Ok.
+-Lkuzk the Mountain Troll- gets a water skin.
+
+! W>
+_____________________________________________________________________________
+TELL! Aaz: "'man nooooooway'" 
+Daemonicus discovered a dark broadsword.
+
+! W>
+A demon wolf leaves south.
+A demon wolf leaves south.
+
+! W>
+-Lkuzk the Mountain Troll- puts a water skin on his belt.
+
+! W>
+-Lkuzk the Mountain Troll- puts a water skin on his belt.
+
+! W>
+-Lkuzk the Mountain Troll- puts a gem-inlaid knife on his belt.
+
+! W>
+_____________________________________________________________________________
+TELL! Durcano: "'kes loadis selle?'" 
+
+! W>
+-Vij the Hill Troll- rawrz: orcs... got any decent spear?
+
+! W>
+Google says 'gleaming trolls'
+
+! W>
+_____________________________________________________________________________
+TELL! Aaz: "'all eq to Durcano?'" 
+
+! W>
+-Lkuzk the Mountain Troll- drops a plain leather belt.
+
+! W>
+Daemonicus puts a dark broadsword in a leather backpack.
+
+! W>trop #
+q
+                *** TROPHY *** (Number Killed, Knowledge, Mobile)
+
+|   1,  0%,  #Krvavej                  |   1,  0%,  #Furia                    |
+|   1,  0%,  #Alasdae                  |   1,  0%,  #Baghtru                  |
+|   1,  0%,  #Krak                     |   1,  0%,  #Damaster                 |
+|   1,  0%,  #Alucard                  |   1,  0%,  #Redbeard                 |
+|   1,  0%,  #Khodim                   |   1,  0%,  #Elenmir                  |
+|   1,  0%,  #Barbarod                 |   2,  1%,  #Earanion                 |
+|   1,  0%,  #Mekola                   |   1,  0%,  #Huli                     |
+|   1,  0%,  #Ryudo                    |   1,  1%,  #Araglas                  |
+|   1,  1%,  #Bunabad                  |   1,  0%,  #Helmer                   |
+|   1,  0%,  #Nier                     |   1,  0%,  #Sylvador                 |
+|   3,  0%,  #Nuemar                   |   1,  0%,  #Selenya                  |
+|   1,  1%,  #Jaroosh                  |   1,  0%,  #Skrider                  |
+|   1,  0%,  #Enol                     |   1,  0%,  #Skhuz                    |
+|   1,  0%,  #Zaidnoremac              |   1,  0%,  #Khazdum                  |
+|   1,  0%,  #Usha                     |   1,  0%,  #Torm                     |
+|   1,  1%,  #Gret                     |   1,  0%,  #Bester                   |
+|   1,  0%,  #Nian                     |   2,  0%,  #Kilu                     |
+|   1,  0%,  #Ercos                    |   1,  0%,  #Materia                  |
+|   1,  0%,  #Archwin                  |   1,  0%,  #Kis                      |
+|   1,  0%,  #Runn                     |   1,  0%,  #Shyn                     |
+|   1,  0%,  #Remmy                    |   1,  0%,  #Gamahim                  |
+|   2,  0%,  #Lim                      |   1,  0%,  #Aelst                    |
+|   2,  0%,  #Polly                    |   1,  0%,  #Angus                    |
+|   1,  0%,  #Josiah                   |   1,  0%,  #Alnac                    |
+|   2,  0%,  #Gamla                    |   1,  0%,  #Pads                     |
+|   1,  0%,  #Mindor                   |   2,  0%,  #Jotanka                  |
+|   1,  0%,  #Gabor                    |   1,  0%,  #Maylaro                  |
+|   2,  0%,  #Faron                    |   1,  0%,  #Macedon                  |
+|   1,  0%,  #Aikonia                  |   1,  0%,  #Freagar                  |
+|   1,  0%,  #Kahzum                   |   2,  1%,  #Letholes                 |
+|   1,  0%,  #Cannadha                 |   1,  0%,  #Faust                    |
+|   1,  1%,  #Shagin                   |   1,  0%,  #Neido                    |
+|   1,  0%,  #Hallek                   |   1,  1%,  #Notch                    |
+|   1,  1%,  #Cednor                   |   1,  1%,  #Pommes                   |
+|   2,  0%,  #Seomansen                |   1,  0%,  #Arammis                  |
+|   1,  0%,  #Balgrin                  |   1,  1%,  #Nuppen                   |
+|   1,  1%,  #Schweppes                |   2,  1%,  #Syn                      |
+|   1,  0%,  #Lemps                    |   1,  0%,  #Yuji                     |
+|   1,  0%,  #Earand                   |   1,  0%,  #Fleshy                   |
+|   1,  0%,  #Nuff                     |   2,  0%,  #Beolden                  |
+|   1,  0%,  #Tendar                   |   1,  0%,  #Ingo                     |
+|   1,  0%,  #Tusnelda                 |   1,  0%,  #Bohor                    |
+
+*** Return: continue, b: back one page, r: redisplay, q:quit (6%) *** Google grins evilly, showing her teeth.
+
+! W>
+A demon wolf has arrived from the south.
+A demon wolf has arrived from the south.
+
+! W>
+-Ichor the Cave Troll- drips : oh i got a fine grey
+
+! W>
+Daemonicus sits down and rests.
+
+! W>
+-Vij the Hill Troll- rawrz: like blakcened?
+
+! W>
+-Ichor the Cave Troll- drips : any need?
+
+! W>
+Hamster stops resting, and clambers on his feet.
+
+! W>
+An olog-hai troll gets a plain leather belt.
+
+! W>
+Daemonicus incantates: 'i do'
+
+! W>
+Hamster purrs 'i could use fgc'
+
+! W>
+-Ichor the Cave Troll- gets a fine grey cloak from a leather backpack.
+
+! W>
+Daemonicus incantates: 'daemonicus'
+
+! W>
+Google says 'give to google'
+
+! W>
+Aaz puts a sapphire ring in a leather backpack.
+
+! W>
+A demon wolf leaves south.
+A demon wolf leaves south.
+
+! W>
+Google nods to herself. Must need some reassurance...
+
+! W>
+Google smiles viciously.
+
+! W>
+Scave narrates 'any1 else playing thru artun?'
+
+! W>
+Aaz looks around him.
+
+! W>
+-Ichor the Cave Troll- gets a bloody pair of elf ears from a leather backpack.
+
+! W>
+-Ichor the Cave Troll- carefully strings a pair of ears to her necklace.
+
+! W>
+A demon wolf has arrived from the south.
+A demon wolf has arrived from the south.
+
+! W>
+-Ichor the Cave Troll- drips : damn that was a lucky darkness
+
+! W>
+Aaz burps:  wot to do with 2x kit with scaly lore?
+
+! W>
+A demon wolf leaves south.
+A demon wolf leaves south.
+
+! W>
+-Lkuzk the Mountain Troll- nods solemnly.
+
+! W>
+-Lkuzk the Mountain Troll- says : do scaly 2x and get more belts?
+
+! W>
+-Lkuzk the Mountain Troll- smiles viciously.
+
+! W>
+Aaz burps:  smart!
+
+! W>
+Google smiles viciously.
+
+! W>
+Google puts an amethyst in a leather backpack.
+
+! W>
+Google stops using a black pair of padded boots.
+
+! W>
+Google puts her feet in a pair of smooth, black boots.
+
+! W>
+-Vij the Hill Troll- rawrz: *Taki the Dwarf* (LOH) <TRIES TO ESCAPE>.
+
+! W>
+Google drops a black pair of padded boots.

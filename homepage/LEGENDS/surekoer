@@ -1,0 +1,482 @@
+Trail at a Cave
+The corpse of *an Orc* is lying here.
+A moneybag made of rough leather is lying here.
+A large sack is on the ground.
+Exits: North East West.
+You see some fog coming from the south.
+
+d
+o W S C HP:Fine>
+d
+Narrow Part of the Broken Trail
+A mountain goat is here, jumping from cliff to cliff.
+Exits: East West.
+
+o W S C HP:Fine>
+End of the Broken Trail
+Exits: West Down.
+
+o W S C HP:Fine>
+Trail to the High Pass
+Exits: Up Down.
+
+o W S C HP:Fine>
+Trail to the High Pass
+Exits: North East Up.
+
+e
+o W S C HP:Fine>
+s
+Road to the Lower Pass
+Exits: North East South West.
+
+w
+o W S C HP:Fine>
+w
+w
+Bend in the Road
+Exits: North East South West.
+
+w
+o W S C HP:Fine>
+Road through the Lower Pass
+Exits: East South West.
+
+o W S C HP:Fine>
+Road through the Lower Pass
+Exits: East South West.
+
+o W S C HP:Fine>
+Road through the Lower Pass
+Exits: East West.
+
+o W S C HP:Fine>
+u
+Road through the Lower Pass
+Exits: East Up.
+
+o W S C HP:Fine>
+e
+Sharp Bend
+Exits: East Down.
+
+o W S C HP:Fine>
+u
+Sharp Bend
+Exits: West Up.
+
+o W S C HP:Fine>
+w
+Trail through the Mountains
+Exits: West Down.
+
+o W S C HP:Fine>
+w
+Small Crossing
+An experienced orcish scout is looking for tracks on the ground.
+A black wolf is here, glaring hungrily for its next meal.
+Exits: North East West.
+
+o W S C HP:Fine>
+w
+Trail through the Mountains
+The corpse of a hungry warg is lying here.
+Exits: East West.
+The fog disappears.
+
+o W S C HP:Fine>
+w
+Trail through the Mountains
+Exits: East West.
+
+o W S C HP:Fine>
+Bend in the Trail
+*Durambir the Human* is standing here, riding on a horse of the Rohirrim.
+*Wydane the Half-Elf* is standing here (Glowing), riding on a pack horse.
+*Muck the Elf* is standing here (Invisible), riding on a horse of the Rohirrim.
+Exits: North East South.
+
+* W S C HP:Fine>
+
+*Durambir the Human* utters the words, 'sense life'
+
+* W S C HP:Fine>
+s
+*Durambir the Human* begins some strange incantations...
+Rocky Path
+The corpse of a hungry warg is lying here.
+Exits: North East West.
+w
+o W S C HP:Fine>
+n
+Rocky Path
+Exits: North East South.
+
+o W S C HP:Fine>
+A Slag Pit
+Exits: South Down.
+
+o W S C HP:Fine>
+3
+#Ok. $mees is now set to {human}.
+s
+e
+n
+back $mees
+Rocky Path
+Exits: North East South.
+
+o W S C HP:Fine>
+Rocky Path
+The corpse of a hungry warg is lying here.
+Exits: North East West.
+
+o W S C HP:Fine>
+Bend in the Trail
+*Durambir the Human* is standing here, riding on a horse of the Rohirrim.
+*Wydane the Half-Elf* is standing here (Glowing), riding on a pack horse.
+*Muck the Elf* is standing here (Invisible), riding on a horse of the Rohirrim.
+Exits: North East South.
+
+* W S C HP:Fine>
+You begin to move silently to the back of your victim...
+*Durambir the Human* utters the words, 'sense life'
+*Durambir the Human* says 'doh, I leave'
+*Muck the Elf* puffs 'wydane permasanct?'
+
+*Durambir the Human* leaves east riding a horse of the Rohirrim.
+*Wydane the Half-Elf* leaves east riding a pack horse.
+
+
+s
+* W S C HP:Fine>
+*Muck the Elf* leaves south riding a horse of the Rohirrim.
+Rocky Path
+The corpse of a hungry warg is lying here.
+*Muck the Elf* is standing here (Invisible), riding on a horse of the Rohirrim.
+Exits: North East West.
+
+* W S C HP:Fine>
+
+w
+*Muck the Elf* carefully examines the ground around him, looking for tracks...
+
+* W S C HP:Fine>
+n
+Rocky Path
+Exits: North East South.
+
+o W S C HP:Fine>
+A Slag Pit
+Exits: South Down.
+
+o W S C HP:Fine>
+s
+e
+1
+#Ok. $mees is now set to {elf}.
+Rocky Path
+Exits: North East South.
+
+o W S C HP:Fine>
+back $mees
+Rocky Path
+The corpse of a hungry warg is lying here.
+*Muck the Elf* is standing here (Invisible), riding on a horse of the Rohirrim.
+Exits: North East West.
+
+* W S C HP:Fine>
+You begin to move silently to the back of your victim...
+
+*Muck the Elf* carefully examines the ground around him, looking for tracks...
+
+sneak
+*Muck the Elf* slowly fades into existence.
+*Muck the Elf* makes a strange sound, as you place a nasty orkish fang in his back.
+
+* W S C HP:Fine *Muck the Elf*:Bad>
+You stop sneaking.
+
+* W C HP:Fine *Muck the Elf*:Bad>
+
+*Muck the Elf* panics, and attempts to flee.
+*Muck the Elf* leaves west riding a horse of the Rohirrim.
+
+o W C HP:Fine>
+agre
+Ok.
+*Muck the Elf* has arrived from the west riding a horse of the Rohirrim.
+
+* W C HP:Fine>
+kil $mees
+kil $mees
+* W C HP:Fine *Muck the Elf*:Bad>
+You pierce *Muck the Elf*'s left foot hard and shatter it.
+*Muck the Elf* panics, and attempts to flee.
+*Muck the Elf* leaves west riding a horse of the Rohirrim.
+
+o W C HP:Fine>
+They aren't here.
+
+n
+o W C HP:Fine>
+Bend in the Trail
+Exits: North East South.
+
+o W C HP:Fine>
+kil $mees
+s
+They aren't here.
+
+o W C HP:Fine>
+kil $mees
+Rocky Path
+The corpse of a hungry warg is lying here.
+Exits: North East West.
+
+o W C HP:Fine>
+kil $mees
+They aren't here.
+
+kil $mees
+o W C HP:Fine>
+* W C HP:Fine *Muck the Elf*:Bad>
+*Muck the Elf* has arrived from the west riding a horse of the Rohirrim.
+*Muck the Elf* swiftly dodges your attempt to pierce him.
+
+kil $mees
+* W C HP:Fine *Muck the Elf*:Bad>
+kil $mees
+*Muck the Elf* panics, and attempts to flee.
+*Muck the Elf* leaves east riding a horse of the Rohirrim.
+
+o W C HP:Fine>
+They aren't here.
+
+o W C HP:Fine>
+They aren't here.
+
+o W C HP:Fine>
+kil $mees
+They aren't here.
+
+kil $mees
+o W C HP:Fine>
+kil $mees
+They aren't here.
+
+o W C HP:Fine>
+They aren't here.
+
+o W C HP:Fine>
+e
+They aren't here.
+
+kil $mees
+o W C HP:Fine>
+e
+Rocky Path
+Exits: East West.
+
+kil $mees
+o W C HP:Fine>
+They aren't here.
+o W C HP:Fine>
+Rocky Path
+*Muck the Elf* is standing here, riding on a horse of the Rohirrim.
+Exits: South West.
+
+* W C HP:Fine>
+e
+*Muck the Elf* leaves south riding a horse of the Rohirrim.
+They aren't here.
+
+kil $mees
+o W C HP:Fine>
+Alas, you cannot go that way...
+*Muck the Elf* has arrived from the south riding a horse of the Rohirrim.
+
+* W C HP:Fine>
+w
+* W C HP:Fine *Muck the Elf*:Awful>
+kil $mees
+
+Huger narrates 'now i like that name elfsbane :p'
+You strongly pierce *Muck the Elf*'s body and shatter it.
+
+kil $mees
+* W C HP:Fine *Muck the Elf*:Awful>
+No way! You are fighting for your life!
+
+w
+kil $mees
+* W C HP:Fine *Muck the Elf*:Awful>
+*Muck the Elf* panics, and attempts to flee.
+*Muck the Elf* leaves south riding a horse of the Rohirrim.
+They aren't here.
+
+o W C HP:Fine>
+They aren't here.
+o W C HP:Fine>
+w
+kil $mees
+Rocky Path
+Exits: East West.
+
+o W C HP:Fine>
+o W C HP:Fine>
+*Muck the Elf* has arrived from the east riding a horse of the Rohirrim.
+You pierce *Muck the Elf*'s right leg very hard and shatter it.
+*Muck the Elf* is dead! R.I.P.
+You receive your share of experience.
+Congratulations! This is the first time you've killed it!
+Your blood freezes as you hear *Muck the Elf*'s death cry.
+A shadow slowly rises above the corpse of *Muck the Elf*.
+
+
+
+Ahh paras siteale sai spammi nakku nii et vahe ei olnud!
+
+Rocky Path
+The corpse of *an Elf* is lying here.
+A great dark-grey horse stamps restively.
+The shadow of *an Elf* is floating here.
+Exits: East West.
+
+o W S C>
+You begin to move silently to the back of your victim...
+
+A shadow makes a strange sound but is suddenly very silent, as you place a nasty orkish 
+fang in it
+s back.
+A shadow is dead! R.I.P.
+You receive your share of experience.
+**Yawn** Boring kill, wasn't it?
+Your blood freezes as you hear A shadow's death cry.
+A shadow disappears into nothing.
+
+o W S C>
+qw
+You get a fragile parchment from the corpse of *an Elf*.
+You get a large skin from the corpse of *an Elf*.
+You get a large sack from the corpse of *an Elf*.
+You get a ring from the corpse of *an Elf*.
+You get an embroidered blouse from the corpse of *an Elf*.
+You get a plain hood from the corpse of *an Elf*.
+You get a plain pair of pants from the corpse of *an Elf*.
+You get a thin pair of soft leather boots from the corpse of *an Elf*.
+You get a pair of soft leather gloves from the corpse of *an Elf*.
+You get a thin pair of soft leather sleeves from the corpse of *an Elf*.
+You get a reinforced oak staff from the corpse of *an Elf*.
+You get a fine grey cloak from the corpse of *an Elf*.
+You get a keyring with a key from the corpse of *an Elf*.
+You get a black runed dagger from the corpse of *an Elf*.
+You get a broad silver belt from the corpse of *an Elf*.
+You get a strange set of lock picks from the corpse of *an Elf*.
+You get a sable pouch from the corpse of *an Elf*.
+You can't get coins, you are carrying too many items already.
+
+o W S C>
+drag corpse
+You start dragging the corpse.
+
+o W S C>
+drop all.leather
+You drop the boots.
+You drop the gloves.
+You drop the sleeves.
+
+qwo W S C>
+
+You get coins from the corpse of *an Elf*.
+There was 115 gold coins 15 silver pennies 30 copper pennies.
+
+o W S C>
+
+w
+*Durambir the Human* has arrived from the west riding a horse of the Rohirrim.
+*Wydane the Half-Elf* has arrived from the west riding a pack horse.
+
+* W S C>
+w
+*Durambir the Human* charges your head extremely hard.
+No way! You are fighting for your life!
+
+* W S C HP:Fine *Durambir the Human*:Fine>
+sneak
+No way! You are fighting for your life!
+You pierce *Durambir the Human*'s right arm hard.
+Your victim is shocked by your hit!
+
+* W S C HP:Fine *Durambir the Human*:Fine>
+
+
+Ok nende wimpide eest jooxin ara
+
+Cavern
+A large bulletin board is mounted on a wall here.
+A brown pond between old branches and roots is here.
+The orcish loremaster is standing here, looking for his audience.
+Exits: North East West.
+
+o W C Mana:Warm Move:Fainting>
+
+You struggle to pull the corpse with you.
+
+o W C Mana:Warm Move:Exhausted>
+r
+You sit down and rest your tired bones.
+The orcish loremaster says 'The cold remnants of a whiteskin! I shall mutilate this in all 
+ways I can think of!'
+The orcish loremaster says 'I shall reward you for this.. let me give you this symbol of 
+leadership.'
+
+W C Mana:Warm Move:Exhausted>
+cac
+You cackle gleefully.
+
+W C Mana:Warm Move:Exhausted>
+
+The orcish loremaster opens the box and takes out a crude red-striped horn.
+The orcish loremaster gives you a crude orcish horn.
+The orcish loremaster says 'Blow in this when battle is near to increase the bloodlust of 
+your fel
+low orcs, and to call for help from our animal friends nearby.'
+The orcish loremaster says 'When you have blown in it it has to rest for a while so only 
+use it wh
+en fierce battle is near.'
+
+o W C Mana:Warm Move:Exhausted>
+
+#Ok. {tt} aliases {t Elephant}.
+Elephant tells you 'tee level mulle'
+
+o W C Mana:Warm Move:Exhausted>
+st
+
+The orcish loremaster yells 'Behold! Morgulduin is now the new bearer of the orcish 
+battle-horn!'
+
+o W C Mana:Warm Move:Exhausted>
+bYou stop resting, and stand up.
+
+oo W C Mana:Warm Move:Exhausted>
+w
+You bow deeply.
+
+o W C Mana:Warm Move:Exhausted>
+i
+You are carrying:
+a crude orcish horn
+a blue scroll
+a purple scroll
+a large skin
+a large sack
+a pair of snowshoes (brand new)
+a large sack
+
+
+Vennal tyral oli purple blue kotis,
+mida sa munn neid kotis oiad *LOL*.
+
+Morgulduin

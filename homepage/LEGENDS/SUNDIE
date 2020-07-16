@@ -1,0 +1,2343 @@
+Trolls, you have earned my WRATH.
+
+>                        ***  Mume  VII  ***
+
+                  In progress at FIRE
+             (Free Internet Roleplay Experiences)
+         Adapted from J.R.R. Tolkien's Middle Earth World and
+            Maintained by CryHavoc, Manwe and Nada.
+
+          Original code DikuMUD I (view credits), created by:
+    S. Hammer, T. Madsen, K. Nyboe, M. Seifert and H.H. Staerfeldt.
+
+
+By what name do you wish to be known? diamonium
+Password: 
+            ~~~ 
+           ~~         _----|        _ _ __ _ _                              
+                       ----|_----|  ]-I-II-I-[                 __ _ __ _ __
+   _ _ _/\_ _ _ _---|      | ----|   \ `  ' /                  ]I-I-II-I-I[
+   ]-I-I--I-I-[  ---|      |     |    |. ` |        ~~~         \_`   '__/
+    \_`   '__/      |     / \    |    | /^\|         ~~~         |~_ [],|
+     [&] `__|       ^    / ^ \   ^    | |&||                    _|______|_ 
+     |__   ,|      / \  / ^ ^`\ / \   | ===|                   <=-=-==-=-=>
+  ___| ___ ,|__   / ^  /=_=_=_=\ ^ \  |, `_|     ~~             \__   _'_/   
+  I_I__I_I__I_I  (====(_________)_^___| ___|___    ~~            |.   _ |
+  \-\--|-|--/-/  | .   I  [&]__I   I_I|_I I|I_I                  |   _  |
+   |[] `    '|_  |_   _|`___ ._[  _\ \  | | / /                  |`    '|
+  / \  [] ` .| |-| |-| |_| |_| |_| | []   [] |                   | '    |
+ <===>      .|-=-=-=-=-=-=-=-=-=-=-|        / \                  |[]    | 
+ | []|` ` [] |.      _______ .     |-  `   <===>                 |'   __|
+ <===>  `  ' | /|\  |       |  /|\ |  []   <===>-T-T-T-T-T-T-T-T-| '  I-|-T- 
+  \T/    1-- | ||| /|Welcome|\ ||| | .  '   \T/    .  |   ..     |     _|
+__/|' v .   .|\|||//|_______|\\|||/|. . Y . .|\_________________/ -  .. .\__ 
+      ..   .                       . .   .                       . ..
+
+            MUME: Multi Users in Middle Earth, Version VII.
+
+
+*** Return: continue, b: back one page, r: redisplay, q:quit (96%) *** 
+Welcome to the land of Middle Earth. May your visit here be... interesting.
+Never forget! Try to role-play...
+
+Last login less than one hour ago from ra.vendomar.ee.
+Sleeping Quarters
+The corpse of a crouched orc is lying here.
+A wiry and furtive-looking orc crouches here, eyeing your belongings.
+Exits: South.
+
+Your default tongue is the Orkish
+Free rent!
+
+### You can now get limited rerolls. Read news 1405 and 1406! ###
+
+Ok.
+You have 2 mails.
+
+o W C>o W C>o W C>cha wimpy 150
+Wimpy set to: 150
+
+o W C>#   $mees is now set to {bodyguard}.
+sh
+ca normal 'shield'
+You start to concentrate...
+
+close $odd 'armour'
+You are hungry.
+You are thirsty.
+
+q
+You feel protected.
+
+o W C Mana:Hot>That's not a direction.
+
+o W C Mana:Hot>where
+Players in your zone
+--------------------
+Diamonium            - Sleeping Quarters
+
+o W C Mana:Hot>drink skin
+drink skin
+You drink the water.
+You are hungry.
+You do not feel thirsty anymore.
+
+o W C Mana:Hot>You can't find a food.
+
+o W C Mana:Hot>#Alias {c} removed.
+
+Draaz narrates 'kuku was trying to kill hannibal linkless'
+
+o W C Mana:Hot>
+Jarlaxle narrates 'you think its strange kuku killed ya?'
+
+o W C Mana:Hot>c 'create food'
+eat food
+You start to concentrate...
+
+eat food
+A magic mushroom suddenly appears.
+
+o W C Mana:Hot>You eat the mushroom.
+You are full.
+
+o W C Mana:Hot>You can't find a food.
+
+o W C Mana:Hot>stat
+OB: 49%, M_OB: 110%, DB: 62%, PB: 83%, Armour: 2%. Wimpy: 150. Mood: wimpy.
+Needed: 1,741,362 xp, 0 tp. Wp: 30. Gold: 39. Alert: normal.
+Affected by:
+- shield
+
+o W C Mana:Hot>cha mood wimpy
+Ok.
+
+o W C Mana:Hot>c 'armour'
+You start to concentrate...
+
+s
+You hear some apparently very close noise coming from the south.
+
+w
+A blue transparent wall slowly appears around you.
+
+o W C Mana:Hot>A Narrow Passage
+An uruk of Dol Guldur is here commanding his soldiers.
+An uruk of Dol Guldur is here commanding his soldiers.
+An orc-guard from Dol Guldur is on patrol here.
+An orc-guard from Dol Guldur is on patrol here.
+Exits: North East.
+
+s
+A Turn in a Passage
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+Exits: South West.
+
+o W C Mana:Hot>A Descending Passage
+The corpse of a hungry warg is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+A hungry warg stands here, sniffing around for flesh.
+Exits: North East South.
+
+o W C Mana:Hot>s
+High Cavehall
+Exits: North East South West.
+
+* W C Mana:Hot>High Cavehall
+Exits: North East West.
+
+* W C Mana:Hot>
+c 'stre'
+You hear some apparently close noise coming from the west.
+
+* W C Mana:Hot>You start to concentrate...
+
+You hear some apparently very close noise coming from the west.
+
+q
+*Wert the Mountain Troll* has arrived from the west.
+*a Troll* has arrived from the west.
+*Smoke the Mountain Troll* has arrived from the west.
+*Trampa the Hill Troll* has arrived from the west.
+
+You feel stronger.
+
+* W C Mana:Warm>where
+
+* W C Mana:Warm>shiv
+Brrrrrrrrr.
+
+* W C Mana:Warm>
+*a Troll* says 'heia!'
+
+* W C Mana:Warm>
+*Smoke the Mountain Troll* puffs: diam
+
+* W C Mana:Warm>
+*Trampa the Hill Troll* wiggles his bottom at you...not bad!
+
+* W C Mana:Warm>
+*Wert the Mountain Troll* kisses you.
+
+* W C Mana:Warm>w
+High Cavehall
+Exits: North East West.
+
+* W C Mana:Warm>w
+A Tunnel Intersection
+Exits: North East South.
+
+o W C Mana:Warm>s
+Tunnel Bend
+Exits: North West.
+
+o W C Mana:Warm>w
+Tunnel into the mountain
+Exits: East West.
+
+o W C Mana:Warm>
+Azghol narrates 'orcs EXP?'
+
+o W C Mana:Warm>
+Sako narrates 'no, he doesnt think its strange, he just wants some help to re
+eq'
+
+o W C Mana:Warm>cha lang morbeth
+Very well, you now speak Morbeth.
+
+o W C Mana:Warm>yell hihi:)
+q
+Ok.
+
+The sage's bodyguard is here, watching the entrance.
+The sage's bodyguard is here, watching the entrance.
+Exits: East South.
+
+* W C Mana:Hot>#   $mees is now set to {bodyguard}.
+cha mood wimpy
+Ok.
+
+* W C Mana:Hot>stat
+OB: 50%, M_OB: 110%, DB: 63%, PB: 83%, Armour: 40%. Wimpy: 150. Mood: wimpy.
+Needed: 1,741,362 xp, 0 tp. Wp: 30. Gold: 39. Alert: normal.
+Affected by:
+- strength
+- armour
+- shield
+
+* W C Mana:Hot>=100
+cha wimpy 100
+Wimpy set to: 100
+
+* W C Mana:Hot>=120
+i
+cha wimpy 120
+Wimpy set to: 120
+
+* W C Mana:Hot>You are carrying:
+an iron ring
+an orkish shortbow
+a dark curved sword (brand new)
+a water skin
+a flask of orkish draught
+a flask of orkish draught
+a flask of orkish draught
+
+* W C Mana:Hot>
+* W C Mana:Hot>eq
+You are using:
+<held>               an embellished longbow
+<worn as shield>     a tower shield (brand new)
+<worn on head>       a black hood (brand new)
+<worn on body>       a black shirt (brand new)
+<worn about body>    a fine grey cloak (used)
+<worn on arms>       a pair of soft leather sleeves (worn out)
+<worn on legs>       a black pair of pants (brand new)
+<worn on feet>       a black pair of padded boots (brand new)
+<worn around neck>   a black amulet
+<worn on finger>     a ring
+<worn on fi{mees}={bodyguard}
+nger>     a copper ring
+<worn on back>       a leather backpack
+<worn across back>   a laced quiver
+<worn as belt>       a broad silver belt
+<worn on belt>       a sable pouch
+
+* W C Mana:Hot>c 'blind' bodyguard
+You start to concentrate...
+
+Ok.
+The sage's bodyguard seems to be blinded!
+The sage's bodyguard says 'I'm blinded'
+
+* W C Mana:Warm>sho bodyguard
+sho bodyguard
+f
+You shoot the sage's bodyguard's left arm extremely hard.
+The sage's bodyguard yells 'Master! We are being attacked!'
+The sage has arrived from the east.
+The sage yells 'DIE fools!'
+The sage tries to pierce you, but your parry is successful.
+The sage's bodyguard says 'Stop hiding, you wimp!'
+
+* W C Mana:Warm the sage:Healthy>
+* W C Mana:Warm the sage:Healthy>You flee head over heels.
+PANIC! You couldn't escape!
+
+* W C Mana:Warm the sage:Healthy>
+Urgoth narrates 'anybody seen my body on a rocky path ?'
+
+* W C Mana:Warm the sage:Healthy>f
+You flee head over heels.
+Tunnel Junction
+A warning sign for all darkies stands here.
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+Exits: North East West.
+o W C Mana:Warm>n
+A Natural Cavern
+The sage's bodyguard is here, watching the entrance.
+The sage's bodyguard is here, watching the entrance.
+The Black Numenorean Sage is standing here (Glowing).
+Exits: East South.
+
+* W C Mana:Warm>sho bodyguard
+sho bodyguard
+You cannot attack and flee at the same time.
+
+* W C Mana:Warm>f
+*Smoke the Mountain Troll* yells 'stare'
+
+sho bodyguard
+f
+You shoot the sage's bodyguard's head extremely hard.
+The sage's bodyguard says 'Stop hiding, you wimp!'
+
+* W C Mana:Hot the sage's bodyguard:Fine>You flee head over heels.
+Tunnel Junction
+A warning sign for all darkies stands here.
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+Exits: North East West.
+
+o W C Mana:Hot>Shoot whom?
+
+o W C Mana:Hot>You flee head over heels.
+Tunnel End
+Exits: East.
+
+o W C Mana:Hot>e
+Tunnel Junction
+A warning sign for all darkies stands here.
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+Exits: North East West.
+
+o W C Mana:Hot>n
+A Natural Cavern
+The sage's bodyguard is here, watching the entrance.
+The sage's bodyguard is here, watching the entrance.
+
+
+****************************************************
+So i started whacking the bodyguards..after that 
+started to do sage...
+****************************************************
+
+The sage writhes in pain, darkness surrounds you.
+The sage makes the earth tremble and shiver.
+You fall, and hit yourself!
+Aye! You cannot concentrate any more...
+
+sho
+* W C HP:Hurt Mana:Frozen the sage:Hurt>The sage says 'Stop hiding, you wimp!'
+The sage says 'Stop hiding, you wimp!'
+The sage says 'Stop hiding, you wimp!'
+The sage says 'Stop hiding, you wimp!'
+*Wert the Mountain Troll* hits the sage's left leg hard and tickles it.
+
+*Smoke the Mountain Troll* hits the sage's right leg hard and tickles it.
+*a Troll* strongly hits the sage's right leg and tickles it.
+
+*a Troll* falls down laughing.
+
+You shoot the sage's right hand hard and tickle it.
+
+* W C HP:Hurt Mana:Icy the sage:Hurt>sho
+*Wert the Mountain Troll* hits the sage's body hard and tickles it.
+
+You strongly shoot the sage's body and tickle it.
+
+* W C HP:Hurt Mana:Icy the sage:Hurt>*Smoke the Mountain Troll* panics, and attempts to flee.
+*Smoke the Mountain Troll* leaves south.
+
+*a Troll* gasps in astonishment.
+
+*Wert the Mountain Troll* panics, and attempts to flee.
+
+sho
+=100
+*Smoke the Mountain Troll* has arrived from the south.
+You shoot the sage's left hand hard and tickle it.
+
+* W C HP:Hurt Mana:Icy the sage:Hurt>*Wert the Mountain Troll* panics, and attempts to flee.
+*Wert the Mountain Troll* leaves south.
+
+*Trampa the Hill Troll* panics, and attempts to flee.
+*Trampa the Hill Troll* leaves south.
+*Smoke the Mountain Troll* sits down and rests.
+
+sho
+You shoot the sage's right hand hard and tickle it.
+
+The sage writhes in pain, darkness surrounds you.
+The sage makes the earth tremble and shiver.
+You fall, and hit yourself!
+Aye! You cannot concentrate any more...
+
+sho
+* W C HP:Hurt Mana:Frozen the sage:Hurt>The sage says 'Stop hiding, you wimp!'
+The sage says 'Stop hiding, you wimp!'
+The sage says 'Stop hiding, you wimp!'
+The sage says 'Stop hiding, you wimp!'
+*Wert the Mountain Troll* hits the sage's left leg hard and tickles it.
+
+*Smoke the Mountain Troll* hits the sage's right leg hard and tickles it.
+*a Troll* strongly hits the sage's right leg and tickles it.
+
+*a Troll* falls down laughing.
+
+You shoot the sage's right hand hard and tickle it.
+
+* W C HP:Hurt Mana:Icy the sage:Hurt>sho
+*Wert the Mountain Troll* hits the sage's body hard and tickles it.
+
+You strongly shoot the sage's body and tickle it.
+
+* W C HP:Hurt Mana:Icy the sage:Hurt>*Smoke the Mountain Troll* panics, and attempts to flee.
+*Smoke the Mountain Troll* leaves south.
+
+*a Troll* gasps in astonishment.
+
+*Wert the Mountain Troll* panics, and attempts to flee.
+
+sho
+=100
+*Smoke the Mountain Troll* has arrived from the south.
+You shoot the sage's left hand hard and tickle it.
+
+* W C HP:Hurt Mana:Icy the sage:Hurt>*Wert the Mountain Troll* panics, and attempts to flee.
+*Wert the Mountain Troll* leaves south.
+
+*Trampa the Hill Troll* panics, and attempts to flee.
+*Trampa the Hill Troll* leaves south.
+*Smoke the Mountain Troll* sits down and rests.
+
+sho
+You shoot the sage's right hand hard and tickle it.
+
+*************************************************************
+So they got engaged..and sage died,
+i looted the key,
+they wanted the key, i told i whacked him, was my kill, ill get the key!
+***********************************************************************
+* W C HP:Hurt Mana:Cold a shadow:Fine>say dont steal my kills here! BUGGY KILLS
+You shoot a shadow's left arm extremely hard.
+
+* W C HP:Hurt Mana:Cold a shadow:Hurt>emote bitches 'dont steal my kills here! BUGGY KILLS'
+Ok.
+
+* W C HP:Hurt Mana:Cold a shadow:Hurt>say u get DEMOTED
+emote bitches 'u get DEMOTED'
+Ok.
+
+* W C HP:Hurt Mana:Cold a shadow:Hurt>sho
+sho
+sho
+sho
+*a Troll* giggles.
+
+*Wert the Mountain Troll* kisses you.
+
+You shoot a shadow's body extremely hard.
+
+* W C HP:Hurt Mana:Cold a shadow:Hurt>sho
+*a Troll* says 'he attacked us.'
+*Wert the Mountain Troll* hits a shadow's right leg hard and tickles it.
+
+sho
+*Trampa the Hill Troll* snickers softly.
+
+*Wert the Mountain Troll* says: want to die orc?
+You shoot a shadow's body extremely hard.
+
+* W C HP:Hurt Mana:Cold a shadow:Hurt>sho
+sho
+*Smoke the Mountain Troll* hits a shadow's head extremely hard.
+
+You shoot a shadow's body extremely hard.
+
+* W C HP:Hurt Mana:Cold a shadow:Wounded>*Smoke the Mountain Troll* puffs: You stole our kill buddy :)
+
+You shoot a shadow's body extremely hard.
+
+* W C HP:Hurt Mana:Cold a shadow:Wounded>*Wert the Mountain Troll* hits a shadow's body very hard.
+
+*Smoke the Mountain Troll* hits a shadow's body extremely hard.
+
+You shoot a shadow's body extremely hard.
+* W C HP:Hurt Mana:Cold a shadow:Bad>*Smoke the Mountain Troll* hits a shadow's body extremely hard and shatters
+it.
+
+You shoot a shadow's right arm extremely hard and shatter it.
+
+* W C HP:Hurt Mana:Cold a shadow:Awful>*Wert the Mountain Troll* says: we came here to kill sage
+
+c 'light' 
+get key corpse
+*Wert the Mountain Troll* hits a shadow's body hard and shatters it.
+
+You shoot a shadow's head extremely hard and shatter it.
+
+* W C HP:Hurt Mana:Cold a shadow:Awful>
+
+* W C HP:Hurt Mana:Cold a shadow:Awful>You start to concentrate...
+
+* W C HP:Hurt Mana:Cold a shadow:Awful>The icy grasp of a shadow blocks your attempt!
+
+* W C HP:Hurt Mana:Cold a shadow:Awful>c 'light' 
+You start to concentrate...
+
+get key corpse
+A shadow whispers 'I won't allow the looting of my fallen body!'
+
+*Wert the Mountain Troll* hits a shadow's body extremely hard and shatters it.
+A shadow is incapacitated and will slowly die, if not aided.
+
+*Wert the Mountain Troll* says: dont piss me
+
+Ok.
+The impact of your lightning bolt kills a shadow.
+You receive your share of experience.
+This is really a genocide...
+Your blood freezes as you hear a shadow's death cry.
+A shadow is dead! R.I.P.
+A shadow disappears into nothing.
+
+* W C HP:Hurt Mana:Cold>*a Troll* stops resting, and clambers on his feet.
+You get a small silver key from the corpse of the sage.
+
+* W C HP:Hurt Mana:Cold>
+*Smoke the Mountain Troll* gets a pile of coins from the corpse of the sage.
+*********************************************************************************************************
+SO i started resting mana..they already spammed to blackdoor
+*********************************************************************************************************
+
+*Trampa the Hill Troll* has arrived from the east.
+
+* W C HP:Hurt Mana:Warm>
+*Smoke the Mountain Troll* puffs: his brother is one of the reasons I came
+back here
+
+* W C HP:Hurt Mana:Warm>
+*Wert the Mountain Troll* says: gimme key dia
+
+* W C HP:Hurt Mana:Warm>
+l
+* W C HP:Hurt Mana:Warm>A Natural Cavern
+The corpse of the sage is lying here.
+The corpse of the sage's bodyguard is lying here.
+The corpse of the sage's bodyguard is lying here.
+*Wert the Mountain Troll* is standing here.
+*a Troll* is standing here.
+*Smoke the Mountain Troll* is standing here.
+*Trampa the Hill Troll* is standing here.
+
+* W C HP:Hurt Mana:Warm>say i wont give u key:)
+emote bitches 'i wont give u key:)'
+Ok.
+
+* W C HP:Hurt Mana:Warm>
+*a Troll* says 'you will.'
+
+* W C HP:Hurt Mana:Warm>
+--- --- *Wert the Mountain Troll* BASHED you --- ---
+
+* W C HP:Hurt Mana:Warm *Wert the Mountain Troll*:Hurt>
+*a Troll* says 'youre trapped here.'
+
+say why should I give YOU the kkey?
+* W C HP:Hurt Mana:Warm *Wert the Mountain Troll*:Hurt>gig
+
+*Smoke the Mountain Troll* puffs: Oh, you'll give it, one way or another.
+
+* W C HP:Hurt Mana:Warm *Wert the Mountain Troll*:Hurt>
+*Wert the Mountain Troll* panics, and attempts to flee.
+*Wert the Mountain Troll* leaves south.
+
+* W C HP:Hurt Mana:Warm>
+*Wert the Mountain Troll* has arrived from the south.
+
+Your head stops stinging.
+
+
+* W C HP:Hurt Mana:Warm>emote bitches 'why should I give YOU the kkey?'
+Ok.
+
+* W C HP:Hurt Mana:Warm>You giggle.
+
+* W C HP:Hurt Mana:Warm>grin
+st
+s
+You grin evilly.
+
+* W C HP:Hurt Mana:Warm>You are already standing.
+
+* W C HP:Hurt Mana:Warm>w
+Tunnel Junction
+A warning sign for all darkies stands here.
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+Exits: North East West.
+
+o W C HP:Hurt Mana:Warm>Tunnel End
+Exits: East.
+
+o W C HP:Hurt Mana:Warm>
+You hear some apparently very close noise coming from the east.
+
+o W C HP:Hurt Mana:Warm>e
+n
+e
+unlock blackdoor
+open blackdoor
+n
+get all chest
+Tunnel Junction
+A warning sign for all darkies stands here.
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+Exits: North East West.
+
+o W C HP:Hurt Mana:Warm>A Natural Cavern
+The corpse of the sage is lying here.
+The corpse of the sage's bodyguard is lying here.
+* W C HP:Hurt Mana:Warm>A Dimly Lit Cavern
+Exits: North West.
+
+* W C HP:Hurt Mana:Warm>*click*
+
+* W C HP:Hurt Mana:Warm>Ok.
+
+* W C HP:Hurt Mana:Warm>Small Chamber
+A dark oaken chest embollished with silver stands by the wall.
+Exits: South.
+
+o W C HP:Hurt Mana:Warm>You get a leather wallet from a silver-embollished chest.
+You get a chunk of metal from a silver-embollished chest.
+
+o W C HP:Hurt Mana:Warm>s
+A Dimly Lit Cavern
+Exits: North West.
+
+* W C HP:Hurt Mana:Warm>
+Amras sings 'Hit em up!'
+
+* W C HP:Hurt Mana:Warm>w
+A Natural Cavern
+The corpse of the sage is lying here.
+The corpse of the sage's bodyguard is lying here.
+The corpse of the sage's bodyguard is lying here.
+Exits: East South.
+
+* W C HP:Hurt Mana:Warm>s
+Tunnel Junction
+A warning sign for all darkies stands here.
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+Exits: North East West.
+
+o W C HP:Hurt Mana:Warm>
+Saving Diamonium.
+
+o W C HP:Hurt Mana:Warm>yell just metal chunk and wallet:P, fools
+Ok.
+
+o W C HP:Hurt Mana:Warm>e
+Tunnel into the mountain
+Exits: East West.
+
+e
+o W C HP:Hurt Mana:Hot>Tunnel Bend
+Exits: North West.
+
+o W C HP:Hurt Mana:Hot>e
+e
+Alas, you cannot go that way...
+
+o W C HP:Hurt Mana:Hot>Alas, you cannot go that way...
+
+o W C HP:Hurt Mana:Hot>n
+A Tunnel Intersection
+Exits: North East South.
+
+o W C HP:Hurt Mana:Hot>n
+n
+A Narrow Tunnel
+Exits: North South.
+
+o W C HP:Hurt Mana:Hot>n
+A Twisting Tunnel
+Exits: East South West.
+
+o W C HP:Hurt Mana:Hot>n
+n
+w
+n
+n
+Alas, you cannot go that way...
+
+o W C HP:Hurt Mana:Hot>Alas, you cannot go that way...
+
+o W C HP:Hurt Mana:Hot>Alas, you cannot go that way...
+
+o W C HP:Hurt Mana:Hot>A Twisting Tunnel
+Exits: North East.
+
+o W C HP:Hurt Mana:Hot>A Twisting Tunnel
+A hungry warg stands here, sniffing around for flesh.
+Exits: East South.
+
+e
+o W C HP:Hurt Mana:Hot>Alas, you cannot go that way...
+
+o W C HP:Hurt Mana:Hot>n
+A Twisting Tunnel
+Exits: North West.
+
+o W C HP:Hurt Mana:Hot>e
+A Descending Tunnel
+A hungry warg stands here, sniffing around for flesh.
+Exits: North South.
+
+o W C HP:Hurt Mana:Hot>Alas, you cannot go that way...
+
+o W C HP:Hurt Mana:Hot>n
+A Tunnel Fork
+Exits: East South West.
+
+n
+o W C HP:Hurt Mana:Hot>n
+Alas, you cannot go that way...
+
+o W C HP:Hurt Mana:Hot>e
+Alas, you cannot go that way...
+
+o W C HP:Hurt Mana:Hot>e
+e
+drink water
+drink water
+A Stone Tunnel
+Exits: East West.
+
+o W C HP:Hurt Mana:Hot>An Underground Lake
+A grey snake slides along the water.
+Exits: West.
+
+o W C HP:Hurt Mana:Hot>Alas, you cannot go that way...
+
+o W C HP:Hurt Mana:Hot>fil
+You drink the water.
+You are not thirsty anymore.
+
+o W C HP:Hurt Mana:Hot>i
+Your stomach can't contain anymore!
+
+o W C HP:Hurt Mana:Hot>pour water skin
+You pour some water into your skin.
+
+o W C HP:Hurt Mana:Hot>You are carrying:
+a chunk of metal
+a leather wallet
+an embellished longbow
+a small silver key
+an orkish shortbow
+an iron ring
+a water skin
+a flask of orkish draught
+a flask of orkish draught
+a flask of orkish draught
+
+o W C HP:Hurt Mana:Hot>
+You swim and successfully stay on the water.
+
+o W C HP:Hurt Mana:Hot>drop chunk
+You drop the chunk.
+
+o W C HP:Hurt Mana:Hot>exa wallet
+wallet (carried) : 
+Nothing.
+
+o W C HP:Hurt Mana:Hot>wear wallet
+You fasten a leather wallet on your belt.
+
+o W C HP:Hurt Mana:Hot>exa wallet
+wallet (used) : 
+Nothing.
+
+o W C HP:Hurt Mana:Hot>rem wallet
+You stop using a leather wallet.
+
+o W C HP:Hurt Mana:Hot>drop wallet
+You drop the wallet.
+
+o W C HP:Hurt Mana:Hot>i
+You are carrying:
+an embellished longbow
+a small silver key
+an orkish shortbow
+an iron ring
+a water skin
+a flask of orkish draught
+a flask of orkish draught
+a flask of orkish draught
+
+o W C HP:Hurt Mana:Hot>
+drink water
+*Smoke the Mountain Troll* has arrived from the west.
+
+o W C Mana:Hot>
+*Wert the Mountain Troll* leaves west.
+*Smoke the Mountain Troll* leaves west.
+
+o W C Mana:Hot>
+*Wert the Mountain Troll* has arrived from the west.
+*Smoke the Mountain Troll* has arrived from the west.
+
+o W C Mana:Hot>
+You feel less protected.
+*Wert the Mountain Troll* hits your head very hard and tickles it.
+
+o W C HP:Fine Mana:Hot *Wert the Mountain Troll*:Fine>
+You strongly slash *Wert the Mountain Troll*'s right hand and tickle it.
+
+o W C HP:Fine Mana:Hot *Wert the Mountain Troll*:Hurt>t squizz then waste some 80 arrows on him with enchanted bow..and he di
+es..usually not in one time
+Ok.
+
+o W C HP:Fine Mana:Hot *Wert the Mountain Troll*:Hurt>
+You lightly slash *Wert the Mountain Troll*'s right arm and tickle it.
+
+o W C HP:Fine Mana:Hot *Wert the Mountain Troll*:Hurt>stare
+f
+You stare at the sky.
+
+o W C HP:Fine Mana:Hot *Wert the Mountain Troll*:Hurt>You flee head over heels.
+Tunnel Bend
+The corpse of a Dol Guldur uruk is lying here.
+Exits: North East West.
+
+o W C HP:Fine Mana:Hot>w
+Under the Mountain
+A cockroach is scuttling across the floor carrying some debris.
+Exits: North East West.
+
+o W C HP:Fine Mana:Hot>
+A cockroach leaves north.
+
+o W C HP:Fine Mana:Hot>f
+w
+w
+w
+w
+Tunnel under the Mountain
+Exits: East West.
+
+
+o W C HP:Fine Mana:Hot>A Guardroom
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur orc is lying here.
+A weapons rack stands against the wall.
+Exits: East South Up.
+
+o W C HP:Fine Mana:Hot>Alas, you cannot go that way...
+
+o W C HP:Fine Mana:Hot>Alas, you cannot go that way...
+
+o W C HP:Fine Mana:Hot>Alas, you cannot go that way...
+
+o W C HP:Fine Mana:Hot>Alas, you cannot go that way...
+
+o W C HP:Fine Mana:Hot>Alas, you cannot go that way...
+
+o W C HP:Fine Mana:Hot>s
+Alas, you cannot go that way...
+
+o W C HP:Fine Mana:Hot>o W C HP:Fine Mana:Hot>A Cave Entrance
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of Gumak the Uruk-hai is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of Gumak the Uruk-hai is lying here.
+Exits: North West.
+
+o W C HP:Fine Mana:Hot>
+*Wert the Mountain Troll* has arrived from the north.
+*Smoke the Mountain Troll* has arrived from the north.
+
+o W C HP:Fine Mana:Hot>l w
+
+*Wert the Mountain Troll* tries to hit you, but your parry is successful.
+
+o W C HP:Fine Mana:Hot *Wert the Mountain Troll*:Hurt>The stonedoor is closed.
+
+o W C HP:Fine Mana:Hot *Wert the Mountain Troll*:Hurt>
+You strongly slash *Wert the Mountain Troll*'s body and tickle it.
+
+o W C HP:Fine Mana:Hot *Wert the Mountain Troll*:Hurt>f
+
+*Smoke the Mountain Troll* puffs: typoes
+
+o W C HP:Fine Mana:Hot *Wert the Mountain Troll*:Hurt>*Smoke the Mountain Troll* tries to hit you, but your parry is successf
+ul.
+You flee head over heels.
+PANIC! You couldn't escape!
+
+o W C HP:Fine Mana:Hot *Wert the Mountain Troll*:Hurt>f
+e
+You flee head over heels.
+A Guardroom
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur orc is lying here.
+A weapons rack stands against the wall.
+Exits: East South Up.
+
+o W C HP:Fine Mana:Hot>Tunnel under the Mountain
+Exits: East West.
+
+o W C HP:Fine Mana:Hot>e
+Under the Mountain
+Exits: North East West.
+
+o W C HP:Fine Mana:Hot>e
+e
+Tunnel Bend
+The corpse of a Dol Guldur uruk is lying here.
+Exits: North East West.
+
+e
+o W C HP:Fine Mana:Hot>A Kennel
+A whip is on the ground.
+The corpse of the grizzled orc is lying here.
+The corpse of the grizzled orc is lying here.
+Exits: South West.
+
+o W C HP:Fine Mana:Hot>Alas, you cannot go that way...
+
+e
+o W C HP:Fine Mana:Hot>Alas, you cannot go that way...
+
+o W C HP:Fine Mana:Hot>s
+#   $odd is now set to {cage}.
+#   $odd is now set to {cage}.
+The cage seems to be closed.
+
+
+o W C HP:Fine Mana:Hot>
+*Wert the Mountain Troll* has arrived from the west.
+*Smoke the Mountain Troll* has arrived from the west.
+
+o W C HP:Fine Mana:Hot>
+*Wert the Mountain Troll* hits your left leg extremely hard.
+
+o W C HP:Fine Mana:Hot *Wert the Mountain Troll*:Hurt>
+You swiftly dodge *Smoke the Mountain Troll*'s attempt to hit you.
+
+o W C HP:Fine Mana:Hot *Wert the Mountain Troll*:Hurt>
+You slash *Wert the Mountain Troll*'s right hand and tickle it.
+
+o W C HP:Fine Mana:Hot *Wert the Mountain Troll*:Hurt>w
+No way! You are fighting for your life!
+
+o W C HP:Fine Mana:Hot *Wert the Mountain Troll*:Hurt>f
+w
+You flee head over heels.
+Tunnel Bend
+The corpse of a Dol Guldur uruk is lying here.
+Exits: North East West.
+
+w
+o W C HP:Fine Mana:Hot>Under the Mountain
+Exits: North East West.
+
+o W C HP:Fine Mana:Hot>Tunnel under the Mountain
+Exits: East West.
+
+o W C HP:Fine Mana:Hot>w
+A Guardroom
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur orc is lying here.
+A weapons rack stands against the wall.
+Exits: East South Up.
+
+o W C HP:Fine Mana:Hot>n
+Alas, you cannot go that way...
+
+o W C HP:Fine Mana:Hot>
+*Wert the Mountain Troll* has arrived from the east.
+*Smoke the Mountain Troll* has arrived from the east.
+
+o W C HP:Fine Mana:Hot>
+*Wert the Mountain Troll* hits your right leg extremely
+No way! You are fighting for your life!
+
+o W C HP:Fine Mana:Hot *Wert the Mountain Troll*:Hurt>No way! You are fighting for your life!
+
+o W C HP:Fine Mana:Hot *Wert the Mountain Troll*:Hurt>
+You slash *Wert the Mountain Troll*'s left foot and tickle it.
+
+o W C HP:Fine Mana:Hot *Wert the Mountain Troll*:Hurt>
+*Smoke the Mountain Troll* tries to hit you, but your parry is successful.
+
+o W C HP:Fine Mana:Hot *Wert the Mountain Troll*:Hurt>n
+No way! You are fighting for your life!
+
+o W C HP:Fine Mana:Hot *Wert the Mountain Troll*:Hurt>
+*Wert the Mountain Troll* hits your body extremely hard and shatters it.
+
+o W C HP:Hurt Mana:Hot *Wert the Mountain Troll*:Hurt>f
+n
+e
+e
+e
+You flee head over heels.
+A Winding Stone Staircase
+The corpse of a pack horse is lying here.
+Exits: Up Down.
+
+o W C HP:Hurt Mana:Hot>Alas, you cannot go that way...
+
+o W C HP:Hurt Mana:Hot>Alas, you cannot go that way...
+
+o W C HP:Hurt Mana:Hot>Alas, you cannot go that way...
+
+o W C HP:Hurt Mana:Hot>f
+n
+e
+Alas, you cannot go that way...
+
+o W C HP:Hurt Mana:Hot>You flee head over heels.
+The Redhorn Pass Watchtower
+Exits: Down.
+
+o W C HP:Hurt Mana:Hot>Alas, you cannot go that way...
+
+o W C HP:Hurt Mana:Hot>Alas, you cannot go that way...
+
+o W C HP:Hurt Mana:Hot>d
+A Winding Stone Staircase
+A Winding Stone Staircase
+The corpse of a pack horse is lying here.
+Exits: Up Down.
+*Wert the Mountain Troll* has arrived from below.
+*Smoke the Mountain Troll* has arrived from below.
+
+o W C HP:Hurt Mana:Hot>d
+
+You swiftly dodge *Wert the Mountain Troll*'s attempt to hit you.
+
+o W C HP:Hurt Mana:Hot *Wert the Mountain Troll*:Hurt>e
+No way! You are fighting for your life!
+You slash *Wert the Mountain Troll*'s body hard and tickle it.
+
+o W C HP:Hurt Mana:Hot *Wert the Mountain Troll*:Hurt>e
+No way! You are fighting for your life!
+
+e
+o W C HP:Hurt Mana:Hot *Wert the Mountain Troll*:Hurt>No way! You are fighting for your life!
+Spoil narrates 'same ppl who kill scarred are the same ppl always telling us
+"Don't kill loremaster!"'
+
+o W C HP:Hurt Mana:Hot *Wert the Mountain Troll*:Hurt>No way! You are fighting for your life!
+
+f
+o W C HP:Hurt Mana:Hot *Wert the Mountain Troll*:Hurt>You flee head over heels.
+The Redhorn Pass Watchtower
+Exits: Down.
+
+o W C HP:Hurt Mana:Hot>d
+d
+e
+e
+A Winding Stone Staircase
+The corpse of a pack horse is lying here.
+Exits: Up Down.
+
+o W C HP:Hurt Mana:Hot>e
+A Guardroom
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur orc is lying here.
+A weapons rack stands against the wall.
+*Wert the Mountain Troll* is standing here.
+*Smoke the Mountain Troll* is standing here.
+Exits: East South Up.
+
+o W C HP:Hurt Mana:Hot>*Wert the Mountain Troll* quickly approaches, trying to hit you.
+No way! You are fighting for your life!
+
+o W C HP:Hurt Mana:Hot *Wert the Mountain Troll*:Hurt>No way! You are fighting for your life!
+
+o W C HP:Hurt Mana:Hot *Wert the Mountain Troll*:Hurt>No way! You are fighting for your life!
+
+o W C HP:Hurt Mana:Hot *Wert the Mountain Troll*:Hurt>
+You strongly slash *Wert the Mountain Troll*'s body and tickle it.
+
+o W C HP:Hurt Mana:Hot *Wert the Mountain Troll*:Hurt>e
+e
+No way! You are fighting for your life!
+
+o W C HP:Hurt Mana:Hot *Wert the Mountain Troll*:Hurt>No way! You are fighting for your life!
+
+o W C HP:Hurt Mana:Hot *Wert the Mountain Troll*:Hurt>
+f
+o W C HP:Hurt Mana:Hot *Wert the Mountain Troll*:Hurt>d
+You flee head over heels.
+A Winding Stone Staircase
+The corpse of a pack horse is lying here.
+Exits: Up Down.
+
+o W C HP:Hurt Mana:Hot>A Guardroom
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur orc is lying here.
+A weapons rack stands against the wall.
+*Wert the Mountain Troll* is standing here.
+*Smoke the Mountain Troll* is standing here.
+Exits: East South Up.
+
+o W C HP:Hurt Mana:Hot>e
+e
+Tunnel under the Mountain
+Exits: East West.
+
+o W C HP:Hurt Mana:Hot>e
+Under the Mountain
+Exits: North East West.
+
+o W C HP:Hurt Mana:Hot>Tunnel Bend
+The corpse of a Dol Guldur uruk is lying here.
+*Trampa the Hill Troll* is standing here.
+Exits: North East West.
+
+o W C HP:Hurt Mana:Hot>
+*Trampa the Hill Troll* leaves west.
+
+o W C HP:Hurt Mana:Hot>
+*Wert the Mountain Troll* has arrived from the west.
+*Smoke the Mountain Troll* has arrived from the west.
+*Trampa the Hill Troll* has arrived from the west.
+*Smoke the Mountain Troll* hits your right hand extremely hard.
+
+o W C HP:Hurt Mana:Hot *Smoke the Mountain Troll*:Healthy>
+*Wert the Mountain Troll* quickly approaches, trying to hit you.
+
+o W C HP:Hurt Mana:Hot *Smoke the Mountain Troll*:Healthy>
+Saving Diamonium.
+You slash *Smoke the Mountain Troll*'s body hard and tickle it.
+
+o W C HP:Hurt Mana:Hot *Smoke the Mountain Troll*:Fine>
+You barely slash *Smoke the Mountain Troll*'s head and tickle it.
+
+o W C HP:Hurt Mana:Hot *Smoke the Mountain Troll*:Fine>
+*Smoke the Mountain Troll* hits your body extremely hard and shatters it.
+
+o W C HP:Wounded Mana:Hot *Smoke the Mountain Troll*:Fine>w
+n
+f
+w
+w
+w
+f
+w
+w
+w
+No way! You are fighting for your life!
+
+o W C HP:Wounded Mana:Hot *Smoke the Mountain Troll*:Fine>f
+w
+No way! You are fighting for your life!
+
+o W C HP:Wounded Mana:Hot *Smoke the Mountain Troll*:Fine>You flee head over heels.
+A Kennel
+A whip is on the ground.
+The corpse of the grizzled orc is lying here.
+The corpse of the grizzled orc is lying here.
+Exits: South West.
+
+o W C HP:Wounded Mana:Hot>Tunnel Bend
+The corpse of a Dol Guldur uruk is lying here.
+*Wert the Mountain Troll* is standing here.
+*Smoke the Mountain Troll* is standing here.
+*Trampa the Hill Troll* is standing here.
+Exits: North East West.
+
+o W C HP:Wounded Mana:Hot>Under the Mountain
+Exits: North East West.
+
+o W C HP:Wounded Mana:Hot>Tunnel under the Mountain
+Exits: East West.
+
+o W C HP:Wounded Mana:Hot>You flee head over heels.
+A Guardroom
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur orc is lying here.
+A weapons rack stands against the wall.
+Exits: East South Up.
+
+o W C HP:Wounded Mana:Hot>Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Hot>Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Hot>n
+Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Hot>n
+You flee head over heels.
+Tunnel under the Mountain
+Exits: East West.
+
+o W C HP:Wounded Mana:Hot>A Guardroom
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur orc is lying here.
+A weapons rack stands against the wall.
+Exits: East South Up.
+You hear some apparently very close noise coming from the east.
+
+o W C HP:Wounded Mana:Hot>Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Hot>Alas, you cannot go that way...
+*Wert the Mountain Troll* has arrived from the east.
+*Smoke the Mountain Troll* has arrived from the east.
+*Trampa the Hill Troll* has arrived from the east.
+
+o W C HP:Wounded Mana:Hot>
+*Smoke the Mountain Troll* tries to hit you, but your parry is successful.
+*Wert the Mountain Troll* tries to hit you, but your parry is successful.
+*Trampa the Hill Troll* tries to hit you, but your parry is successful.
+
+o W C HP:Wounded Mana:Hot *Smoke the Mountain Troll*:Fine>e
+n
+e
+n
+No way! You are fighting for your life!
+You lightly slash *Smoke the Mountain Troll*'s head and tickle it.
+
+o W C HP:Wounded Mana:Hot *Smoke the Mountain Troll*:Fine>e
+No way! You are fighting for your life!
+
+o W C HP:Wounded Mana:Hot *Smoke the Mountain Troll*:Fine>No way! You are fighting for your life!
+
+o W C HP:Wounded Mana:Hot *Smoke the Mountain Troll*:Fine>n
+No way! You are fighting for your life!
+
+o W C HP:Wounded Mana:Hot *Smoke the Mountain Troll*:Fine>No way! You are fighting for your life!
+
+o W C HP:Wounded Mana:Hot *Smoke the Mountain Troll*:Fine>f
+No way! You are fighting for your life!
+You flee head over heels.
+Tunnel under the Mountain
+Exits: East West.
+
+o W C HP:Wounded Mana:Hot>e
+You flee head over heels.
+Under the Mountain
+Exits: North East West.
+
+o W C HP:Wounded Mana:Hot>Tunnel Bend
+The corpse of a Dol Guldur uruk is lying here.
+Exits: North East West.
+
+o W C HP:Wounded Mana:Hot>n
+e
+A Low Tunnel
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+Exits: North East South.
+
+o W C HP:Wounded Mana:Hot>f
+A Dark Cell
+A musty bread has been left here. You are disguste
+Exits: West.
+
+o W C HP:Wounded Mana:Hot>You flee head over heels.
+PANIC! You couldn't escape!
+
+o W C HP:Wounded Mana:Hot>n
+f
+Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Hot>e
+You flee head over heels.
+A Low Tunnel
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+Exits: North East South.
+
+o W C HP:Wounded Mana:Hot>n
+A Dark Cell
+A musty bread has been left here. You are disgusted!
+The corpse of an orc prisoner is lying here.
+The corpse of an orc prisoner is lying here.
+Exits: West.
+
+o W C HP:Wounded Mana:Hot>Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Hot>w
+n
+n
+n
+n
+c 'armour'
+A Low Tunnel
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+Exits: North East South.
+
+o W C HP:Wounded Mana:Hot>A Low Tunnel
+Exits: North East South.
+
+o W C HP:Wounded Mana:Hot>cure
+Torture Chamber
+A copper penny lies on the ground.
+The corpse of the one-eyed orc is lying here.
+The corpse of a snaga orc is lying here.
+The corpse of a snaga orc is lying here.
+Exits: South Down.
+
+o W C HP:Wounded Mana:Hot>Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Hot>Alas, you cannot go that way...
+
+cure
+cure
+o W C HP:Wounded Mana:Hot>You start to concentrate...
+
+You hear some apparently very close noise coming from the south.
+
+*Wert the Mountain Troll* has arrived from the south.
+*Smoke the Mountain Troll* has arrived from the south.
+*Trampa the Hill Troll* has arrived from the south.
+
+You swiftly dodge *Wert the Mountain Troll*'s attempt to hit you.
+
+Draaz narrates 'snagas can kill scarred to'
+
+You swiftly dodge *Trampa the Hill Troll*'s attempt to hit you.
+A blue transparent wall slowly appears around you.
+
+o W C HP:Wounded Mana:Warm *Wert the Mountain Troll*:Hurt>ca normal 'cure seri' 
+You start to concentrate...
+
+f
+s
+
+You strongly slash *Wert the Mountain Troll*'s body and tickle it.
+
+o W C HP:Wounded Mana:Warm *Wert the Mountain Troll*:Hurt>ca normal 'cure seri' 
+You start to concentrate...
+
+
+
+o W C HP:Wounded Mana:Warm *Wert the Mountain Troll*:Hurt>
+ca normal 'cure seri' 
+You start to concentrate...
+
+o W C HP:Wounded Mana:Warm *Wert the Mountain Troll*:Hurt>You flee head over heels.
+A Low Tunnel
+*a Troll* is standing here.
+Exits: North East South.
+
+s
+Exits: North East South.
+
+o W C HP:Wounded Mana:Warm Move:Tired>o W C HP:Wounded Mana:Warm Move:Tired>s
+s
+Tunnel Bend
+The corpse of a Dol Guldur uruk is lying here.
+Exits: North East West.
+
+o W C HP:Wounded Mana:Warm Move:Tired>Draaz narrates 'if they gruop'
+Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Warm Move:Tired>s
+Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Warm Move:Tired>w
+Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Warm Move:Tired>Under the Mountain
+Exits: North East West.
+
+w
+o W C HP:Wounded Mana:Warm Move:Tired>Tunnel under the Mountain
+Exits: East West.
+
+o W C HP:Wounded Mana:Warm Move:Tired>w
+A Guardroom
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur orc is lying here.
+A weapons rack stands against the wall.
+Exits: East South Up.
+
+o W C HP:Wounded Mana:Warm Move:Tired>
+Amras sings 'Dear Mama.'
+
+o W C HP:Wounded Mana:Warm Move:Tired>e
+e
+n
+n
+Tunnel under the Mountain
+Exits: East West.
+
+o W C HP:Wounded Mana:Warm Move:Tired>Under the Mountain
+Exits: North East West.
+
+o W C HP:Wounded Mana:Warm Move:Tired>Tunnel Bend
+A cockroach is scuttling across the floor carrying some debris.
+Exits: South West.
+
+o W C HP:Wounded Mana:Warm Move:Tired>Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Hot Move:Tired>
+You hear some apparently very close noise coming from the south.
+
+o W C HP:Wounded Mana:Hot Move:Tired>w
+High Cavehall
+Exits: North East West.
+
+* W C HP:Wounded Mana:Hot Move:Tired>n
+High Cavehall
+Exits: North East South West.
+
+n
+* W C HP:Wounded Mana:Hot Move:Tired>A Descending Passage
+The corpse of a hungry warg is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+Exits: North East South.
+
+o W C HP:Wounded Mana:Hot Move:Tired>sc
+102/269 hit, 53/116 mana, and 42/124 moves.
+
+o W C HP:Wounded Mana:Hot Move:Tired>cast 'breath of briskness'
+You start to concentrate...
+
+cure
+cure
+An energy begins to flow within your legs as your body becomes lighter.
+
+o W C HP:Wounded Mana:Warm>ca normal 'cure seri' 
+You start to concentrate...
+
+cure
+
+
+o W C HP:Wounded Mana:Warm>
+
+ca normal 'cure seri' 
+ca normal 'cure seri' 
+You start to concentrate...
+
+
+
+o W C HP:Wounded Mana:Warm>
+ca normal 'cure seri' 
+You start to concentrate...
+
+sc
+o W C HP:Wounded Mana:Warm>o W C HP:Wounded Mana:Warm>o W C HP:Wounded Mana:Warm>w
+o W C HP:Wounded Mana:Warm>o W C HP:Wounded Mana:Warm>w
+104/269 hit, 31/116 mana, and 124/124 moves.
+
+o W C HP:Wounded Mana:Warm>w
+Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Warm>Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Warm>Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Warm>n
+A Turn in a Passage
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+Exits: South West.
+
+o W C HP:Wounded Mana:Warm>w
+A Narrow Passage
+Exits: North East.
+
+w
+o W C HP:Wounded Mana:Warm>Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Warm>w
+Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Warm>n
+sc
+s
+e
+e
+s
+s
+Sleeping Quarters
+The corpse of a crouched orc is lying here.
+The corpse of a crouched orc is lying here.
+The shadow of a crouched orc is floating here.
+Exits: South.
+#   {tt} now aliases {t Squizz}.
+Squizz tells you 'doesn't sound as a bug. Prolly coders didn't imagined you
+could use this strategy, but after all if you are smarter then them... you
+deserve the kill :)'
+
+o W C HP:Wounded Mana:Warm>w
+105/269 hit, 33/116 mana, and 122/124 moves.
+
+o W C HP:Wounded Mana:Warm>w
+A Narrow Passage
+Exits: North East.
+
+o W C HP:Wounded Mana:Warm>A Turn in a Passage
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+Exits: South West.
+
+o W C HP:Wounded Mana:Warm>A Descending Passage
+The corpse of a hungry warg is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+Exits: North East South.
+
+o W C HP:Wounded Mana:Warm>High Cavehall
+Exits: North East South West.
+
+* W C HP:Wounded Mana:Warm>High Cavehall
+A mailbox stands here stuffed full of messages.
+Exits: East South.
+
+* W C HP:Wounded Mana:Warm>w
+Alas, you cannot go that way...
+
+* W C HP:Wounded Mana:Warm>Alas, you cannot go that way...
+
+* W C HP:Wounded Mana:Warm>s
+High Cavehall
+Exits: North East West.
+
+w
+* W C HP:Wounded Mana:Warm>w
+A Tunnel Intersection
+Exits: North East South.
+
+o W C HP:Wounded Mana:Warm>w
+Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Warm>Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Warm>n
+n
+A Narrow Tunnel
+A hungry warg stands here, sniffing around for flesh.
+Exits: North South.
+
+o W C HP:Wounded Mana:Warm>A Twisting Tunnel
+Exits: East South West.
+
+o W C HP:Wounded Mana:Warm>n
+n
+n
+Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Warm>Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Warm>Amras sings 'troublesome'
+Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Warm>w
+A Twisting Tunnel
+Exits: North East.
+
+o W C HP:Wounded Mana:Warm>n
+o W C HP:Wounded Mana:Warm>n
+A Twisting Tunnel
+A hungry warg stands here, sniffing around for flesh.
+Exits: East South.
+
+n
+o W C HP:Wounded Mana:Warm>e
+Alas, you cannot go that way...
+
+n
+o W C HP:Wounded Mana:Warm>A Twisting Tunnel
+Exits: North West.
+
+o W C HP:Wounded Mana:Warm>n
+A Descending Tunnel
+Exits: North South.
+
+o W C HP:Wounded Mana:Warm>A Tunnel Fork
+Exits: East South West.
+
+o W C HP:Wounded Mana:Warm>n
+e
+Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Warm>e
+sc
+A Stone Tunnel
+Exits: East West.
+
+o W C HP:Wounded Mana:Warm>You failed swimming there.
+
+o W C HP:Wounded Mana:Warm>107/269 hit, 36/116 mana, and 112/124 moves.
+
+o W C HP:Wounded Mana:Warm>r
+You sit down and rest your tired bones.
+
+o W C HP:Wounded Mana:Warm>st
+e
+r
+You stop resting, and stand up.
+
+o W C HP:Wounded Mana:Warm>An Underground Lake
+A strange-looking chunk of metal lies here.
+A wallet is lying here.
+A grey snake slides along the water.
+Exits: West.
+
+o W C HP:Wounded Mana:Warm>You sit down and rest your tired bones.
+
+o W C HP:Wounded Mana:Warm>t squizz WTF trolls killing me
+Ok.
+
+o W C HP:Wounded Mana:Warm>sc
+109/269 hit, 39/116 mana, and 114/124 moves.
+
+o W C HP:Wounded Mana:Warm>sc
+109/269 hit, 39/116 mana, and 114/124 moves.
+
+o W C HP:Wounded Mana:Warm>drink water
+drink water
+You drink the water.
+You are not thirsty anymore.
+
+o W C HP:Wounded Mana:Warm>Your stomach can't contain anymore!
+
+fil
+o W C HP:Wounded Mana:Warm>pour water skin
+There is no room for more.
+
+o W C HP:Wounded Mana:Warm>=100
+cha wimpy 100
+Wimpy set to: 100
+
+o W C HP:Wounded Mana:Warm>sc
+110/269 hit, 41/116 mana, and 115/124 moves.
+
+o W C HP:Wounded Mana:Warm>sc
+110/269 hit, 41/116 mana, and 115/124 moves.
+
+o W C HP:Wounded Mana:Warm>
+You swim and successfully stay on the water.
+
+o W C HP:Wounded Mana:Warm>sc
+sc
+110/269 hit, 41/116 mana, and 110/124 moves.
+
+o W C HP:Wounded Mana:Warm>110/269 hit, 41/116 mana, and 110/124 moves.
+
+o W C HP:Wounded Mana:Warm>sc
+sc
+110/269 hit, 41/116 mana, and 111/124 moves.
+
+o W C HP:Wounded Mana:Warm>111/269 hit, 41/
+o W C HP:Wounded Mana:Warm>111/269 hit, 41/116 mana, and 111/124 moves.
+
+o W C HP:Wounded Mana:Warm>
+sc
+sc
+You hear some apparently very close noise coming from the west.
+
+o W C HP:Wounded Mana:Warm>111/269 hit, 42/116 mana, and 111/124 moves.
+
+o W C HP:Wounded Mana:Warm>111/269 hit, 42/116 mana, and 111/124 moves.
+
+o W C HP:Wounded Mana:Warm>sc
+sc
+i
+111/269 hit, 42/116 mana, and 112/124 moves.
+
+o W C HP:Wounded Mana:Warm>111/269 hit, 43/116 mana, and 112/124 moves.
+
+o W C HP:Wounded Mana:Warm>You are carrying:
+an embellished longbow
+a small silver key
+an orkish shortbow
+an iron ring
+a water skin
+a flask of orkish draught
+a flask of orkish draught
+a flask of orkish draught
+
+o W C HP:Wounded Mana:Warm>st
+You stop resting, and stand up.
+
+o W C HP:Wounded Mana:Warm>
+*Wert the Mountain Troll* has arrived from the west.
+
+o W C HP:Wounded Mana:Warm>w
+A Stone Tunnel
+*Smoke the Mountain Troll* is standing here.
+*Trampa the Hill Troll* is standing here.
+Exits: East West.
+
+o W C HP:Wounded Mana:Warm>w
+s
+s
+A Tunnel Fork
+Exits: East South West.
+o W C HP:Wounded Mana:Warm>A Twisting Tunnel
+Exits: North West.
+
+o W C HP:Wounded Mana:Warm>s
+Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Warm>e
+Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Warm>w
+A Twisting Tunnel
+Exits: East South.
+
+o W C HP:Wounded Mana:Warm>s
+A Twisting Tunnel
+A hungry warg stands here, sniffing around for flesh.
+Exits: North East.
+
+o W C HP:Wounded Mana:Warm>s
+e
+e
+Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Warm>A Twisting Tunnel
+Exits: East South West.
+
+o W C HP:Wounded Mana:Warm>e
+Small Cave
+Exits: West.
+
+o W C HP:Wounded Mana:Warm>Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Warm>s
+Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Warm>s
+e
+Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Warm>Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Warm>
+You hear some apparently very close noise coming from the west.
+
+o W C HP:Wounded Mana:Warm>e
+e
+e
+e
+w
+Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Warm>Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Warm>Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Warm>A Twisting Tunnel
+Exits: East South West.
+
+o W C HP:Wounded Mana:Warm>s
+s
+e
+e
+e
+A Narrow Tunnel
+A hungry warg stands here, sniffing around for flesh.
+Exits: North South.
+
+o W C HP:Wounded Mana:Warm>A Tunnel Intersection
+Exits: North East South.
+
+o W C HP:Wounded Mana:Warm>High Cavehall
+Exits: North East West.
+
+* W C HP:Wounded Mana:Warm>High Cavehall
+Exits: North East West.
+
+* W C HP:Wounded Mana:Warm>Tunnel Bend
+A cockroach is scuttling across the floor carrying some debris.
+*Wert the Mountain Troll* is standing here.
+*Smoke the Mountain Troll* is standing here.
+*Trampa the Hill Troll* is standing here.
+Exits: South West.
+
+o W C HP:Wounded Mana:Warm>
+*Wert the Mountain Troll* leaves west.
+*Smoke the Mountain Troll* leaves west.
+*Trampa the Hill Troll* leaves west.
+You hear some apparently very close noise coming from the west.
+
+o W C HP:Wounded Mana:Warm>e
+w
+n
+n
+open rug
+open rug
+
+Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Warm>High Cavehall
+Exits: North East West.
+
+* W C HP:Wounded Mana:Warm>High Cavehall
+Exits: North East South West.
+
+* W C HP:Wounded Mana:Warm>A Descending Passage
+The corpse of a hungry warg is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+Exits: North East South.
+
+o W C HP:Wounded Mana:Warm>I see no rug here.
+
+o W C HP:Wounded Mana:Warm>o W C HP:Wounded Mana:Warm>e
+A Dark Grotto
+A curved horn lies on the ground.   
+You see two ringmail hauberks on the ground.
+A small suspicious orc is eyeing you warily.
+Exits: West.
+
+o W C HP:Wounded Mana:Warm>e
+s
+Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Warm>Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Warm>e
+e
+Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Warm>Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Warm>w
+A Descending Passage
+The corpse of a hungry warg is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+Exits: North East South.
+
+o W C HP:Wounded Mana:Warm>s
+s
+e
+e
+High Cavehall
+Exits: North East South West.
+
+* W C HP:Wounded Mana:Warm>High Cavehall
+Exits: North East West.
+
+* W C HP:Wounded Mana:Warm>Tunnel Bend
+A cockroach is scuttling across the floor carrying some debris.
+Exits: South West.
+
+o W C HP:Wounded Mana:Warm>Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Warm>e
+e
+w
+n
+n
+Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Warm>Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Warm>High Cavehall
+Exits: North East West.
+
+* W C HP:Wounded Mana:Warm>High Cavehall
+Exits: North East South West.
+
+* W C HP:Wounded Mana:Warm>A Descending Passage
+The corpse of a hungry warg is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+Exits: North East South.
+
+o W C HP:Wounded Mana:Warm>
+*Wert the Mountain Troll* has arrived from the north.
+*Trampa the Hill Troll* has arrived from the north.
+
+o W C HP:Wounded Mana:Warm>
+*Wert the Mountain Troll* leaves south.
+*Trampa the Hill Troll* leaves south.
+
+o W C HP:Wounded Mana:Warm>n
+A Turn in a Passage
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+*Smoke the Mountain Troll* is standing here.
+Exits: South West.
+
+o W C HP:Wounded Mana:Warm>
+*Smoke the Mountain Troll* tries to hit you, but your parry is successful.
+
+o W C HP:Wounded Mana:Warm *Smoke the Mountain Troll*:Healthy>
+You barely slash *Smoke the Mountain Troll*'s head and tickle it.
+
+o W C HP:Wounded Mana:Warm *Smoke the Mountain Troll*:Fine>
+*Wert the Mountain Troll* has arrived from the south.
+*Trampa the Hill Troll* has arrived from the south.
+
+o W C HP:Wounded Mana:Hot *Smoke the Mountain Troll*:Fine>
+*Wert the Mountain Troll* hits your body extremely hard and shatters it.
+
+o W C HP:Wounded Mana:Hot *Smoke the Mountain Troll*:Fine>
+You flee head over heels.
+A Narrow Passage
+Exits: North East.
+
+o W C HP:Wounded Mana:Hot>e
+o W C HP:Wounded Mana:Hot>e
+e
+s
+e
+e
+f
+s
+f
+s
+A Turn in a Passage
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+*Smoke the Mountain Troll* is standing here.
+*Wert the Mountain Troll* is standing here.
+*Trampa the Hill Troll* is standing here.
+Exits: South West.
+*Wert the Mountain Troll* quickly approaches, trying to hit you.
+*Trampa the Hill Troll* tries to hit you, but your parry is successful.
+You flee head over heels.
+A Narrow Passage
+Exits: North East.
+
+o W C HP:Wounded Mana:Hot>A Turn in a Passage
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+*Smoke the Mountain Troll* is standing here.
+*Wert the Mountain Troll* is standing here.
+*Trampa the Hill Troll* is standing here.
+Exits: South West.
+
+o W C HP:Wounded Mana:Hot>A Descending Passage
+The corpse of a hungry warg is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+Exits: North East South.
+
+o W C HP:Wounded Mana:Hot>A Dark Grotto
+A curved horn lies on the ground.   
+On the ground, there are two ringmail hauberks.
+A small suspicious orc is eyeing you warily.
+Exits: West.
+
+o W C HP:Wounded Mana:Hot>Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Hot>You flee head over heels.
+A Descending Passage
+The corpse of a hungry warg is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+Exits: North East South.
+
+o W C HP:Wounded Mana:Hot>e
+High Cavehall
+Exits: North East South West.
+
+* W C HP:Wounded Mana:Hot>You flee head over heels.
+A Descending Passage
+The corpse of a hungry warg is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur uruk is lying here.
+Exits: North East South.
+
+o W C HP:Wounded Mana:Hot>High Cavehall
+Exits: West.
+
+* W C HP:Wounded Mana:Hot>e
+e
+e
+Alas, you cannot go that way...
+
+* W C HP:Wounded Mana:Hot>Alas, you cannot go that way...
+
+* W C HP:Wounded Mana:Hot>Alas, you cannot go that way...
+
+* W C HP:Wounded Mana:Hot>
+*Wert the Mountain Troll* has arrived from the west.
+*Trampa the Hill Troll* has arrived from the west.
+
+* W C HP:Wounded Mana:Hot>
+*Wert the Mountain Troll* leaves west.
+*Trampa the Hill Troll* leaves west.
+
+* W C HP:Wounded Mana:Hot>yelL WHY U KILLING ME?
+f
+Ok.
+
+* W C HP:Wounded Mana:Hot>You flee head over heels.
+PANIC! You couldn't escape!
+*Wert the Mountain Troll* has arrived from the west.
+*Trampa the Hill Troll* has arrived from the west.
+
+* W C HP:Wounded Mana:Hot>
+*Wert the Mountain Troll* hits your body hard.
+
+* W C HP:Wounded Mana:Hot *Wert the Mountain Troll*:Fine>s
+
+*Trampa the Hill Troll* tries to hit you, but your parry is successful.
+You flee head over heels.
+High Cavehall
+*Smoke the Mountain Troll* is standing here.
+Exits: North East South West.
+
+* W C HP:Wounded Mana:Hot>High Cavehall
+Exits: North East West.
+
+* W C HP:Wounded Mana:Hot>f
+You flee head over heels.
+Tunnel Bend
+A cockroach is scuttling across the floor carrying some debris.
+Exits: South West.
+Exits: South West.
+
+o W C HP:Wounded Mana:Hot>f
+You flee head over heels.
+Under the Mountain
+Exits: North East West.
+
+o W C HP:Wounded Mana:Hot>
+Moandor narrates 'me 1w from hatch'
+
+o W C HP:Wounded Mana:Hot>s
+s
+w
+w
+Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Hot>Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Hot>Tunnel under the Mountain
+Exits: East West.
+
+o W C HP:Wounded Mana:Hot>A Guardroom
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur orc is lying here.
+A weapons rack stands against the wall.
+Exits: East South Up.
+
+o W C HP:Wounded Mana:Hot>w
+s
+s
+w
+s
+*a Troll* yells 'tihi'
+Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Hot>A Cave Entrance
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of Gumak the Uruk-hai is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of Gumak the Uruk-hai is lying here.
+Exits: North West.
+
+o W C HP:Wounded Mana:Hot>Alas, you cannot go that way...
+
+#   $odd is now set to {stonedoor}.
+#   $odd is now set to {stonedoor}.
+#   $odd is now set to {stonedoor}.
+o W C HP:Wounded Mana:Hot>The stonedoor seems to be closed.
+
+o W C HP:Wounded Mana:Hot>Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Hot>yelL ILL FUCKING LOSE 700l
+Ok.
+
+o W C HP:Wounded Mana:Hot>yelL ILL FUCKING LOSE 700k
+Ok.
+
+o W C HP:Wounded Mana:Hot>n
+A Guardroom
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur orc is lying here.
+A weapons rack stands against the wall.
+Exits: East South Up.
+
+o W C HP:Wounded Mana:Hot>
+Saving Diamonium.
+
+o W C HP:Wounded Mana:Hot>
+*a Troll* yells 'so.'
+
+o W C HP:Wounded Mana:Hot>
+Moandor narrates 'i can quickfireball if some1 bash'
+
+o W C HP:Wounded Mana:Hot>e
+e
+e
+e
+e
+e
+e
+e
+e
+
+e
+e
+e
+e
+e
+Tunnel under the Mountain
+Exits: East West.
+
+o W C HP:Wounded Mana:Hot>Under the Mount
+o W C HP:Wounded Mana:Hot>Under the Mountain
+A cockroach is scuttling across the floor carrying some debris.
+Exits: North East West.
+
+o W C HP:Wounded Mana:Hot>Tunnel Bend
+The corpse of a Dol Guldur uruk is lying here.
+Exits: North East West.
+
+o W C HP:Wounded Mana:Hot>A Kennel
+A whip is on the ground.
+The corpse of the grizzled orc is lying here.
+The corpse of the grizzled orc is lying here.
+Exits: South West.
+
+o W C HP:Wounded Mana:Hot>Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Hot>Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Hot>Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Hot>Alas, you cannot go that way...
+
+w
+w
+w
+w
+w
+w
+s
+o W C HP:Wounded Mana:Hot>Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Hot>o W C HP:Wounded Mana:Hot>Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Hot>Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Hot>Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Hot>Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Hot>Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Hot>Tunnel Bend
+The corpse of a Dol Guldur uruk is lying here.
+Exits: North East West.
+
+l w
+o W C HP:Wounded Mana:Hot>Under the Mountain
+o W C HP:Wounded Mana:Hot>Under the Mountain
+A cockroach is scuttling across the floor carrying some debris.
+Exits: North East West.
+
+o W C HP:Wounded Mana:Hot>Tunnel under the Mountain
+Exits: East West.
+
+o W C HP:Wounded Mana:Hot>A Guardroom
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur orc is lying here.
+A weapons rack stands against the wall.
+Exits: East South Up.
+
+o W C HP:Wounded Mana:Hot>
+Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Hot>Alas, you cannot go that way...
+
+o W C HP:Wounded Mana:Hot>A Cave Entrance
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of Gumak the Uruk-hai is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of a Dol Guldur orc is lying here.
+The corpse of Gumak the Uruk-hai is lying here.
+Exits: North West.
+
+o W C HP:Wounded Mana:Hot>The stonedoor is closed.
+
+o W C HP:Wounded Mana:Hot>o W C HP:Wounded Mana:Hot>break stonedoor
+ca norma 'break door' stonedoor
+You muster all of your concentration...
+
+w
+open rocks
+The stonedoor is filled with a bright light.
+
+o W C HP:Wounded Mana:Cold>Mountain Trail
+There is a lot of snow on the ground.
+Exits: East South.
+
+o W C HP:Wounded Mana:Cold>I see no rocks here.
+
+o W C HP:Wounded Mana:Cold>s
+#   $odd is now set to {rock}.
+#   $odd is now set to {rock}.
+The rock seems to be closed.
+
+
+
+
+
+AND FINALLY I WAS FUCKING OUT FROM THERe!!! 
+
+
+
+FUCKING ! i had 1000MS LINK!!!, freezes 10-30 secs!,
+
+and wonder fucking why DID i live?,,check the fucking doding PARRYING!
+
+*SHIVER*
+
+I DECLARE WAR AGAINST THOSE TROLLS!, MY WAR, and EVENTUALLY THEY WILL ALL FUCKING SUNDIE!!!
+and ALL THEIR FUCKING followers SHALL SUNDIE!...
+
+Amen.
+
+Id fucking lost 700k WITH the SIMPLE PK DEATH!!!, that would have ment another level.
+
+Diam.

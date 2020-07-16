@@ -1,0 +1,1531 @@
+Dip in the Road
+Exits: *east*, *south*, *west*.
+
+* CRW>You carefully examine the ground around you, looking for tracks...
+
+
+You stop searching.
+
+* CRW>w
+trackmob
+
+--- track *dwarf* ---
+
+Old East Road
+Exits: *north*, *east*, *south*, *west*.
+
+* CRW>You carefully examine the ground around you, looking for tracks...
+
+say wierd gpr
+Aaz burps:  done
+
+m
+
+--->  > *dwarf* <  (Aggre)
+--->  < *dwarf* >
+--->  Armour Shield Strength Sense  Detect
+
+Tracks of *a Dwarf* leading ^ east ^
+ (done less than 4 hours ago).
+
+* CRW>emote bitches 'wierd gpr'	                              <--- means stupid pukes doing walking strange route
+Ok.
+
+* CRW>e
+Dip in the Road
+Exits: *east*, *south*, *west*.
+
+e
+Tracks of *a Dwarf* leading ^ east ^
+ (done less than 4 hours ago).
+
+* CRW>Old East Road
+Exits: *north*, =east=, *south*, *west*.
+
+Suddenly, a dark and somber mist invades the sky. Your heart blackens with hope!		<--- Sauron giggles
+You begin to feel hungry.
+
+Tracks of *a Dwarf* leading ^ east ^
+ (done less than 4 hours ago).
+
+o CRW>e
+Fordable Creek
+Exits: north, =east=, south, =west=.
+
+Tracks of *a Dwarf* leading ^ north ^
+ (done less than 4 hours ago).
+
+o CRW>n
+Source of the Creek
+Exits: north, east, south, west.
+
+Tracks of *a Dwarf* leading ^ north ^
+ (done less than 4 hours ago).
+
+o CRW>dri
+
+Aaz licks his mouth and smiles.
+
+o CRW>drink water
+You drink the water.
+You are not thirsty anymore.
+
+o CRW>n
+Scattered Clumps of Trees
+Exits: north, east, south, west.
+
+spq
+- SPELL-CASTING set to: QUICK -
+Tracks of *a Dwarf* leading ^ north ^
+ (done less than 4 hours ago).
+
+o CRW>Ok.
+
+o CRW>n
+Dreary Woodlands
+Exits: north, south, west.
+
+Tracks of *a Dwarf* leading ^ north ^
+ (done less than 4 hours ago).
+
+o CRW>n
+Tree-shrouded Hillside
+Exits: north, south, west, up.
+
+Tracks of *a Dwarf* leading ^ west ^
+ (done less than 4 hours ago).
+
+o CRW>w
+Oops! You cannot go there riding!
+
+o CRW>x
+ex
+North - Serpentine Trail
+South - Dreary Woodlands
+West  - Dreary Woodlands
+Up    - An Area of Precarious Badlands
+
+o CRW>lead
+You stop riding a hungry warg.
+A hungry warg starts following you.
+
+o CW>l w
+o CW>can
+cha ale n
+Ok.
+
+o CW>spq
+- SPELL-CASTING set to: QUICK -
+Ok.
+
+o CW>
+Aaz dismounts from a hungry warg, and stops riding it.
+A hungry warg now follows Aaz.
+
+o CW>w
+Dreary Woodlands
+Exits: north, east, south, west.
+
+Tracks of *a Dwarf* leading ^ west ^
+ (done less than 4 hours ago).
+
+o CW>w
+Secluded Valley
+Traces of pale white tones form the aura of this place.
+The burnt and blackened skeletal remains of a human are here.
+A sturdy trained horse is standing here.
+Exits: north, east, south, west, (down).
+
+Tracks of *a Dwarf* leading ^ down ^                          <--- Sauron starts laughing, nice darkness timing!
+ (done less than 1 hour ago).
+
+o CW>l d
+Just beside the small rocky way which leads up to the hill north of here,
+a hedge-like wall of tangled brambles stand. A deeper section of the valley
+can be espied beyond it.
+The  -[ tangle ]-  is OPEN
+
+o CW>nar whities in BBT
+Ok.
+
+o CW>nar tell trolls
+Ok.
+
+o CW>
+Rootsikunn narrates 'pukes bbt'
+
+o CW>nar darkness covers way to BBT aswell
+Ok.
+
+o CW>tr
+You stop tracking your victim.
+
+o CW>
+Gryl narrates 'how manuy?'
+
+o CW>tr
+You carefully examine the ground around you, looking for tracks...
+
+can
+You see:
+   - a track of a mountain mule leading north (done less than 4 hours ago).
+
+Shalani narrates 'whities in bbt, dia reports'
+
+   - a track of an Orc coming from the east (done less than 1 hour ago).
+   - a track of an Orc coming from the east (done less than 1 hour ago).
+   - a track of *a Half-Elf* leading down (done less than 2 hours ago).
+   - a track of *an Elf* leading down (done less than 2 hours ago).
+   - a track of *a Dwarf* leading down (done less than 2 hours ago).
+   - a track of *an Elf* coming from the north (done less than 4 hours ago).
+   - a track of *an Elf* leading north (done less than 4 hours ago).
+   - a track of *an Elf* coming from the east (done less than 4 hours ago).
+   - a track of *a Half-Elf* coming from the east (done less than 4 hours ago).
+   - a track of *a Dwarf* coming from the east (done less than 4 hours ago).
+
+You stop searching, you don't seem to find anything else.
+
+o CW>cha ale n
+Ok.
+
+o CW>narr dawrf half elf
+Ok.
+
+o CW>
+Gryl narrates 'all hurry!'
+
+o CW>nar 3 seems
+Ok.
+
+o CW>scou d
+You quietly scout downwards...
+
+Dark Dip in the Valley
+
+Shalani narrates 'and darkness goes to bbt'
+You stop scouting.
+
+o CW>l
+Secluded Valley
+Traces of white tones form the aura of this place.
+The burnt and blackened skeletal remains of a human are here.
+A sturdy trained horse is standing here.
+A hungry warg stands here, sniffing around for flesh.
+Aaz is standing here.
+A hungry warg stands here, sniffing around for flesh.
+
+o CW>
+Limpy narrates 'coming'
+
+o CW>can
+x
+cha ale n
+Ok.
+
+o CW>ex
+North - On a Rocky Hilltop
+East  - Dreary Woodlands
+South - Jagged Hills
+West  - Trail through Hills Shrouded in Conifers
+Down  - Dark Dip in the Valley
+
+o CW>spn
+- SPELL-CASTING set to: NORMAL -
+Ok.
+
+o CW>l d
+Just beside the small rocky way which leads up to the hill north of here,
+a hedge-like wall of tangled brambles stand. A deeper section of the valley
+can be espied beyond it.
+The  -[ tangle ]-  is OPEN
+
+o CW>l
+Secluded Valley
+Traces of white tones form the aura of this place.
+The burnt and blackened skeletal remains of a human are here.
+A sturdy trained horse is standing here.
+A hungry warg stands here, sniffing around for flesh.
+Aaz is standing here.
+A hungry warg stands here, sniffing around for flesh.
+
+o CW>i
+Rootsikunn narrates '3 pukes bbt trollz move it!'
+You are carrying:
+a pair of ring mail gloves (brand new)
+an engraved broadsword (brand new); it glows blue
+a bejewelled shield (brand new); it glows blue
+a black pair of padded boots (brand new)
+a fine grey cloak (brand new); it glows blue
+a flask of orkish draught
+a flask of orkish draught
+a flask of orkish draught
+a flask of orkish draught
+a jewel-encrusted goblet
+
+o CW>
+Shalani narrates '3 of them'
+
+o CW>nar 1 tick
+Ok.
+
+o CW>i
+You are carrying:
+a pair of ring mail gloves (brand new)
+an engraved broadsword (brand new); it glows blue
+a bejewelled shield (brand new); it glows blue
+a black pair of padded boots (brand new)
+a fine grey cloak (brand new); it glows blue
+a flask of orkish draught
+a flask of orkish draught
+a flask of orkish draught
+a flask of orkish draught
+a jewel-encrusted goblet
+
+o CW>swo
+You stop using a great warsword.
+You decisively wield an engraved broadsword, looking very evil-minded.
+
+o CW>You fasten a bejewelled shield on your arm, becoming very impressive.
+
+o CW>i
+You are carrying:
+a great warsword (brand new); it glows blue
+a pair of ring mail gloves (brand new)
+a black pair of padded boots (brand new)
+a fine grey cloak (brand new); it glows blue
+a flask of orkish draught
+a flask of orkish draught
+a flask of orkish draught
+a flask of orkish draught
+a jewel-encrusted goblet
+
+o CW>wimp
+cha mood wimp
+Ok.
+
+o CW>can
+
+Aaz narrates 'faaaast!'
+
+o CW>cha ale n
+Ok.
+
+o CW>glo
+You stop using a thin pair of leather gloves.
+
+o CW>You wear a pair of ring mail gloves on your hands.
+
+o CW>fin
+You aren't wearing a wargfur.
+
+o CW>You stop using a forest green cloak.
+
+o CW>You wear a fine grey cloak about your body.
+
+o CW>wimp
+cha mood wimp
+Ok.
+Gryl narrates 'dia charge solo'
+
+o CW>200
+Wimpy set to: 200
+
+o CW>i
+You are carrying:
+a forest green cloak (brand new); it glows blue
+a thin pair of leather gloves (used)
+a great warsword (brand new); it glows blue
+a black pair of padded boots (brand new)
+a flask of orkish draught
+a flask of orkish draught
+a flask of orkish draught
+a flask of orkish draught
+a jewel-encrusted goblet
+
+o CW>can
+cha ale n
+Ok.
+
+o CW>
+Shrouds of dark clouds roll in above you, blotting out the skies.
+You begin to feel hungry.
+
+o CW>nar never!:)                                     <------- PUSSSSSSSSSSSY!!!!!
+Ok.
+
+o CW>food
+You start to concentrate... CURE BLINDNESS 
+
+Rootsikunn narrates 'darkness bbt area so spam!'
+
+A magic mushroom suddenly appears.
+
+o CW Mana:Burning>You eat the mushroom.
+
+o CW Mana:Burning>
+Virtus narrates 'cmon!'
+
+o CW Mana:Burning>
+_____________________________________________________________________________
+TELL! Shalani: "'lkuzk and else on way'" 
+
+o CW Mana:Burning>nar cant manage the mobs if I manage the whities            <------- very WISE! :P
+Ok.
+
+o CW Mana:Burning>narr simple as that                      <--- fantastic closing line!
+Ok.
+
+o CW Mana:Burning>res
+You sit down and rest your tired bones.
+
+o CW Mana:Burning>
+Limpy narrates 'bob someone me at NOC ?'
+
+o CW>     
+Gryl narrates 'wait till opens then'
+
+o CW>
+Some apparently close noise can be heard from the east.
+
+o CW>q
+where
+Players in your zone
+--------------------
+Aaz                  - Secluded Valley
+Diamonium            - Secluded Valley
+
+o CW>q
+
+Gryl narrates 'so they dont get out'                    <--- like I know where they come out :-P
+
+o CW>where
+Players in your zone
+--------------------
+Aaz                  - Secluded Valley
+Diamonium            - Secluded Valley
+
+o CW>st
+You stop resting, and stand up.
+
+o CW>scou e
+You quietly scout eastwards...
+
+-Ichor the Cave Troll- has arrived from the east.                       <--- SAURON ROLLS ON THE FLOOR WIGHT LAUGHTER
+-Vij the Hill Troll- has arrived from the east.
+-Lkuzk the Mountain Troll- has arrived from the east.
+
+Dreary Woodlands
+
+You stop scouting.
+
+o CW>
+-Ichor the Cave Troll- leaves down.                                       <--- I WANT BALLS OF STONE TOO :/
+-Vij the Hill Troll- leaves down.
+-Lkuzk the Mountain Troll- leaves down.
+Some very close noise can be heard from below.
+
+o CW>say eltgo
+emote bitches 'eltgo'        <--- means - let's go - :P
+Ok.
+
+o CW>d
+Dark Dip in the Valley
+A brown bear fur is here lying on the ground.
+Covering a section of ground is a pool of a thick red liquid.
+A skull is here, spiked to the end of a pole.
+A sturdy leather backpack has been left here.
+-Ichor the Cave Troll- is standing here.
+-Vij the Hill Troll- is standing here.
+-Lkuzk the Mountain Troll- is standing here.
+Exits: north, [west], (up).
+
+o CW>
+-Ichor the Cave Troll- leaves north.
+-Vij the Hill Troll- leaves north.
+-Lkuzk the Mountain Troll- leaves north.
+You hear some very close noise from the north.
+
+o CW>spn
+- SPELL-CASTING set to: NORMAL -
+Ok.
+
+o CW>n
+Very Steep Passage
+Exits: south, down.
+Faster and faster, you slide down the steep passage.
+Sinister-looking Cave
+Traces of fierce white tones form the aura of this place.
+You see two barrels on the ground.
+A pan is here, ready for use.
+The corpse of Bert the stone-troll is lying here.                                <--- ow
+The corpse of Tom the stone-troll is lying here.                               <--- oW !
+The corpse of Bill the stone-troll is lying here.                                <--- YESSSSSssssssssss!
+A half-rotten corpse is hanging here.
+The shadow of Bill the stone-troll is floating here.
+The shadow of Bert the stone-troll is floating here.
+-Lkuzk the Mountain Troll- is sitting here.
+-Vij the Hill Troll- is standing here.
+-Ichor the Cave Troll- is standing here.
+A hungry warg stands here, sniffing around for flesh.
+Aaz is sitting here.
+A hungry warg stands here, sniffing around for flesh.
+
+o CW HP:Fine>st
+You stand up.
+-Ichor the Cave Troll- leaves west.
+-Vij the Hill Troll- leaves west.
+You hear some very close noise from the west.
+-Lkuzk the Mountain Troll- clambers on his feet.
+
+o CW HP:Fine>x
+ex
+West  - Dreadful Cave
+Up    - Very Steep Passage
+
+o CW HP:Fine>w
+-Lkuzk the Mountain Troll- leaves west.
+Dreadful Cave
+A butcher knife is lying here. 
+Covering a section of ground is a pool of a thick red liquid.
+*Taki the Dwarf* is standing here (glowing).                                                 <--- SAURON CAN'T STOP LAUGHING!
+*Earanion the Half-Elf* is here, fighting -Vij the Hill Troll- (glowing).
+*Thyrn the Sindarin Elf* is standing here.
+-Ichor the Cave Troll- is standing here.
+-Vij the Hill Troll- is here, fighting *Earanion the Half-Elf*.
+-Lkuzk the Mountain Troll- is standing here.
+Exits: east, [south].
+
+! CW HP:Fine>
+Gryl narrates 'I brt there!'
+The boulder stops moving.                                      <--- <<<<< SAURON DIES TO LAUGH >>>>>>, R.I.P. my Lord!
+------( STRENGTH GONE )------
+
+! CW HP:Fine>1
+
+--->  > *elf* <  (Aggre)
+--->  < *elf* >
+--->  Armour Shield . Sense  Detect
+
+! CW HP:Fine>k
+
+-Ichor the Cave Troll- smites *Earanion the Half-Elf*'s left foot hard.
+
+! CW HP:Fine>*Earanion the Half-Elf* swiftly dodges your attempt to slash him.
+*Earanion the Half-Elf* is fleeing...
+*Earanion the Half-Elf* leaves  East  
+
+! CW HP:Fine>spn
+- SPELL-CASTING set to: NORMAL -
+
+*Taki the Dwarf* intercepts -Ichor the Cave Troll-'s blow.
+-Ichor the Cave Troll- approaches *Taki the Dwarf*, trying to smite him.
+
+! CW HP:Fine>Ok.
+
+! CW HP:Fine>can
+cha ale n
+Ok.
+
+! CW HP:Fine>
+*Taki the Dwarf* intercepts -Vij the Hill Troll-'s blow.
+-Vij the Hill Troll- approaches *Taki the Dwarf*, trying to hit him.
+*Earanion the Half-Elf* has arrived from the east.
+*Taki the Dwarf* is fleeing...
+*Taki the Dwarf* leaves  East  
+
+! CW HP:Fine>
+-Ichor the Cave Troll- approaches *Thyrn the Sindarin Elf*, trying to smite him.
+-Vij the Hill Troll- approaches *Thyrn the Sindarin Elf*, trying to hit him.
+
+! CW HP:Fine>spn
+- SPELL-CASTING set to: NORMAL -
+Ok.
+-Vij the Hill Troll- hits *Thyrn the Sindarin Elf*'s left arm.
+
+! CW HP:Fine>ager
+Arglebargle, glop-glyf!?!
+*Taki the Dwarf* has arrived from the east.
+*Earanion the Half-Elf* begins some strange incantations...
+
+! CW HP:Fine>
+*Thyrn the Sindarin Elf* is fleeing...
+*Thyrn the Sindarin Elf* leaves  East  
+
+! CW HP:Fine>
+-Ichor the Cave Troll- approaches *Earanion the Half-Elf*, trying to smite him.
+*Taki the Dwarf* puts all his weight against the boulder, trying to open it.
+
+! CW HP:Fine>
+-Vij the Hill Troll- approaches *Earanion the Half-Elf*, trying to hit him.
+
+! CW HP:Fine>nar hit elf
+Ok.
+
+! CW HP:Fine>agre
+*Thyrn the Sindarin Elf* has arrived from the east.
+Ok.
+
+! CW HP:Fine>spn
+- SPELL-CASTING set to: NORMAL -
+Ok.
+The boulder stops moving.
+
+! CW HP:Fine>war
+
+*Thyrn the Sindarin Elf* leaves  East  
+
+! CW HP:Fine>You stop using a bejewelled shield.
+
+! CW HP:Fine>agre
+You stop using an engraved broadsword.
+You confidently wield a great warsword, looking very evil-minded.
+You are too weak to use this warsword effectively.                                    <--- They said I'm a NOC legend aswell! ALL LIES!!!!!!!!
+
+! CW HP:Fine>Ok.
+
+! CW HP:Fine>spn
+- SPELL-CASTING set to: NORMAL -
+Ok.
+
+! CW HP:Fine>can
+cha ale n
+Ok.
+*Earanion the Half-Elf* fumbles and hits himself HARD.
+
+! CW HP:Fine>1
+
+--->  > *elf* <  (Aggre)
+--->  < *elf* >
+--->  Armour Shield . Sense  Detect
+
+! CW HP:Fine>
+-Ichor the Cave Troll- smites *Earanion the Half-Elf*'s head hard.
+
+! CW HP:Fine>
+*Taki the Dwarf* leaves  East  
+
+! CW HP:Fine>
+-Vij the Hill Troll- hits *Earanion the Half-Elf*'s body hard.
+
+! CW HP:Fine>cli
+
+*Thyrn the Sindarin Elf* has arrived from the east.
+
+! CW HP:Fine>You won't climb anymore.
+
+! W HP:Fine>
+*Earanion the Half-Elf* lightly slashes -Ichor the Cave Troll-'s left foot and tickles it.
+
+! W HP:Fine>
+_____________________________________________________________________________
+TELL! Hamster: "'kus'" 
+*Earanion the Half-Elf* is fleeing...
+*Earanion the Half-Elf* leaves  East  
+
+! W HP:Fine>
+*Taki the Dwarf* has arrived from the east.
+*Thyrn the Sindarin Elf* leaves  East  
+
+! W HP:Fine>
+*Thyrn the Sindarin Elf* has arrived from the east.
+
+! W HP:Fine>nar CLIMB OFF AAZ
+-Ichor the Cave Troll- leaves east.
+-Vij the Hill Troll- leaves east.
+-Lkuzk the Mountain Troll- leaves east.
+Some very close noise can be heard from the east.
+Ok.
+*Taki the Dwarf* gets a twisted rock fragment from a sable pouch.
+
+! W HP:Fine>ek
+[e] 
+As *Taki the Dwarf* throws a twisted rock fragment at the boulder, there is an explosion.
+The boulder is filled with a bright light.
+Sinister-looking Cave
+Traces of fierce white tones form the aura of this place.
+You see two barrels on the ground.
+A pan is here, ready for use.
+The corpse of Bert the stone-troll is lying here.
+The corpse of Tom the stone-troll is lying here.
+The corpse of Bill the stone-troll is lying here.
+A half-rotten corpse is hanging here.
+The shadow of Bill the stone-troll is floating here.
+The shadow of Bert the stone-troll is floating here.
+A hungry warg stands here, sniffing around for flesh.
+Aaz is here, fighting *Earanion the Half-Elf*.
+*Earanion the Half-Elf* is here, fighting Aaz (glowing).
+-Ichor the Cave Troll- is standing here.
+-Vij the Hill Troll- is here, fighting *Earanion the Half-Elf*.
+-Lkuzk the Mountain Troll- is standing here.
+Exits: west, up.
+*Thyrn the Sindarin Elf* has arrived from the west.
+
+! W HP:Fine>You strongly smite *Earanion the Half-Elf*'s right leg.
+-Vij the Hill Troll- hits *Earanion the Half-Elf*'s left arm hard.
+
+! W HP:Fine *Earanion the Half-Elf*:Wounded Aaz:Fine>
+*Earanion the Half-Elf* is fleeing...
+
+! W HP:Fine *Earanion the Half-Elf*:Wounded Aaz:Fine>
+*Thyrn the Sindarin Elf* leaves  West  
+
+! W HP:Fine *Earanion the Half-Elf*:Wounded Aaz:Fine>spq
+- SPELL-CASTING set to: QUICK -				  <--- MUST - STEAL - KILLS !
+Ok.
+*Earanion the Half-Elf* is fleeing...
+*Earanion the Half-Elf* leaves  West  
+
+o W HP:Fine>g
+Nobody here by that name.
+
+o W HP:Fine Mana:Burning>w
+k
+Dreadful Cave
+A butcher knife is lying here. 
+Covering a section of ground is a pool of a thick red liquid.
+*Earanion the Half-Elf* is standing here (glowing).
+Exits: east, south.
+-Ichor the Cave Troll- has arrived from the east.
+-Vij the Hill Troll- has arrived from the east.
+-Lkuzk the Mountain Troll- has arrived from the east.
+Aaz strongly stabs *Earanion the Half-Elf*'s right arm and shatters it.
+
+! W HP:Fine Mana:Burning>g
+! W HP:Fine Mana:Burning>
+-Ichor the Cave Troll- approaches *Earanion the Half-Elf*, trying to smite him.
+Alas! ---------> MELEE <----------
+*Earanion the Half-Elf* is fleeing...
+*Earanion the Half-Elf* leaves  South  
+
+e
+k
+o W HP:Fine Mana:Burning>g
+
+-Vij the Hill Troll- leaves east.
+-Ichor the Cave Troll- leaves south.
+-Lkuzk the Mountain Troll- leaves south.
+
+o W HP:Fine Mana:Burning>w
+k
+s
+Nobody here by that name.
+
+o W HP:Fine Mana:Burning>k
+Sinister-looking Cave
+Traces of fierce white tones form the aura of this place.
+On the ground, there are two barrels.
+A pan is here, ready for use.
+The corpse of Bert the stone-troll is lying here.
+The corpse of Tom the stone-troll is lying here.
+The corpse of Bill the stone-troll is lying here.
+A half-rotten corpse is hanging here.
+The shadow of Bill the stone-troll is floating here.
+The shadow of Bert the stone-troll is floating here.
+-Vij the Hill Troll- is standing here.
+Exits: west, up.
+
+o W HP:Fine Mana:Burning>They aren't here.
+
+o W HP:Fine Mana:Burning>Nobody here by that name.
+-Vij the Hill Troll- leaves west.
+
+o W HP:Fine Mana:Burning>Dreadful Cave
+A butcher knife is lying here. 
+Covering a section of ground is a pool of a thick red liquid.
+-Vij the Hill Troll- is standing here.
+Exits: east, south.
+
+o W HP:Fine Mana:Burning>They aren't here.
+-Vij the Hill Troll- leaves south.
+
+o W HP:Fine Mana:Burning>The heavy slope makes it a real effort to move upwards.
+Entrance to a Dreadful Cave
+*Taki the Dwarf* is here, fighting -Lkuzk the Mountain Troll- (glowing).
+*Thyrn the Sindarin Elf* is standing here.
+*Earanion the Half-Elf* is here, fighting -Ichor the Cave Troll- (glowing).
+-Ichor the Cave Troll- is here, fighting *Earanion the Half-Elf*.
+-Lkuzk the Mountain Troll- is here, fighting *Taki the Dwarf*.
+-Vij the Hill Troll- is standing here.
+Exits: north, [east].
+*Taki the Dwarf* intercepts Aaz' blow.
+Aaz approaches *Taki the Dwarf*, trying to stab him.
+*Taki the Dwarf* is fleeing...
+*Earanion the Half-Elf* is fleeing...
+
+! W HP:Fine Mana:Burning>You try to smite *Thyrn the Sindarin Elf*, but he parries successfully.
+-Vij the Hill Troll- hits *Thyrn the Sindarin Elf*'s head very hard.
+
+! W HP:Fine Mana:Burning *Thyrn the Sindarin Elf*:Fine>
+*Taki the Dwarf* is fleeing...
+*Earanion the Half-Elf* is fleeing...
+
+! W HP:Fine Mana:Burning *Thyrn the Sindarin Elf*:Fine>
+*Thyrn the Sindarin Elf* is fleeing...
+*Thyrn the Sindarin Elf* leaves  North  
+
+! W HP:Fine Mana:Burning>n
+
+*Taki the Dwarf* is fleeing...
+*Taki the Dwarf* leaves  North  
+*Earanion the Half-Elf* is fleeing...
+
+! W HP:Fine Mana:Burning>k
+The tunnel slopes heavily downwards, it is a strain staying on your feet.
+Dreadful Cave
+A butcher knife is lying here. 
+Covering a section of ground is a pool of a thick red liquid.
+*Taki the Dwarf* is standing here (glowing).
+Exits: east, south.
+
+! W HP:Fine Mana:Burning>s
+They aren't here.
+
+! W HP:Fine Mana:Burning>k
+*Taki the Dwarf* leaves  East  
+The heavy slope makes it a real effort to move upwards.
+Entrance to a Dreadful Cave
+*Earanion the Half-Elf* is here, fighting -Ichor the Cave Troll- (glowing).
+-Ichor the Cave Troll- is here, fighting *Earanion the Half-Elf*.
+-Lkuzk the Mountain Troll- is standing here.
+-Vij the Hill Troll- is here, fighting *Earanion the Half-Elf*.
+Exits: north, [east].
+
+! W HP:Fine Mana:Burning>You approach *Earanion the Half-Elf*, trying to smite him.
+*Earanion the Half-Elf* is fleeing...
+
+! W HP:Fine Mana:Burning *Earanion the Half-Elf*:Bad -Ichor the Cave Troll-:Fine>n
+No way! You are fighting for your life!
+
+! W HP:Fine Mana:Burning *Earanion the Half-Elf*:Bad -Ichor the Cave Troll-:Fine>k
+You're already fighting!
+
+! W HP:Fine Mana:Burning *Earanion the Half-Elf*:Bad -Ichor the Cave Troll-:Fine>n
+k
+No way! You are fighting for your life!
+
+! W HP:Fine Mana:Burning *Earanion the Half-Elf*:Bad -Ichor the Cave Troll-:Fine>g
+n
+You're already fighting!
+*Earanion the Half-Elf* is fleeing...
+-Ichor the Cave Troll- smites *Earanion the Half-Elf*'s body hard and shatters it.
+
+! W HP:Fine Mana:Burning *Earanion the Half-Elf*:Awful -Ichor the Cave Troll-:Fine>k
+You start to concentrate... CURE BLINDNESS 
+
+-Vij the Hill Troll- hits *Earanion the Half-Elf*'s head extremely hard and shatters it.
+*Earanion the Half-Elf* is mortally wounded and will die soon if not aided.
+
+Ok.
+*Earanion the Half-Elf* dies as you shock him.                  <--- SCARED YOU AYE ?!
+You feel more experienced.
+Yes! You're beginning to get the idea.
+Your blood freezes as you hear *Earanion the Half-Elf*'s death cry.
+*Earanion the Half-Elf* has drawn his last breath! R.I.P.
+
+o W HP:Fine Mana:Burning>The tunnel slopes heavily downwards, it is a strain staying on your feet.
+Dreadful Cave
+A butcher knife is lying here. 
+Covering a section of ground is a pool of a thick red liquid.
+Exits: east, south.
+
+o W HP:Fine Mana:Burning>They aren't here.
+
+o W HP:Fine Mana:Burning>n
+e
+k
+Alas, you cannot go that way...
+
+o W HP:Fine Mana:Burning>Sinister-looking Cave
+Traces of fierce white tones form the aura of this place.
+On the ground, there are two barrels.
+A pan is here, ready for use.
+The corpse of Bert the stone-troll is lying here.
+The corpse of Tom the stone-troll is lying here.
+The corpse of Bill the stone-troll is lying here.
+A half-rotten corpse is hanging here.
+The shadow of Bill the stone-troll is floating here.
+The shadow of Bert the stone-troll is floating here.
+*Taki the Dwarf* is standing here (glowing).
+*Thyrn the Sindarin Elf* is standing here.
+Exits: west, up.
+*Thyrn the Sindarin Elf* tries to climb up, but he slips.
+You see *Thyrn the Sindarin Elf* falling down.
+*Taki the Dwarf* leaves  Up  
+*Thyrn the Sindarin Elf* tries to climb up, but he slips.
+You see *Thyrn the Sindarin Elf* falling down.
+Aaz barely stabs *Thyrn the Sindarin Elf*'s right arm.
+Suddenly *Taki the Dwarf* falls down from the hole in the wall and lands with a thud.
+
+! W HP:Fine Mana:Burning>! W HP:Fine Mana:Burning>
+Alas! ---------> MELEE <----------
+*Thyrn the Sindarin Elf* is fleeing...
+*Thyrn the Sindarin Elf* leaves  West  
+
+! W HP:Fine Mana:Burning>w
+k
+
+Aaz approaches *Taki the Dwarf*, trying to stab him.
+
+e
+k
+! W HP:Fine Mana:Burning>
+Your blood freezes as you hear a death cry from the west.
+*Taki the Dwarf* pounds Aaz' right leg extremely hard and tickles it.
+
+! W HP:Fine Mana:Burning>Dreadful Cave
+A butcher knife is lying here. 
+Covering a section of ground is a pool of a thick red liquid.
+The corpse of *an Elf* is lying here.
+-Ichor the Cave Troll- is standing here.
+-Vij the Hill Troll- is standing here.
+-Lkuzk the Mountain Troll- is standing here.
+The shadow of *an Elf* is floating here.
+Exits: east, south.
+*Taki the Dwarf* has arrived from the east.
+
+*Taki the Dwarf* leaves  South  
+They aren't here.
+As -Vij the Hill Troll- greedily kneels down towards the corpse, the icy grasp of a shadow stops him!
+
+o W HP:Fine Mana:Burning>Sinister-looking Cave
+Traces of fierce white tones form the aura of this place.
+You see two barrels on the ground.
+A pan is here, ready for use.
+The corpse of Bert the stone-troll is lying here.
+The corpse of Tom the stone-troll is lying here.
+The corpse of Bill the stone-troll is lying here.
+A half-rotten corpse is hanging here.
+The shadow of Bill the stone-troll is floating here.
+The shadow of Bert the stone-troll is floating here.
+Aaz is standing here.
+A hungry warg stands here, sniffing around for flesh.
+Exits: west, up.
+
+o W HP:Fine Mana:Burning>They aren't here.
+
+o W HP:Fine Mana:Burning>4
+
+--->  > *dwarf* <  (Aggre)
+--->  < *dwarf* >
+--->  Armour Shield . Sense  Detect
+
+o W HP:Fine Mana:Burning>w
+k
+s
+-Ichor the Cave Troll- has arrived from the west.
+-Vij the Hill Troll- has arrived from the west.
+-Lkuzk the Mountain Troll- has arrived from the west.
+Dreadful Cave
+A butcher knife is lying here. 
+Covering a section of ground is a pool of a thick red liquid.
+The corpse of *an Elf* is lying here.
+The shadow of *an Elf* is floating here.
+Exits: east, south.
+
+o W HP:Fine Mana:Burning>k
+They aren't here.
+
+o W HP:Fine Mana:Burning>The heavy slope makes it a real effort to move upwards.
+Entrance to a Dreadful Cave
+The corpse of *a Half-Elf* is lying here.
+*Taki the Dwarf* is standing here (glowing).
+Exits: north, [east].
+
+! W HP:Fine Mana:Burning Move:Tired>You strongly smite *Taki the Dwarf*'s right foot and tickle it.
+
+! W HP:Fine Mana:Burning Move:Tired *Taki the Dwarf*:Hurt>
+You hear some very close noise from the north.
+
+! W HP:Fine Mana:Burning Move:Tired *Taki the Dwarf*:Hurt>
+*Taki the Dwarf* is fleeing...
+
+! W HP:Fine Mana:Burning Move:Tired *Taki the Dwarf*:Hurt>
+*Taki the Dwarf* is fleeing...
+*Taki the Dwarf* leaves  North  
+
+o W HP:Fine Mana:Burning Move:Tired>spn
+- SPELL-CASTING set to: NORMAL -
+
+-Ichor the Cave Troll- has arrived from the north.
+-Vij the Hill Troll- has arrived from the north.
+-Lkuzk the Mountain Troll- has arrived from the north.
+
+o W HP:Fine Mana:Burning Move:Tired>Ok.
+
+o W HP:Fine Mana:Burning Move:Tired>n
+The tunnel slopes heavily downwards, it is a strain staying on your feet.
+Dreadful Cave
+A butcher knife is lying here. 
+Covering a section of ground is a pool of a thick red liquid.
+The corpse of *an Elf* is lying here.
+The shadow of *an Elf* is floating here.
+Exits: east, south.
+
+o W HP:Fine Mana:Burning Move:Tired>k
+They aren't here.
+
+o W HP:Fine Mana:Burning Move:Tired>e
+k
+n
+-Ichor the Cave Troll- has arrived from the south.
+-Vij the Hill Troll- has arrived from the south.
+-Lkuzk the Mountain Troll- has arrived from the south.
+Sinister-looking Cave
+Traces of fierce white tones form the aura of this place.
+There are two barrels here.
+A pan is here, ready for use.
+The corpse of Bert the stone-troll is lying here.
+The corpse of Tom the stone-troll is lying here.
+The corpse of Bill the stone-troll is lying here.
+A half-rotten corpse is hanging here.
+The shadow of Bill the stone-troll is floating here.
+The shadow of Bert the stone-troll is floating here.
+*Taki the Dwarf* is standing here (glowing).
+Exits: west, up.
+
+! W HP:Fine Mana:Burning Move:Tired>Aaz strongly stabs *Taki the Dwarf*'s right foot and tickles it.
+You approach *Taki the Dwarf*, trying to smite him.
+*Taki the Dwarf* pounds Aaz' body extremely hard and tickles it.
+
+! W HP:Fine Mana:Burning Move:Tired *Taki the Dwarf*:Wounded Aaz:Fine>w
+k
+No way! You are fighting for your life!
+
+! W HP:Fine Mana:Burning Move:Tired *Taki the Dwarf*:Wounded Aaz:Fine>No way! You are fighting for your life!
+
+! W HP:Fine Mana:Burning Move:Tired *Taki the Dwarf*:Wounded Aaz:Fine>You're already fighting!
+-Ichor the Cave Troll- has arrived from the west.
+-Vij the Hill Troll- has arrived from the west.
+-Lkuzk the Mountain Troll- has arrived from the west.
+
+! W HP:Fine Mana:Burning Move:Tired *Taki the Dwarf*:Wounded Aaz:Fine>
+*Taki the Dwarf* is fleeing...
+*Taki the Dwarf* leaves  West  
+
+o W HP:Fine Mana:Burning Move:Tired>w
+k
+Dreadful Cave
+A butcher knife is lying here. 
+Covering a section of ground is a pool of a thick red liquid.
+The corpse of *an Elf* is lying here.
+The shadow of *an Elf* is floating here.
+*Taki the Dwarf* is standing here (glowing).
+Exits: east, south.
+
+! W HP:Fine Mana:Burning Move:Tired>s
+k
+Aaz approaches *Taki the Dwarf*, trying to stab him.
+You approach *Taki the Dwarf*, trying to smite him.
+
+! W HP:Fine Mana:Burning Move:Tired *Taki the Dwarf*:Wounded Aaz:Fine>-Ichor the Cave Troll- has arrived from the east.
+-Vij the Hill Troll- has arrived from the east.
+-Lkuzk the Mountain Troll- has arrived from the east.
+No way! You are fighting for your life!
+
+! W HP:Fine Mana:Burning Move:Tired *Taki the Dwarf*:Wounded Aaz:Fine>You're already fighting!
+
+! W HP:Fine Mana:Burning Move:Tired *Taki the Dwarf*:Wounded Aaz:Fine>
+-Ichor the Cave Troll- smites *Taki the Dwarf*'s left arm hard.
+*Taki the Dwarf* is fleeing...
+*Taki the Dwarf* leaves  East  
+
+o W HP:Fine Mana:Burning Move:Tired>s
+k
+*Taki the Dwarf* has arrived from the east.
+The heavy slope makes it a real effort to move upwards.
+Entrance to a Dreadful Cave
+The corpse of *a Half-Elf* is lying here.
+Exits: north, [east].
+
+o W HP:Fine Mana:Burning Move:Tired>They aren't here.
+-Ichor the Cave Troll- has arrived from the north.
+-Vij the Hill Troll- has arrived from the north.
+-Lkuzk the Mountain Troll- has arrived from the north.
+
+o W HP:Fine Mana:Burning Move:Tired>e
+
+*Taki the Dwarf* has arrived from the north.
+
+! W HP:Fine Mana:Burning Move:Tired>n
+k
+The  -[ stonedoor ]-  is CLOSED
+-Lkuzk the Mountain Troll- strongly hits *Taki the Dwarf*'s right leg.
+
+! W HP:Fine Mana:Burning Move:Tired>The tunnel slopes heavily downwards, it is a strain staying on your feet.
+Dreadful Cave
+A butcher knife is lying here. 
+Covering a section of ground is a pool of a thick red liquid.
+The corpse of *an Elf* is lying here.
+The shadow of *an Elf* is floating here.
+Exits: east, south.
+
+o W HP:Fine Mana:Burning Move:Slow>s
+They aren't here.
+-Ichor the Cave Troll- has arrived from the south.
+-Vij the Hill Troll- has arrived from the south.
+
+o W HP:Fine Mana:Burning Move:Slow>k
+The heavy slope makes it a real effort to move upwards.
+Entrance to a Dreadful Cave
+The corpse of *a Half-Elf* is lying here.
+-Lkuzk the Mountain Troll- is here, fighting *Taki the Dwarf*.
+*Taki the Dwarf* is here, fighting -Lkuzk the Mountain Troll- (glowing).
+Exits: north, [east].
+Aaz strongly stabs *Taki the Dwarf*'s right foot.
+
+! W HP:Fine Mana:Burning Move:Slow>! W HP:Fine Mana:Burning Move:Slow>
+Alas! ---------> MELEE <----------
+*Taki the Dwarf* is fleeing...
+*Taki the Dwarf* leaves  North  
+
+o W HP:Fine Mana:Burning Move:Slow>n
+k
+
+-Ichor the Cave Troll- has arrived from the north.
+-Vij the Hill Troll- has arrived from the north.
+
+e
+k
+o W HP:Fine Mana:Burning Move:Slow>
+-Ichor the Cave Troll- leaves north.
+-Vij the Hill Troll- leaves north.
+-Lkuzk the Mountain Troll- leaves north.
+You hear some very close noise from the north.
+
+You hear some very close noise from the north.
+
+o W HP:Fine Mana:Burning Move:Slow>The tunnel slopes heavily downwards, it is a strain staying on your feet.
+Dreadful Cave
+A butcher knife is lying here. 
+Covering a section of ground is a pool of a thick red liquid.
+The corpse of *an Elf* is lying here.
+The shadow of *an Elf* is floating here.
+Exits: east, south.
+
+o W HP:Fine Mana:Burning Move:Slow>They aren't here.
+
+o W HP:Fine Mana:Burning Move:Slow>Sinister-looking Cave
+Traces of fierce white tones form the aura of this place.
+There are two barrels here.
+A pan is here, ready for use.
+The corpse of Bert the stone-troll is lying here.
+The corpse of Tom the stone-troll is lying here.
+The corpse of Bill the stone-troll is lying here.
+A half-rotten corpse is hanging here.
+The shadow of Bill the stone-troll is floating here.
+The shadow of Bert the stone-troll is floating here.
+*Taki the Dwarf* is here, fighting -Lkuzk the Mountain Troll- (glowing).
+-Ichor the Cave Troll- is here, fighting *Taki the Dwarf*.
+-Vij the Hill Troll- is standing here.
+-Lkuzk the Mountain Troll- is here, fighting *Taki the Dwarf*.
+Exits: west, up.
+-Lkuzk the Mountain Troll- hits *Taki the Dwarf*'s left arm hard.
+
+! W HP:Fine Mana:Burning Move:Slow>! W HP:Fine Mana:Burning Move:Slow>
+Alas! ---------> MELEE <----------
+
+! W HP:Fine Mana:Burning Move:Slow>
+*Taki the Dwarf* is fleeing...
+*Taki the Dwarf* leaves  Up  
+
+o W HP:Fine Mana:Burning Move:Slow>
+Suddenly *Taki the Dwarf* falls down from the hole in the wall and lands with a thud.
+
+! W HP:Fine Mana:Burning Move:Slow>
+-Lkuzk the Mountain Troll- approaches *Taki the Dwarf*, trying to hit him.
+-Ichor the Cave Troll- leaves west.
+-Vij the Hill Troll- leaves west.
+You hear some very close noise from the west.
+
+sp
+! W HP:Fine Mana:Burning Move:Slow>k
+cha spell
+   _    Default spellcasting mode:
+  | |   thoroughly
+  | |   carefully
+  |~|<- normally
+  | |   fast
+  | |   quickly
+  / \ 
+  \_/
+-Ichor the Cave Troll- has arrived from the west.
+-Vij the Hill Troll- has arrived from the west.
+*Taki the Dwarf* is fleeing...
+*Taki the Dwarf* leaves  West  
+
+o W HP:Fine Mana:Burning Move:Slow>They aren't here.
+
+o W HP:Fine Mana:Burning Move:Slow>w
+k
+Dreadful Cave
+A butcher knife is lying here. 
+Covering a section of ground is a pool of a thick red liquid.
+The corpse of *an Elf* is lying here.
+The shadow of *an Elf* is floating here.
+*Taki the Dwarf* is standing here (glowing).
+Exits: east, south.
+Aaz strongly stabs *Taki the Dwarf*'s right arm.
+
+! W HP:Fine Mana:Burning Move:Slow>s
+You strongly smite *Taki the Dwarf*'s body.
+*Taki the Dwarf* pounds Aaz' left arm extremely hard.
+
+! W HP:Fine Mana:Burning Move:Weak *Taki the Dwarf*:Bad Aaz:Fine>k
+No way! You are fighting for your life!
+-Ichor the Cave Troll- has arrived from the east.
+-Vij the Hill Troll- has arrived from the east.
+-Lkuzk the Mountain Troll- has arrived from the east.
+
+! W HP:Fine Mana:Burning Move:Weak *Taki the Dwarf*:Bad Aaz:Fine>You're already fighting!
+*Taki the Dwarf* is fleeing...
+*Taki the Dwarf* leaves  East  
+
+o W HP:Fine Mana:Burning Move:Weak>g
+Nobody here by that name.
+
+o W HP:Fine Mana:Burning Move:Weak>e
+k
+Sinister-looking Cave
+Traces of fierce white tones form the aura of this place.
+On the ground, there are two barrels.
+A pan is here, ready for use.
+The corpse of Bert the stone-troll is lying here.
+The corpse of Tom the stone-troll is lying here.
+The corpse of Bill the stone-troll is lying here.
+A half-rotten corpse is hanging here.
+The shadow of Bill the stone-troll is floating here.
+The shadow of Bert the stone-troll is floating here.
+*Taki the Dwarf* is standing here (glowing).
+Exits: west, up.
+Aaz approaches *Taki the Dwarf*, trying to stab him.
+
+! W HP:Fine Mana:Burning Move:Weak>g
+! W HP:Fine Mana:Burning Move:Weak>
+Alas! ---------> MELEE <----------
+
+! W HP:Fine Mana:Burning Move:Weak>
+-Ichor the Cave Troll- has arrived from the west.
+-Vij the Hill Troll- has arrived from the west.
+-Lkuzk the Mountain Troll- has arrived from the west.
+
+mov
+! W HP:Fine Mana:Burning Move:Weak>
+-Ichor the Cave Troll- smites *Taki the Dwarf*'s body hard and shatters it.
+Suddenly Gryl falls down from the hole in the wall and lands with a thud.
+
+! W HP:Fine Mana:Burning Move:Weak>
+*Taki the Dwarf* is fleeing...
+*Taki the Dwarf* leaves  West  
+
+k
+o W HP:Fine Mana:Burning Move:Weak>Nobody here by that name.
+
+o W HP:Fine Mana:Burning Move:Weak>w
+k
+quaff draught
+Ok.
+The draught burns down your throat, and a fiery feeling fills your limbs.
+
+o W HP:Fine Mana:Burning Move:Slow>s
+They aren't here.
+-Ichor the Cave Troll- leaves west.
+-Vij the Hill Troll- leaves west.
+-Lkuzk the Mountain Troll- leaves west.
+You hear some very close noise from the west.
+
+o W HP:Fine Mana:Burning Move:Slow>k
+Dreadful Cave
+A butcher knife is lying here. 
+Covering a section of ground is a pool of a thick red liquid.
+The corpse of *an Elf* is lying here.
+The shadow of *an Elf* is floating here.
+*Taki the Dwarf* is here, fighting -Lkuzk the Mountain Troll- (glowing).
+-Ichor the Cave Troll- is here, fighting *Taki the Dwarf*.
+-Vij the Hill Troll- is standing here.
+-Lkuzk the Mountain Troll- is here, fighting *Taki the Dwarf*.
+Exits: east, south.
+
+! W HP:Fine Mana:Burning Move:Slow>! W HP:Fine Mana:Burning Move:Slow>
+Alas! ---------> MELEE <----------
+
+! W HP:Fine Mana:Burning Move:Slow>
+*Taki the Dwarf* is fleeing...
+
+! W HP:Fine Mana:Burning Move:Slow>
+*Taki the Dwarf* pounds -Lkuzk the Mountain Troll-'s body extremely hard.
+
+! W HP:Fine Mana:Burning Move:Slow>
+*Taki the Dwarf* is fleeing...
+
+! W HP:Fine Mana:Burning Move:Slow>n
+The heavy slope makes it a real effort to move upwards.
+Entrance to a Dreadful Cave
+The corpse of *a Half-Elf* is lying here.
+Exits: north, [east].
+
+o W HP:Fine Mana:Burning Move:Slow>k
+They aren't here.
+*Taki the Dwarf* has arrived from the north.
+
+! W HP:Fine Mana:Burning Move:Slow>Aaz strongly stabs *Taki the Dwarf*'s left arm and shatters it.
+*Taki the Dwarf* is incapacitated and will slowly die, if not aided.
+The tunnel slopes heavily downwards, it is a strain staying on your feet.
+Dreadful Cave
+A butcher knife is lying here. 
+Covering a section of ground is a pool of a thick red liquid.
+The corpse of *an Elf* is lying here.
+The shadow of *an Elf* is floating here.
+-Ichor the Cave Troll- is standing here.
+-Vij the Hill Troll- is standing here.
+-Lkuzk the Mountain Troll- is standing here.
+Exits: east, south.
+
+o W HP:Fine Mana:Burning Move:Weak>They aren't here.
+
+o W HP:Fine Mana:Burning Move:Weak>s
+k
+The heavy slope makes it a real effort to move upwards.
+Entrance to a Dreadful Cave
+The corpse of *a Half-Elf* is lying here.
+Aaz is here, fighting *Taki the Dwarf*.
+A hungry warg stands here, sniffing around for flesh.
+*Taki the Dwarf* is lying here, incapacitated (glowing).
+Exits: north, [east].
+
+! W HP:Fine Mana:Burning Move:Weak>
+You smite *Taki the Dwarf*'s left foot extremely hard and shatter it.
+You feel more experienced.
+Yes! You're beginning to get the idea.
+Your blood freezes as you hear *Taki the Dwarf*'s death cry.
+*Taki the Dwarf* has drawn his last breath! R.I.P.
+
+       <--- According to probability and statistics theories, after all those melees I was going to hit eventually!
+
+o W HP:Fine Mana:Burning Move:Weak>
+-Vij the Hill Troll- has arrived from the north.
+
+o W HP:Fine Mana:Burning Move:Weak>
+-Ichor the Cave Troll- has arrived from the north.
+-Lkuzk the Mountain Troll- has arrived from the north.
+
+o W HP:Fine Mana:Burning Move:Weak>lic
+l in corpse
+corpse (here) : 
+the Hammer of Belegost; it glows blue
+a bejewelled shield (brand new); it glows blue
+a diamond ring
+an engraved broadsword (brand new); it glows blue
+a fine grey cloak (brand new); it glows blue
+a forest green cloak (used); it glows blue
+a fortune in gold
+a gleaming belt; it glows blue
+a pair of iron-shod boots (brand new)
+a pair of plate vambraces (brand new)
+a pale blue stone; it glows blue
+a receipt for a sacred cloak
+a red ruby; it glows blue
+a sapphire ring; it glows blue
+a stone
+a thin metal breastplate (brand new)
+a thin pair of greaves (brand new)
+a thin pair of metal gauntlets (brand new)
+a water skin
+a white chain mail coif (brand new)
+a sable pouch; it glows blue
+a sable pouch; it glows blue
+a keyring with a set of lock picks
+a leather backpack
+-Ichor the Cave Troll- gets a fine grey cloak from the corpse of *a Dwarf*.
+-Ichor the Cave Troll- gets an engraved broadsword from the corpse of *a Dwarf*.
+-Ichor the Cave Troll- gets a receipt for a sacred cloak from the corpse of *a Dwarf*.
+-Ichor the Cave Troll- gets a water skin from the corpse of *a Dwarf*.
+-Ichor the Cave Troll- gets a stone from the corpse of *a Dwarf*.
+-Ichor the Cave Troll- gets a sapphire ring from the corpse of *a Dwarf*.
+-Ichor the Cave Troll- gets a diamond ring from the corpse of *a Dwarf*.
+-Ichor the Cave Troll- gets a pale blue stone from the corpse of *a Dwarf*.
+-Ichor the Cave Troll- gets a thin metal breastplate from the corpse of *a Dwarf*.
+-Ichor the Cave Troll- gets a white chain mail coif from the corpse of *a Dwarf*.
+-Ichor the Cave Troll- gets a thin pair of greaves from the corpse of *a Dwarf*.
+-Ichor the Cave Troll- gets a pair of iron-shod boots from the corpse of *a Dwarf*.
+-Ichor the Cave Troll- gets a thin pair of metal gauntlets from the corpse of *a Dwarf*.
+-Ichor the Cave Troll- gets a pair of plate vambraces from the corpse of *a Dwarf*.
+-Ichor the Cave Troll- gets a bejewelled shield from the corpse of *a Dwarf*.
+
+o W HP:Fine Mana:Burning Move:Weak>gac
+Gryl has arrived from the north.
+get all.coins all.corpse
+You get a fortune in gold from the corpse of *a Dwarf*.
+There was 105 gold coins, 6 silver pennies, and 86 copper pennies.
+
+o W HP:Fine Mana:Burning Move:Weak>qw
+You get a forest green cloak from the corpse of *a Dwarf*.
+You get a leather backpack from the corpse of *a Dwarf*.
+You get the Hammer of Belegost from the corpse of *a Dwarf*.
+You get a gleaming belt from the corpse of *a Dwarf*.
+You get a keyring with a set of lock picks from the corpse of *a Dwarf*.
+You get a red ruby from the corpse of *a Dwarf*.
+You get a sable pouch from the corpse of *a Dwarf*.
+You get a sable pouch from the corpse of *a Dwarf*.
+
+o W HP:Fine Mana:Burning Move:Weak>gig
+You giggle.
+
+o W HP:Fine Mana:Burning Move:Weak>spn
+- SPELL-CASTING set to: NORMAL -
+bo
+Ok.
+Gryl says: bah
+
+You start to concentrate... BOB
+
+can
+-Ichor the Cave Troll- smiles viciously.
+
+Aaz roars loudly.
+
+An energy begins to flow within your legs as your body becomes lighter.
+
+o W HP:Fine Mana:Hot Move:Tired>cha ale n
+Ok.
+
+o W HP:Fine Mana:Hot Move:Tired>
+Gryl raises his hand.
+
+o W HP:Fine Mana:Hot Move:Tired>say thanks tho! trolls
+Google narrates 'bbt dead?'
+-Ichor the Cave Troll- claps her hands viciously together in applause.
+emote bitches 'thanks tho! trolls'
+Ok.
+-Lkuzk the Mountain Troll- says : level
+
+o W HP:Fine Mana:Hot Move:Tired>say GOOD FAST COMING
+emote bitches 'GOOD FAST COMING'
+Ok.
+
+o W HP:Fine Mana:Hot Move:Tired>
+-Vij the Hill Troll- rawrz: hu hu
+
+o W HP:Fine Mana:Hot Move:Tired>gro gryl
+Gryl is now a group member.
+-Vij the Hill Troll- rawrz: same here
+
+o W HP:Fine Mana:Hot Move:Tired>can
+cha ale n
+Ok.
+
+o W HP:Fine Mana:Hot Move:Tired>spn
+- SPELL-CASTING set to: NORMAL -
+Ok.
+
+o W HP:Fine Mana:Hot Move:Tired>l
+Entrance to a Dreadful Cave
+Traces of rich red tones form the aura of this place.
+The corpse of *a Dwarf* is lying here.
+The corpse of *a Half-Elf* is lying here.
+Aaz is standing here.
+A hungry warg stands here, sniffing around for flesh.
+A hungry warg stands here, sniffing around for flesh.
+-Vij the Hill Troll- is standing here.
+-Ichor the Cave Troll- is standing here.
+-Lkuzk the Mountain Troll- is standing here.
+Gryl is standing here.
+
+o W HP:Fine Mana:Hot Move:Tired>can
+
+-Ichor the Cave Troll- nods solemnly.
+
+o W HP:Fine Mana:Hot Move:Tired>st
+-Lkuzk the Mountain Troll- smiles viciously.
+cha ale n
+Ok.
+
+o W HP:Fine Mana:Hot Move:Tired>You are already standing.
+
+o W HP:Fine Mana:Hot Move:Tired>lic
+l in corpse
+corpse (here) : 
+Nothing.
+
+o W HP:Fine Mana:Hot Move:Tired>l in 2.corpse
+corpse (here) : 
+Nothing.
+
+o W HP:Fine Mana:Hot Move:Tired>
+Gryl says: bob again please? :/
+
+o W HP:Fine Mana:Hot Move:Tired>nar 3 whities die
+
+-Lkuzk the Mountain Troll- says : well lucky darkness
+
+o W HP:Fine Mana:Hot>Ok.
+
+o W HP:Fine Mana:Hot Move:Tired>
+-Lkuzk the Mountain Troll- smiles viciously.
+
+o W HP:Fine Mana:Hot Move:Tired>
+-Vij the Hill Troll- rawrz: gleaming for us plz!
+
+o W HP:Fine Mana:Hot>nar trolls came fast GOOD:)
+Ok.
+
+o W HP:Fine Mana:Hot Move:Tired>n
+The tunnel slopes heavily downwards, it is a strain staying on your feet.
+Dreadful Cave
+A butcher knife is lying here. 
+Covering a section of ground is a pool of a thick red liquid.
+The corpse of *an Elf* is lying here.
+The shadow of *an Elf* is floating here.
+Exits: east, south.
+
+o W HP:Fine Mana:Hot Move:Tired>lic
+l in corpse
+corpse (here) : 
+the scalp of Rhand
+a bejewelled oak staff; it glows blue
+a ceremonial dagger (brand new); it glows blue
+a copper ring; it glows blue
+a diamond ring
+a fine chain mail shirt (brand new)
+a fine grey cloak (brand new); it glows blue
+a fortune in gold
+a gem-inlaid knife (brand new)
+a gleaming belt; it glows blue
+a fragrant-smelling bag
+a mithril circlet; it glows blue
+a necklace; it glows blue
+a shining pair of greaves (brand new); it glows blue
+a pale blue stone; it glows blue
+a shining pair of vambraces (brand new); it glows blue
+a thin pair of metal gauntlets (brand new)
+a sable pouch; it glows blue
+a sable pouch; it glows blue
+a keyring with a few keys and some sets of lock picks
+a leather backpack
+a pair of smooth, black boots
+
+o W HP:Fine Mana:Hot Move:Tired>
+Gryl has arrived from the south.
+
+o W HP:Fine Mana:Hot Move:Tired>
+Virtus narrates 'clap!'
+
+o W HP:Fine Mana:Hot Move:Tired>mm shadow
+o W HP:Fine Mana:Hot Move:Tired>
+-Ichor the Cave Troll- has arrived from the south.
+-Vij the Hill Troll- has arrived from the south.
+-Lkuzk the Mountain Troll- has arrived from the south.
+
+o W HP:Fine Mana:Hot Move:Tired>blind shadow
+You start to concentrate... BLIND shadow
+
+Daemonicus has arrived from the east.
+A hungry warg has arrived from the east.
+
+Rootsikunn narrates 'cackle'
+
+Ok.
+A shadow seems to be blinded!
+...
+---------------------- donz of good eq
+---------------------- we looted and ate all!
+---------------------- Who said Sauron has no sense of humor! :-]

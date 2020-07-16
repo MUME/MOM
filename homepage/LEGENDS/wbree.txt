@@ -1,0 +1,2279 @@
+Grunk grumbles: 1
+
+* R W C Mana:Hot>
+Grunk leaves east - warg.
+
+* R W C Mana:Hot>e
+
+Uldrak says : go
+Bramba leaves east - warg.
+
+* R W C Mana:Hot>m elKozlor leaves east - warg.
+Gimilzor leaves east - PACK.
+West Gate of Bree
+There is an old street-lamp on the border of the street.
+The corpse of the little dog is lying here.
+The corpse of the Bree gateguard is lying here.
+The corpse of Harry the Gatekeeper is lying here.
+The Bree gateguard is here, fighting Grunk.
+Harry the Bree Gatekeeper stands here.
+A Guard of Bree is here, watching the gate.
+A domesticated pony, beast of burden to many, stands here.
+*Norglin the Eriadorian Man* is standing here.
+A stocky mountain mule is here, waiting to serve.
+*Dorak the Dwarf* is standing here.
+*Kurn the Eriadorian Man* is standing here.
+*a Hobbit* is standing here.
+*Elestir Elf* is here, - TRAINED.
+*Trassel Half-Elf* is here, - WARHORSE.
+A stocky mountain mule is here, waiting to serve.
+*a Dwarf* is here, - MULE.
+*Toku the Harfoot Hobbit* is standing here.
+*Stumpy the Dwarf* is standing here.
+*Celorfilas Elf* is resting here.
+*Khad the Dwarf* is resting here.
+A sturdy pack horse is standing here.
+*Khazdul the Dwarf* is here, resting on a mountain mule.
+The Bree Guard is here, fighting Grunk.
+*a Dwarf* is standing here.
+*a Hobbit* is standing here.
+Grunk is here, riding a hungry warg, fighting the Bree Guard.
+Rosk the Black Numenorean is here, - PACK.
+eramba is here, - warg.
+Gurgel is here, - warg.
+Elajt is here, - warg.
+Kozlor is here, - warg.
+Gimilzor the Black Numenorean is here, - PACK.
+Gimbatol the Black Numenorean is here, - MULE.
+Nimrod is here, - warg.
+Exits: East West.
+Harry the Gatekeeper strongly pierces Kozlor's right foot and tickles it.
+
+* R W C Mana:Hot>
+Rosk begins some strange incantations...
+Gimilzor begins some strange incantations...
+*Khad the Dwarf* stops resting, and clambers on his feet.
+The Bree gateguard fails to stab Belemoth.
+An elite Bree Guard has arrived from the east.
+
+* R W C Mana:Hot>s
+*Khad the Dwarf* lightly cleaves Grunk's left arm and tickles it.
+Zhagrat strongly pounds *Elestir Elf*'s head and tickles it.
+*Celorfilas Elf* stops resting, and clambers on his feet.
+
+* R W C Mana:Hot>t
+*Celorfilas Elf* begins some strange incantations...
+Uldrak has arrived from the west - warg.
+
+* R W C Mana:Hot>ir
+*Toku the Harfoot Hobbit* tries to pierce Grunk, but he parries successfully.
+Nimrod begins some strange incantations...
+Kozlor pounds Harry the Gatekeeper's left leg extremely hard and tickles it.
+
+* R W C Mana:Hot>
+TARGET=" elestir "
+
+Gimbatol begins some strange incantations...
+
+* R W C Mana:Hot>
+*Elestir Elf* slashes Zhagrat's left foot extremely hard and
+tickles it.
+Belemoth smites the Bree gateguard's head extremely hard and shatters it.
+
+* R W C Mana:Hot>
+Elajt begins some strange incantations...
+*Trassel Half-Elf* puts a large piece of smoked meat in a large sack.
+*Trassel Half-Elf* puts a large piece of smoked meat in a large sack.
+*Trassel Half-Elf* puts a large piece of smoked meat in a large sack.
+An elite Bree Guard lightly slashes Uldrak's left foot and tickles it.
+
+* R W C Mana:Hot>h
+
+*Stumpy the Dwarf* leaves -< EAST >-.
+*Khazdul the Dwarf* stops resting, and clambers on his feet.
+Gimbatol utters the words 'qpurr hajqp'
+Gimbatol chills *a Hobbit* who suddenly seem less lively.
+Gimbatol stabs *a Hobbit*'s body extremely hard.
+Harry the Gatekeeper pierces Kozlor's left arm and tickles it.
+The Bree gateguard barely stabs Grunk's body and tickles it.
+
+* R W C Mana:Hot>You start to concentrate...
+*Khazdul the Dwarf* leaves -< EAST >- - MULE.
+
+Nimrod begins some strange incantations...
+Rosk begins some strange incantations...
+Prist has arrived from the west - PACK.
+- flees -
+Your victim has disappeared!
+*Elestir Elf* leaves -< EAST >- - TRAINED.
+*a Hobbit* pierces Gimbatol's right leg and tickles it.
+
+* R W C Mana:Hot>
+- flees -
+Kozlor leaves west - warg.
+Rosk swiftly dodges *a Hobbit*'s attempt to pierce him.
+Harry the Gatekeeper joins the Bree Guard's fight.
+
+* R W C Mana:Hot>h
+Bramba smites *Dorak the Dwarf*'s body extremely hard.
+Nobody here by that name.
+Nimrod begins some strange incantations...
+*Khad the Dwarf* cleaves Grunk's body extremely hard.
+
+* R W C Mana:Hot>
+You suddenly notice Billabong.
+*Khazdul the Dwarf* has arrived from the east - MULE.
+The lamp-lighter has arrived from the east.
+*Dorak the Dwarf* pounds Bramba's left foot extremely hard.
+
+* R W C Mana:Hot>
+Gimbatol begins some strange incantations...
+An elite Bree Guard barely slashes Uldrak's left arm and tickles it.
+
+* R W C Mana:Hot>h
+
+The Bree Guard barely stabs Grunk's right hand and tickles it.
+
+* R W C Mana:Hot>Cir has arrived from the west - TRAINED.
+*Khazdul the Dwarf* leaves -< EAST >- - MULE.
+Nobody here by that name.
+Gimilzor swiftly dodges the lamp-lighter's attempt to hit him.
+
+* R W C Mana:Hot>
+Elajt begins some strange incantations...
+*Kurn the Eriadorian Man* begins some strange incantations...
+Harry the Gatekeeper pierces Grunk's right foot extremely hard.
+
+* R W C Mana:Hot>h
+
+Cir leaves west - TRAINED.
+Dragoth has arrived from the west - warg.
+Kozlor has arrived from the west - warg.
+Nimrod utters the words 'diesilla barh'
+*Trassel Half-Elf* staggers back as the lightning bolt sent by Nimrod hits
+him.
+The Bree Guard has arrived from the east.
+Nimrod barely slashes *Trassel Half-Elf*'s right hand and tickles it.
+*Toku the Harfoot Hobbit* pierces Grunk's left foot and tickles it.
+
+* R W C Mana:Hot>
+- flees -
+Gimilzor leaves west - PACK.
+The Bree gateguard swiftly dodges *a Dwarf*'s attempt to cleave him.
+
+* R W C Mana:Hot>Nobody here by that name.
+The Bree Guard has arrived from the east.
+*a Hobbit* pierces Gimbatol's left leg and tickles it.
+Grunk slashes the Bree Guard's right leg extremely hard.
+
+* R W C Mana:Hot>
+*Khazdul the Dwarf* has arrived from the east - MULE.
+Cir has arrived from the west - TRAINED.
+The Bree Guard lightly pierces Cir's right leg and tickles it.
+
+* R W C Mana:Hot>h
+*a Hobbit* swiftly dodges Billabong's attempt to pierce him.
+
+* R W C Mana:Hot>
+Nobody here by that name.
+*Kurn the Eriadorian Man* utters the word 'yufzbarr'
+*Kurn the Eriadorian Man* throws a fireball at Rosk, completely enveloping him
+in flames.
+
+* R W C Mana:Hot>
+*Stumpy the Dwarf* has arrived from the east.
+Kozlor pounds *Trassel Half-Elf*'s right hand extremely hard.
+*Elestir Elf* has arrived from the east - TRAINED.
+Zhagrat pounds *Elestir Elf*'s body extremely hard and tickles it.
+The Bree Guard bows before *Elestir Elf*.
+*Trassel Half-Elf* strongly stabs Nimrod's body and tickles it.
+
+* R W C Mana:Hot>
+Guglunk begins some strange incantations...
+- flees -
+Cir leaves east - TRAINED.
+*Kurn the Eriadorian Man* begins some strange incantations...
+Nimrod begins some strange incantations...
+- flees -
+The Bree Guard lightly stabs Gimbatol's right arm and tickles it.
+
+* R W C Mana:Hot>h
+
+*Khazdul the Dwarf* pats Grunk on his head.
+Dragoth smites *Dorak the Dwarf*'s body extremely hard.
+The lamp-lighter approaches Gurgel, trying to hit him.
+*Elestir Elf* slashes Zhagrat's right arm extremely hard and
+tickles it.
+Uldrak smites an elite Bree Guard's right foot extremely hard.
+An elite Bree Guard lightly slashes Uldrak's right foot and tickles it.
+*Toku the Harfoot Hobbit* barely pierces Grunk's left arm and tickles it.
+
+* R W C Mana:Hot>You start to concentrate...
+- flees -
+Rosk leaves west - PACK.
+Harry the Gatekeeper lightly pierces Grunk's right arm and tickles it.
+Grunk slashes the Bree Guard's right hand extremely hard.
+
+3Gimbatol begins some strange incantations...
+*Khazdul the Dwarf* pats Grunk on his head.
+Elajt utters the word 'harm'
+Elajt raises his voice and ancient powers make *Dorak the Dwarf* twist in pain.
+Bramba   B A S H E D   *Dorak the Dwarf* 
+Belemoth smites the Bree gateguard's left foot extremely hard and shatters it.
+
+
+TARGET=" *man* "
++++++++ - M A N - +++++++
+
+h
+*Khazdul the Dwarf* pats Grunk on his head.
+Elajt begins some strange incantations...
+Prist leaves west - PACK.
+*Stumpy the Dwarf* leaves -< EAST >-.
+- flees -
+*Trassel Half-Elf* leaves -< EAST >- - WARHORSE.
+The Bree Guard approaches Kozlor, trying to pierce him.
+The Bree Guard has arrived from the east.
+
+*Khazdul the Dwarf* pats Grunk on his head.
+Cir has arrived from the east - TRAINED.
+Nimrod begins some strange incantations...
+*a Hobbit* pierces Gimbatol's head and tickles it.
+*Khad the Dwarf* cleaves Grunk's body extremely hard.
+
+Gimilzor has arrived from the west - PACK.
+Cir leaves west - TRAINED.
+Guglunk utters the words 'diesilla barh'
+*Elestir Elf* staggers back as the lightning bolt sent by Guglunk
+hits him.
+The Bree Guard tries to hit Gimilzor, but he parries successfully.
+The Bree Guard has arrived from the east.
+
+Gimilzor begins some strange incantations...
+- flees -
+*Khazdul the Dwarf* pats Grunk on his head.
+- flees -
+Grunk leaves east - warg.
+The Bree gateguard lightly stabs Belemoth's body and tickles it.
+
+h*Norglin the Eriadorian Man* pounds Bramba's left hand extremely hard.
+*Khazdul the Dwarf* pats Bramba on his head.
+Gurgel pounds the lamp-lighter's left leg extremely hard and shatters it.
+
+
+*Khazdul the Dwarf* pats Bramba on his head.
+Ok.
+As you call on ancient powers, *Elestir Elf* twists in great pain.
+The Bree Guard approaches Gurgel, trying to stab him.
+The Bree Guard lightly pierces Kozlor's right hand and tickles it.
+
+* R W C Mana:Warm>*Khazdul the Dwarf* pats Bramba on his head.
+Alas, not enough mana flows through you...
+- flees -
+Zhagrat leaves west.
+- flees -
+Gimbatol leaves west - MULE.
+Harry the Gatekeeper approaches Gimilzor, trying to pierce him.
+The Bree Guard fails to hit Dragoth.
+
+* R W C Mana:Warm>*Stumpy the Dwarf* has arrived from the east.
+- flees -
+*Elestir Elf* leaves -< EAST >- - TRAINED.
+Alas, not enough mana flows through you...
+*Khazdul the Dwarf* pats Bramba on his head.
+Nimrod utters the words 'diesilla barh'
+*Celorfilas Elf* staggers back as the lightning bolt sent by
+Nimrod hits him.
+*a Hobbit* strongly pierces Billabong's body.
+
+* R W C Mana:Warm>
+*Khazdul the Dwarf* pats Bramba on his head.
+- flees -
+*Khad the Dwarf* leaves -< WEST >-.
+*Toku the Harfoot Hobbit* pierces Bramba's left foot and tickles it.
+Harry the Gatekeeper pierces Gimilzor's head and tickles it.
+An elite Bree Guard strongly slashes Uldrak's right foot and tickles it.
+
+* R W C Mana:Warm>h
+*Celorfilas Elf* begins some strange incantations...
+Alas, not enough mana flows through you...
+*Khazdul the Dwarf* pats Bramba on his head.
+*Kurn the Eriadorian Man* begins some strange incantations...
+Uldrak   B A S H E D   an elite Bree Guard 
+The Bree Guard leaves east.
+
+* R W C Mana:Warm>
+*Khazdul the Dwarf* pats Bramba on his head.
+Kozlor   B A S H E D   the Bree Guard 
+
+* R W C Mana:Warm>m e
+*Khazdul the Dwarf* pats Bramba on his head.
+*Stumpy the Dwarf* leaves -< EAST >-.
+Elajt utters the word 'harm'
+Elajt raises his voice and ancient powers make *Dorak the Dwarf* twist in pain.
+
+* R W C Mana:Warm>lestir
+TARGET=" elestir "
+v
+
+Elajt begins some strange incantations...
+- flees -
+Kozlor leaves east - warg.
+*Khazdul the Dwarf* leaves -< EAST >- - MULE.
+- flees -
+- flees -
+Billabong pierces *a Hobbit*'s body hard and tickles it.
+
+* R W C Mana:Warm>
+*Toku the Harfoot Hobbit* barely pierces Bramba's right hand and tickles it.
+
+* R W C Mana:Warm>
+Nimrod begins some strange incantations...
+Kozlor has arrived from the east - warg.
+Dragoth smites *Dorak the Dwarf*'s body extremely hard and shatters it.
+Bramba smites *Dorak the Dwarf*'s right leg extremely hard and shatters it.
+
+* R W C Mana:Warm>v- flees -
+Gimilzor leaves east - PACK.
+Nobody here by that name.
+
+* R W C Mana:Warm>
+vNobody here by that name.
+The Bree gateguard barely stabs Belemoth's body and tickles it.
+
+* R W C Mana:Cold>
+Nobody here by that name.
+
+* R W C Mana:Cold>v
+3
+TARGET=" *man* "
++++++++ - M A N - +++++++
+
+h
+
+*Celorfilas Elf* utters the words 'diesilla barh'
+Gurgel staggers back as the lightning bolt sent by *Celorfilas the Noldorin
+Elf* hits him.
+Gathrain has arrived from the east.
+The Bree Guard joins the Bree Guard's fight.
+*Toku the Harfoot Hobbit* barely pierces Bramba's right leg and tickles it.
+
+* R W C Mana:Cold>*Celorfilas Elf* begins some strange incantations...
+Nobody here by that name.
+Kozlor leaves west - warg.
+Harry the Gatekeeper approaches Dragoth, trying to pierce him.
+Guglunk swiftly dodges Gathrain's attempt to slash him.
+The Bree Guard has arrived from the east.
+
+* R W C Mana:Cold>
+Gurgel pounds the lamp-lighter's left foot extremely hard and shatters it.
+
+* R W C Mana:Cold>Alas, not enough mana flows through you...
+Gimilzor has arrived from the east - PACK.
+The Bree Guard has arrived from the east.
+The Mayor of Bree has arrived from the east.
+Guglunk slashes Gathrain's right hand hard.
+Harry the Gatekeeper pierces Dragoth's right leg and tickles it.
+
+* R W C Mana:Cold>v
+You start to concentrate...
+Elajt utters the word 'harm'
+Elajt raises his voice and ancient powers make *Dorak the Dwarf* twist in pain.
+Billabong swiftly dodges the Bree Guard's attempt to pierce him.
+The Bree Guard barely hits Dragoth's left foot and tickles it.
+*Norglin the Eriadorian Man* pounds Bramba's right leg extremely hard.
+
+vElajt begins some strange incantations...
+The Bree Guard has arrived from the east.
+*a Dwarf* cleaves the Bree gateguard's right arm extremely hard.
+
+Nimrod utters the words 'diesilla barh'
+*Celorfilas Elf* staggers back as the lightning bolt sent by
+Nimrod hits him.
+The Bree Guard fails to pierce Dragoth.
+Belemoth smites the Bree gateguard's left leg extremely hard and shatters it.
+The Bree gateguard is incapacitated and will slowly die, if not aided.
+
+
+1*Celorfilas Elf* begins some strange incantations...
+Nimrod begins some strange incantations...
+Gimilzor leaves west - PACK.
+*Dorak the Dwarf* seems to have recovered his senses.
+The Mayor of Bree hits Nimrod's right foot and tickles it.
+The Bree Guard barely slashes Uldrak's left arm and tickles it.
+*Toku the Harfoot Hobbit* lightly pierces Bramba's left leg and tickles it.
+The Bree Guard barely stabs Gurgel's right foot and tickles it.
+
+- flees -
+- flees -
+Ok.
+You grasp at *Norglin the Eriadorian Man*, shocking him.
+The Bree Guard has arrived from the east.
+
+* R W C Mana:Cold>
+TARGET=" *elf* "
++++++++ - E L F - +++++++
+
+Alas, not enough mana flows through you...
+
+* R W C Mana:Cold>v
+qw
+- flees -
+*Dorak the Dwarf* leaves -< WEST >-.
+Alas, not enough mana flows through you...
+Elajt begins some strange incantations...
+The Bree Guard barely pierces Bramba's body and tickles it.
+Uldrak smites an elite Bree Guard's body extremely hard.
+
+* R W C Mana:Cold>You can't find anything in the corpse.
+Zhagrat narrates 'he fled insta'
+- flees -
+Bramba leaves east - warg.
+- flees -
+Uldrak leaves east - warg.
+Nimrod begins some strange incantations...
+*Stumpy the Dwarf* has arrived from the east.
+*Dorak the Dwarf* has arrived from the west.
+
+* R W C Mana:Cold>
+*Dorak the Dwarf* leaves -< EAST >-.
+
+* R W C Mana:Cold>
+Grunk has arrived from the east - warg.
+- flees -
+*Celorfilas Elf* leaves -< WEST >-.
+Harry the Gatekeeper pierces Dragoth's right foot extremely hard and tickles
+it.
+
+* R W C Mana:Cold>
+Uldrak has arrived from the east - warg.
+- flees -
+Dragoth leaves east - warg.
+Grunk leaves west - warg.
+The Bree Guard quickly approaches, trying to slash you.
+Gurgel pounds the lamp-lighter's body extremely hard and shatters it.
+
+* R W C Mana:Cold the Bree Guard:Healthy>
+The Bree Guard has arrived from the east.
+Harry the Gatekeeper joins the Mayor of Bree's fight.
+
+* R W C Mana:Cold the Bree Guard:Healthy>v
+Alas, not enough mana flows through you...
+Elajt utters the words 'diesilla barh'
+*a Dwarf* staggers back as the lightning bolt sent by Elajt hits her.
+The Bree Guard approaches Billabong, trying to pierce him.
+The Bree Guard tries to hit Elajt, but he parries successfully.
+Elajt slashes *a Dwarf*'s left arm hard.
+
+* R W C Mana:Cold the Bree Guard:Healthy>1
+TARGET=" *elf* "
++++++++ - E L F - +++++++
+
+
+Uldrak leaves west - warg.
+An elite Bree Guard seems to have recovered his senses.
+The Bree Guard approaches Gurgel, trying to pierce him.
+An elite Bree Guard quickly approaches, trying to slash you.
+The Bree Guard barely hits Gurgel's left leg and tickles it.
+
+* R W C Mana:Cold the Bree Guard:Healthy>v
+Alas, not enough mana flows through you...
+The Bree Guard seems to have recovered his senses.
+The Bree Guard barely pierces Belemoth's right foot and tickles it.
+The Bree Guard lightly pierces Elajt's right arm and tickles it.
+The Bree Guard barely pierces Gurgel's left foot and tickles it.
+
+* R W C Mana:Cold the Bree Guard:Healthy>
+Dragoth has arrived from the east - warg.
+The Cityguard has arrived from the east.
+Harry the Gatekeeper pierces Nimrod's right arm and tickles it.
+Guglunk slashes Gathrain's left leg and tickles it.
+
+* R W C Mana:Cold the Bree Guard:Healthy>sp
+Dragoth leaves west - warg.
+The Bree Guard pierces Billabong's right leg.
+*a Hobbit* pierces Billabong's left arm extremely hard and shatters it.
+
+* R W C Mana:Cold the Bree Guard:Healthy>n
+- flees -
+The lamp-lighter leaves east.
+- flees -
+Billabong leaves east.
+
+* R W C Mana:Cold the Bree Guard:Healthy>
+- SPELL-CASTING set to: NORMAL -
+Elajt begins some strange incantations...
+cha spel n
+Ok.
+The Cityguard approaches Gurgel, trying to slash him.
+
+* R W C Mana:Cold the Bree Guard:Healthy>
+*a Hobbit* leaves -< EAST >-.
+The Bree Guard joins the Bree Guard's fight.
+
+* R W C Mana:Cold the Bree Guard:Healthy>
+The Cityguard barely slashes Gurgel's left foot and tickles it.
+
+* R W C Mana:Cold the Bree Guard:Healthy>wim
+*Stumpy the Dwarf* leaves -< EAST >-.
+The Bree Guard barely pierces Belemoth's body and tickles it.
+You slash the Bree Guard's body and tickle it.
+
+* R W C Mana:Cold the Bree Guard:Fine>p
+
+*a Dwarf*   B A S H E D   the Bree gateguard 
+The Bree Guard quickly approaches, trying to pierce you.
+
+* R W C Mana:Cold the Bree Guard:Fine>Ok.
+
+* R W C Mana:Cold the Bree Guard:Fine>
+The Mayor of Bree strongly hits Nimrod's body.
+
+* R W C Mana:Cold the Bree Guard:Fine>
+Elajt begins some strange incantations...
+- flees -
+Belemoth leaves east - warg.
+Gurgel pounds the Bree Guard's left leg extremely hard and shatters it.
+
+* R W C Mana:Cold the Bree Guard:Fine>
+Belemoth has arrived from the east - warg.
+Harry the Gatekeeper pierces Nimrod's right hand and tickles it.
+
+* R W C Mana:Cold the Bree Guard:Fine>
+Belemoth leaves west - warg.
+Elajt begins some strange incantations...
+The Bree Guard approaches Nimrod, trying to pierce him.
+Guglunk slashes Gathrain's head and tickles it.
+
+* R W C Mana:Cold the Bree Guard:Fine>
+The Bree Guard barely stabs Gurgel's right arm and tickles it.
+
+* R W C Mana:Cold the Bree Guard:Fine>
+- flees -
+Nimrod leaves west - warg.
+
+* R W C Mana:Cold the Bree Guard:Fine>
+Billabong has arrived from the east.
+- flees -
+*a Dwarf* leaves -< EAST >-.
+
+* R W C Mana:Cold the Bree Guard:Fine>
+Harry the Gatekeeper approaches Guglunk, trying to pierce him.
+The Cityguard barely slashes Gurgel's right leg and tickles it.
+
+* R W C Mana:Cold the Bree Guard:Fine>
+Billabong leaves west.
+The Mayor of Bree hits Gurgel's right leg and tickles it.
+
+* R W C Mana:Cold the Bree Guard:Fine>
+Elajt begins some strange incantations...
+
+* R W C Mana:Cold the Bree Guard:Fine>
+*Kurn the Eriadorian Man* leaves -< EAST >-.
+The Bree gateguard has arrived from the east.
+
+* R W C Mana:Cold the Bree Guard:Fine>
+- flees -
+Elajt leaves east - warg.
+- flees -
+Gurgel leaves east - warg.
+The Bree Guard joins the Bree Guard's fight.
+The Bree Guard lightly pierces your right hand and tickles it.
+Harry the Gatekeeper pierces Guglunk's left foot very hard and tickles it.
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Fine>n
+Gurgel has arrived from the east - warg.
+The Cityguard approaches Guglunk, trying to slash him.
+The Bree Guard approaches Guglunk, trying to pierce him.
+The Bree Guard approaches Guglunk, trying to hit him.
+The Bree Guard leaves east.
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Fine>arr
+Uldrak has arrived from the west - warg.
+Gurgel leaves west - warg.
+The Bree gateguard approaches Guglunk, trying to stab him.
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Fine> OK
+- flees -
+Guglunk leaves west - warg.
+The Bree Guard quickly approaches, trying to stab you.
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Fine> O
+*Toku the Harfoot Hobbit* leaves -< EAST >-.
+The Mayor of Bree approaches Uldrak, trying to hit him.
+The Bree gateguard whispers something to the Bree Guard.
+The Bree Guard joins the Bree Guard's fight.
+Gathrain approaches Uldrak, trying to slash him.
+The Bree Guard barely stabs your body and tickles it.
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Fine>UT
+
+The Mayor of Bree hits Uldrak's body and tickles it.
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Fine>fOk.
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Fine>
+w
+You flee head over heels.
+Main Street
+There are two dark coloured flasks here.
+There is an old street-lamp on the border of the street.
+A large sack is on the ground.
+*Trassel Half-Elf* is here, - WARHORSE.
+*Khazdul the Dwarf* is here, riding a mountain mule, fighting Elajt.
+A Guard of Bree stands here.
+*Kurn the Eriadorian Man* is standing here.
+A Guard of Bree stands here, waiting in the headquarters.
+A herbalist, surrounded by a cloud of spice, smiles at you.
+*Toku the Harfoot Hobbit* is standing here.
+A Guard of Bree stands here.
+A Guard of Bree stands here.
+A Guard of Bree stands here.
+Elajt is here, riding a hungry warg, fighting *Khazdul the Dwarf*.
+Exits: North East South West.
+*Trassel Half-Elf* approaches Elajt, trying to stab him.
+- flees -
+Elajt leaves west - warg.
+The Bree Guard tries to stab you, but your parry is successful.
+The Bree Guard tries to pierce you, but your parry is successful.
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Healthy>wUldrak has arrived from the west - warg.
+No way! You are fighting for your life!
+The Bree Guard barely pierces Uldrak's right hand and tickles it.
+The herbalist approaches Uldrak, trying to hit him.
+The Bree Guard approaches Uldrak, trying to hit him.
+The Cityguard has arrived from the west.
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Healthy>
+Bramba has arrived from the east - warg.
+No way! You are fighting for your life!
+The Bree Guard approaches Uldrak, trying to pierce him.
+The Bree Guard has arrived from the east.
+Uldrak smites the Bree Guard's right leg extremely hard and shatters it.
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Healthy>f
+w
+The Bree Guard puts a lantern on his belt.
+The Bree Guard lights a lantern.
+Uldrak swiftly dodges the Cityguard's attempt to slash him.
+The Bree Guard leaves west.
+The herbalist lightly hits Uldrak's left foot and tickles it.
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Healthy>
+You flee head over heels.
+Cobblestone Street
+There are three backswords here.
+A canoe has been left here.
+There are three pairs of soft leather boots here.
+On the ground, there are three plain cloaks.
+There are two plain leather belts here.
+There are two plain pairs of pants here.
+On the ground, there are two soft leather jerkins.
+There is an old street-lamp on the border of the street.
+The corpse of *a Half-Elf* is lying here.
+A sturdy pack horse is standing here.
+Clint the Dwarf is standing here.
+*Dorak the Dwarf* is standing here.
+Exits: North.
+Bramba has arrived from the north - warg.
+
+* R W C HP:Fine Mana:Cold>w
+Alas, you cannot go that way...
+Clint barely slashes Bramba's body and tickles it.
+
+* R W C HP:Fine Mana:Cold>Alas, you cannot go that way...
+
+* R W C HP:Fine Mana:Cold>
+*Dorak the Dwarf* leaves -< NORTH >-.
+
+* R W C HP:Fine Mana:Cold>n
+
+- flees -
+- flees -
+
+* R W C HP:Fine Mana:Cold>w
+wMain Street
+There are two dark coloured flasks here.
+There is an old street-lamp on the border of the street.
+A large sack is on the ground.
+*Trassel Half-Elf* is here, - WARHORSE.
+*Khazdul the Dwarf* is here, - MULE.
+A Guard of Bree stands here.
+*Kurn the Eriadorian Man* is standing here.
+The Bree Guard is here, fighting Uldrak.
+The herbalist is here, fighting Uldrak.
+The Bree Guard is here, fighting Uldrak.
+A Guard of Bree stands here.
+A cityguard stands here, looking very upset.
+Gathrain is here, fighting Uldrak.
+Uldrak is here, riding a hungry warg, fighting the herbalist.
+The Bree Guard is here, fighting Uldrak.
+A Guard of Bree stands here, waiting in the headquarters.
+Exits: North East South West.
+The Bree Guard quickly approaches, trying to pierce you.
+Jack Olby has arrived from the north.
+The Bree Guard barely pierces Uldrak's left leg and tickles it.
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Fine>
+- flees -
+Uldrak leaves south - warg.
+*Elestir Elf* has arrived from the east - TRAINED.
+No way! You are fighting for your life!
+The Bree Guard bows before *Elestir Elf*.
+The Bree Guard bows before *Elestir Elf*.
+Jack Olby puts a lantern on his belt.
+Jack Olby lights a lantern.
+You swiftly dodge the Bree Guard's attempt to pierce you.
+The Bree gateguard has arrived from the east.
+The Bree gateguard has arrived from the west.
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Fine>No way! You are fighting for your life!
+Zhagrat narrates 'out'
+The Bree gateguard puts a lantern on his belt.
+The Bree gateguard lights a lantern.
+The Cityguard quickly approaches, trying to slash you.
+The Bree Guard has arrived from the east.
+The Bree Guard has arrived from the west.
+The Bree Guard has arrived from the east.
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Fine>f
+The Bree Guard puts a lantern on his belt.
+The Bree Guard lights a lantern.
+The Bree Guard puts a lantern on his belt.
+The Bree Guard lights a lantern.
+The Bree gateguard quickly approaches, trying to stab you.
+The Bree Guard quickly approaches, trying to pierce you.
+Jack Olby tries to crush you, but your parry is successful.
+The Bree Guard leaves east.
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Fine>
+w
+wUldrak has arrived from the south - warg.
+You flee head over heels.
+Cobblestone Street
+There are three backswords here.
+A canoe has been left here.
+On the ground, there are three pairs of soft leather boots.
+On the ground, there are three plain cloaks.
+There are two plain leather belts here.
+You see two plain pairs of pants on the ground.
+On the ground, there are two soft leather jerkins.
+There is an old street-lamp on the border of the street.
+The corpse of *a Half-Elf* is lying here.
+A sturdy pack horse is standing here.
+Clint is here, fighting Bramba.
+Bramba is here, riding a hungry warg, fighting Clint.
+Exits: North.
+- flees -
+Bramba leaves north - warg.
+
+* R W C HP:Fine Mana:Cold>
+Alas, you cannot go that way...
+
+* R W C HP:Fine Mana:Cold>Alas, you cannot go that way...
+
+* R W C HP:Fine Mana:Cold>
+Uldrak has arrived from the north - warg.
+Clint quickly approaches, trying to slash you.
+
+* R W C HP:Fine Mana:Cold Clint:Fine>n
+w
+wNo way! You are fighting for your life!
+
+* R W C HP:Fine Mana:Cold Clint:Fine>
+No way! You are fighting for your life!
+Uldrak leaves north - warg.
+You slash Clint's left arm extremely hard and shatter it.
+
+* R W C HP:Fine Mana:Cold Clint:Fine>f
+wNo way! You are fighting for your life!
+The Bree Guard has arrived from the north.
+
+* R W C HP:Fine Mana:Cold Clint:Fine>
+w
+You flee head over heels.
+Main Street
+There are two dark coloured flasks here.
+There is an old street-lamp on the border of the street.
+A large sack is on the ground.
+*Trassel Half-Elf* is here, - WARHORSE.
+*Khazdul the Dwarf* is here, - MULE.
+*Kurn the Eriadorian Man* is standing here.
+A herbalist, surrounded by a cloud of spice, smiles at you.
+A Guard of Bree stands here.
+A Guard of Bree stands here.
+The Cityguard is here, fighting Uldrak.
+A Guard of Bree stands here.
+A Guard of Bree stands here, waiting in the headquarters.
+Jack stands on guard here, collecting monies.
+A Guard of Bree is here, watching the gate.
+The Bree gateguard is here, fighting Uldrak.
+The Bree Guard is here, fighting Uldrak.
+The Bree Guard is here, fighting Uldrak.
+The Bree Guard is here, fighting Uldrak.
+The Mayor of Bree is here, fighting Uldrak.
+A Guard of Bree stands here.
+A Guard of Bree stands here.
+A Guard of Bree stands here.
+A robin is here, carrying small pieces of wood to its nest.
+Uldrak is here, riding a hungry warg, fighting the Bree gateguard.
+An elite Bree guard stands here stoutly.
+A Guard of Bree stands here.
+Exits: North East South West.
+Jack Olby quickly approaches, trying to crush you.
+The Bree gateguard quickly approaches, trying to stab you.
+You swiftly dodge an elite Bree Guard's attempt to slash you.
+
+1;1mThe herbalist quickly approaches, trying to hit you.
+The Bree Guard joins an elite Bree Guard's fight.
+
+* R W C HP:Fine Mana:Cold Jack Olby:Healthy>No way! You are fighting for your life!
+The Bree Guard strongly pierces your left foot.
+You feel a strong ache there!
+The Bree Guard fails to stab Uldrak.
+You swiftly dodge the Bree Guard's attempt to hit you.
+
+* R W C HP:Fine Mana:Cold Jack Olby:Healthy>No way! You are fighting for your life!
+*Toku the Harfoot Hobbit* has arrived from the east.
+The Bree Guard bows before *Toku the Harfoot Hobbit*.
+The Bree Guard leaves east.
+Jack Olby crushes your right leg and tickles it.
+
+* R W C HP:Fine Mana:Cold Jack Olby:Healthy>No way! You are fighting for your life!
+The Bree Guard has arrived from the west.
+The Gatekeeper has arrived from the east.
+
+* R W C HP:Fine Mana:Cold Jack Olby:Healthy>f
+
+*Toku the Harfoot Hobbit* leaves -< EAST >-.
+The Gatekeeper puts a lantern on his belt.
+The Gatekeeper lights a lantern.
+Uldrak smites the Bree gateguard's body extremely hard and shatters it.
+
+* R W C HP:Fine Mana:Cold Jack Olby:Healthy>w
+wYou flee head over heels.
+Cobblestone Street
+There are three backswords here.
+A canoe has been left here.
+You see three pairs of soft leather boots on the ground.
+On the ground, there are three plain cloaks.
+There are two plain leather belts here.
+There are two plain pairs of pants here.
+You see two soft leather jerkins on the ground.
+There is an old street-lamp on the border of the street.
+The corpse of *a Half-Elf* is lying here.
+A sturdy pack horse is standing here.
+Clint the Dwarf is standing here.
+A Guard of Bree stands here.
+Exits: North.
+The Bree Guard has arrived from the north.
+
+* R W C HP:Fine Mana:Cold>
+w
+Alas, you cannot go that way...
+The Bree Guard stops using a lantern.
+The Bree Guard quickly approaches, trying to pierce you.
+The Bree Guard joins the Bree Guard's fight.
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Healthy>No way! You are fighting for your life!
+Billabong narrates 'how is elestir'
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Healthy>No way! You are fighting for your life!
+Clint quickly approaches, trying to slash you.
+The Gatekeeper has arrived from the north.
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Healthy>n
+
+The Gatekeeper stops using a lantern.
+The Gatekeeper tries to hit you, but your parry is successful.
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Healthy>w
+Bramba narrates 'eeek'
+No way! You are fighting for your life!
+You slash the Bree Guard's body hard.
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Fine>f
+No way! You are fighting for your life!
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Fine>w
+wYou flee head over heels.
+Main Street
+There are two dark coloured flasks here.
+There is an old street-lamp on the border of the street.
+A large sack is on the ground.
+*Trassel Half-Elf* is here, - WARHORSE.
+*Kurn the Eriadorian Man* is standing here.
+A herbalist, surrounded by a cloud of spice, smiles at you.
+A Guard of Bree stands here.
+A cityguard stands here, looking very upset.
+Jack stands on guard here, collecting monies.
+A Guard of Bree is here, watching the gate.
+A Guard of Bree stands here, waiting in the headquarters.
+A Guard of Bree stands here.
+A Guard of Bree stands here, waiting in the headquarters.
+The Mayor of Bree is standing here.
+A Guard of Bree stands here.
+A robin is here, carrying small pieces of wood to its nest.
+A Guard of Bree stands here, waiting in the headquarters.
+Exits: North East South West.
+You swiftly dodge *Trassel Half-Elf*'s attempt to stab you.
+The herbalist tries to hit you, but your parry is successful.
+The Bree Guard leaves east.
+
+* R W C HP:Fine Mana:Cold *Trassel Half-Elf*:Hurt>
+w
+*Elestir Elf* has arrived from the east - TRAINED.
+Uldrak has arrived from the west - warg.
+No way! You are fighting for your life!
+The Bree Guard bows before *Elestir Elf*.
+The Bree Guard leaves north.
+
+* R W C HP:Fine Mana:Cold *Trassel Half-Elf*:Hurt>*Elestir Elf* tries to slash you, but your parry is successful.
+Uldrak leaves west - warg.
+No way! You are fighting for your life!
+The Bree gateguard quickly approaches, trying to stab you.
+The Bree Guard quickly approaches, trying to stab you.
+The Bree Guard tries to pierce you, but your parry is successful.
+
+* R W C HP:Fine Mana:Cold *Trassel Half-Elf*:Hurt>No way! You are fighting for your life!
+You swiftly dodge the Bree Guard's attempt to pierce you.
+The Cityguard leaves north.
+
+* R W C HP:Fine Mana:Cold *Trassel Half-Elf*:Hurt>f
+wYou flee head over heels.
+Main Street
+There is an old street-lamp on the border of the street.
+*a Dwarf* is standing here.
+A Guard of Bree stands here.
+A Guard of Bree is here, watching the gate.
+A Guard of Bree stands here, waiting in the headquarters.
+Exits: North West.
+You suddenly notice *Toku the Harfoot Hobbit*.
+You swiftly dodge the Bree Guard's attempt to pierce you.
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Healthy>
+w
+No way! You are fighting for your life!
+You swiftly dodge the Bree Guard's attempt to stab you.
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Healthy>No way! You are fighting for your life!
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Healthy>
+You swiftly dodge the Bree gateguard's attempt to stab you.
+The Bree Guard has arrived from the north.
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Healthy>
+*Khazdul the Dwarf* has arrived from the west - MULE.
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Healthy>f
+w
+###### !!! PANIK !!! ######################
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Healthy>w
+wNo way! You are fighting for your life!
+The herbalist has arrived from the west.
+The Bree Guard joins the Bree Guard's fight.
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Healthy>
+No way! You are fighting for your life!
+*a Dwarf* now follows the Bree Guard.
+The herbalist stops using a lantern.
+The herbalist quickly approaches, trying to hit you.
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Healthy>*Elestir Elf* has arrived from the west - TRAINED.
+No way! You are fighting for your life!
+The Bree Guard has arrived from the west.
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Healthy>
+The Bree Guard stops using a lantern.
+The Bree Guard quickly approaches, trying to pierce you.
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Healthy>f
+w
+w*Toku the Harfoot Hobbit* leaves -< NORTH >-.
+You flee head over heels.
+Main Street
+There is an old street-lamp on the border of the street.
+Exits: East South.
+You smell blood.
+You suddenly notice *Toku the Harfoot Hobbit*.
+
+* R W C HP:Fine Mana:Cold>
+s
+Alas, you cannot go that way...
+*Elestir Elf* has arrived from the south - TRAINED.
+
+* R W C HP:Fine Mana:Cold>w
+Dragoth narrates 'dorak was awful'
+*Elestir Elf* quickly approaches, trying to slash you.
+No way! You are fighting for your life!
+
+* R W C HP:Fine Mana:Cold *Elestir Elf*:Hurt>No way! You are fighting for your life!
+*Toku the Harfoot Hobbit* leaves -< EAST >-.
+
+* R W C HP:Fine Mana:Cold *Elestir Elf*:Hurt>No way! You are fighting for your life!
+
+* R W C HP:Fine Mana:Cold *Elestir Elf*:Hurt>f
+w
+You flee head over heels.
+Main Street
+There is an old street-lamp on the border of the street.
+A little dog is here.
+A Guard of Bree stands here.
+A Guard of Bree stands here.
+Exits: North East South West.
+The little dog leaves west.
+
+* R W C HP:Fine Mana:Cold>s
+Main Street
+There is an old street-lamp on the border of the street.
+*Elestir Elf* is here, - TRAINED.
+A Guard of Bree stands here.
+A Guard of Bree stands here.
+A herbalist, surrounded by a cloud of spice, smiles at you.
+A little dog is here.
+Exits: East South.
+The Bree gateguard has arrived from the south.
+
+* R W C HP:Fine Mana:Cold>w
+s
+Main Street
+There is an old street-lamp on the border of the street.
+A Guard of Bree stands here, waiting in the headquarters.
+*Khazdul the Dwarf* is here, - MULE.
+A Guard of Bree is here, watching the gate.
+A Guard of Bree stands here.
+A robin is here, carrying small pieces of wood to its nest.
+Exits: North West.
+
+* R W C HP:Fine Mana:Cold>Main Street
+On the ground, there are two dark coloured flasks.
+There is an old street-lamp on the border of the street.
+A large sack is on the ground.
+*Trassel Half-Elf* is here, - WARHORSE.
+*Kurn the Eriadorian Man* is standing here.
+The gatekeeper stands here.
+A Guard of Bree stands here.
+Exits: North East South West.
+The Bree gateguard has arrived from the east.
+
+* R W C HP:Fine Mana:Cold>Cobblestone Street
+On the ground, there are three backswords.
+A canoe has been left here.
+You see three pairs of soft leather boots on the ground.
+There are three plain cloaks here.
+On the ground, there are two plain leather belts.
+On the ground, there are two plain pairs of pants.
+On the ground, there are two soft leather jerkins.
+There is an old street-lamp on the border of the street.
+The corpse of *a Half-Elf* is lying here.
+A sturdy pack horse is standing here.
+Clint the Dwarf is standing here.
+Exits: North.
+
+* R W C HP:Fine Mana:Cold>w
+Alas, you cannot go that way...
+
+* R W C HP:Fine Mana:Cold>
+The Gatekeeper has arrived from the north.
+
+* R W C HP:Fine Mana:Cold>n
+w
+Main Street
+On the ground, there are two dark coloured flasks.
+There is an old street-lamp on the border of the street.
+A large sack is on the ground.
+*Trassel Half-Elf* is here, - WARHORSE.
+*Kurn the Eriadorian Man* is standing here.
+A Guard of Bree is here, watching the gate.
+A Guard of Bree stands here.
+Exits: North East South West.
+*Kurn the Eriadorian Man* leaves -< NORTH >-.
+*Trassel Half-Elf* quickly approaches, trying to stab you.
+
+* R W C HP:Fine Mana:Cold *Trassel Half-Elf*:Hurt>w
+No way! You are fighting for your life!
+
+* R W C HP:Fine Mana:Cold *Trassel Half-Elf*:Hurt>Bramba narrates 'nod'
+No way! You are fighting for your life!
+The Bree Guard tries to pierce you, but your parry is successful.
+
+* R W C HP:Fine Mana:Cold *Trassel Half-Elf*:Hurt>f
+w
+w
+You flee head over heels.
+Main Street
+There is an old street-lamp on the border of the street.
+*Khazdul the Dwarf* is here, - MULE.
+A robin is here, carrying small pieces of wood to its nest.
+A herbalist, surrounded by a cloud of spice, smiles at you.
+A Guard of Bree stands here.
+Exits: North West.
+*Elestir Elf* has arrived from the north - TRAINED.
+The Bree Guard bows before *Elestir Elf*.
+The Bree gateguard has arrived from the west.
+
+* R W C HP:Fine Mana:Cold>w
+You swiftly dodge *Elestir Elf*'s attempt to slash you.
+No way! You are fighting for your life!
+*Khazdul the Dwarf* tries to smite you, but your parry is successful.
+The Bree gateguard stops using a lantern.
+The Bree Guard tries to pierce you, but your parry is successful.
+
+* R W C HP:Fine Mana:Cold *Elestir Elf*:Hurt>No way! You are fighting for your life!
+You swiftly dodge the herbalist's attempt to hit you.
+
+* R W C HP:Fine Mana:Cold *Elestir Elf*:Hurt>f
+No way! You are fighting for your life!
+Gurgel narrates 'me hurt'
+You swiftly dodge the Bree gateguard's attempt to stab you.
+
+* R W C HP:Fine Mana:Cold *Elestir Elf*:Hurt>w
+You flee head over heels.
+Main Street
+You see two dark coloured flasks on the ground.
+There is an old street-lamp on the border of the street.
+A large sack is on the ground.
+*Trassel Half-Elf* is here, - WARHORSE.
+A Guard of Bree stands here.
+A Guard of Bree stands here.
+Exits: North East South West.
+The Bree Guard puts a lantern on his belt.
+The Bree Guard lights a lantern.
+
+* R W C HP:Fine Mana:Cold>w
+w
+West Gate of Bree
+There is an old street-lamp on the border of the street.
+The corpse of the little dog is lying here.
+The corpse of the Bree gateguard is lying here.
+The corpse of Harry the Gatekeeper is lying here.
+A Guard of Bree is here, watching the gate.
+Harry the Bree Gatekeeper stands here.
+The Bree gateguard is lying here, incapacitated.
+A domesticated pony, beast of burden to many, stands here.
+*Norglin the Eriadorian Man* is standing here.
+A stocky mountain mule is here, waiting to serve.
+A stocky mountain mule is here, waiting to serve.
+*a Dwarf* is here, - MULE.
+A sturdy pack horse is standing here.
+A Guard of Bree stands here.
+*a Hobbit* is standing here.
+Exits: East West.
+The Bree Guard tries to stab you, but your parry is successful.
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Hurt>No way! You are fighting for your life!
+The day has begun. You feel so weak under the cruel light!
+The Bree gateguard bleeds from open wounds.
+The Bree gateguard is mortally wounded and will die soon if not aided.
+-( F O O D )-
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Hurt>No way! You are fighting for your life!
+*a Dwarf* leaves -< EAST >- - MULE.
+Harry the Gatekeeper tries to pierce you, but your parry is successful.
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Hurt>w
+f
+No way! You are fighting for your life!
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Hurt>w
+w
+###### !!! PANIK !!! ######################
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Hurt>Gurgel narrates 'cure up'
+No way! You are fighting for your life!
+You swiftly dodge the Bree gateguard's attempt to stab you.
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Hurt>No way! You are fighting for your life!
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Hurt>f
+w
+###### !!! PANIK !!! ######################
+The Bree Guard has arrived from the east.
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Hurt>w
+No way! You are fighting for your life!
+*Butrus Elf* has arrived from the east - TRAINED.
+You slash the Bree Guard's left arm hard.
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Hurt>w
+You swiftly dodge *Butrus Elf*'s attempt to pierce you.
+No way! You are fighting for your life!
+*Khad the Dwarf* has arrived from the west.
+The Bree Guard tries to pierce you, but your parry is successful.
+Harry the Gatekeeper lightly pierces your body and tickles it.
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Hurt>No way! You are fighting for your life!
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Hurt>w
+f
+No way! You are fighting for your life!
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Hurt>w
+You flee head over heels.
+Main Street
+On the ground, there are two dark coloured flasks.
+There is an old street-lamp on the border of the street.
+A large sack is on the ground.
+*Trassel Half-Elf* is here, - WARHORSE.
+*a Dwarf* is here, - MULE.
+A herbalist, surrounded by a cloud of spice, smiles at you.
+*Elestir Elf* is here, - TRAINED.
+Exits: *North* *East* South West.
+*Elestir Elf* leaves -< NORTH >- - TRAINED.
+Uldrak has arrived from the north.
+*Trassel Half-Elf* tries to stab you, but your parry is successful.
+The Bree Guard has arrived from the north.
+The Bree gateguard has arrived from the east.
+The Bree Guard heroically rescues *Trassel Half-Elf*.
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Healthy>w
+w
+No way! You are fighting for your life!
+The Bree gateguard puts a lantern on his belt.
+The Bree gateguard lights a lantern.
+The herbalist barely hits Uldrak's body and tickles it.
+The Bree Guard has arrived from the north.
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Healthy>No way! You are fighting for your life!
+The Bree Guard puts a lantern on his belt.
+The Bree Guard lights a lantern.
+You swiftly dodge the Bree Guard's attempt to pierce you.
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Healthy>*Butrus Elf* has arrived from the west - TRAINED.
+No way! You are fighting for your life!
+The Bree Guard has arrived from the north.
+You slash the Bree Guard's body hard.
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Fine>f
+
+- flees -
+- flees -
+The Bree Guard puts a lantern on his belt.
+The Bree Guard lights a lantern.
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Fine>w
+w
+You flee head over heels.
+You blink and feel weaker under the cruel light of the sun.
+Cobblestone Street
+There is an old street-lamp on the border of the street.
+A domesticated pony, beast of burden to many, stands here.
+A Guard of Bree stands here.
+*Kurn the Eriadorian Man* is standing here.
+Jack stands on guard here, collecting monies.
+A hungry warg stands here, sniffing around for flesh.
+The gatekeeper stands here.
+*Elestir Elf* is here, - TRAINED.
+A Guard of Bree stands here.
+Exits: *North* South.
+The Bree Guard leaves south.
+
+* R W C HP:Fine Mana:Cold>w
+Alas, you cannot go that way...
+Zhagrat narrates 'day'
+
+* R W C HP:Fine Mana:Cold>Alas, you cannot go that way...
+The Gatekeeper strongly hits your left leg and tickles it.
+
+* R W C HP:Fine Mana:Cold the Gatekeeper:Healthy>Billabong narrates 'me wounded'
+No way! You are fighting for your life!
+
+* R W C HP:Fine Mana:Cold the Gatekeeper:Healthy>
+The Bree Guard tries to stab you, but your parry is successful.
+Jack Olby tries to crush you, but your parry is successful.
+
+* R W C HP:Fine Mana:Cold the Gatekeeper:Healthy>n
+w
+No way! You are fighting for your life!
+The Bree Guard has arrived from the south.
+
+* R W C HP:Fine Mana:Cold the Gatekeeper:Healthy>w
+No way! You are fighting for your life!
+The Bree Guard stops using a lantern.
+The herbalist has arrived from the south.
+
+* R W C HP:Fine Mana:Cold the Gatekeeper:Healthy>No way! You are fighting for your life!
+The herbalist stops using a lantern.
+
+* R W C HP:Fine Mana:Cold the Gatekeeper:Healthy>
+Bramba narrates 'me down 300 :P'
+Guglunk narrates 'wtf is gathrain ?'
+The Bree Guard quickly approaches, trying to pierce you.
+
+* R W C HP:Fine Mana:Cold the Gatekeeper:Healthy>s
+
+Gimilzor narrates 'bash s gate'
+The Bree Guard has arrived from the south.
+
+* R W C HP:Fine Mana:Cold the Gatekeeper:Healthy>w
+No way! You are fighting for your life!
+Gimilzor narrates 'bash s gate'
+*Elestir Elf* leaves -< SOUTH >- - TRAINED.
+The Bree Guard stops using a lantern.
+
+* R W C HP:Fine Mana:Cold the Gatekeeper:Healthy>f
+Gimilzor narrates 'bash s gate'
+No way! You are fighting for your life!
+The herbalist lightly hits your body and tickles it.
+The Bree Guard lightly pierces your right arm and tickles it.
+
+* R W C HP:Fine Mana:Cold the Gatekeeper:Healthy>w
+s
+You flee head over heels.
+Paving Stone Square
+There is an old street-lamp on the border of the street.
+A little dog is here.
+Exits: North East *South*.
+Gimilzor narrates 'bash s gate'
+
+* R W C HP:Fine Mana:Cold>Alas, you cannot go that way...
+The Gatekeeper has arrived from the south.
+
+* R W C HP:Fine Mana:Cold>w
+s
+Cobblestone Street
+There is an old street-lamp on the border of the street.
+A domesticated pony, beast of burden to many, stands here.
+*Kurn the Eriadorian Man* is standing here.
+Jack stands on guard here, collecting monies.
+A hungry warg stands here, sniffing around for flesh.
+A Guard of Bree stands here.
+A Guard of Bree stands here.
+A herbalist, surrounded by a cloud of spice, smiles at you.
+A Guard of Bree stands here.
+Exits: *North* South.
+You swiftly dodge the Bree Guard's attempt to pierce you.
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Healthy>No way! You are fighting for your life!
+The Bree Guard quickly approaches, trying to stab you.
+The Bree Guard quickly approaches, trying to pierce you.
+Jack Olby quickly approaches, trying to crush you.
+The Bree gateguard has arrived from the south.
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Healthy>No way! You are fighting for your life!
+The Bree gateguard stops using a lantern.
+Jack Olby lightly crushes your right arm and tickles it.
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Healthy>w
+s
+No way! You are fighting for your life!
+You swiftly dodge the Bree gateguard's attempt to stab you.
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Healthy>f
+w
+No way! You are fighting for your life!
+
+* R W C HP:Fine Mana:Cold the Bree Guard:Healthy>s
+w
+You flee head over heels.
+Paving Stone Square
+There is an old street-lamp on the border of the street.
+A little dog is here.
+The gatekeeper stands here.
+Exits: North East *South*.
+
+* R W C HP:Fine Mana:Cold>s
+Alas, you cannot go that way...
+
+* R W C HP:Fine Mana:Cold>Cobblestone Street
+There is an old street-lamp on the border of the street.
+A domesticated pony, beast of burden to many, stands here.
+*Kurn the Eriadorian Man* is standing here.
+Jack stands on guard here, collecting monies.
+A hungry warg stands here, sniffing around for flesh.
+A Guard of Bree stands here.
+A Guard of Bree stands here.
+A herbalist, surrounded by a cloud of spice, smiles at you.
+A Guard of Bree stands here.
+A Guard of Bree is here, watching the gate.
+Exits: *North* South.
+
+* R W C HP:Fine Mana:Cold>Kozlor narrates 'all go colden'
+Alas, you cannot go that way...
+The herbalist strongly hits your left foot and tickles it.
+
+* R W C HP:Fine Mana:Cold the herbalist:Healthy>No way! You are fighting for your life!
+Jack Olby quickly approaches, trying to crush you.
+The Gatekeeper has arrived from the north.
+You slash the herbalist's left foot hard.
+
+* R W C HP:Fine Mana:Cold the herbalist:Fine>
+The Bree gateguard quickly approaches, trying to stab you.
+
+* R W C HP:Fine Mana:Cold the herbalist:Fine>s
+w
+*Kurn the Eriadorian Man* begins some strange incantations...
+No way! You are fighting for your life!
+The Bree Guard quickly approaches, trying to stab you.
+
+* R W C HP:Fine Mana:Cold the herbalist:Fine>f
+No way! You are fighting for your life!
+The Gatekeeper tries to hit you, but your parry is successful.
+You swiftly dodge the Bree Guard's attempt to pierce you.
+The Bree Guard lightly pierces your right arm and tickles it.
+
+* R W C HP:Fine Mana:Cold the herbalist:Fine>You flee head over heels.
+You feel so much better hiding in the shadows!
+Main Street
+On the ground, there are two dark coloured flasks.
+There is an old street-lamp on the border of the street.
+A large sack is on the ground.
+*Trassel Half-Elf* is here, riding the warhorse, fighting Uldrak.
+*a Dwarf* is here, - MULE.
+*Butrus Elf* is here, - TRAINED.
+*Khad the Dwarf* is here, fighting Uldrak.
+*Elestir Elf* is here, - TRAINED.
+*Norglin the Eriadorian Man* is standing here.
+Uldrak is here, fighting *Khad the Dwarf*.
+A Guard of Bree stands here.
+Exits: *North* *East* South West.
+*Khazdul the Dwarf* has arrived from the east - MULE.
+The Bree Guard has arrived from the south.
+The Bree Guard heroically rescues *Khad the Dwarf*.
+
+* R W C HP:Fine Mana:Cold Move:Tired>
+- flees -
+Uldrak leaves south.
+
+* R W C HP:Fine Mana:Cold Move:Tired>f
+
+You swiftly dodge *Elestir Elf*'s attempt to slash you.
+Uldrak has arrived from the south.
+*Butrus Elf* tries to pierce you, but your parry is successful.
+
+* R W C HP:Fine Mana:Cold Move:Tired *Elestir Elf*:Hurt>s
+*Khazdul the Dwarf* leaves -< EAST >- - MULE.
+You flee head over heels.
+You blink and feel weaker under the cruel light of the sun.
+Cobblestone Street
+There is an old street-lamp on the border of the street.
+A domesticated pony, beast of burden to many, stands here.
+*Kurn the Eriadorian Man* is standing here.
+Jack stands on guard here, collecting monies.
+A hungry warg stands here, sniffing around for flesh.
+A Guard of Bree stands here.
+A Guard of Bree stands here.
+A herbalist, surrounded by a cloud of spice, smiles at you.
+A Guard of Bree stands here.
+A Guard of Bree is here, watching the gate.
+The gatekeeper stands here.
+Exits: *North* South.
+
+* R W C HP:Fine Mana:Cold Move:Tired>s
+You feel so much better hiding in the shadows!
+Main Street
+You see two dark coloured flasks on the ground.
+There is an old street-lamp on the border of the street.
+A large sack is on the ground.
+*Trassel Half-Elf* is here, - WARHORSE.
+*a Dwarf* is here, - MULE.
+*Butrus Elf* is here, - TRAINED.
+*Khad the Dwarf* is standing here.
+*Elestir Elf* is here, - TRAINED.
+*Norglin the Eriadorian Man* is standing here.
+A Guard of Bree stands here.
+A Guard of Bree stands here.
+Uldrak is standing here.
+A Guard of Bree stands here.
+Exits: *North* *East* South West.
+Uldrak leaves north.
+You swiftly dodge *Norglin the Eriadorian Man*'s attempt to pound you.
+The Bree Guard puts a lantern on his belt.
+The Bree Guard lights a lantern.
+You swiftly dodge the Bree Guard's attempt to pierce you.
+
+* R W C HP:Fine Mana:Cold Move:Tired *Norglin the Eriadorian Man*:Fine>No way! You are fighting for your life!
+Uldrak has arrived from the north.
+*Khazdul the Dwarf* has arrived from the east - MULE.
+
+* R W C HP:Fine Mana:Cold Move:Tired *Norglin the Eriadorian Man*:Fine>
+The Gatekeeper has arrived from the north.
+
+* R W C HP:Fine Mana:Cold Move:Tired *Norglin the Eriadorian Man*:Fine>
+Uldrak leaves north.
+The Gatekeeper puts a lantern on his belt.
+The Gatekeeper lights a lantern.
+The Bree Guard tries to stab you, but your parry is successful.
+
+* R W C HP:Fine Mana:Cold Move:Tired *Norglin the Eriadorian Man*:Fine>f
+You flee head over heels.
+You blink and feel weaker under the cruel light of the sun.
+Cobblestone Street
+There is an old street-lamp on the border of the street.
+A domesticated pony, beast of burden to many, stands here.
+*Kurn the Eriadorian Man* is standing here.
+Jack stands on guard here, collecting monies.
+A hungry warg stands here, sniffing around for flesh.
+A Guard of Bree stands here.
+A Guard of Bree stands here.
+The herbalist is here, fighting Uldrak.
+The Bree Guard is here, fighting Uldrak.
+The Bree gateguard is here, fighting Uldrak.
+Uldrak is here, fighting the Bree Guard.
+Exits: *North* South.
+- flees -
+Uldrak leaves north.
+The Bree Guard quickly approaches, trying to pierce you.
+
+* R W C HP:Fine Mana:Cold Move:Tired the Bree Guard:Fine>s
+s
+No way! You are fighting for your life!
+The Bree Guard tries to stab you, but your parry is successful.
+Jack Olby joins the Bree Guard's fight.
+Jack Olby crushes your right leg and tickles it.
+
+* R W C HP:Fine Mana:Cold Move:Tired the Bree Guard:Fine>No way! You are fighting for your life!
+Uldrak has arrived from the north.
+The Bree Guard has arrived from the south.
+The Bree Guard leaves north.
+
+* R W C HP:Fine Mana:Cold Move:Tired the Bree Guard:Fine>f
+Uldrak leaves north.
+
+* R W C HP:Fine Mana:Cold Move:Tired the Bree Guard:Fine>
+You flee head over heels.
+Paving Stone Square
+There is an old street-lamp on the border of the street.
+A little dog is here.
+A Guard of Bree stands here.
+Uldrak is standing here.
+Exits: North East *South*.
+
+* R W C HP:Fine Mana:Cold Move:Tired>
+Uldrak leaves north.
+The Bree Guard has arrived from the south.
+
+* R W C HP:Fine Mana:Cold Move:Tired>s
+Zhagrat narrates 'sun'
+Cobblestone Street
+There is an old street-lamp on the border of the street.
+A domesticated pony, beast of burden to many, stands here.
+*Kurn the Eriadorian Man* is standing here.
+Jack stands on guard here, collecting monies.
+A hungry warg stands here, sniffing around for flesh.
+A Guard of Bree stands here.
+A Guard of Bree stands here.
+A herbalist, surrounded by a cloud of spice, smiles at you.
+A Guard of Bree is here, watching the gate.
+A Guard of Bree stands here.
+Exits: *North* South.
+The Bree Guard stops using a lantern.
+Jack Olby quickly approaches, trying to crush you.
+The herbalist tries to hit you, but your parry is successful.
+The Gatekeeper has arrived from the south.
+
+* R W C HP:Fine Mana:Cold Move:Tired Jack Olby:Healthy>s
+
+Gimilzor narrates 'help udldrak out'
+The Gatekeeper stops using a lantern.
+The Bree Guard quickly approaches, trying to stab you.
+The Gatekeeper lightly hits your body and tickles it.
+
+* R W C HP:Fine Mana:Cold Move:Tired Jack Olby:Healthy>Gimilzor narrates 'help udldrak out'
+No way! You are fighting for your life!
+The Bree Guard quickly approaches, trying to stab you.
+The Bree Guard tries to pierce you, but your parry is successful.
+The Bree gateguard joins the Gatekeeper's fight.
+
+* R W C HP:Fine Mana:Cold Move:Tired Jack Olby:Healthy>
+Gimilzor narrates 'help udldrak out'
+
+* R W C HP:Fine Mana:Cold Move:Tired Jack Olby:Healthy>f
+e
+s
+You flee head over heels.
+###### !!! PANIK !!! ######################
+*Norglin the Eriadorian Man* has arrived from the south.
+
+* R W C HP:Fine Mana:Cold Move:Tired Jack Olby:Healthy>No way! You are fighting for your life!
+
+* R W C HP:Fine Mana:Cold Move:Tired Jack Olby:Healthy>e
+No way! You are fighting for your life!
+-( ARMOUR DOWN )-, DONT EAT BACKSTAB!!!
+The Bree Guard stabs your right foot and tickles it.
+
+* R W C HP:Fine Mana:Cold Move:Tired Jack Olby:Healthy>No way! You are fighting for your life!
+The Gatekeeper hits your right arm extremely hard.
+
+* R W C HP:Hurt Mana:Cold Move:Tired Jack Olby:Healthy>f
+e
+You flee head over heels.
+Paving Stone Square
+There is an old street-lamp on the border of the street.
+A Guard of Bree stands here.
+The Bree Guard is here, fighting Uldrak.
+An elite Bree guard stands here stoutly.
+Uldrak is here, fighting the Bree Guard.
+Exits: North East *South*.
+An elite Bree Guard slashes Uldrak's right leg.
+The Gatekeeper has arrived from the south.
+The Bree Guard has arrived from the south.
+Uldrak smites the Bree Guard's head extremely hard.
+
+* R W C HP:Hurt Mana:Cold Move:Tired>e
+Oops! You cannot go there riding!
+
+* R W C HP:Hurt Mana:Cold Move:Tired>Oops! You cannot go there riding!
+The Bree Guard approaches Uldrak, trying to stab him.
+
+* R W C HP:Hurt Mana:Cold Move:Tired>
+- flees -
+Uldrak leaves north.
+The Bree Guard quickly approaches, trying to pierce you.
+The herbalist has arrived from the south.
+The Bree gateguard has arrived from the south.
+The herbalist joins the Bree Guard's fight.
+
+* R W C HP:Hurt Mana:Cold Move:Tired the Bree Guard:Hurt>e
+n
+No way! You are fighting for your life!
+The Gatekeeper quickly approaches, trying to hit you.
+The Bree Guard has arrived from the south.
+The Bree Guard joins the Bree Guard's fight.
+
+* R W C HP:Hurt Mana:Cold Move:Tired the Bree Guard:Hurt>e
+No way! You are fighting for your life!
+Jack Olby has arrived from the south.
+
+* R W C HP:Hurt Mana:Cold Move:Tired the Bree Guard:Hurt>f
+No way! You are fighting for your life!
+The Bree gateguard quickly approaches, trying to stab you.
+Jack Olby leaves north.
+
+* R W C HP:Hurt Mana:Cold Move:Tired the Bree Guard:Hurt>e
+You flee head over heels.
+Cobblestone Street
+There is an old street-lamp on the border of the street.
+A domesticated pony, beast of burden to many, stands here.
+*Kurn the Eriadorian Man* is standing here.
+A hungry warg stands here, sniffing around for flesh.
+A Guard of Bree stands here.
+*Norglin the Eriadorian Man* is standing here.
+A Guard of Bree stands here.
+Exits: *North* South.
+*Norglin the Eriadorian Man* pounds your body and tickles it.
+
+* R W C HP:Hurt Mana:Cold Move:Slow *Norglin the Eriadorian Man*:Fine>No way! You are fighting for your life!
+The Bree Guard quickly approaches, trying to stab you.
+
+* R W C HP:Hurt Mana:Cold Move:Slow *Norglin the Eriadorian Man*:Fine>f
+You flee head over heels.
+Paving Stone Square
+There is an old street-lamp on the border of the street.
+A Guard of Bree stands here.
+The Bree Guard is here, fighting Uldrak.
+An elite Bree guard stands here stoutly.
+The gatekeeper stands here.
+A Guard of Bree stands here.
+The herbalist is here, fighting Uldrak.
+A Guard of Bree is here, watching the gate.
+The Bree Guard is here, fighting Uldrak.
+Uldrak is here, fighting the Bree Guard.
+Exits: North East *South*.
+The Bree Guard tries to pierce you, but your parry is successful.
+The Bree Guard tries to stab Uldrak, but he parries successfully.
+An elite Bree Guard joins the Bree Guard's fight.
+- flees -
+Uldrak leaves south.
+
+* R W C HP:Hurt Mana:Cold Move:Slow the Bree Guard:Hurt>
+Uldrak has arrived from the south.
+An elite Bree Guard approaches Uldrak, trying to slash him.
+
+* R W C HP:Hurt Mana:Cold Move:Slow the Bree Guard:Hurt>
+The Gatekeeper hits Uldrak's body very hard.
+
+* R W C HP:Hurt Mana:Cold Move:Slow the Bree Guard:Hurt>
+The Bree Guard has arrived from the south.
+
+* R W C HP:Hurt Mana:Cold Move:Slow the Bree Guard:Hurt>f
+- flees -
+Uldrak leaves east.
+You flee head over heels.
+Cobblestone Street
+There is an old street-lamp on the border of the street.
+A domesticated pony, beast of burden to many, stands here.
+*Kurn the Eriadorian Man* is standing here.
+A Guard of Bree stands here.
+*Norglin the Eriadorian Man* is standing here.
+Exits: *North* South.
+
+* R W C HP:Hurt Mana:Cold Move:Slow>
+*Norglin the Eriadorian Man* leaves -< NORTH >-.
+
+* R W C HP:Hurt Mana:Cold Move:Slow>e
+Alas, you cannot go that way...
+
+* R W C HP:Hurt Mana:Cold Move:Slow>n
+e
+Paving Stone Square
+There is an old street-lamp on the border of the street.
+A Guard of Bree stands here.
+An elite Bree guard stands here stoutly.
+The gatekeeper stands here.
+A Guard of Bree stands here.
+A herbalist, surrounded by a cloud of spice, smiles at you.
+A Guard of Bree is here, watching the gate.
+A Guard of Bree stands here.
+A Guard of Bree stands here.
+*Norglin the Eriadorian Man* is standing here.
+Exits: North East *South*.
+The Bree Guard tries to pierce you, but your parry is successful.
+
+* R W C HP:Hurt Mana:Cold Move:Slow the Bree Guard:Fine>Uldrak has arrived from the east.
+No way! You are fighting for your life!
+The herbalist lightly hits Uldrak's right hand and tickles it.
+The Bree Guard has arrived from the south.
+
+* R W C HP:Hurt Mana:Cold Move:Slow the Bree Guard:Fine>
+An elite Bree Guard approaches Uldrak, trying to slash him.
+The Gatekeeper tries to hit you, but your parry is successful.
+The Bree Guard barely stabs Uldrak's body and tickles it.
+The Bree Guard quickly approaches, trying to pierce you.
+The Bree Guard barely pierces Uldrak's left leg and tickles it.
+The Bree gateguard barely stabs Uldrak's right leg and tickles it.
+
+* R W C HP:Hurt Mana:Cold Move:Slow the Bree Guard:Fine>f
+
+The Bree Guard joins the Bree Guard's fight.
+
+* R W C HP:Hurt Mana:Cold Move:Slow the Bree Guard:Fine>s
+You flee head over heels.
+Oops! You cannot go there riding!
+Oops! You cannot go there riding!
+Oops! You cannot go there riding!
+###### !!! PANIK !!! ######################
+The Bree Guard pierces your right arm and tickles it.
+
+* R W C HP:Hurt Mana:Cold Move:Slow the Bree Guard:Fine>s
+- flees -
+- flees -
+No way! You are fighting for your life!
+An elite Bree Guard lightly slashes Uldrak's body.
+Uldrak smites the herbalist's right arm extremely hard and shatters it.
+
+* R W C HP:Hurt Mana:Cold Move:Slow the Bree Guard:Fine>No way! You are fighting for your life!
+- flees -
+
+* R W C HP:Hurt Mana:Cold Move:Slow the Bree Guard:Fine>f
+
+- flees -
+Jack Olby has arrived from the east.
+Jack Olby joins the Bree Guard's fight.
+Jack Olby crushes your left arm hard.
+
+* R W C HP:Hurt Mana:Cold Move:Slow the Bree Guard:Fine>s
+You flee head over heels.
+Cobblestone Street
+There is an old street-lamp on the border of the street.
+A domesticated pony, beast of burden to many, stands here.
+*Kurn the Eriadorian Man* is standing here.
+Exits: *North* South.
+
+* R W C HP:Hurt Mana:Cold Move:Weak>s
+Uldrak has arrived from the north.
+You feel so much better hiding in the shadows!
+Main Street
+There are two dark coloured flasks here.
+There is an old street-lamp on the border of the street.
+A large sack is on the ground.
+*Trassel Half-Elf* is here, - WARHORSE.
+*a Dwarf* is here, - MULE.
+*Elestir Elf* is here, - TRAINED.
+*Khazdul the Dwarf* is here, - MULE.
+A hungry warg stands here, sniffing around for flesh.
+*Butrus Elf* is here, - TRAINED.
+Exits: *North* *East* South West.
+You suddenly notice *a Hobbit*.
+*Butrus Elf* fails to pierce you.
+*Elestir Elf* tries to slash you, but your parry is successful.
+*Khad the Dwarf* has arrived from the west.
+
+* R W C HP:Hurt Mana:Cold Move:Weak *Butrus Elf*:Healthy>*Khad the Dwarf* leaves -< NORTH >-.
+No way! You are fighting for your life!
+*Trassel Half-Elf* tries to stab you, but your parry is successful.
+
+* R W C HP:Hurt Mana:Cold Move:Weak *Butrus Elf*:Healthy>
+Grunk narrates 'CANT BASH'
+
+* R W C HP:Hurt Mana:Cold Move:Weak *Butrus Elf*:Healthy>f
+s
+You flee head over heels.
+Cobblestone Street
+On the ground, there are three backswords.
+A canoe has been left here.
+On the ground, there are three pairs of soft leather boots.
+There are three plain cloaks here.
+There are two plain leather belts here.
+On the ground, there are two plain pairs of pants.
+On the ground, there are two soft leather jerkins.
+There is an old street-lamp on the border of the street.
+The corpse of *a Half-Elf* is lying here.
+A sturdy pack horse is standing here.
+Clint the Dwarf is standing here.
+Exits: North.
+
+* R W C HP:Hurt Mana:Cold Move:Weak>s
+Alas, you cannot go that way...
+
+* R W C HP:Hurt Mana:Cold Move:Weak>Alas, you cannot go that way...
+
+* R W C HP:Hurt Mana:Cold Move:Weak>m
+Clint tries to slash you, but your parry is successful.
+
+* R W C HP:Hurt Mana:Cold Move:Weak Clint:Wounded>ov
+movquaff draught
+Ok.
+The draught burns down your throat, and a fiery feeling fills your limbs.
+Zhagrat tells you 'kus oled ?'
+
+* R W C HP:Hurt Mana:Cold Move:Tired Clint:Wounded>
+moquaff draught
+Ok.
+The draught burns down your throat, and a fiery feeling fills your limbs.
+Billabong narrates 'dia in trouble too'
+You flee head over heels.
+Main Street
+There are two dark coloured flasks here.
+There is an old street-lamp on the border of the street.
+A large sack is on the ground.
+*Trassel Half-Elf* is here, - WARHORSE.
+*a Dwarf* is here, - MULE.
+*Elestir Elf* is here, - TRAINED.
+*Khazdul the Dwarf* is here, - MULE.
+*a Hobbit* is standing here.
+A hungry warg stands here, sniffing around for flesh.
+*Butrus Elf* is here, - TRAINED.
+Exits: *North* *East* South West.
+
+* R W C HP:Wounded Mana:Cold>v
+
+*Elestir Elf* quickly approaches, trying to slash you.
+*Butrus Elf* quickly approaches, trying to pierce you.
+*Khazdul the Dwarf* leaves -< SOUTH >- - MULE.
+
+* R W C HP:Wounded Mana:Cold *Elestir Elf*:Hurt>quaff draught
+Ok.
+The draught burns down your throat, and a fiery feeling fills your limbs.
+
+* R W C HP:Wounded Mana:Cold *Elestir Elf*:Hurt>f
+###### !!! PANIK !!! ######################
+The Gatekeeper has arrived from the north.
+*Elestir Elf* slashes your left leg very hard.
+
+* R W C HP:Wounded Mana:Cold *Elestir Elf*:Hurt>
+*Khazdul the Dwarf* has arrived from the south - MULE.
+The Gatekeeper puts a lantern on his belt.
+The Gatekeeper lights a lantern.
+The Bree gateguard has arrived from the north.
+The Bree Guard has arrived from the north.
+
+* R W C HP:Wounded Mana:Cold *Elestir Elf*:Hurt>
+The Bree Guard puts a lantern on his belt.
+The Bree Guard lights a lantern.
+The Bree gateguard puts a lantern on his belt.
+The Bree gateguard lights a lantern.
+
+* R W C HP:Wounded Mana:Cold *Elestir Elf*:Hurt>f
+###### !!! PANIK !!! ######################
+You swiftly dodge the Gatekeeper's attempt to hit you.
+The Bree Guard joins the Gatekeeper's fight.
+
+* R W C HP:Wounded Mana:Cold *Elestir Elf*:Hurt>e
+No way! You are fighting for your life!
+The herbalist has arrived from the north.
+
+* R W C HP:Wounded Mana:Cold *Elestir Elf*:Hurt>
+The herbalist puts a lantern on his belt.
+The herbalist lights a lantern.
+The Bree gateguard quickly approaches, trying to stab you.
+
+* R W C HP:Wounded Mana:Cold *Elestir Elf*:Hurt>e
+f
+No way! You are fighting for your life!
+Guglunk narrates 'udraka nd diam in'
+The Bree Guard lightly pierces your body and tickles it.
+
+* R W C HP:Wounded Mana:Cold *Elestir Elf*:Hurt>e
+*Khad the Dwarf* has arrived from the north.
+You flee head over heels.
+Cobblestone Street
+On the ground, there are three backswords.
+A canoe has been left here.
+There are three pairs of soft leather boots here.
+You see three plain cloaks on the ground.
+There are two plain leather belts here.
+There are two plain pairs of pants here.
+On the ground, there are two soft leather jerkins.
+There is an old street-lamp on the border of the street.
+The corpse of *a Half-Elf* is lying here.
+A sturdy pack horse is standing here.
+Clint the Dwarf is standing here.
+Exits: North.
+
+* R W C HP:Wounded Mana:Cold>Alas, you cannot go that way...
+
+* R W C HP:Wounded Mana:Cold>f
+n
+You flee head over heels.
+###### !!! PANIK !!! ######################
+
+* R W C HP:Wounded Mana:Cold>
+The Gatekeeper has arrived from the north.
+
+* R W C HP:Wounded Mana:Cold>e
+Main Street
+On the ground, there are two dark coloured flasks.
+There is an old street-lamp on the border of the street.
+A large sack is on the ground.
+*Trassel Half-Elf* is here, - WARHORSE.
+*a Dwarf* is here, - MULE.
+*Elestir Elf* is here, - TRAINED.
+*a Hobbit* is standing here.
+A hungry warg stands here, sniffing around for flesh.
+*Butrus Elf* is here, - TRAINED.
+*Khazdul the Dwarf* is here, - MULE.
+A Guard of Bree is here, watching the gate.
+A Guard of Bree stands here.
+A herbalist, surrounded by a cloud of spice, smiles at you.
+*Khad the Dwarf* is standing here.
+Exits: *North* *East* South West.
+*Trassel Half-Elf* tries to stab you, but your parry is successful.
+*Khad the Dwarf* tries to smite you, but your parry is successful.
+*Khazdul the Dwarf* smites your right foot extremely hard and shatters it.
+*Elestir Elf* slashes your left arm extremely hard and shatters it.
+You wish that your wounds would stop BLEEDING so much!
+You flee head over heels.
+West Gate of Bree
+There is an old street-lamp on the border of the street.
+The corpse of the little dog is lying here.
+The corpse of the Bree gateguard is lying here.
+The corpse of Harry the Gatekeeper is lying here.
+A Guard of Bree is here, watching the gate.
+Harry the Bree Gatekeeper stands here.
+The Bree gateguard is lying here, mortally wounded.
+A domesticated pony, beast of burden to many, stands here.
+A stocky mountain mule is here, waiting to serve.
+A stocky mountain mule is here, waiting to serve.
+A sturdy pack horse is standing here.
+A Guard of Bree stands here.
+*a Hobbit* is standing here.
+Exits: East West.
+
+* R W C HP:Bad Mana:Cold>Main Street
+There are two dark coloured flasks here.
+There is an old street-lamp on the border of the street.
+A large sack is on the ground.
+*Trassel Half-Elf* is here, - WARHORSE.
+*a Dwarf* is here, - MULE.
+*Elestir Elf* is here, - TRAINED.
+*a Hobbit* is standing here.
+A hungry warg stands here, sniffing around for flesh.
+*Butrus Elf* is here, - TRAINED.
+*Khazdul the Dwarf* is here, - MULE.
+A Guard of Bree is here, watching the gate.
+A Guard of Bree stands here.
+A herbalist, surrounded by a cloud of spice, smiles at you.
+*Khad the Dwarf* is standing here.
+Exits: *North* *East* South West.
+*Butrus Elf* quickly approaches, trying to pierce you.
+A hungry warg leaves south.
+
+* R W C HP:Bad Mana:Cold *Butrus Elf*:Healthy>e
+
+The herbalist tries to hit you, but your parry is successful.
+You wish that your wounds would stop BLEEDING so much!
+The Bree Guard quickly approaches, trying to pierce you.
+The Bree Guard has arrived from the north.
+
+* R W C HP:Bad Mana:Cold *Butrus Elf*:Healthy>No way! You are fighting for your life!
+The Bree Guard puts a lantern on his belt.
+The Bree Guard lights a lantern.
+The Bree Guard tries to pierce you, but your parry is successful.
+You wish that your wounds would stop BLEEDING so much!
+You wish that your wounds would stop BLEEDING so much!
+
+* R W C HP:Bad Mana:Cold *Butrus Elf*:Healthy>f
+You flee head over heels.
+You blink and feel weaker under the cruel light of the sun.
+Cobblestone Street
+There is an old street-lamp on the border of the street.
+A domesticated pony, beast of burden to many, stands here.
+*Kurn the Eriadorian Man* is standing here.
+*Norglin the Eriadorian Man* is standing here.
+Exits: *North* South.
+*Norglin the Eriadorian Man* pounds your body hard and shatters it.
+You wish that your wounds would stop BLEEDING so much!
+
+* R W C HP:Bad Mana:Cold *Norglin the Eriadorian Man*:Fine>e
+No way! You are fighting for your life!
+
+* R W C HP:Bad Mana:Cold *Norglin the Eriadorian Man*:Fine>f
+e
+Uldrak has arrived from the north.
+You flee head over heels.
+Paving Stone Square
+There is an old street-lamp on the border of the street.
+A Guard of Bree stands here.
+A Guard of Bree stands here.
+Exits: North East *South*.
+The Bree Guard leaves south.
+
+* R W C HP:Bad Mana:Cold>f
+Oops! You cannot go there riding!
+
+* R W C HP:Bad Mana:Cold>f
+You flee head over heels.
+Cobblestone Street
+There is an old street-lamp on the border of the street.
+A domesticated pony, beast of burden to many, stands here.
+*Kurn the Eriadorian Man* is standing here.
+*Norglin the Eriadorian Man* is standing here.
+A Guard of Bree stands here.
+Exits: *North* South.
+
+* R W C HP:Bad Mana:Cold>f
+You flee head over heels.
+Paving Stone Square
+There is an old street-lamp on the border of the street.
+A Guard of Bree stands here.
+Exits: North East *South*.
+Grunk narrates 'too heavy7m, break it'
+The Bree Guard leaves south.
+
+* R W C HP:Bad Mana:Cold>*Kurn the Eriadorian Man* has arrived from the south.
+You flee head over heels.
+Oops! You cannot go there riding!
+###### !!! PANIK !!! ######################
+*Norglin the Eriadorian Man* has arrived from the south.
+Jack Olby has arrived from the east.
+
+* R W C HP:Bad Mana:Cold>e
+
+Jack Olby crushes your right leg hard and shatters it.
+You wish that your wounds would stop BLEEDING so much!
+The Bree Guard has arrived from the east.
+You flee head over heels.
+Cobblestone Street
+There is an old street-lamp on the border of the street.
+A domesticated pony, beast of burden to many, stands here.
+A Guard of Bree stands here.
+A Guard of Bree is here, watching the gate.
+A Guard of Bree stands here.
+A herbalist, surrounded by a cloud of spice, smiles at you.
+A Guard of Bree stands here.
+Exits: *North* South.
+
+* R W C HP:Awful Mana:Cold>e
+Alas, you cannot go that way...
+The Bree Guard tries to pierce you, but your parry is successful.
+You wish that your wounds would stop BLEEDING so much!
+The herbalist quickly approaches, trying to hit you.
+The Bree gateguard tries to stab you, but your parry is successful.
+You wish that your wounds would stop BLEEDING so much!
+
+* R W C HP:Awful Mana:Cold the Bree Guard:Fine>e
+No way! You are fighting for your life!
+You wish that your wounds would stop BLEEDING so much!
+
+* R W C HP:Awful Mana:Cold the Bree Guard:Fine>No way! You are fighting for your life!
+The Bree Guard pierces your left foot hard and shatters it.
+You wish that your wounds would stop BLEEDING so much!
+
+* R W C HP:Awful Mana:Cold the Bree Guard:Fine>n
+f
+No way! You are fighting for your life!
+
+* R W C HP:Awful Mana:Cold the Bree Guard:Fine>f
+f
+You flee head over heels.
+Paving Stone Square
+There is an old street-lamp on the border of the street.
+*Kurn the Eriadorian Man* is standing here.
+Jack stands on guard here, collecting monies.
+Exits: North East *South*.
+
+* R W C HP:Awful Mana:Cold>f
+You flee head over heels.
+###### !!! PANIK !!! ######################
+*Kurn the Eriadorian Man* begins some strange incantations...
+
+* R W C HP:Awful Mana:Cold>f
+You flee head over heels.
+Oops! You cannot go there riding!
+Cobblestone Street
+There is an old street-lamp on the border of the street.
+A domesticated pony, beast of burden to many, stands here.
+A Guard of Bree stands here.
+A Guard of Bree is here, watching the gate.
+A herbalist, surrounded by a cloud of spice, smiles at you.
+A Guard of Bree stands here.
+Exits: *North* South.
+
+* R W C HP:Awful Mana:Cold>You flee head over heels.
+You feel so much better hiding in the shadows!
+Main Street
+You see two dark coloured flasks on the ground.
+There is an old street-lamp on the border of the street.
+The corpse of *an Orc* is lying here.
+A large sack is on the ground.
+*Trassel Half-Elf* is here, - WARHORSE.
+*Urga the Dwarf* is here, - MULE.
+*Elestir Elf* is here, - TRAINED.
+*Feather the Harfoot Hobbit* is standing here.
+*Butrus Elf* is here, - TRAINED.
+*Khazdul the Dwarf* is here, - MULE.
+A Guard of Bree stands here.
+A Guard of Bree stands here.
+The gatekeeper stands here.
+The shadow of *an Orc* is floating here.
+A Guard of Bree stands here.
+Exits: *North* *East* South West.
+You suddenly notice *Toku the Harfoot Hobbit*.
+*Trassel Half-Elf* quickly approaches, trying to stab you.
+*Elestir Elf* quickly approaches, trying to slash you.
+The Gatekeeper quickly approaches, trying to hit you.
+
+* R W C HP:Awful Mana:Cold *Trassel Half-Elf*:Hurt>nar I MYou flee head over heels.
+You blink and feel weaker under the cruel light of the sun.
+Main Street
+There is an old street-lamp on the border of the street.
+A robin is here, carrying small pieces of wood to its nest.
+Exits: *North* West.
+
+* R W C HP:Awful Mana:Cold Move:Tired>
+*Dorak the Dwarf* has arrived from the north.
+
+* R W C HP:Awful Mana:Cold Move:Tired>DEAD
+Ok.
+You swiftly dodge *Dorak the Dwarf*'s attempt to pound you.
+You wish that your wounds would stop BLEEDING so much!
+You flee head over heels.
+You feel so much better hiding in the shadows!
+Main Street
+There are two dark coloured flasks here.
+There is an old street-lamp on the border of the street.
+The corpse of *an Orc* is lying here.
+A large sack is on the ground.
+*Trassel Half-Elf* is here, - WARHORSE.
+*Urga the Dwarf* is here, - MULE.
+*Elestir Elf* is here, - TRAINED.
+*Feather the Harfoot Hobbit* is standing here.
+*Butrus Elf* is here, - TRAINED.
+*Khazdul the Dwarf* is here, - MULE.
+A Guard of Bree stands here.
+A Guard of Bree stands here.
+The gatekeeper stands here.
+The shadow of *an Orc* is floating here.
+A Guard of Bree stands here.
+*Khad the Dwarf* is standing here.
+A Guard of Bree stands here.
+Exits: *North* *East* South West.
+
+* R W C HP:Awful Mana:Cold Move:Tired>
+Guglunk narrates 'no mana'
+*Elestir Elf* strongly slashes your body and shatters it.
+You wish that your wounds would stop BLEEDING so much!
+As *Butrus Elf* greedily kneels down towards the corpse, the icy
+grasp of a shadow stops him!
+The Bree Guard puts a lantern on his belt.
+The Bree Guard lights a lantern.
+You swiftly dodge the Bree Guard's attempt to pierce you.
+You wish that your wounds would stop BLEEDING so much!
+
+* R W C HP:Awful Mana:Cold Move:Tired *Elestir Elf*:Hurt>
+*Khad the Dwarf* leaves -< NORTH >-.
+As *Trassel Half-Elf* greedily kneels down towards the corpse, the icy
+grasp of a shadow stops him!
+A shadow whispers 'I won't allow the looting of my fallen body!'
+As *Feather the Harfoot Hobbit* greedily kneels down towards the corpse, the
+icy grasp of a shadow stops him!
+A shadow whispers 'I won't allow the looting of my fallen body!'
+The Bree gateguard has arrived from the north.
+
+* R W C HP:Awful Mana:Cold Move:Tired *Elestir Elf*:Hurt>f
+As *Trassel Half-Elf* greedily kneels down towards the corpse, the icy
+grasp of a shadow stops him!
+A shadow whispers 'I won't allow the looting of my fallen body!'
+###### !!! PANIK !!! ######################
+The Bree gateguard puts a lantern on his belt.
+The Bree gateguard lights a lantern.
+The Gatekeeper tries to hit you, but your parry is successful.
+You wish that your wounds would stop BLEEDING so much!
+The Bree Guard tries to stab you, but your parry is successful.
+You wish that your wounds would stop BLEEDING so much!
+You swiftly dodge the Bree Guard's attempt to stab you.
+You wish that your wounds would stop BLEEDING so much!
+The herbalist has arrived from the north.
+The herbalist joins the Bree Guard's fight.
+You wish that your wounds would stop BLEEDING so much!
+
+* R W C HP:Awful Mana:Cold Move:Tired *Elestir Elf*:Hurt>w
+No way! You are fighting for your life!
+The Bree Guard has arrived from the north.
+The Bree Guard joins the herbalist's fight.
+You wish that your wounds would stop BLEEDING so much!
+
+* R W C HP:Awful Mana:Cold Move:Tired *Elestir Elf*:Hurt>f
+w
+f
+You flee head over heels.
+You blink and feel weaker under the cruel light of the sun.
+Main Street
+There is an old street-lamp on the border of the street.
+A robin is here, carrying small pieces of wood to its nest.
+*Dorak the Dwarf* is standing here.
+Exits: *North* West.
+You smell blood.
+You suddenly notice *Toku the Harfoot Hobbit*.
+
+* R W C HP:Awful Mana:Cold Move:Tired>You feel so much better hiding in the shadows!
+Main Street
+On the ground, there are two dark coloured flasks.
+There is an old street-lamp on the border of the street.
+The corpse of *an Orc* is lying here.
+A large sack is on the ground.
+*Trassel Half-Elf* is here, - WARHORSE.
+*Urga the Dwarf* is here, - MULE.
+*Elestir Elf* is here, - TRAINED.
+*Feather the Harfoot Hobbit* is standing here.
+*Butrus Elf* is here, - TRAINED.
+*Khazdul the Dwarf* is here, - MULE.
+A Guard of Bree stands here.
+A Guard of Bree stands here.
+The gatekeeper stands here.
+The shadow of *an Orc* is floating here.
+A Guard of Bree stands here.
+A Guard of Bree stands here.
+A Guard of Bree is here, watching the gate.
+A herbalist, surrounded by a cloud of spice, smiles at you.
+A Guard of Bree stands here.
+*Khad the Dwarf* is standing here.
+Exits: *North* *East* South West.
+*Khad the Dwarf* smites your left leg extremely hard and shatters it.
+You are mortally wounded and will die soon if not aided.
+You are mortally wounded and will die soon if not aided.
+
+* W C HP:Dying Mana:Cold Move:Tired *Khad the Dwarf*:Hurt>You are in a pretty bad shape, unable to do anything!
+
+You are dead! Sorry...
+
+
+o W C HP:Awful Mana:Cold Move:Tired>f
+Nah... You feel too relaxed to do that..
+
+* W C HP:Awful Mana:Cold Move:Tired>f
+f
+Nah... You feel too relaxed to do that..
+
+* W C HP:Awful Mana:Cold Move:Tired>Nah... You feel too relaxed to do that..
+
+* W C HP:Awful Mana:Cold Move:Tired>sl
+You go to sleep.
+
+* W C HP:Awful Mana:Cold Move:Tired>
+* W C HP:Awful Mana:Cold Move:Tired>
+* W C HP:Awful Mana:Cold Move:Tired>wo
+OB: 91%, DB: -52%, PB: 0%, Armour: 0%. Wimpy: 150. Mood: wimpy.
+Needed: 1,206,936 xp, 0 tp. Wp: 82. Gold: 0. Alert: normal.

@@ -1,0 +1,802 @@
+* C Mana:Hot Move:Tired>You feel so much better hiding in the shadows!
+A Stinking Cavern
+The corpse of a cave-lion is lying here.
+The corpse of a cave-lion is lying here.
+Azmodan is standing here.
+Malock is standing here.
+A hungry warg stands here, sniffing around for flesh.
+Exits: *East* Up.
+
+o C Mana:Hot Move:Tired>sc
+269/269 hit, 83/117 mana, and 36/124 moves.
+
+o C Mana:Hot Move:Tired>cha mood wimpy
+Ok.
+
+o C Mana:Hot Move:Tired>=150
+cha wimpy 150
+Wimpy set to: 150
+
+o C Mana:Hot Move:Tired>cast n 'breath of briskness'
+You start to concentrate...
+
+{mees}={*elf*}
+{odd}={brokenrocks}
+An energy begins to flow within your legs as your body becomes lighter.
+
+o C Mana:Hot>say FLUSH NOW
+{mees}={*elf*}
+emote bitches 'FLUSH NOW'
+Ok.
+
+o C Mana:Hot>
+{mees}={*hobbit*}
+You feel bolder.
+
+o C Mana:Hot>
+Seraphyne narrates 'unborn, fnor hall of orcs :('
+
+o C Mana:Hot>
+You suddenly notice Tug.
+Tug swiftly dodges Malock's attempt to slash him.
+
+* C Mana:Hot>
+Malock says, am
+Azmodan closes the brokenrocks.
+
+* C Mana:Hot>
+Malock looks around slowly as if looking for something hidden in the room.
+
+* C Mana:Hot>say WAIT
+emote bitches 'WAIT'
+Ok.
+
+* C Mana:Hot>
+Malock panics, and attempts to flee.
+Malock leaves up.
+
+* C Mana:Hot>say fle
+emote bitches 'fle'
+Ok.
+
+* C Mana:Hot>say fle
+say fle
+emote bitches 'fle'
+Ok.
+
+* C Mana:Hot>emote bitches 'fle'
+Ok.
+
+* C Mana:Hot>
+Malock has arrived from above.
+* C Mana:Hot>
+Tug panics, and attempts to flee.
+Tug leaves up.
+
+o C Mana:Hot>open brokenrocks
+Ok.
+
+* C Mana:Hot>l
+A Stinking Cavern
+The corpse of a cave-lion is lying here.
+The corpse of a cave-lion is lying here.
+Azmodan is standing here.
+A hungry warg stands here, sniffing around for flesh.
+A hungry warg stands here, sniffing around for flesh.
+Malock is standing here.
+
+* C Mana:Hot>
+You suddenly notice Tug.
+
+* C Mana:Hot>say FLUSH NOW
+{mees}={*hobbit*}
+emote bitches 'FLUSH NOW'
+Ok.
+
+* C Mana:Hot>
+Malock says, that didnt work
+
+* C Mana:Hot>
+Azmodan loriseb: damn...
+
+* C Mana:Hot>
+Malock says, DONT sneak
+
+* C Mana:Hot>{odd}={brokenrocks}
+
+You suddenly notice *Furfoot the Fallohid Hobbit*.
+
+* C Mana:Hot>
+Tug fails to pierce *Furfoot the Fallohid Hobbit*.
+
+* C Mana:Hot>close brokenrocks
+close brokenrocks
+Ok.
+
+close brokenrocks
+* C Mana:Hot>close brokenrocks
+It's already closed!
+
+close brokenrocks
+* C Mana:Hot>close brokenrocks
+It's already closed!
+
+close brokenrocks
+close brokenrocks
+* C Mana:Hot>close brokenrocks
+*Furfoot the Fallohid Hobbit* panics, and attempts to flee.
+It's already closed!
+
+* C Mana:Hot>close brokenrocks
+It's already closed!
+
+* C Mana:Hot>close brokenrocks
+close brokenrocks
+It's already closed!
+
+* C Mana:Hot>close brokenrocks
+close brokenrocks
+close brokenrocks
+*Furfoot the Fallohid Hobbit* panics, and attempts to flee.
+*Furfoot the Fallohid Hobbit* leaves up.
+It's already closed!
+close brokenrocks
+close brokenrocks
+close brokenrocks
+close brokenrocks
+close brokenrocks
+close brokenrocks
+close brokenrocks
+close brokenrocks
+close brokenrocks
+* C Mana:Hot>close brokenrocks
+close brokenrocks
+It's already closed!
+
+* C Mana:Hot>It's already closed!
+
+* C Mana:Hot>It's already closed!
+
+* C Mana:Hot>It's already closed!
+
+* C Mana:Hot>It's already closed!
+
+* C Mana:Hot>It's already closed!
+
+* C Mana:Hot>It's already closed!
+
+* C Mana:Hot>{mees}={*hobbit*}
+u
+It's already closed!
+
+ca 'light' *hobbit*
+* C Mana:Hot>It's already closed!
+
+* C Mana:Hot>It's already closed!
+You suddenly notice *Furfoot the Fallohid Hobbit*.
+Malock tries to slash *Furfoot the Fallohid Hobbit*, but he parries
+successfully.
+
+* C Mana:Hot>It's already closed!
+
+* C Mana:Hot>It's already closed!
+
+* C Mana:Hot>It's already closed!
+
+* C Mana:Hot>It's already closed!
+
+* C Mana:Hot>It's already closed!
+
+* C Mana:Hot>It's already closed!
+*Furfoot the Fallohid Hobbit* panics, and attempts to flee.
+
+* C Mana:Hot>It's already closed!
+*Furfoot the Fallohid Hobbit* panics, and attempts to flee.
+*Furfoot the Fallohid Hobbit* leaves up.
+
+* C Mana:Hot>d
+It's already closed!
+
+* C Mana:Hot>ca 'light' *hobbit*
+It's already closed!
+
+* C Mana:Hot>A Gory Cave
+*Furfoot the Fallohid Hobbit* is standing here.
+Exits: Down.
+
+* C Mana:Hot>u
+You start to concentrate...
+
+ca 'light' *hobbit*
+d
+* C Mana:Hot *Furfoot the Fallohid Hobbit*:Fine>
+Ok.
+The lightning bolt hits *Furfoot the Fallohid Hobbit* with full impact.
+
+* C Mana:Hot *Furfoot the Fallohid Hobbit*:Fine>ca 'light' *hobbit*
+d
+
+*Furfoot the Fallohid Hobbit* panics, and attempts to flee.
+*Furfoot the Fallohid Hobbit* leaves down.
+
+ca 'light' *hobbit*
+o C Mana:Hot>
+Oscarmeyer narrates 'trolls can't prac climb?'
+
+o C Mana:Hot>A Stinking Cavern
+The corpse of a cave-lion is lying here.
+The corpse of a cave-lion is lying here.
+Azmodan is standing here.
+A hungry warg stands here, sniffing around for flesh.
+Malock is standing here.
+Tug the Black Numenorean is standing here.
+*Furfoot the Fallohid Hobbit* is standing here.
+Exits: Up.
+*Furfoot the Fallohid Hobbit* leaves up.
+
+* C Mana:Hot>Nobody here by that name.
+
+* C Mana:Hot>A Gory Cave
+Exits: Down.
+You suddenly notice *Furfoot the Fallohid Hobbit*.
+
+* C Mana:Hot>You start to concentrate...
+
+u
+ca 'light' *hobbit*
+d
+Your victim has disappeared!
+*Furfoot the Fallohid Hobbit* leaves down.
+ca 'light' *hobbit*
+o C Mana:Hot>A Stinking Cavern
+The corpse of a cave-lion is lying here.
+The corpse of a cave-lion is lying here.
+Azmodan is standing here.
+A hungry warg stands here, sniffing around for flesh.
+Malock is standing here.
+Tug the Black Numenorean is standing here.
+Exits: Up.
+You suddenly notice *Furfoot the Fallohid Hobbit*.
+
+* C Mana:Hot>You start to concentrate...
+Your victim has disappeared!
+*Furfoot the Fallohid Hobbit* leaves up.
+
+* C Mana:Hot>Alas, you cannot go that way...
+
+* C Mana:Hot>Nobody here by that name.
+
+* C Mana:Hot>A Gory Cave
+Exits: Down.
+You suddenly notice *Furfoot the Fallohid Hobbit*.
+
+ca 'light' *hobbit*
+* C Mana:Hot>You start to concentrate...
+Your victim has disappeared!
+*Furfoot the Fallohid Hobbit* leaves down.
+
+u
+o C Mana:Hot>A Stinking Cavern
+The corpse of a cave-lion is lying here.
+The corpse of a cave-lion is lying here.
+Azmodan is standing here.
+A hungry warg stands here, sniffing around for flesh.
+Malock is standing here.
+Tug the Black Numenorean is standing here.
+Exits: Up.
+
+_____________________
+
+SO that way we spammed some 2 mins:P, i think
+_____________________
+
+
+*Furfoot the Fallohid Hobbit* leaves up.
+A Gory Cave
+*Furfoot the Fallohid Hobbit* is standing here.
+Exits: Down.
+Malock approaches *Furfoot the Fallohid Hobbit*, trying to slash him.
+*Furfoot the Fallohid Hobbit* panics, and attempts to flee.
+
+* C Mana:Cold>You start to concentrate...
+
+*Furfoot the Fallohid Hobbit* panics, and attempts to flee.
+
+*Furfoot the Fallohid Hobbit* panics, and attempts to flee.
+
+d
+ca 'light' *hobbit*
+*Furfoot the Fallohid Hobbit* panics, and attempts to flee.
+
+*Furfoot the Fallohid Hobbit* panics, and attempts to flee.
+Alas! There was no clear line of sight to him!
+
+* C Mana:Cold>A Stinking Cavern
+The corpse of a cave-lion is lying here.
+The corpse of a cave-lion is lying here.
+Azmodan is standing here.
+Tug the Black Numenorean is standing here searching for something.
+Exits: Up.
+
+* C Mana:Cold>Nobody here by that name.
+
+* C Mana:Cold>d
+ca 'light' *hobbit*
+Alas, you cannot go that way...
+
+* C Mana:Cold>u
+Nobody here by that name.
+* C Mana:Icy>ca 'light' *hobbit*
+A Gory Cave
+Exits: Down.
+You smell blood.
+
+o C Mana:Icy>Alas, not enough mana flows through you...
+
+o C Mana:Icy>d
+A Stinking Cavern
+The corpse of a cave-lion is lying here.
+The corpse of a cave-lion is lying here.
+Azmodan is standing here.
+Tug the Black Numenorean is standing here searching for something.
+Exits: Up.
+You suddenly notice *Furfoot the Fallohid Hobbit*.
+*Furfoot the Fallohid Hobbit* gets a flask of orkish draught from a leather
+backpack.
+
+* C Mana:Icy>
+Malock begins some strange incantations...
+
+* C Mana:Icy>hit *hobbit*
+* C Mana:Icy *Furfoot the Fallohid Hobbit*:Wounded>
+*Furfoot the Fallohid Hobbit* swiftly dodges your attempt to slash him.
+
+* C Mana:Icy *Furfoot the Fallohid Hobbit*:Wounded>
+Malock utters the words 'gpaqtuio ofags'
+
+* C Mana:Icy *Furfoot the Fallohid Hobbit*:Bad>
+Malock begins some strange incantations...
+
+* C Mana:Icy *Furfoot the Fallohid Hobbit*:Bad>afg
+
+Malock utters the words 'gpaqtuio ofags'
+*Furfoot the Fallohid Hobbit* looks shocked as Malock grasps at him.
+*Furfoot the Fallohid Hobbit* panics, and attempts to flee.
+
+* C Mana:Icy *Furfoot the Fallohid Hobbit*:Awful>Arglebargle, glop-glyf!?!
+*Furfoot the Fallohid Hobbit* panics, and attempts to flee.
+Malock begins some strange incantations...
+
+* C Mana:Icy *Furfoot the Fallohid Hobbit*:Awful>cha mood aggressive
+Ok.
+*Furfoot the Fallohid Hobbit* panics, and attempts to flee.
+
+* C Mana:Icy *Furfoot the Fallohid Hobbit*:Awful>
+*Furfoot the Fallohid Hobbit* panics, and attempts to flee.
+
+* C Mana:Icy *Furfoot the Fallohid Hobbit*:Awful>
+*Furfoot the Fallohid Hobbit* panics, and attempts to flee.
+Malock utters the words 'gpaqtuio ofags'
+*Furfoot the Fallohid Hobbit* looks shocked as Malock grasps at him.
+
+* C Mana:Icy *Furfoot the Fallohid Hobbit*:Awful>cha mood aggressive
+Ok.
+*Furfoot the Fallohid Hobbit* panics, and attempts to flee.
+*Furfoot the Fallohid Hobbit* leaves up.
+
+* C Mana:Icy>u
+A Gory Cave
+*Furfoot the Fallohid Hobbit* is standing here.
+Exits: Down.
+*Furfoot the Fallohid Hobbit* panics, and attempts to flee.
+*Furfoot the Fallohid Hobbit* leaves down.
+
+o C Mana:Icy>hit *hobbit*
+They aren't here.
+
+u
+hit *hobbit*
+o C Mana:Icy>Alas, you cannot go that way...
+o C Mana:Icy>d
+They aren't here.
+
+o C Mana:Icy>hit *hobbit*
+A Stinking Cavern
+The corpse of a cave-lion is lying here.
+The corpse of a cave-lion is lying here.
+Azmodan is standing here.
+Tug the Black Numenorean is standing here searching for something.
+*Furfoot the Fallohid Hobbit* is standing here.
+Exits: Up.
+
+* C Mana:Icy>* C Mana:Icy *Furfoot the Fallohid Hobbit*:Awful>
+Malock begins some strange incantations...
+You try to slash *Furfoot the Fallohid Hobbit*, but he parries successfully.
+
+* C Mana:Icy *Furfoot the Fallohid Hobbit*:Awful>u
+
+hit *hobbit*
+*Furfoot the Fallohid Hobbit* drinks a flask of orkish draught.
+*Furfoot the Fallohid Hobbit* gulps down the draught, staggers but regains his
+balance.
+
+* C Mana:Icy *Furfoot the Fallohid Hobbit*:Awful>
+*Furfoot the Fallohid Hobbit* panics, and attempts to flee.
+*Furfoot the Fallohid Hobbit* leaves up.
+
+* C Mana:Cold>
+Mishrak narrates 'i looted some'
+
+d
+* C Mana:Cold>
+*Furfoot the Fallohid Hobbit* has arrived from above.
+
+hit *hobbit*
+Malock begins some strange incantations...
+
+* C Mana:Cold>d
+hit *hobbit*
+d
+A Gory Cave
+Exits: Down.
+
+o C Mana:Cold>hit *hobbit*
+They aren't here.
+
+d
+hit *hobbit*
+o C Mana:Cold>A Stinking Cavern
+The corpse of a cave-lion is lying here.
+The corpse of a cave-lion is lying here.
+Azmodan is standing here.
+Tug the Black Numenorean is standing here searching for something.
+Exits: Up.
+
+* C Mana:Cold>They aren't here.
+
+* C Mana:Cold>Alas, you cannot go that way...
+
+* C Mana:Cold>They aren't here.
+
+* C Mana:Cold>Alas, you cannot go that way...
+
+* C Mana:Cold>They aren't here.
+
+ft
+* C Mana:Cold>Alas, you cannot go that way...
+
+* C Mana:Cold>They aren't here.
+
+ft
+* C Mana:Cold>flush thoro
+You begin to search ...
+
+ft
+ft
+ft
+
+* C Mana:Cold>
+
+flush thoro
+You begin to search ...
+
+
+
+* C Mana:Cold>flush thoro
+You begin to search ...
+
+* C Mana:Cold>flush thoro
+You begin to search ...
+
+
+* C Mana:Cold Move:Tired>u
+flush thoro
+You begin to search ...
+
+ca 'light' *hobbit*
+* C Mana:Cold Move:Tired>* C Mana:Cold Move:Tired>A Gory Cave
+Exits: Down.
+You suddenly notice *Furfoot the Fallohid Hobbit*.
+
+* C Mana:Cold Move:Tired>You start to concentrate...
+Malock begins some strange incantations...
+
+Your victim has disappeared!
+*Furfoot the Fallohid Hobbit* leaves down.
+
+o C Mana:Cold Move:Tired>d
+The corpse of a cave-lion is lying here.
+Azmodan is standing here.
+Tug the Black Numenorean is standing here searching for something.
+Exits: Up.
+
+* C Mana:Cold Move:Tired>Nobody here by that name.
+
+* C Mana:Cold Move:Tired>u
+ca 'light' *hobbit*
+A Gory Cave
+Exits: Down.
+You suddenly notice *Furfoot the Fallohid Hobbit*.
+Malock begins some strange incantations...
+
+* C Mana:Cold Move:Tired>You start to concentrate...
+
+d
+ca 'light' *hobbit*
+Malock utters the words 'gpaqtuio ofags'
+Malock's spell backfires, and he squeals in surprise!
+
+Malock begins some strange incantations...
+Your victim has disappeared!
+*Furfoot the Fallohid Hobbit* leaves down.
+
+o C Mana:Cold Move:Tired>A Stinking Cavern
+The corpse of a cave-lion is lying here.
+The corpse of a cave-lion is lying here.
+Azmodan is standing here.
+Tug the Black Numenorean is standing here searching for something.
+Exits: Up.
+You smell blood.
+You suddenly notice *Furfoot the Fallohid Hobbit*.
+Malock begins some strange incantations...
+
+* C Mana:Cold Move:Tired>You start to concentrate...
+Your victim has disappeared!
+*Furfoot the Fallohid Hobbit* leaves up.
+
+* C Mana:Cold Move:Tired>
+You begin to feel hungry.
+
+* C Mana:Cold Move:Tired>u
+A Gory Cave
+Exits: Down.
+You smell blood.
+You suddenly notice *Furfoot the Fallohid Hobbit*.
+
+* C Mana:Cold Move:Tired>ca 'light' *hobbit*
+You start to concentrate...
+
+Your victim has disappeared!
+*Furfoot the Fallohid Hobbit* leaves down.
+
+o C Mana:Cold Move:Tired>
+Malock begins some strange incantations...
+
+* C Mana:Cold Move:Tired>d
+A Stinking Cavern
+The corpse of a cave-lion is lying here.
+The corpse of a cave-lion is lying here.
+Azmodan is standing here.
+Tug the Black Numenorean is standing here.
+Exits: Up.
+
+* C Mana:Cold Move:Tired>u
+A Gory Cave
+Exits: Down.
+
+o C Mana:Cold Move:Tired>ca 'light' *hobbit*
+Nobody here by that name.
+* C Mana:Cold Move:Tired>d
+A Stinking Cavern
+The corpse of a cave-lion is lying here.
+The corpse of a cave-lion is lying here.
+Azmodan is standing here.
+Tug the Black Numenorean is standing here.
+Exits: Up.
+
+* C Mana:Cold Move:Tired>u
+A Gory Cave
+Exits: Down.
+
+o C Mana:Cold Move:Tired>ca 'light' *hobbit*
+Nobody here by that name.
+
+o C Mana:Cold Move:Tired>d
+Sinafey narrates 'got all...shitty eq tough'
+A Stinking Cavern
+The corpse of a cave-lion is lying here.
+The corpse of a cave-lion is lying here.
+Azmodan is standing here.
+Tug the Black Numenorean is standing here.
+Exits: Up.
+
+* C Mana:Cold Move:Tired>u
+A Gory Cave
+Exits: Down.
+You suddenly notice *Furfoot the Fallohid Hobbit*.
+*Furfoot the Fallohid Hobbit* leaves down.
+
+o C Mana:Cold Move:Tired>d
+A Stinking Cavern
+The corpse of a cave-lion is lying here.
+The corpse of a cave-lion is lying here.
+Azmodan is standing here.
+Tug the Black Numenorean is standing here
+Exits: Up.
+
+* C Mana:Cold Move:Tired>ca 'light' *hobbit*
+Nobody here by that name.
+
+* C Mana:Cold Move:Tired>u
+A Gory Cave
+*Furfoot the Fallohid Hobbit* is standing here.
+Exits: Down.
+
+ca 'light' *hobbit*
+* C Mana:Cold Move:Tired>You start to concentrate...
+
+Malock begins some strange incantations...
+Your victim has disappeared!
+*Furfoot the Fallohid Hobbit* leaves down.
+
+o C Mana:Cold Move:Tired>d
+A Stinking Cavern
+The corpse of a cave-lion is lying here.
+The corpse of a cave-lion is lying here.
+Azmodan is standing here.
+Tug the Black Numenorean is standing here.
+Exits: Up.
+
+* C Mana:Cold Move:Tired>u
+A Gory Cave
+Exits: Down.
+You suddenly notice *Furfoot the Fallohid Hobbit*.
+*Furfoot the Fallohid Hobbit* leaves down.
+
+o C Mana:Cold Move:Tired>ca 'light' *hobbit*
+Nobody here by that name.
+
+o C Mana:Cold Move:Tired>d
+A Stinking Cavern
+ca 'light' *hobbit*
+A Stinking Cavern
+The corpse of a cave-lion is lying here.
+The corpse of a cave-lion is lying here.
+Azmodan is standing here.
+Tug the Black Numenorean is standing here.
+Exits: Up.
+You suddenly notice *Furfoot the Fallohid Hobbit*.
+
+* C Mana:Cold Move:Tired>You start to concentrate...
+
+u
+Your victim has disappeared!
+*Furfoot the Fallohid Hobbit* leaves up.
+A Gory Cave
+Exits: Down.
+You suddenly notice *Furfoot the Fallohid Hobbit*.
+
+* C Mana:Cold Move:Tired>
+*Furfoot the Fallohid Hobbit* swiftly dodges Malock's attempt to slash him.
+
+* C Mana:Cold Move:Tired>ca 'light' *hobbit*
+
+*Furfoot the Fallohid Hobbit* pierces Malock's left foot and tickles it.
+
+* C Mana:Cold Move:Tired>You start to concentrate...
+
+*Furfoot the Fallohid Hobbit* panics, and attempts to flee.
+Your victim has disappeared!
+*Furfoot the Fallohid Hobbit* leaves down.
+
+o C Mana:Cold Move:Tired>d
+A Stinking Cavern
+The corpse of a cave-lion is lying here.
+The corpse of a cave-lion is lying here.
+Azmodan is standing here.
+Malock approaches *Furfoot the Fallohid Hobbit*, trying to slash him.
+
+ca 'light' *hobbit*
+* C Mana:Cold Move:Tired>You start to concentrate...
+*Furfoot the Fallohid Hobbit* lightly pierces Malock's body and tickles it.
+
+u
+ca 'light' *hobbit*
+*Furfoot the Fallohid Hobbit* panics, and attempts to flee.
+
+*Furfoot the Fallohid Hobbit* panics, and attempts to flee.
+*Furfoot the Fallohid Hobbit* panics, but can't stop fighting to flee.
+Ok.
+The impact of your lightning bolt kills *Furfoot the Fallohid Hobbit*.
+You receive your share of experience.
+Congratulations! This is the first time you've killed it!
+Your blood freezes as you hear *Furfoot the Fallohid Hobbit*'s death cry.
+*Furfoot the Fallohid Hobbit* is dead! R.I.P.
+A shadow slowly rises above the corpse of *Furfoot the Fallohid Hobbit*.
+
+* C Mana:Icy Move:Tired>A Gory Cave
+Exits: Down.
+
+d
+o C Mana:Icy Move:Tired>Alas, not enough mana flows through you...
+
+o C Mana:Icy Move:Tired>A Stinking Cavern
+The corpse of *a Hobbit* is lying here.
+The corpse of a cave-lion is lying here.
+The corpse of a cave-lion is lying here.
+Azmodan is standing here.
+Tug the Black Numenorean is standing here.
+The shadow of *a Hobbit* is floating here.
+Exits: Up.
+
+* C Mana:Icy Move:Tired>
+A shadow is dead! R.I.P.
+A shadow disappears into nothing.
+Your victim has disappeared!
+
+* C Mana:Icy Move:Tired>Shoot whom?
+Malock says, it opend
+
+* C Mana:Icy Move:Tired>Shoot whom?
+
+* C Mana:Icy Move:Tired>Shoot whom?
+Malock gets a flask of orkish draught from the corpse of *a Hobbit*.
+Malock gets a war arrow from the corpse of *a Hobbit*.
+Malock gets a forest green cloak from the corpse of *a Hobbit*.
+Malock gets a large sack from the corpse of *a Hobbit*.
+Malock gets a sapphire ring from the corpse of *a Hobbit*.
+Malock gets a small tin ring from the corpse of *a Hobbit*.
+Malock gets a red ruby from the corpse of *a Hobbit*.
+Malock gets a pale blue stone from the corpse of *a Hobbit*.
+Malock gets Daedeltiri robes from the corpse of *a Hobbit*.
+Malock gets a white hood from the corpse of *a Hobbit*.
+Malock gets a white pair of pants from the corpse of *a Hobbit*.
+Malock gets a black pair of padded boots from the corpse of *a Hobbit*.
+Malock gets a pair of rigid leather gloves from the corpse of *a Hobbit*.
+Malock gets a white pair of sleeves from the corpse of *a Hobbit*.
+Malock gets a bejewelled shield from the corpse of *a Hobbit*.
+Malock gets something from the corpse of *a Hobbit*.
+Malock gets a leather backpack from the corpse of *a Hobbit*.
+Malock gets a keyring with a key and a set of lock picks from the corpse of *a
+Hobbit*.
+Malock gets a violet orchid from the corpse of *a Hobbit*.
+Malock gets a black runed dagger from the corpse of *a Hobbit*.
+Malock gets a gleaming belt from the corpse of *a Hobbit*.
+Malock gets a sable pouch from the corpse of *a Hobbit*.
+Malock gets a stone from the corpse of *a Hobbit*.
+Malock gets a herbal kit from the corpse of *a Hobbit*.
+Malock gets a water skin from the corpse of *a Hobbit*.
+Malock gets a hunting horn from the corpse of *a Hobbit*.
+Malock gets a fortune in gold from the corpse of *a Hobbit*.
+
+
+
+
+You tear Furfoot's scalp off the dead corpse.
+* C Mana:Icy Move:Tired>You start butchering the corpse.
+
+open brokenrocks
+You produce two pieces of tender meat.
+
+
+MuAHAHAHAAA!!! :))
+
+*** Warlords hall of fame ***
+
+ 1  Furfoot the Fallohid Adventurer.
+ 2  Mochomurka the Black Numenorean Warlock.
+ 3  Norsu the Orkish Warrior.
+ 4  Kobold the Orkish Wargrider.
+ 5  Nomad the Orkish Necromancer.
+ 6  Grul the Cave Troll Warrior.
+ 7  Khwaj the Hill Troll Softskin.
+ 8  Ragface the Black Numenorean Wizard.
+ 9  Muck the Noldorin Wizard.
+10  Durcano the Orkish Battlemaster.
+11  Nird the Orkish Soldier.
+12  Tasslehoff the Fallohid Ranger.
+13  Drengist the Orkish Battlemaster.
+14  Ra
+oh the Orkish Soldier.
+15  Araglas the Rohir Rider.
+16  Fingeror the Sindarin Rider.
+17  Durlak the Orkish Soldier.
+18  Turgon the Noldorin Ranger.
+19  Agonor the Dwarven Warden.
+20  Diamonium the Orkish Necromancer.
+
+TOok some TimE, But i ReaCheD iT.
+
+Diam.
+
+PS. A promise is a promise

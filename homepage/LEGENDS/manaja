@@ -1,0 +1,430 @@
+Near a Fork
+Exits: North East West.
+
+* R W C>
+track
+You carefully examine the ground around you, looking for tracks...
+
+You see:
+   - Some tracks of the demon wolf leading east (done less than 2 hours ago).
+   - Some tracks of the warhorse leading north (done less than 2 hours ago).
+
+
+n
+You stop searching.
+
+e
+* R W C>
+Junction
+A slobbering giant greedily lumbers towards you.
+Exits: North East South.
+
+* R W C>
+e
+High Pass
+Exits: East West.
+
+* R W C>
+Trail
+Exits: North East West.
+
+e
+* R W C>
+e
+Trail
+A hungry warg stands here, sniffing around for flesh.
+A hungry warg stands here, sniffing around for flesh.
+Exits: East West.
+
+* R W C>
+e
+Bend in the Trail
+Exits: North West.
+
+* R W C>
+Alas, you cannot go that way...
+
+* R W C>
+q
+n
+where
+Players in your zone:
+--------------------
+Drengist             - Trail
+Diamonium            - Bend in the Trail
+Ragface              - Trail
+
+* R W C>
+e
+Trail
+The corpse of a goblin scout is lying here.
+Drengist is standing here, riding on a hungry warg.
+Ragface the Black Numenorean is standing here, riding on the warhorse.
+Exits: North East South.
+
+* R W C>
+Trail
+Exits: North East South West.
+
+* R W C>
+w
+siTrail
+The corpse of a goblin scout is lying here.
+Drengist is standing here, riding on a hungry warg.
+Ragface the Black Numenorean is here, fighting *Manaja the Elf*, riding on the
+warhorse.
+*Manaja the Elf* is here, fighting Ragface, riding on the warhorse.
+Exits: North East South.
+
+g* R W C>
+
+Drengist begins some strange incantations...
+
+* R W C>
+h
+
+*Manaja the Elf* panics, and attempts to flee.
+*Manaja the Elf* leaves east riding the warhorse.
+
+* R W C>
+You sigh.
+
+* R W C>
+ca 'hold' $mees
+Nobody here by that name.
+
+* R W C Mana:Burning>
+sho $mees
+e
+c 'light' $mees
+Shoot who?
+
+e
+* R W C Mana:Burning>
+ca 'burn' $mees
+Trail
+Exits: North East South West.
+
+* R W C Mana:Burning>
+Nobody here by that name.
+
+* R W C Mana:Burning>
+e
+ca 'burn' $mees
+Trail
+*Manaja the Elf* is standing here, riding on the warhorse.
+Exits: North East West.
+*Manaja the Elf* leaves east riding the warhorse.
+
+* R W C Mana:Burning>
+Nobody here by that name.
+
+* R W C Mana:Burning>
+e
+Trail
+*Manaja the Elf* is standing here, riding on the warhorse.
+Exits: North East West.
+
+* R W C Mana:Burning>
+ca 'burn' $mees
+You start to concentrate...
+
+e
+ca 'burn' $mees
+You lost your concentration!
+
+* R W C Mana:Burning>
+Trail
+Exits: East South West.
+
+* R W C Mana:Burning>
+Nobody here by that name.
+
+* R W C Mana:Burning>
+e
+Trail
+Exits: East West.
+
+* R W C Mana:Burning>
+ca 'burn' $mees
+Nobody here by that name.
+
+* R W C Mana:Burning>
+Trail
+A ferocious warg is here, snarling angrily.
+Exits: East South West.
+
+w
+* R W C Mana:Burning>
+ca 'burn' $mees
+Nobody here by that name.
+
+* R W C Mana:Burning>
+Trail
+Exits: East West.
+
+* R W C Mana:Burning>
+Nobody here by that name.
+
+* R W C Mana:Burning>
+w
+ca 'burn' $mees
+Trail
+Exits: East South West.
+
+* R W C Mana:Burning>
+Nobody here by that name.
+
+* R W C Mana:Burning>
+w
+ca 'burn' $mees
+Your mount refuses to follow your orders!
+
+* R W C Mana:Burning>
+Nobody here by that name.
+
+* R W C Mana:Burning>
+w
+ca 'burn' $mees
+Trail
+Exits: North East West.
+
+* R W C Mana:Burning>
+Nobody here by that name.
+
+* R W C Mana:Burning>
+w
+ca 'burn' $mees
+Trail
+Exits: North East West.
+
+* R W C Mana:Burning>
+Nobody here by that name.
+
+* R W C Mana:Burning>
+w
+ca 'burn' $mees
+Trail
+Exits: North East South West.
+
+* R W C Mana:Burning>
+Nobody here by that name.
+
+* R W C Mana:Burning>
+
+w
+ca 'burn' $mees
+Ragface has arrived from the west riding the warhorse.
+
+* R W C Mana:Burning>
+Trail
+The corpse of a goblin scout is lying here.
+Drengist is here, fighting *Manaja the Elf*, riding on a hungry warg.
+*Manaja the Elf* is here, fighting Drengist, riding on the warhorse.
+Exits: North East South.
+
+* R W C Mana:Burning>
+You start to concentrate...
+
+Ok.
+You burn *Manaja the Elf*.
+
+ca 'burn' $mees
+* R W C Mana:Burning>
+ca 'burn' $mees
+
+Drengist begins some strange incantations...
+
+* R W C Mana:Burning>
+Ragface has arrived from the east riding the warhorse.
+You start to concentrate...
+The night has begun. You feel stronger in the dark!
+
+ca 'burn' $mees
+ca 'burn' $mees
+Ok.
+You burn *Manaja the Elf*.
+
+* R W C Mana:Burning>
+*Manaja the Elf* panics, and attempts to flee.
+*Manaja the Elf* leaves east riding the warhorse.
+Nobody here by that name.
+
+* R W C Mana:Burning>
+Nobody here by that name.
+
+ca 'burn' $mees
+* R W C Mana:Burning>
+Nobody here by that name.
+
+* R W C Mana:Burning>
+ca 'burn' $mees
+Nobody here by that name.
+
+* R W C Mana:Burning>
+Nobody here by that name.
+
+* R W C Mana:Burning>
+e
+ca 'burn' $mees
+Trail
+*Manaja the Elf* is standing here, riding on the warhorse.
+Exits: North East South West.
+You hear some apparently very close noise coming from the east.
+
+* R W C Mana:Burning>
+*Manaja the Elf* leaves west riding the warhorse.
+Nobody here by that name.
+
+* R W C Mana:Burning>
+e
+ca 'burn' $mees
+Trail
+A hungry warg stands here, sniffing around for flesh.
+A hungry warg stands here, sniffing around for flesh.
+A hungry warg stands here, sniffing around for flesh.
+A hungry warg stands here, sniffing around for flesh.
+Exits: North East West.
+* R W C Mana:Burning>
+e
+Nobody here by that name.
+
+* R W C Mana:Burning>
+ca 'burn' $mees
+Trail
+Exits: North East West.
+
+* R W C Mana:Burning>
+w
+Nobody here by that name.
+
+* R W C Mana:Burning>
+w
+w
+Trail
+A hungry warg stands here, sniffing around for flesh.
+A hungry warg stands here, sniffing around for flesh.
+A hungry warg stands here, sniffing around for flesh.
+A hungry warg stands here, sniffing around for flesh.
+Exits: North East West.
+
+w
+* R W C Mana:Burning>
+w
+#Ok. {tt} aliases {t Ragface}.
+Ragface tells you 'ara folli teda trappi'
+
+Trail
+Exits: North East South West.
+
+* R W C Mana:Burning>
+ca 'burn' $mees
+Trail
+The corpse of a goblin scout is lying here.
+Drengist is standing here, riding on a hungry warg.
+Ragface the Black Numenorean is here, fighting *Manaja the Elf*, riding on the
+warhorse.
+*Manaja the Elf* is here, fighting Ragface, riding on the warhorse.
+Exits: North East South.
+
+* R W C Mana:Burning>
+Alas, you cannot go that way...
+
+* R W C Mana:Burning>
+Alas, you cannot go that way...
+
+* R W C Mana:Burning>
+You start to concentrate...
+
+ca 'burn' $mees
+Ragface begins some strange incantations...
+
+Ok.
+You burn *Manaja the Elf*.
+
+ca 'burn' $mees
+* R W C Mana:Burning>
+You start to concentrate...
+Drengist begins some strange incantations...
+
+ca 'burn' $mees
+ca 'burn' $mees
+Ok.
+You burn *Manaja the Elf*.
+
+ca 'burn' $mees
+* R W C Mana:Hot>You start to concentrate...
+
+ca 'burn' $mees
+Ok.
+You burn *Manaja the Elf*.
+
+* R W C Mana:Hot>
+You start to concentrate...
+
+ca 'burn' $mees
+Ragface utters the words, 'yufzbarr'
+The fireball sent by Ragface hits *Manaja the Elf* with full force, causing an
+immediate death.
+*Manaja the Elf* is dead! R.I.P.
+Your blood freezes as you hear *Manaja the Elf*'s death cry.
+
+Your victim has disappeared!
+
+ca 'burn' $mees
+* R W C Mana:Hot>
+Ragface gets coins from the corpse of *an Elf*.
+gig
+You giggle.
+
+* R W C Mana:Hot>
+b
+Drengist throws back his head and cackles with insane glee!
+
+* R W C Mana:Hot>
+lush
+Your cheeks are burning.
+
+* R W C Mana:Hot>
+say nice:)
+emote bitches 'nice:)'
+Ok.
+
+* R W C Mana:Hot>
+
+Drengist gets a sable pouch from the corpse of *an Elf*.
+
+* R W C Mana:Hot>
+
+Ragface chuckles politely.
+
+* R W C Mana:Hot>
+say ur welcome
+emote bitches 'ur welcome'
+* R W C Mana:Hot>
+
+Ragface narrates 'manaja ded'
+
+* R W C Mana:Hot>
+l in corpse
+corpse (here) :
+a broad silver belt
+a carved oak staff; it is invisible; it has a soft glowing aura
+a double edged eket (brand new); it is invisible
+a fine grey cloak (used); it is invisible
+a fragile parchment
+a pair of soft leather boots (used)
+a grey hood (brand new)
+a grey pair of pants (brand new)
+a grey pair of sleeves (brand new)
+a grey shirt (brand new)
+a ring; it is invisible
+a strange set of lock picks
+a stone
+a strip of dried meat
+a thin pair of leather gloves (used)
+a water skin
+a keyring with a few keys
+a leather backpack
+
+Diam.

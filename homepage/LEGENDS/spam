@@ -1,0 +1,628 @@
+OB: 65%, DB: 36%, PB: 93%, Armour: 60%. Wimpy: 150. Mood: wimpy.
+Needed: 397730 xp, 0 tp. Wp: 82. Gold: 257.
+Affected by:
+- strength
+- sense life
+- armour
+- detect invisibility
+- shield
+
+
+You just see a dense fog around you...
+You are on a mountain, following a trail.
+*Muck the Elf* is standing here, riding on a horse of the Rohirrim.
+
+* R W C Mana:Burning>
+w
+Alas, you cannot go that way...
+
+ca 'hold' $mees
+* R W C Mana:Burning>
+You start to concentrate...
+
+Borgash narrates 'hehe i did hit muck =)'
+
+Ok.
+*Muck the Elf* is suddenly paralysed!
+
+* R W C Mana:Hot>
+ca 'harm' $mees
+You start to concentrate...
+
+* R W C Mana:Hot *Muck the Elf*:Hurt>
+f
+
+Ok.
+As you call on ancient powers, *Muck the Elf* twists in great pain.
+
+* R W C Mana:Hot *Muck the Elf*:Hurt>
+
+#Ok. {tt} aliases {t Razu}.
+Razu tells you 'you on him?'
+
+* R W C Mana:Hot *Muck the Elf*:Hurt>You flee head over heels.
+You just see a dense fog around you...
+You are on a mountain, following a trail.
+o R W C Mana:Hot>
+n
+You just see a dense fog around you...
+You are on a mountain, following a trail.
+*Muck the Elf* is standing here, riding on a horse of the Rohirrim.
+
+ca 'harm' $mees
+* R W C Mana:Hot>
+You start to concentrate...
+
+* R W C Mana:Warm *Muck the Elf*:Wounded>
+
+Ok.
+As you call on ancient powers, *Muck the Elf* twists in great pain.
+
+f
+* R W C Mana:Warm *Muck the Elf*:Wounded>
+
+*Muck the Elf* begins to move again!
+
+o R W C Mana:Warm>
+*Muck the Elf* panics, and attempts to flee.
+*Muck the Elf* leaves north riding a horse of the Rohirrim.
+
+n
+* R W C Mana:Warm>
+*Muck the Elf* has arrived from the north riding a horse of the Rohirrim.
+
+*Muck the Elf* leaves east riding a horse of the Rohirrim.
+
+Ok sai minema..ja lax tagasi noci poole, mount loodi tal maha
+ja siis flees rdelli poole sain ta just...
+
+High Moor
+Exits: North East South West.
+
+o R W C Mana:Hot>
+n
+High Moors
+Exits: North East South West.
+
+kil $mees
+o R W C Mana:Hot>
+High Moors
+*Muck the Elf* is standing here.
+Exits: South West.
+
+* R W C Mana:Hot>
+* R W C Mana:Hot *Muck the Elf*:Hurt>
+*Muck the Elf* swiftly dodges your attempt to slash him.
+
+kil $mees
+* R W C Mana:Hot *Muck the Elf*:Hurt>
+
+*Muck the Elf* panics, and attempts to flee.
+*Muck the Elf* leaves west.
+
+o R W C Mana:Hot>
+They aren't here.
+
+o R W C Mana:Hot>
+w
+kil $mees
+High Moors
+*Muck the Elf* is standing here.
+Exits: East South.
+
+Nii siin ta akkas siis ringi spammima ja egas mul kah midagi paremat teha polnud
+spammasin kah..kuni
+
+High Moors
+Exits: North East South West.
+
+ro R W C Mana:Hot>
+ack track
+You carefully examine the ground around you, looking for tracks...
+
+
+You stop searching.
+
+o R W C Mana:Hot>
+l
+t*Vor the Elf* has arrived from the west riding a pack horse.
+High Moors
+*Vor the Elf* is standing here, riding on a pack horse.
+
+r* R W C Mana:Hot>
+ack el
+
+*Vor the Elf* examines the terrain intently.
+
+* R W C Mana:Hot>
+
+You carefully examine the ground around you, looking for tracks...
+
+You stop searching.
+
+* R W C Mana:Hot>
+e
+High Moors
+Exits: North East South West.
+
+w
+o R W C Mana:Hot>
+High Moors
+*Vor the Elf* is standing here, riding on a pack horse.
+Exits: North East South West.
+
+* R W C Mana:Hot>
+c 'light' $mees
+You start to concentrate...
+
+o R W C Mana:Hot>
+
+Ok.
+The impact of your lightning bolt kills *Vor the Elf*.
+*Vor the Elf* is dead! R.I.P.
+You receive your share of experience.
+Congratulations! This is the first time you've killed it!
+Your blood freezes as you hear *Vor the Elf*'s death cry.
+A shadow slowly rises above the corpse of *Vor the Elf*.
+
+o R W C Mana:Hot>
+narr VOR DIES
+Ok.
+
+lico R W C Mana:Hot>
+
+l in corpse
+corpse (here) :
+a stone
+a sable pouch; it is invisible
+a strange set of lock picks
+a pair of smooth, black boots
+a black runed dagger (brand new)
+a pair of soft leather sleeves (used)
+a thin pair of leather gloves (brand new); it is invisible
+a broad silver belt
+a bejewelled shield (used)
+an iron ring
+a red ruby; it has a soft glowing aura
+a plain shirt (brand new)
+a plain pair of pants (brand new)
+a plain hood (brand new)
+a fine grey cloak (used)
+a large skin
+coins
+
+o R W C Mana:Hot>
+m shado
+w
+#Ok. $mees is now set to {shadow}.
+Moan narrates '*clap*'
+
+o R W C Mana:Hot>
+
+e
+Silicon narrates 'clap!'
+
+o R W C Mana:Hot>
+w
+Akrai narrates 'damn '
+High Moors
+Exits: North East South West.
+
+ca 'blind' $mees
+o R W C Mana:Hot>
+High Moors
+The corpse of *an Elf* is lying here.
+A sturdy pack horse is standing here.
+The shadow of *an Elf* is floating here.
+Exits: North East South West.
+Kadzar narrates 'Hurray'
+
+o R W C Mana:Hot>
+You start to concentrate...
+
+narrRazu narrates 'nice!'
+
+ nice jYou lost your concentration!
+
+oo R W C Mana:Hot>
+b
+*Muck the Elf* has arrived from the west.
+
+* R W C Mana:Hot>
+Plato narrates 'YEAH!!'
+
+* R W C Mana:Hot>
+b
+Moan narrates 'hehe, we had him bad'
+
+* R W C Mana:Hot>
+y akrai
+*Muck the Elf* leaves south.
+
+o R W C Mana:Hot>
+ grp
+n
+arr  Akrai narrates 'got him to bad'
+
+o R W C Mana:Hot>Ok.
+
+o R W C Mana:Hot>
+soryr
+Ok.
+
+o R W C Mana:Hot>
+s
+Path to the Misty Mountains
+Exits: North East South West.
+
+mees elf
+#Ok. $mees is now set to {elf}.
+o R W C Mana:Hot>
+e
+Path to the Misty Mountains
+Exits: North East West.
+
+w
+o R W C Mana:Hot>
+n
+Path to the Misty Mountains
+Exits: North East South West.
+
+o R W C Mana:Hot>
+nHigh Moors
+The corpse of *an Elf* is lying here.
+A sturdy pack horse is standing here.
+The shadow of *an Elf* is floating here.
+Exits: North East South West.
+
+o R W C Mana:Hot>
+a
+rr h#Ok. {tt} aliases {t Gahýdhr}.
+Gahýdhr tells you 'clap :)'
+
+o R W C Mana:Hot>
+e weas seeking
+Ok.
+
+s
+w
+o R W C Mana:Hot>
+Path to the Misty Mountains
+Exits: North East South West.
+
+o R W C Mana:Hot>
+Path to the Misty Mountains
+Exits: North East South West.
+o R W C Mana:Hot>
+s
+e
+Foot of the Broken Hills
+Exits: North East South.
+
+n
+o R W C Mana:Hot>
+n
+High Moor
+Exits: North East West.
+
+o R W C Mana:Hot>
+Path to the Misty Mountains
+Exits: North East South West.
+
+o R W C Mana:Hot>
+High Moors
+The corpse of *an Elf* is lying here.
+A sturdy pack horse is standing here.
+The shadow of *an Elf* is floating here.
+Exits: North East South West.
+
+o R W C Mana:Hot>
+e
+High Moors
+Exits: North East South West.
+
+o R W C Mana:Hot>
+narr
+cMoan narrates 'vell, it´s killin fhat counts'
+
+o R W C Mana:Hot>
+ome he
+r #Ok. {tt} aliases {t Gahýdhr}.
+Gahýdhr tells you 'cackle'
+
+o R W C Mana:Hot>
+shadow and muck trying to get ijnside
+Ok.
+
+n
+o R W C Mana:Hot>
+Akrai narrates 'yep'
+High Moors
+Exits: South West.
+
+o R W C Mana:Hot>
+w
+High Moors
+Exits: East South.
+
+o R W C Mana:Hot>
+s
+High Moors
+The corpse of *an Elf* is lying here.
+A sturdy pack horse is standing here.
+The shadow of *an Elf* is floating here.
+Exits: North East South West.
+
+e
+o R W C Mana:Hot>
+High Moors
+Exits: North East South West.
+
+o R W C Mana:Hot>
+n
+High Moors
+Exits: South West.
+
+o R W C Mana:Hot>
+mees elf
+#Ok. $mees is now set to {elf}.
+s
+High Moors
+Exits: North East South West.
+
+o R W C Mana:Hot>
+e
+High Moor
+Exits: North East South West.
+
+o R W C Mana:Hot>
+w
+w
+High Moors
+Exits: North East South West.
+
+o R W C Mana:Hot>
+mHigh Moors
+The corpse of *an Elf* is lying here.
+A sturdy pack horse is standing here.
+The shadow of *an Elf* is floating here.
+Exits: North East South West.
+
+o R W C Mana:Hot>
+ shadow
+#Ok. $mees is now set to {shadow}.
+
+ca 'blind' $mees
+Moan narrates 'roahir and sisalik died as well'
+
+o R W C Mana:Hot>
+You start to concentrate...
+
+Ok.
+A shadow seems to be blinded!
+o R W C Mana:Hot>
+wi bow
+sh#Ok. {tt} aliases {t Gahýdhr}.
+Gahýdhr tells you 'that silly actionhunter, good job!'
+You stop using an engraved broadsword.
+You hold an orcish shortbow.
+
+oo R W C Mana:Hot>
+ shadow
+sho
+sho
+You shoot A shadow's right hand extremely hard.
+A shadow says 'Stop hiding, yoo wimp!'
+
+o R W C Mana:Hot A shadow:Fine>
+sho
+You shoot A shadow's body extremely hard.
+
+o R W C Mana:Hot A shadow:Fine>
+sho
+You shoot A shadow's left leg very hard.
+
+shoo R W C Mana:Hot A shadow:Fine>
+
+You shoot A shadow's right hand extremely hard.
+
+shoo R W C Mana:Hot A shadow:Hurt>
+
+You shoot A shadow's right leg extremely hard.
+
+o R W C Mana:Hot A shadow:Hurt>
+sho
+You shoot A shadow's body extremely hard and shatter it.
+
+o R W C Mana:Hot A shadow:Wounded>
+A shadow hits your right foot and tickles it.
+
+sho
+Aye! You cannot concentrate any more...
+
+o R W C HP:Fine Mana:Hot A shadow:Wounded>
+sho
+You shoot A shadow's body extremely hard and shatter it.
+
+o R W C HP:Fine Mana:Hot A shadow:Wounded>
+sho
+A shadow lightly hits your body and tickles it.
+
+Aye! You cannot concentrate any more...
+
+o R W C HP:Fine Mana:Hot A shadow:Wounded>
+sho
+Akrai narrates 'damn wanted vors arse'
+A shadow lightly hits your body and tickles it.
+
+shoAye! You cannot concentrate any more...
+
+
+o R W C HP:Fine Mana:Hot A shadow:Wounded>
+sho
+#Ok. {tt} aliases {t Elrik}.
+Elrik tells you 'any eq'
+You shoot A shadow's left leg extremely hard and shatter it.
+
+o R W C HP:Fine Mana:Hot A shadow:Bad>
+*Jubedus the Elf* has arrived from the east riding a pack horse.
+
+sho
+*Jubedus the Elf* leaves north riding a pack horse.
+
+*Jubedus the Elf* has arrived from the north riding a pack horse.
+As *Jubedus the Elf* greedily kneels down towards the corpse, the icy grasp of A shadow 
+stops him!
+You shoot A shadow's left foot extremely hard and shatter it.
+
+sho* R W C HP:Fine Mana:Hot A shadow:Bad>
+
+*Jubedus the Elf* leaves south riding a pack horse.
+
+
+
+A shadow whispers 'I won't allow the looting of my fallen body!'
+A shadow hits your head and tickles it.
+
+o R W C HP:Fine Mana:Hot A shadow:Bad>
+
+
+
+o R W C HP:Fine Mana:Hot A shadow:Bad>
+nar COME*Jubedus the Elf* has arrived from the south riding a pack horse.
+
+ * R W C HP:Fine Mana:Hot A shadow:Bad>
+MOORS F* R W C HP:Fine Mana:Hot A shadow:Bad>
+ASt* R W C HP:Fine Mana:Hot A shadow:Bad>
+
+nar COME MOORS FASt
+Ok.
+As *Jubedus the Elf* greedily kneels down towards the corpse, the icy grasp of A shadow 
+stops him!
+
+nar COME MOORS FASt* R W C HP:Fine Mana:Hot A shadow:Bad>
+
+Ok.
+
+* R W C HP:Fine Mana:Hot A shadow:Bad>
+As *Jubedus the Elf* greedily kneels down towards the corpse, the icy grasp of A shadow 
+stops him!
+A shadow whispers 'I won't allow the looting of my fallen body!'
+Ok.
+* R W C HP:Fine Mana:Hot A shadow:Bad>
+
+As *Jubedus the Elf* greedily kneels down towards the corpse, the icy grasp of A shadow 
+stops him!
+A shadow whispers 'I won't allow the looting of my fallen body!'
+
+* R W C HP:Fine Mana:Hot A shadow:Bad>
+
+*Jubedus the Elf* snickers softly.
+A shadow whispers 'I won't allow the looting of my fallen body!'
+
+* R W C HP:Fine Mana:Hot A shadow:Bad>
+
+#Ok. {tt} aliases {t Silicon}.
+Silicon tells you 'kuda suri :)'
+
+* R W C HP:Fine Mana:Hot A shadow:Bad>
+
+A shadow lightly hits your body and tickles it.
+
+* R W C HP:Fine Mana:Hot A shadow:Bad>
+
+*Jubedus the Elf* begins some strange incantations...
+
+* R W C HP:Fine Mana:Hot A shadow:Bad>
+
+Burghul narrates 'me bad'
+
+* R W C HP:Fine Mana:Hot A shadow:Bad>
+wimp
+fOk.
+
+
+* R W C HP:Fine Mana:Hot A shadow:Bad>
+mees elf
+#Ok. $mees is now set to {elf}.
+*Jubedus the Elf* begins some strange incantations...
+You flee head over heels.
+High Moors
+Exits: East South.
+
+o R W C HP:Fine Mana:Hot>
+s
+
+c 'light' $mees
+Razu narrates 'who there?'
+
+o R W C HP:Fine Mana:Hot>High Moors
+The corpse of *an Elf* is lying here.
+A sturdy pack horse is standing here.
+The shadow of *an Elf* is floating here.
+*Jubedus the Elf* is standing here, riding on a pack horse.
+Exits: North East South West.
+*Jubedus the Elf* utters the words, 'blindness'
+You have been blinded!
+
+abx!, l6petasin just shootimise ara et ootan kuni backup tuleb
+ja teeme shadow ara et jubedus ise shadowt ara ei lopeta, nyyd instablind
+
+o R W C HP:Fine Mana:Hot>
+mees elf
+#Ok. $mees is now set to {elf}.
+
+c 'light' $mees
+o R W C HP:Fine Mana:Hot>
+Nobody here by that name.
+
+o R W C HP:Fine Mana:Hot>
+n
+You are in brush, following a trail.
+
+e
+o R W C HP:Fine Mana:Hot>
+You are in brush, following a trail.
+
+o R W C HP:Fine Mana:Hot>
+s
+You are in brush, following a trail.
+
+o R W C HP:Fine Mana:Hot>
+nar GOTO MOORS shADOW THER ELF TR
+YIYour blood freezes as you hear a death cry.
+
+Ja corpse laksi ara, FUCK OFF, keegi ei j6ua 2 tickiga tulla damn mooris warrensist *peer*.
+
+*** Warlords hall of fame ***
+
+ 1  Snuttan the Orc Shaman.
+ 2  Haaz the Orc Scout.
+ 3  Cyrano the Human Thief.
+ 4  Agent the Elf Magic User.
+ 5  Zim the Hobbit Warrior.
+ 6  Elis the Orc Scout.
+ 7  Lup the Elf Magic User.
+ 8  Fierce the Troll Warrior.
+ 9  Diamonium the Orc Shaman.
+10  Labero the Black Númenórean Magic User.
+11  Cherry the Troll Warrior.
+12  Gorgûl the Orc Scout.
+13  Fingon the Elf Cleric.
+14  Burzum the Orc Warrior.
+15  Darkmoon the Elf Magic User.
+16  Vasquez the Human Thief.
+17  HolyElf the Elf Cleric.
+18  Coxa the Human Warrior.
+19  Magnolia the Human Cleric.
+20  Finragor the Half-Elf Warrior.
+
+OB: 38%, M_OB: 62%, DB: 26%, PB: 72%, Armour: 60%. Wimpy: 150. Mood: wimpy.
+Needed: 297108 xp, 0 tp. Wp: 107. Gold: 256.
+Affected by:
+- shield
+- noquit
+- strength
+- sense life
+- detect invisibility
+

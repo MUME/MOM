@@ -1,0 +1,973 @@
+West of the Ford of the Bruinen
+A brass lantern has been set on the ground.
+Exits: North East South West.
+
+* R W C Mana:Burning>
+tt ma fordil
+qOk.
+
+
+* R W C Mana:Burning>
+l
+where
+Players in your zone:
+--------------------
+Diamonium            - West of the Ford of the Bruinen
+
+* R W C Mana:Burning>
+tWest of the Ford of the Bruinen
+A brass lantern has been set on the ground.
+
+r* R W C Mana:Burning>
+ack
+You carefully examine the ground around you, looking for tracks...
+
+m
+{mees}={hobbit}
+#Ok. {tt} aliases {t Mammoth}.
+Mammoth tells you 'oi  eeeeeh'
+
+You see:
+   - Some tracks of a hungry warg leading east (done less than 2 hours ago).
+   - Some tracks of a pack horse leading west (done less than 4 hours ago).
+   - Some tracks of a horse of the Rohirrim leading east (done less than 7 hours ago).
+
+*Hugo the Dwarf* and *Gabe the Hobbit* have arrived from the east riding a mountain mule.
+   - Some tracks of an Elf leading east (done less than 8 hours ago).
+   - Some tracks of an Elf coming from the south (done less than 8 hours ago).
+*Hugo the Dwarf* and *Gabe the Hobbit* leave west riding a mountain mule.
+
+
+You stop searching.
+
+* R W C Mana:Burning>
+w
+Forested Hills
+*Hugo the Dwarf* is standing here, riding on a mountain mule.
+*Gabe the Hobbit* is standing here, riding on a mountain mule driven by *Hugo the Dwarf*.
+Exits: North East South West.
+
+* R W C Mana:Burning>
+c 'light' $mees
+You start to concentrate...
+
+*Hugo the Dwarf* tries to slash you, but your parry is successful.
+
+Dust narrates 'Any spare lww's out there ? or just ww's ?'
+Alas! There was no clear line of sight to him!
+
+* R W C Mana:Burning *Hugo the Dwarf*:Healthy>
+f
+You flee head over heels.
+Forested Hills
+Exits: North East South.
+
+* R W C Mana:Burning>
+
+e
+*Hugo the Dwarf* and *Gabe the Hobbit* have arrived from the east riding a mountain mule.
+
+* R W C Mana:Burning>
+c 'light' $mees
+Forested Hills
+Exits: North East South West.
+
+* R W C Mana:Burning>
+Nobody here by that name.
+
+* R W C Mana:Burning>
+w
+Forested Hills
+*Hugo the Dwarf* is standing here, riding on a mountain mule.
+*Gabe the Hobbit* is standing here, riding on a mountain mule driven by *Hugo the Dwarf*.
+Exits: North East South.
+*Hugo the Dwarf* tries to slash you, but your parry is successful.
+
+* R W C Mana:Burning *Hugo the Dwarf*:Healthy>
+c 'light' $mees
+You start to concentrate...
+
+
+* R W C Mana:Burning *Hugo the Dwarf*:Healthy>
+f
+PANIC! You can't quit the fight!
+
+* R W C Mana:Burning *Hugo the Dwarf*:Healthy>
+You flee head over heels.
+Forested Hills
+Exits: North East South West.
+
+* R W C Mana:Burning>
+
+n
+*Hugo the Dwarf* and *Gabe the Hobbit* have arrived from the west riding a mountain mule.
+
+* R W C Mana:Burning>
+Forested Hills
+Exits: North East South West.
+
+* R W C Mana:Burning>
+n
+Forested Hills
+Exits: East South West.
+
+* R W C Mana:Burning>
+IROn
+wear iron
+You are already wearing something on your fingers.
+
+* R W C Mana:Burning>
+s
+Forested Hills
+*Hugo the Dwarf* is standing here, riding on a mountain mule.
+*Gabe the Hobbit* is standing here, riding on a mountain mule driven by *Hugo the Dwarf*.
+Exits: North East South West.
+
+c 'light' $mees
+* R W C Mana:Burning>
+You start to concentrate...
+
+*Hugo the Dwarf* tries to slash you, but your parry is successful.
+
+Ok.
+The lightning bolt hits *Gabe the Hobbit* with full impact.
+
+* R W C Mana:Hot *Hugo the Dwarf*:Healthy>
+f
+You flee head over heels.
+Forested Hills
+Exits: East South West.
+
+* R W C Mana:Hot>
+IROn
+You are already wearing something on your fingers.
+
+* R W C Mana:Hot>
+e
+An Old Path
+Exits: North South West.
+
+* R W C Mana:Hot>
+IRON
+You stop using a copper ring.
+
+* R W C Mana:Hot>
+You put an iron ring on your right finger.
+
+* R W C Mana:Hot>
+w
+Forested Hills
+Exits: East South West.
+
+c 'light' $mees
+* R W C Mana:Hot>
+Nobody here by that name.
+
+* R W C Mana:Hot>
+s
+c 'light' $mees
+Forested Hills
+Exits: North East South West.
+
+* R W C Mana:Hot>
+Nobody here by that name.
+
+* R W C Mana:Hot>
+e
+c 'light' $mees
+An Old Path
+Exits: North South West.
+
+* R W C Mana:Hot>
+Nobody here by that name.
+
+* R W C Mana:Hot>
+e
+c 'light' $mees
+Alas, you cannot go that way...
+
+* R W C Mana:Hot>
+s
+Nobody here by that name.
+
+* R W C Mana:Hot>
+c 'light' $mees
+West of the Ford of the Bruinen
+A brass lantern has been set on the ground.
+Exits: North East South West.
+
+* R W C Mana:Hot>
+e
+Nobody here by that name.
+
+c 'light' $mees
+* R W C Mana:Hot>
+Ford of the River Bruinen
+Exits: North East South West.
+
+* R W C Mana:Hot>
+Nobody here by that name.
+
+* R W C Mana:Hot>
+w
+West of the Ford of the Bruinen
+A brass lantern has been set on the ground.
+Exits: North East South West.
+Exits: North East South West.
+
+* R W C Mana:Hot>
+w
+Forested Hills
+Exits: North East South West.
+
+* R W C Mana:Hot>
+n
+Forested Hills
+Exits: North East South West.
+
+* R W C Mana:Hot>
+n
+Forested Hills
+Exits: East South West.
+
+* R W C Mana:Hot>
+w
+Forested Hills
+Exits: East South West.
+
+* R W C Mana:Hot>
+s
+Forested Hills
+Exits: North East South West.
+
+* R W C Mana:Hot>
+s
+Forested Hills
+Exits: North East South.
+
+* R W C Mana:Hot>
+e
+Forested Hills
+Exits: North East South West.
+
+Ok nagin et trackid laksid westi poole..gabe suri ennemp warrensis
+ju laksid eqt tsekkima..tormasin warrenis poole
+
+Trollshaws
+Exits: North East South West.
+
+o R W C Mana:Burning>
+n
+Your mount refuses to follow your orders!
+
+o R W C Mana:Burning>
+n
+Trollshaws
+A brutish forest troll is hunting here, looking for some tasty flesh.
+Exits: North East South West.
+
+o R W C Mana:Burning>
+n
+In the Forest
+A grey wolf is here, thin from starvation.
+Exits: North East South West.
+
+* R W C Mana:Burning>
+n
+Your mount refuses to follow your orders!
+
+* R W C Mana:Burning>
+n
+In the Forest
+Exits: North East South West.
+
+* R W C Mana:Burning>
+n
+On a Large Hill
+Exits: North East South West.
+
+n
+* R W C Mana:Burning>
+n
+Stony Meadow
+The black crow flies low to the ground here, looking for carrion to eat.
+A large beaver is here, gnawing on a piece of wood.
+Exits: North East South West.
+
+* R W C Mana:Burning>
+n
+Oops! You cannot go there riding!
+
+* R W C Mana:Burning>
+n
+Oops! You cannot go there riding!
+
+* R W C Mana:Burning>
+Oops! You cannot go there riding!
+The beaver leaves east.
+
+* R W C Mana:Burning>
+lead
+You stop riding a hungry warg.
+A hungry warg starts following you.
+
+* W C Mana:Burning>
+n
+Difficult Slope
+Exits: North East South West.
+ACK! a hungry warg didn't follow you, you lost it.
+
+* W C Mana:Burning>
+n
+n
+n
+You failed to climb there and fall on the ground.
+Dark Ravine
+
+o W C HP:Fine Mana:Burning>
+n
+Edge of the Plateau
+Exits: North East South West.
+
+o W C HP:Fine Mana:Burning>
+Rocky Plain
+Exits: North East South West.
+
+* W C HP:Fine Mana:Burning>
+Battlefield
+A demon wolf lurks here, its dark form twisting and hiding its shape.
+Exits: North East South West.
+
+* W C HP:Fine Mana:Burning>
+n
+n
+Rock Hill
+Exits: North East South West.
+
+* W C HP:Fine Mana:Burning>
+Fortress
+A dark intangible shadow turns to face you.
+A dark intangible shadow turns to face you.
+Exits: South Up Down.
+
+o W C HP:Fine Mana:Burning>
+w
+Alas, you cannot go that way...
+
+o W C HP:Fine Mana:Burning>
+s
+Rock Hill
+Exits: North East South West.
+
+* W C HP:Fine Mana:Burning>
+w
+Rocky Plain
+A demon wolf lurks here, its dark form twisting and hiding its shape.
+Exits: East South West.
+
+* W C HP:Fine Mana:Burning>
+w
+Lost in the Dim Forest
+A forest spider is here crawling around.
+A forest spider is here crawling around.
+A forest spider is here crawling around.
+Exits: North East South West.
+The rain has stopped.
+You feel bolder.
+You are thirsty.
+
+o W C HP:Fine>
+w
+Amid the Forest
+A cluster of white star-shaped forget-me-nots flourish here in reminiscence.
+A shallow pond is here, tinted green with algae.
+A swarm of midges is here, humming around you.
+A disgusting forest troll is searching for fresh meat here.
+A disgusting forest troll is searching for fresh meat here.
+Exits: North East South West.
+
+o W C HP:Fine>
+w
+Dense Black Woods
+A disgusting forest troll is searching for fresh meat here.
+Exits: North East South West.
+
+o W C HP:Fine>
+dr
+wYou can't find a water.
+
+o W C HP:Fine>
+
+Thick Black Forest
+A disgusting forest troll is searching for fresh meat here.
+A disgusting forest troll is searching for fresh meat here.
+A disgusting forest troll is searching for fresh meat here.
+A disgusting forest troll is searching for fresh meat here.
+Exits: North East South West.
+
+do W C HP:Fine>
+
+riAn ugly forest troll tries to hit you, but your parry is successful.
+
+o W C HP:Fine an ugly forest troll:Healthy>
+nk skin
+You drink the water.
+
+drink skino W C HP:Fine an ugly forest troll:Healthy>
+
+drink skin
+
+You drink the water.
+
+drink skin
+o W C HP:Fine an ugly forest troll:Healthy>
+You drink the water.
+
+o W C HP:Fine an ugly forest troll:Healthy>
+An ugly forest troll tries to hit you, but your parry is successful.
+
+o W C HP:Fine an ugly forest troll:Healthy>
+You drink the water.
+You do not feel thirsty anymore.
+
+o W C HP:Fine an ugly forest troll:Healthy>
+f
+
+An ugly forest troll joins an ugly forest troll's fight.
+
+o W C HP:Fine an ugly forest troll:Healthy>
+You flee head over heels.
+Dense Black Woods
+A disgusting forest troll is searching for fresh meat here.
+Exits: North East South West.
+
+o W C HP:Fine>
+w
+Thick Black Forest
+A disgusting forest troll is searching for fresh meat here.
+A disgusting forest troll is searching for fresh meat here.
+A disgusting forest troll is searching for fresh meat here.
+A disgusting forest troll is searching for fresh meat here.
+Exits: North East South West.
+An ugly forest troll leaves south.
+An ugly forest troll leaves south.
+
+o W C HP:Fine>
+
+An ugly forest troll tries to hit you, but your parry is successful.
+
+o W C HP:Fine an ugly forest troll:Healthy>
+w
+No way! You are fighting for your life!
+
+o W C HP:Fine an ugly forest troll:Healthy>
+w
+No way! You are fighting for your life!
+
+o W C HP:Fine an ugly forest troll:Healthy>
+f
+PANIC! You can't quit the fight!
+
+o W C HP:Fine an ugly forest troll:Healthy>
+w
+w
+You flee head over heels.
+Dense Black Woods
+A disgusting forest troll is searching for fresh meat here.
+Exits: North East South West.
+
+o W C HP:Fine>
+Thick Black Forest
+A disgusting forest troll is searching for fresh meat here.
+A disgusting forest troll is searching for fresh meat here.
+Exits: North East South West.
+
+o W C HP:Fine>
+Thin Forest
+Exits: North East South West.
+
+* W C HP:Fine>
+w
+Bleak Glade
+The burnt and blackened skeletal remains of a human are here.
+A domesticated pony, beast of burden to many, stands here.
+Exits: *North* East South West.
+
+* W C HP:Fine Move:Tired>
+n
+You blink and feel weaker under the cruel light of the sun.
+Blighted Land
+A large toadstool grows nearby.
+An ancient fungus smothers the boulders.
+A huge black fungus is here, exuding a foul stench.
+Exits: *North* East South *West*.
+
+* W C HP:Fine Move:Tired>
+n
+Small Trail
+Exits: *North* *East* *South* *West*.
+
+* W C HP:Fine Move:Tired>
+n
+Blighted Land
+There are three toadstools here.
+Exits: North *East* *South* *West* *Up*.
+
+* W C HP:Fine Move:Tired>
+w
+Old Ruins
+*Hugo the Dwarf* is standing here, riding on a mountain mule.
+You smell blood.                       <- gabe hides ennast..
+Exits: North *East* *South* West Down.
+
+* W C HP:Fine Move:Tired>
+c 'light' $mees
+Nobody here by that name.
+
+* W C HP:Fine Mana:Burning Move:Tired>
+d
+You feel so much better hiding in the shadows!
+An Abandoned Cellar
+The corpse of a mountain mule is lying here.
+The corpse of *a Troll* is lying here.
+An experienced orcish scout is looking for tracks on the ground.
+An orcish soldier is here, patrolling the area.
+Exits: East *Up*.
+
+o W C HP:Fine Mana:Burning Move:Tired>
+sc
+l
+279/300 hit, 102/103 mana and 39/167 moves.
+
+o W C HP:Fine Mana:Burning Move:Tired>
+An Abandoned Cellar
+
+The corpse of a mountain mule is lying here.
+The corpse of *a Troll* is lying here.
+An experienced orcish scout is looking for tracks on the ground.
+An orcish soldier is here, patrolling the area.
+
+o W C HP:Fine Mana:Burning Move:Tired>
+bob
+You start to concentrate...
+
+Ok.
+An energy begins to flow within your legs as your body becomes lighter.
+
+o W C HP:Fine Mana:Hot>
+m
+{mees}={hobbit}
+sneak
+Ok, you'll try to move silently for a while.
+
+o W S C HP:Fine Mana:Hot>
+e
+Rough Passageway
+Exits: North South West.
+
+o W S C HP:Fine Mana:Hot>
+w
+An Abandoned Cellar
+The corpse of a mountain mule is lying here.
+The corpse of *a Troll* is lying here.
+An experienced orcish scout is looking for tracks on the ground.
+An orcish soldier is here, patrolling the area.
+Exits: East *Up*.
+
+u
+o W S C HP:Fine Mana:Hot>
+w
+You blink and feel weaker under the cruel light of the sun.
+Old Ruins
+Exits: North *East* *South* West Down.
+
+* W S C HP:Fine Mana:Hot>
+You feel so much better hiding in the shadows!
+Dreary Forest
+A tall troll, its skin crawling with lice and ticks, is roaming around in here.
+A brutish forest troll is hunting here, looking for some tasty flesh.
+A brutish forest troll is hunting here, looking for some tasty flesh.
+Exits: North *East* *South* West.
+
+o W S C HP:Fine Mana:Hot>
+e
+You blink and feel weaker under the cruel light of the sun.
+Old Ruins
+Exits: North *East* *South* West Down.
+
+* W S C HP:Fine Mana:Hot>
+n
+You feel so much better hiding in the shadows!
+Dreary Forest
+Exits: East *South* West.
+
+o W S C HP:Fine Mana:Hot>
+s
+You blink and feel weaker under the cruel light of the sun.
+Old Ruins
+Exits: North *East* *South* West Down.
+
+* W S C HP:Fine Mana:Hot>
+e
+Blighted Land
+On the ground, there are three toadstools.
+*Hugo the Dwarf* is standing here, riding on a mountain mule.
+*Gabe the Hobbit* is standing here, riding on a mountain mule driven by *Hugo the Dwarf*.
+Exits: North *East* *South* *West* *Up*.
+
+* W S C HP:Fine Mana:Hot>
+w
+Old Ruins
+Exits: North *East* *South* West Down.
+
+* W S C HP:Fine Mana:Hot>
+
+*Hugo the Dwarf* and *Gabe the Hobbit* have arrived from the east riding a mountain mule.
+
+* W S C HP:Fine Mana:Hot>
+mees hobbit
+#Ok. $mees is now set to {hobbit}.
+
+*Hugo the Dwarf* and *Gabe the Hobbit* leave east riding a mountain mule.
+
+* W S C HP:Fine Mana:Hot>
+e
+Blighted Land
+You see three toadstools on the ground.
+*Hugo the Dwarf* is standing here, riding on a mountain mule.
+*Gabe the Hobbit* is standing here, riding on a mountain mule driven by *Hugo the Dwarf*.
+Exits: North *East* *South* *West* *Up*.
+
+c 'light' $mees
+* W S C HP:Fine Mana:Hot>
+*Hugo the Dwarf* slashes your left foot hard and tickles it.
+You start to concentrate...
+
+f
+Ok.
+The lightning bolt hits *Gabe the Hobbit* with full impact.
+
+* W S C HP:Fine Mana:Hot *Hugo the Dwarf*:Healthy>
+You flee head over heels.
+Old Ruins
+Exits: North *East* *South* West Down.
+
+* W S C HP:Fine Mana:Hot>
+
+*Hugo the Dwarf* and *Gabe the Hobbit* have arrived from the east riding a mountain mule.
+
+* W S C HP:Fine Mana:Hot>
+n
+
+*Hugo the Dwarf* lightly slashes your left leg and tickles it.
+
+* W S C HP:Fine Mana:Hot *Hugo the Dwarf*:Healthy>
+No way! You are fighting for your life!
+
+* W S C HP:Fine Mana:Hot *Hugo the Dwarf*:Healthy>
+f
+You flee head over heels.
+Small Trail
+The corpse of *a Troll* is lying here.
+Exits: *North* *East* *South* *West*.
+
+* W S C HP:Fine Mana:Hot>
+e
+Small Trail
+Exits: *North* *East* *South* *West*.
+
+* W S C HP:Fine Mana:Hot>
+w
+c 'light' $mees
+Small Trail
+The corpse of *a Troll* is lying here.
+*Hugo the Dwarf* is standing here, riding on a mountain mule.
+*Gabe the Hobbit* is standing here, riding on a mountain mule driven by *Hugo the Dwarf*.
+Exits: *North* *East* *South* *West*.
+*Hugo the Dwarf* and *Gabe the Hobbit* leave west riding a mountain mule.
+* W S C HP:Fine Mana:Hot>
+*Hugo the Dwarf* and *Gabe the Hobbit* have arrived from the west riding a mountain mule.
+You start to concentrate...
+
+* W S C HP:Fine Mana:Hot>
+
+Ok.
+The impact of your lightning bolt kills *Gabe the Hobbit*.
+*Gabe the Hobbit* is dead! R.I.P.
+You receive your share of experience.
+Yes! You're beginning to get the idea !
+Your blood freezes as you hear *Gabe the Hobbit*'s death cry.
+
+* W S C HP:Fine Mana:Hot>
+
+*Hugo the Dwarf* gets coins from the corpse of *a Hobbit*.
+
+* W S C HP:Fine Mana:Hot *Hugo the Dwarf*:Healthy>
+
+*Hugo the Dwarf* slashes your body and tickles it.
+
+* W S C HP:Fine Mana:Hot *Hugo the Dwarf*:Healthy>
+f
+n
+You flee head over heels.
+Blighted Land
+A large and somewhat round fungus grows from the floor.
+Some strips of dried fungus lie on the ground.
+A huge black fungus is here, exuding a foul stench.
+A giant, strange looking green fungus is here, ready to devour you in seconds.
+A huge black fungus is here, exuding a foul stench.
+An ancient fungus smothers the boulders.
+An ancient fungus smothers the boulders.
+An ancient fungus smothers the boulders.
+Exits: *North* *East* South *West*.
+
+*** Warlords hall of fame ***
+
+ 1  Diamonium the Orc Shaman.
+ 2  Shag the Orc Scout.
+ 3  Lup the Elf Magic User.
+ 4  Vasquez the Human Thief.
+ 5  Agent the Elf Magic User.
+ 6  Raz the Elf Magic User.
+ 7  Mammoth the Orc Warrior.
+ 8  Fingeror the Elf Cleric.
+ 9  Ragface the Black Numenorean Magic User.
+10  Cyrano the Human Thief.
+11  Snuttan the Orc Shaman.
+12  Zim the Hobbit Warrior.
+13  Nomad the Orc Shaman.
+14  Biverk the Elf Magic User.
+15  Sarah the Elf Thief.
+16  Haaz the Orc Scout.
+17  Thunder the Troll Warrior.
+18  Karmador the Orc Scout.
+19  Nemebus the Orc Warrior.
+20  Finragor the Half-Elf Warrior.
+ 
+
+o W S C HP:Fine Mana:Hot>
+nar IM FIRST WARLORD
+Ok.
+
+o W S C HP:Fine Mana:Hot>
+nar IM FIRST WARLORD
+Ok.
+
+o W S C HP:Fine Mana:Hot>
+nar IM FIRST WARLORD
+Ok.
+Guglunk narrates '3rd time?'
+
+o W S C HP:Fine Mana:Hot>
+Ok.
+
+o W S C HP:Fine Mana:Hot>
+n
+arDrazak narrates 'Hurrat'
+
+o W S C HP:Fine Mana:Hot>
+r CACL
+Guglunk narrates 'GRATS!!!!'
+
+o W S C HP:Fine Mana:Hot>
+
+Drazak narrates 'WOOOO!'
+
+o W S C HP:Fine Mana:Hot>
+o W S C HP:Fine Mana:Hot>
+K
+Drazak narrates 'WOOOO!'
+
+o W S C HP:Fine Mana:Hot>
+LE
+
+Drazak narrates 'WOOOO!'
+
+o W S C HP:Fine Mana:Hot>
+narr CACKLE
+Ok.
+
+o W S C HP:Fine Mana:Hot>
+narr CACKLE
+Ok.
+
+o W S C HP:Fine Mana:Hot>
+Ok.
+
+o W S C HP:Fine Mana:Hot>
+
+Mammoth narrates 'YEEEEEEEEEEEEE!!!!!!!!!!!!!'
+
+o W S C HP:Fine Mana:Hot>
+narr CACKLE
+Ok.
+
+o W S C HP:Fine Mana:Hot>
+n
+Guglunk narrates 'WOOWOO'
+
+o W S C HP:Fine Mana:Hot>
+ar
+ Guglunk narrates 'WOOWOO'
+o W S C HP:Fine Mana:Hot>
+YE
+EGuglunk narrates 'WOOWOO'
+
+o W S C HP:Fine Mana:Hot>
+EEEEEEEi
+Saving Diamonium.
+
+o W S C HP:Fine Mana:Hot>
+
+Ok.
+
+o W S C HP:Fine Mana:Hot>
+nar YEEEEEEEEEi
+nar YEEEEEEEEEi
+Ok.
+*Dusty the Troll* bows before an orcish scout.
+
+o W S C HP:Fine Mana:Hot>
+Ok.
+
+o W S C HP:Fine Mana:Hot>
+n
+arDrazak narrates 'CONGRATZ!'
+
+o W S C HP:Fine Mana:Hot>
+
+r Drazak narrates 'CONGRATZ!'
+
+o W S C HP:Fine Mana:Hot>
+l
+Drazak narrates 'CONGRATZ!'
+
+o W S C HP:Fine Mana:Hot>
+au
+Drazak narrates 'CONGRATZ!'
+
+o W S C HP:Fine Mana:Hot>
+gh
+
+*Xirt the Troll* comforts an orcish scout.
+
+o W S C HP:Fine Mana:Hot>
+sOk.
+
+o W S C HP:Fine Mana:Hot>
+c
+264/300 hit, 75/103 mana and 72/167 moves.
+
+l
+o W S C HP:Fine Mana:Hot>
+An Abandoned Cellar
+The corpse of a mountain mule is lying here.
+The corpse of *a Troll* is lying here.
+An experienced orcish scout is looking for tracks on the ground.
+An orcish soldier is here, patrolling the area.
+*Dusty the Troll* is standing here.
+*Xirt the Troll* is standing here.
+
+o W S C HP:Fine Mana:Hot>
+
+Mammoth narrates 'GO Estonians!!!!!!!!!!!!!!!!!!!!!!!!!!!!!'
+
+o W S C HP:Fine Mana:Hot>
+w
+im#Ok. {tt} aliases {t Sigh}.
+Sigh tells you 'kes maha tuli?'
+
+o W S C HP:Fine Mana:Hot>
+p
+1Ok.
+*Xirt the Troll* leaves up.
+
+o W S C HP:Fine Mana:Hot>
+50
+boWimpy set to: 150
+
+bo W S C HP:Fine Mana:Hot>
+
+You start to concentrate...
+
+You lost your concentration!
+
+o W S C HP:Fine Mana:Hot>
+tt gabe
+Ok.
+
+o W S C HP:Fine Mana:Hot>
+bob
+Dust narrates 'Gratz =)'
+You start to concentrate...
+
+Ok.
+An energy begins to flow within your legs as your body becomes lighter.
+
+o W S C HP:Fine Mana:Warm>
+
+*Dusty the Troll* leaves up.
+
+o W S C HP:Fine Mana:Warm>
+mees dwarf
+#Ok. $mees is now set to {dwarf}.
+u
+Old Ruins
+*Xirt the Troll* is standing here.
+*Dusty the Troll* is standing here.
+Exits: North East South West Down.
+* W S C HP:Fine Mana:Warm>
+e
+Blighted Land
+You see three toadstools on the ground.
+Exits: North East South West Up.
+
+* W S C HP:Fine Mana:Warm>
+
+#Ok. {tt} aliases {t Sigh}.
+Sigh tells you 'giggle'
+
+* W S C HP:Fine Mana:Warm>
+
+Kinsey narrates 'shut up Diamonium'
+
+* W S C HP:Fine Mana:Warm>
+s
+Small Trail
+Exits: North East South West.
+
+* W S C HP:Fine Mana:Warm>
+w
+Small Trail
+The corpse of *a Hobbit* is lying here.
+The corpse of *a Troll* is lying here.
+Exits: North East South West.
+
+* W S C HP:Fine Mana:Warm>
+n
+Drazak narrates 'Go swedes but still hurray!'
+
+Old Ruins
+*Xirt the Troll* is standing here.
+Exits: North East South West Down.
+
+* W S C HP:Fine Mana:Warm>
+narr FUCK u knisey..fuck u all
+
+*Xirt the Troll* leaves east.
+
+* W S C HP:Fine Mana:Warm>
+Ok.
+
+* W S C HP:Fine Mana:Warm>
+sc
+264/300 hit, 38/103 mana and 153/167 moves.
+
+* W S C HP:Fine Mana:Warm>
+
+CACKLE!!! 
+
+Diam.
+
+PS. it didnt take much:) just soe 6am link and luck:) and no swedes.
+

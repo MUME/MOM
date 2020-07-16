@@ -1,0 +1,642 @@
+#host mume.pvv.org 4242
+#delim normal
+#alias ,={m}
+#alias .1={get all 1.corpse}
+#alias .2={get all 2.corpse}
+#alias .3={get all 3.corpse}
+#alias 0=cast n 'word'
+#alias 00=cast q 'word'
+#alias 1={mm *elf*;mob *elf*;m}
+#alias 100={cha wimpy 100}
+#alias 150={cha wimp 150}
+#alias 2={mees *hobbit*;mob *hobbit*;m}
+#alias 200={cha wimpy 200}
+#alias 250={cha wimpy 250}
+#alias 3={mees *man*;mob *man*;m}
+#alias 300={cha wimpy 300}
+#alias 4={mees *dwarf*;mob *dwarf*;m}
+#alias 5={mm *orc*;mob *orc*;m}
+#alias 6={mees *bear*;mob *bear*}
+#alias 7={mees *troll*;mob *troll*;m}
+#alias 9=use pouch
+#alias BOB={get vellumscroll sable;recite vellumscroll}
+#alias C=close ${odd}
+#alias COP={rem ring;put ring sable;get copper sable;wear copper}
+#alias IRON={rem ring;put ring sable;get iron sable;wear iron}
+#alias JEW={rem ring;put ring sable;get jewelled sable;wear jewelled}
+#alias L={close ${odd};lock ${odd}}
+#alias MAGE={#alias 00=cast q 'teleport' ${safe};#alias 0=cast n 'word'}
+#alias O=open ${odd}
+#alias P=pick ${odd}
+#alias QW={get all all.corpse;put all pack;get all all.corpse;put all pack}
+#alias ROCK={get rock sable;use rock ${odd};#print ------------- Throwing Rock ${odd} ---------------;get rock}
+#alias RUB={rem ring;put ring sable;get ruby sable;wear ring}
+#alias SHAMAN={#alias 00=cast q 'word';#alias 0=cast n 'word'}
+#alias U={unlock ${odd};open ${odd}}
+#alias Y={#print - - - - - - - - - - - - - - - >  BLOCK ${door};cast 'block' ${door}}
+#alias a={assist  ${friend}}
+#alias aa={where ${mob}}
+#alias ag={cha mood aggre;#var $mood=Aggre}
+#alias agre={cha mood aggre;#var $mood=Aggre}
+#alias am={cha mood aggre;#var $mood=Aggre}
+#alias amr={#var $spellname=ARMOUR;cast n 'armour'}
+#alias arm={#var $spellname=ARMOUR;cast n 'armour'}
+#alias armour={#var $spellname=ARMOUR;cast n 'armour'}
+#alias as={assist ${friend}}
+#alias az={get azurescroll sable;recite azurescroll}
+#alias b={cast 'blind' ${mees}}
+#alias bashit=bash ${mees}
+#alias bb=bash
+#alias bc={bash crack}
+#alias bd={bash door}
+#alias bh={bash hatch}
+#alias bi={bash irondoor}
+#alias bl={#print - - - - - - - - - - - - - - - >  BLOCK ${odd};cast 'block' ${odd}}
+#alias bl1={#print - - - - - - - - - - - - - - - >  BLOCK ${odd};cast 'block' ${odd}}
+#alias bl2={#print - - - - - - - - - - - - - - - >  BLOCK ${odd2};cast 'block' ${odd2}}
+#alias bl3={#print - - - - - - - - - - - - - - - >  BLOCK ${door};cast 'block' ${door}}
+#alias blind={#var $spellname=BLIND $1;cast 'blindn' $1}
+#alias blindit={cast 'blind' ${mees}}
+#alias blindtar={#var $spellname=BLIND ${mees};cast 'blindn' ${mees}}
+#alias block={#print - - - - - - - - - - - - - - - >  BLOCK $1;cast 'block' $1}
+#alias bo={#var $spellname=BOB;cast n 'breath of briskness'}
+#alias bob={#var $spellname=BOB;cast n 'breath of briskness'}
+#alias boltit={cast 'lightn' ${mees}}
+#alias boo={#var $spellname=BOB;cast n 'breath of briskness'}
+#alias boots={rem snowshoes;wear boots}
+#alias bot={remove boots;wear 2.boots}
+#alias bp=bash panel
+#alias br={#var $spellname=BREAK _< ${odd} >_;cast 'break' ${odd}}
+#alias br1={#var $spellname=BREAK _< ${odd} >_;cast 'break' ${odd}}
+#alias br2={#var $spellname=BREAK _< ${odd2} >_;cast 'break' ${odd2}}
+#alias br3={#var $spellname=BREAK _< ${door} >_;cast 'break' ${door}}
+#alias brav=cha mood brave
+#alias brd={#var $spellname=BREAK _< ${door} >_;cast 'break' ${door}}
+#alias bre={#var $spellname=BREAK EXIT;cast 'break' exit}
+#alias break={#print - - - - - - - - - - - - - - - >  BREAK $1;cast 'break' $1}
+#alias bs=bash slab
+#alias bsh=bash shrubs
+#alias bst=bash stonedoor
+#alias bt=bash thornbushes
+#alias burnit={cast 'burn' ${mees}}
+#alias burntar=cast 'burni' ${mees}
+#alias c={close ${odd}}
+#alias c1=close ${odd}
+#alias c2=close ${odd2}
+#alias c3=close ${odd3}
+#alias cal=call
+#alias cand={get candle sable;wield candle;use candle;conc}
+#alias cbb={#var $spellname=CURE BLINDNESS $1;cast n 'cure blind' $1}
+#alias cc={close ${odd}}
+#alias ccc={#var $spellname=CURE CRITICAL $1;cast n 'cure critic' $1}
+#alias cdd={#var $cdd=$1}
+#alias closedoor=close ${door}
+#alias closeodd=close ${odd}
+#alias closeodd2=close ${odd2}
+#alias coi={remove twisted;wear coif}
+#alias conc=wield hammer
+#alias corn={wuseenunuwwss;open dark;seee;open secret;e;open fall;e}
+#alias corner={wuseenunuwwss;open secret;e;open fall;e}
+#alias cur=#var $cur=$1
+#alias cure={#var $spellname=CURE SERIOUS $1;cast n 'cure seri' $1}
+#alias curr=#var $cur=$1
+#alias current=#var $cur=$1
+#alias dark={#var $spellname=DARKNESS;ca n 'dark'}
+#alias dinv={#var $spellname=DETECT INVIS;cast 'detect invis'}
+#alias dispel={#var $spellname=DISPEL ${mees};cast 'dispel evi' ${mees}}
+#alias dk={down;hit ${mees}}
+#alias dm={#var $spellname=DETECT;cast n 'detect magic'}
+#alias do={#var $odd=$1}
+#alias door={#var $door=$1}
+#alias draughtpack={get vial pack;get tail pack;get fur pack;get leaves pack;put vial  kit;put leaves kit;put tail kit;put  fur kit}
+#alias draughtsack={get vial sack;get tail sack;get fur sack;get leaves sack;put vial kit;put tail kit;put fur kit;put leaves  kit}
+#alias ek={e;hit ${mees}}
+#alias fillit={pour water skin;pour water 2.skin}
+#alias fin={remove wargfur;remove cloak;wear fine}
+#alias fine={remove wargfur;remove cloak;wear fine}
+#alias fla={get flask sable;quaff flask}
+#alias food={ca 'create food';eat food}
+#alias fr=#var $friend=$1
+#alias friend=#var $friend=$1
+#alias fur={remove cloak;wear wargfur}
+#alias g={cast 'shock' ${mees}}
+#alias gg={#var $spellname=FIREBALL $1;ca 'fireball' $1}
+#alias gh={#print;#print Bridge before Grey Havens->Carpenter -100moves;#print 2ne2nw8ne5ne2ne2nenene2ne2n3ws2ws2w2n3w2nw3nen4w2sdwn2w2s2e3swn2w2s7w2s2wn8ws;#print;#print Carpenter->Bridge before Grey Havens -100moves;#print n8es2e2n7e2n2ese3n2w2n2eseu2n4esw3se2s3e2s2en2en3e2sw2swswsw2sw2sw5sw8se2sw2s;#print}
+#alias glo={rem gloves;wear 2.gloves}
+#alias go={enter tent;get all table;leave}
+#alias goblins=#print boulder, trapdoor, ruin/slab
+#alias gre={rem wargfur;rem cloak;wear green}
+#alias h={#var $spellname=HARM _< ${mees} >_;ca 'harm' ${mees}}
+#alias heal={get bluescroll sable;recite bluescroll}
+#alias healit={get blackscroll sable;recite blackscroll}
+#alias hel={get azurescroll sable;recite azurescroll}
+#alias hh={#var $spellname=HARM $1;ca 'harm' $1}
+#alias inn={clo $door;lock $door}
+#alias inv={#var $spellname=INVINCIBILITY $1;cast n 'shroud' $1}
+#alias j={#var $spellname=COLOUR SPRAY ${mees};cast 'colour' ${mees}}
+#alias jj={#var $spellname=COLOUR SPRAY $1;cast 'colour' $1}
+#alias k=hit ${mees}
+#alias key=alias $1 ..( $2 )..
+#alias keys={#print gh=cirdan, egh=lonely elf, shire=tanner, bree=mayor, neni=jhadur, lb=child}
+#alias lme={#var $spellname=LOCATE EVIL;cast n 'locate magic' evil}
+#alias lmg={#var $spellname=LOCATE GOOD;cast n 'locate magic' good}
+#alias loca={#var $spellname=LOCATE LIFE $1;cast n 'locate life' $1}
+#alias lockdoor=lock ${door}
+#alias m={#print;#print --->  > ${mees} <  (${mood}), [${odd}], [${odd2}], [${door}];#print --->  < ${mob} >  ,${lastmount};#print --->  ${armour} ${shield} ${strength} ${sense}  ${detect};#print}
+#alias magicmissile={#var $spellname=MISSILE _< ${mees} >_;ca 'magic miss' ${mees}}
+#alias magmiss=cast 'magic miss' ${mees}
+#alias mb=where *bear*
+#alias md=where *dwarf*
+#alias me=where *elf*
+#alias mees=#var $mees=$1
+#alias mes=#var $mees=$1
+#alias mh=where *hobbit*
+#alias mho=where horse
+#alias mhu=where hungry
+#alias mirkwood={#print grassbank/earthbank, earthfloor, vines/tangle, earthwall, floorboards/hatch, rottenlogs, sinkhole, waterhole, mossylog, earthenddwlling}
+#alias mm=#var $mees=$1
+#alias mmp=where pony
+#alias mmr=where rohirrim
+#alias mmu=where mule
+#alias mo=where *orc*
+#alias mob=#var $mob=$1
+#alias mume={#conn mume mume.pvv.org 4242}
+#alias mume2=#conn asd pirukas.webhost.ee 4242
+#alias mw=where warhorse
+#alias night={#var $spellname=NIGHT VISION;cast n 'night'}
+#alias nk={n;hit ${mees}}
+#alias norm={cha mood normal}
+#alias o=open ${odd}
+#alias o1=open ${odd}
+#alias o2=open ${odd2}
+#alias o3=open ${odd3}
+#alias obs={open obstruction s;f}
+#alias od1=#var $odd=$1
+#alias od2=#var $odd2=$1
+#alias od3=#var $door=$1
+#alias odd=#var $odd=$1
+#alias odd1=#var $odd=$1
+#alias odd2=#var $odd2=$1
+#alias odd3=#var $door=$1
+#alias oldforest={#print;#print OLD FOREST-> seswwsses3wnwwnnnwnnn;seswwsses3wnwwnnnwnnn}
+#alias oo=open ${odd}
+#alias opendoor=open ${door}
+#alias openodd=open ${odd}
+#alias openodd2=open ${odd2}
+#alias overseer={#print from TALL brush, south, all west, all north, 3w, turf#slab. GET KEY!}
+#alias p={sneak}
+#alias pasad=#show tr18sad
+#alias pipe={wield pipe;rest;smoke;st;conc}
+#alias portal={#var $spellname=PORTAL up _< ${cur} >_;cast 'portal' up ${cur}}
+#alias prud={cha mood prudent}
+#alias pvv={#conn pvv mume.pvv.org 4242}
+#alias qq={get all all.corpse}
+#alias qu={#var $spellname=EARTHQUAKE;cast 'earthq' ${mees}}
+#alias qw={get all corpse}
+#alias recall={#print morthan=~8s all w morthan, THARBAD=malardil garden, wDT=pine forest, eDT=goblin mountains, nKHUZUR=n of   TOP MORIA walls}
+#alias remo={#var $spellname=REMOVE POISON $1;cast n 'remove p' $1}
+#alias rep=tell ${reply} $0
+#alias repl=tell ${reply} $0
+#alias reply=tell ${reply} $0
+#alias rip={#ac {R.I.P.={get all.coins all.corpse}}
+#alias room={#! more hidden_doors | grep -i $1}
+#alias rr=rescue
+#alias rus={rem wargfur;rem cloak;wear russet}
+#alias safe=#var $safe=${cur}
+#alias sanc={get purplescroll sable;recite purplescroll}
+#alias seni={#var $spellname=SENSE;cast n 'sense'}
+#alias sh={#var $spellname=SHIELD;cast n 'shield'}
+#alias shield={#var $spellname=SHIELD;cast n 'shield'}
+#alias shockit=cast 'shock' ${mees}
+#alias shocktar=cast 'shock' ${mees}
+#alias sk={s;hit ${mees}}
+#alias snow={#print YOU WILL WEAR SNOWSHOES;rem boots;get shoes pack;wear shoes}
+#alias sof={#var $armour=.;#var $shield=.;#var $strength=.;#var $sense=.;#var $detect=.}
+#alias son={#var $armour=Armour;#var $shield=Shield;#var $strength=Strength;#var $sense=Sense;#var $detect=Detect}
+#alias spn={#print - SPELL-CASTING set to: NORMAL -;change spell n}
+#alias spq={#print - SPELL-CASTING set to: QUICK -;change spell q}
+#alias stb={#print - - - - - - - - - - - - - - - >  STORE BLOCK DOOR;cast n 'store' block}
+#alias stc={#print - - - - - - - - - - - - - - - >  STORE COLOUR SPRAY;cast n 'store' colour}
+#alias stf={#print - - - - - - - - - - - - - - - >  STORE FIREBALL;cast n 'store' fireball}
+#alias stl={#print - - - - - - - - - - - - - - - >  STORE LIGHTNING BOLT;cast n 'store' lightn}
+#alias stp={#print - - - - - - - - - - - - - - - >  STORE TELEPORT;cast n 'store' teleport}
+#alias str={#var $spellname=STRENGTH_normal $1;cast n 'strength' ${1}}
+#alias strt={#var $spellname=STRENGTH_MAX $1;cast t 'strength' ${1}}
+#alias sts={#print - - - - - - - - - - - - - - - >  STORE SILENCE;cast n 'store' silence}
+#alias stv={#print - - - - - - - - - - - - - - - >  STORE LIGHNING BOLT;cast n 'store' lightn}
+#alias swo={remove sword;wield sword one;wear shield}
+#alias tall={#south from ancient, sw til river, all west from river. brush, floor#ceiling, runes, up obsidian,   statue#stonepanel,foliage}
+#alias tele={#print - - - - - - - - - - - - - - - >  TELEPORT $1;cast n 'teleport' $1}
+#alias telp={#print - - - - - - - - - - - - - - - >  TELEPORT ${cur};cast n 'teleport' ${cur}}
+#alias trackmob={track ${mob};#print;#print --- track ${mob} ---;#print}
+#alias tt={track ${mob}}
+#alias twi={remove coif;wear twisted}
+#alias uk={u;hit ${mees}}
+#alias unlockdoor=unlock ${door}
+#alias v={cast 'shock' $mees}
+#alias vale={#print SPEAR -> d-Cassion, d-MossBoard/WaterRoof, WoodenDoor;#print stoneslab, rockface/crackedrock, trampledgrass/earthpatch, looserocks/earthywall, thickstems/stalks, largefur/trapdoor}
+#alias venom={get tail pack;get fur pack;get small pack;put tail kit;put fur kit;put small kit}
+#alias vv={#var $spellname=LIGHTNING $1;cast 'lightn' $1}
+#alias war={remove shield;remove sword;wield sword two}
+#alias wat={search $1;watch}
+#alias water={#var $spellname=CREATE WATER $1;ca 'create water' $1}
+#alias weapon={#var $weapon=$1}
+#alias wheremob={where ${mob};#print;#print --- where ${mob} ---;#print}
+#alias whh={where hungry}
+#alias whm={where mule}
+#alias wht={where trained}
+#alias whw={where warhorse}
+#alias wimpy={cha mood wimpy;#var $mood=Wimpy}
+#alias wk={w;hit ${mees}}
+#alias wm={cha mood wimpy;#var $mood=Wimpy}
+#alias wo={stat}
+#alias wyda={#print WYDA at cliff, n, 10e til WATER, 2s. WYRDA at cliff, n, 10e til WATER, 2s, all east.}
+#alias wyrdda={#print WYRDA at gate eregion, open gate, s, e 8s, w.  WYRDA at cliff, n, 10e til WATER, 2s, all east.}
+#action >+panic1 PANIC! You can't quit the fight!=#print #### !!! PANIK !!! ####
+#action >+panic2 PANIC! You couldn't escape!=#print #### !!! PANIK !!! ####
+#action >+bashed1 &1sends&2sprawling=#print ${1}      B A S H E D      ${2}
+#action >+avoids &1 avoids your bash, you topple over and lose your balance.=#print ${1} avoids your bash.
+#action >+spray &1sprays you with piercing rays&2=#print ${1}- COLOUR SPRAY -${2}
+#action >+locks1 &1using his lockpicks&2=#print ${1}USING HIS LOCKPICKS${2}
+#action >+8 &1has a few scratches.=#print ${1}has a few scratches. [ High-Fine ]
+#action >+6 &1has several bruises.=#print ${1}has several bruises. [ Hurt ]
+#action >+5 &1has some big nasty scratches.=#print ${1}has some big nasty scratches. [ WOUNDED ]
+#action >+7 &1has some small bruises.=#print ${1}has some small bruises. [ Fine ]
+#action >+locks2 &1here picking a lock&2=#print ${1}here PICKING A LOCK${2}
+#action >+flee1 &1panics, and attempts to flee.=#print ${1}is fleeing...
+#action >+flee2 &1panics, but can't stop fighting to flee.=#print ${1}is fleeing...
+#action >+9 &1is in awful condition.=#print ${1}is in awful condition. [ AWFUL ]
+#action >+3 &1is in very bad shape.=#print ${1}is in very bad shape. [ AWFUL ]
+#action >+4 &1looks pretty hurt.=#print ${1}looks pretty hurt. [ BAD ]
+#action >+suneye &2The glare of the sun burns your eyes.=#print ${2}####
+#action >+rescues *&1heroically rescues&2=#print *${1} - HEROICALLY RESCUES - ${2}
+#action >+casting *&1*begins some strange incantations...=#print *${1}* ... BEGINS SOME STRANGE INCANTATIONS ...
+#action >+restinghere *&1* is resting here&2=#print *${1}* is RESTING here${2}
+#action >+sleepinghere *&1* is sleeping here&2=#print *${1}* is SLEEPING here${2}
+#action >+dispelevil *&1makes your evil soul =#print *${1}- DISPEL EVIL - at you!
+#action >+bolting *&1sends a powerful lightning bolt at you=#print *${1}- LIGHTNING BOLT - at you!
+#action >+bless2 You begin to feel the light of Aman shine upon you.=#print +++ BLESS HO! +++
+#action >+shroud3 You are surrounded by a misty shroud.=#print +++ INVINCIBILITY HO! +++
+#action >+picks8 The edges of most picks have been carefully sharpened.=#print - Angdil Upgrade
+#action >+picks3 The lockpicks are extremely well tempered=#print - Blue Mountains.
+#action >+picks2 Several of the picks have long, smooth grooves along their length.=#print - Cut Throat.
+#action >+picks7 The lockpicks are extremely well tempered.=#print - Dwarven Locksmith Upgrade
+#action >+picks4 The lockpicks feel oddly light in your hand=#print - Focus Staff.
+#action >+picks5 There is a strange lockpick, with a sharp protrusion on one side, in the set.=#print - Kraksh Jewel.
+#action >+picks1 A couple lockpicks have a small bump near the tip.=#print - Master Assassin.
+#action >+picks6 Two of the lockpicks have shallow notches on them.=#print - Tharbad Guildmaster.
+#action >+awound You feel a strong ache there!=#print --- WOUND ---
+#action >+bless1 The light of Aman fades away from you.=#print ------( BLESS GONE )------
+#action >+uhungry You are hungry.=#print ------( F O O D )------
+#action >+uthirsty You are thirsty.=#print ------( W A T E R )------
+#action >+uthirsty2 You begin to feel thirsty.=#print ------( W A T E R )------
+#action >+alas2 Alas, not enough mana flows through you...=#print ---------> NO MANA <----------
+#action >+sneaking Ok, you'll try to move silently for a while.=#print /show --- SNEAKING ON ---
+#action >+kuu3 &2, the &3 of Astron=#print 1. KEVAD [19-7] ${2}, the ${3} of Astron
+#action >+kuu1 &2, the &3 of Afterlithe=#print 1. SUVI [21-5] ${2}, the ${3} of Afterlithe
+#action >+kuu2 &2, the &3 of Afteryule=#print 1. TALV [18-8] ${2}, the ${3} of Afteryule
+#action >+kuu12 &2, the &3 of Winterfilth=#print 1.SYGIS [20-6] ${2}, the ${3} of Winterfilth
+#action >+kuu4 &2, the &3 of Blotmath=#print 2. SYGIS [20-7] ${2}, the ${3} of Blotmath
+#action >+kuu10 &2, the &3 of Thrimidge=#print 2.KEVAD [20-7] ${2}, the ${3} of Thrimidge
+#action >+kuu11 &2, the &3 of Wedmath=#print 2.SUVI [22-4] ${2}, the ${3} of Wedmath
+#action >+kuu9 &2, the &3 of Solmath=#print 2.TALV [17-9] ${2}, the ${3} of Solmath
+#action >+kuu5 &2, the &3 of Forelithe=#print 3. KEVAD [20-6] ${2}, the ${3} of Forelithe
+#action >+kuu7 &2, the &3 of Halimath=#print 3.SUVI [5-21] ${2}, the ${3´} of Halimath
+#action >+kuu6 &2, the &3 of Foreyule=#print 3.SYGIS [19-7] ${2}, the ${3} of Foreyule
+#action >+kuu8 &2, the &3 of Rethe=#print 3.TALV [18-8] ${2}, the ${3} of Rethe
+#action >+shadowraise A shadow slowly rises above the corpse of&1=#print A SHADOW SLOWLY RISES ABOVE THE CORPSE of${1}
+#action >+herb2 A dark green, foul-smelling shrub grows to about a foot in height=#print A dark green, foul-smelling shrub grows to about a foot in height [BANEBERRIES] (Drake-Slumber)
+#action >+beorncome A swallow makes a circle&1=#print A swallow makes a circle${1}, --- BEORN IS COMING ---
+#action >+victimfo Aha, you have found your victim!=#print AHA, YOU HAVE FOUND YOUR VICTIM !!!
+#action >+alas1 Alas! You failed to reach him through the melee.=#print Alas! ---------> MELEE <----------
+#action >+sunliconc The cruel light of the sun made you lose your concentration!=#print CONCENTRATION LOST!
+#action >+fmount Your mount refuses to follow your orders!=#print FUCKING MOUNT REFUSES !!!
+#action >+nothingyet Nothing seems to happen.=#print NOTHING SEEMS TO HAPPEN.
+#action >+seetracks You see some tracks of &1 leading &2=#print Tracks of ${1} leading ^ ${2} ^
+#action >+uexast You are too exhausted.=#print YOU ARE TOO EXHAUSTED !!! DRAUGHTS,VELLUM,FLASKS !!!
+#action >+stopsting Your head stops stinging.=#print YOUR HEAD STOPS STINGING
+#action >+enablelock You manage to enable the lock.=#print You LOCKED $1 !!!
+#action >+castingnow You start to concentrate...=#print You start to concentrate... ${spellname}
+#action >+locksok The lock finally yields to your skill.=#print You unlocked the exit.
+#action >+stopsneak You stop sneaking.=#print {/show --- ITS RUNNING TIME ---}
+#action >+*&1* leaves    &2,&3.=#var $lastmount=${3}
+#action >+linkdrop WARNING:=score
+#action >+locakey &1-&2 key: '&3'={#print ${1}-${2}   ..( ${3} )..;#var $cur=${3}}
+#action >+leavesd3 *&1* and *&2* leave down riding&3={#print *${1}* and *${2}* leave  Down  ,${3}}
+#action >+leavese3 *&1* and *&2* leave east riding&3={#print *${1}* and *${2}* leave  East  ,${3}}
+#action >+leavesn3 *&1* and *&2* leave north riding&3={#print *${1}* and *${2}* leave  North  ,${3}}
+#action >+leavess3 *&1* and *&2* leave south riding&3={#print *${1}* and *${2}* leave  South  ,${3}}
+#action >+leavesu3 *&1* and *&2* leave up riding&3={#print *${1}* and *${2}* leave  Up  ,${3}}
+#action >+leavesw3 *&1* and *&2* leave west riding&3={#print *${1}* and *${2}* leave  West  ,${3}}
+#action >+leavesd2 *&1* leaves down riding&2={#print *${1}* leaves  Down  ,${2}}
+#action >+leavesd1 *&1* leaves down.={#print *${1}* leaves  Down  }
+#action >+leavese2 *&1* leaves east riding&2={#print *${1}* leaves  East  ,${2}}
+#action >+leavese1 *&1* leaves east.={#print *${1}* leaves  East  }
+#action >+leavesn2 *&1* leaves north riding&2={#print *${1}* leaves  North  ,${2}}
+#action >+leavesn1 *&1* leaves north.={#print *${1}* leaves  North  }
+#action >+leavess2 *&1* leaves south riding&2={#print *${1}* leaves  South  ,${2}}
+#action >+leavess1 *&1* leaves south.={#print *${1}* leaves  South  }
+#action >+leavesu2 *&1* leaves up riding&2={#print *${1}* leaves  Up  ,${2}}
+#action >+leavesu1 *&1* leaves up.={#print *${1}* leaves  Up  }
+#action >+leavesw2 *&1* leaves west riding&2={#print *${1}* leaves  West  ,${2}}
+#action >+leavesw1 *&1* leaves west.={#print *${1}* leaves  West  }
+#action >+detect2 You become sensitive of magical auras.={#print +++ DETECT MAGIC HO! +++;#var $detect=Detect}
+#action >+sense2 You feel your awareness improve.={#print +++ SENSE LIFE HO!  +++;#var $sense=Sense}
+#action >+sense3 Your awareness is refreshed.={#print +++ SENSE LIFE HO!  +++;#var $sense=Sense}
+#action >+detect1 Your perception of magical auras wears off.={#print ------( DETECT GONE )------;#var $detect=.}
+#action >+sense1 You feel less aware of your surroundings.={#print ------( SENSE GONE )------;#var $sense=.}
+#action >+shielddown Your magical shield wears off.={#print ------( SHIELD GONE )------;#var $shield=.}
+#action >+strdown You feel weaker.={#print ------( STRENGTH GONE )------;#var $strength=.}
+#action >+backstab Suddenly&1stabs you in the back.={#print;#print ${1} -( STABS YOU IN THE BACK )-;#print ================================================}
+#action >+close1 The &1 closes quietly.={#print The  -[ ${1} ]-  CLOSES QUIETLY! _BREAK_;#var $odd=${1}}
+#action >+close2 The &1 is closed.={#print The  -[ ${1} ]-  is CLOSED;#var $odd=${1}}
+#action >+close3 The &1 seems to be closed.={#print The  -[ ${1} ]-  is CLOSED;#var $odd=${1}}
+#action >+open1 The &1 is open.={#print The  -[ ${1} ]-  is OPEN;#var $odd=${1}}
+#action >+open3 The &1 is opened from the other side.={#print The  -[ ${1} ]- is OPENED from the other side;#var $odd=${1}}
+#action >+armourdown You feel less protected.={#print ___________________________;#print ------( ARMOUR GONE )------, >BACKSTAB<;#var $armour=.}
+#action >+2 ^$2 tells you &3={#print _____________________________________________________________________________;#print TELL! $2: "${3}" ;#var $reply=${2}}
+#action >+1 &1>$2 tells you &3={#print _____________________________________________________________________________;#print TELL! $2: "${3}" ;#var $reply=${2}}
+#action >+11 PANIC!={#print;flee}
+#action >+zblam1 doesn't want you riding him anymore.={#print;st;ride}
+#action >+zblam2 doesn't want you riding it anymore.={#print;st;ride}
+#action >+armimp1 A blue transparent wall slowly appears around you.={#var $armour=Armour;#print +++ ARMOUR HO! +++}
+#action >+armimp2 Your magic armour is revitalized.={#var $armour=Armour;#print +++ ARMOUR HO! +++}
+#action >+takekey ..( &1 )..={#var $cur=${1};#print ..( ${1} )..}
+#action >+shiimp1 You feel protected.={#var $shield=Shield;#print +++ SHIELD HO! +++}
+#action >+shiimp2 Your protection is revitalized.={#var $shield=Shield;#print +++ SHIELD HO! +++}
+#action >+strimp1 The duration of the strength spell has been improved.={#var $strength=Strength;#print +++ STRENGTH HO! +++}
+#action >+strimp2 You feel stronger.={#var $strength=Strength;#print +++ STRENGTH HO! +++}
+#mark       B A S H E D      =blue on white
+#mark  \"&\" =bold yellow
+#mark  '&'=bold green
+#mark  -[ & ]- =white on blue
+#mark  ..\( & \).. =bold green
+#mark  Down  =bold magenta
+#mark  East  =bold magenta
+#mark  North  =bold magenta
+#mark  Rohirrim.=bold green
+#mark  South  =bold magenta
+#mark  Up  =bold magenta
+#mark  West  =bold magenta
+#mark  closes the &.=white on blue
+#mark  down=cyan
+#mark ^ down ^=bold 
+#mark  east=cyan
+#mark ^ east ^=bold 
+#mark  locks the &.=white on blue
+#mark  mule.=bold green
+#mark  north=cyan
+#mark ^ north ^=bold 
+#mark  opens the &.=white on blue
+#mark  pack horse.=bold green
+#mark  pony.=bold green
+#mark  recovered =black on green
+#mark  south=cyan
+#mark ^ south ^=bold 
+#mark  trained horse.=bold green
+#mark  unlocks the &.=white on blue
+#mark  up=cyan
+#mark ^ up ^=bold 
+#mark  warg.=bold green
+#mark  warhorse.=bold green
+#mark  west=cyan
+#mark ^ west ^=bold 
+#mark #### !!! PANIK !!! ####=bold 
+#mark & seems to be blinded=bold 
+#mark & tells you&=bold inverse yellow on black
+#mark &*places a black runed dagger=bold  on red
+#mark &/&=bold 
+#mark &R.I.P.=bold red
+#mark &flask of orkish draught=bold green
+#mark &flasks of orkish draught=bold green
+#mark &is shaken with spasm as the venom enters his body!=black on green
+#mark &~&=blue on white
+#mark \(glowing\)=black on yellow
+#mark \(red aura\)=bold red
+#mark *&* coming from the=yellow
+#mark *&Bear*=bold yellow
+#mark *&Dwarf*=red
+#mark *&Elf*=bold yellow
+#mark *&Hobbit*=bold green
+#mark *&Man*=bold black
+#mark *&Numeorean*=bold black
+#mark *&Orc*=bold yellow
+#mark *&Troll*=bold red
+#mark *&Woman*=bold black
+#mark *down*=yellow
+#mark *east*=yellow
+#mark *north*=yellow
+#mark *south*=yellow
+#mark *up*=yellow
+#mark *west*=yellow
+#mark +++ & +++=bold 
+#mark - armour=bold yellow
+#mark - bless=cyan
+#mark - detect magic=cyan
+#mark - poison \(type: poison\).=black on green
+#mark - poison \(type: venom\).=black on green
+#mark - sanctuary=bold yellow
+#mark - sense life=cyan
+#mark - shield=bold yellow
+#mark - stored spell=bold cyan
+#mark - strength=bold yellow
+#mark -\( & \)-=bold  on red
+#mark 1 hour=yellow
+#mark 2 hours=yellow
+#mark 3 hours=yellow
+#mark :Awful=bold  on red
+#mark :Bad=white on red
+#mark :Cold=bold cyan
+#mark :Fainting=bold red
+#mark :Frozen=bold cyan
+#mark :Hurt=red
+#mark :Icy=bold cyan
+#mark :Slow=bold red
+#mark :Tired=green
+#mark :Warm=cyan
+#mark :Weak=bold red
+#mark :Wounded=bold red
+#mark \=down\==cyan
+#mark \=east\==cyan
+#mark \=north\==cyan
+#mark \=south\==cyan
+#mark \=up\==cyan
+#mark \=west\==cyan
+#mark A Ridge in the Fields=bold red
+#mark A blue transparent wall slowly appears around you.=cyan
+#mark A dirty root, with stringy limbs like a man, lies here.=bold  on green
+#mark A hungry warg sits down and rests.=bold red
+#mark A pair of tiny eyes gleam at you from the shadows.=yellow
+#mark A slender plant grows here, a single cluster of flowers atop its narrow stem.=bold  on green
+#mark Alas, you cannot go that way...=yellow
+#mark Aye! You cannot concentrate any more...=black on red
+#mark Before the Gates of Fornost=blue on green
+#mark Bend in the Bruinen=red
+#mark Black Pond=red
+#mark COLOUR SPRAY=bold red
+#mark CONCENTRATION LOST!=bold yellow
+#mark DISPEL EVIL=bold red
+#mark FIGHTING=yellow
+#mark FUCKING MOUNT REFUSES=bold yellow
+#mark INCAPACITATED=bold yellow
+#mark LIGHTNING BOLT=bold red
+#mark Linkless=bold red
+#mark NOT ENOUGH MANA=yellow
+#mark NOTHING SEEMS TO HAPPEN.=yellow
+#mark Nearing a Waterfall=bold red
+#mark Oops! You cannot go there riding!=yellow
+#mark PICKING A LOCK=yellow
+#mark RESTING=yellow
+#mark Riverside Plain=bold 
+#mark SHADOW slowly RISES=yellow
+#mark SLEEPING=bold yellow
+#mark STRONG ACHE=bold yellow
+#mark Someone=yellow
+#mark South of Bree=blue on green
+#mark TELL!=bold inverse white on black
+#mark THE CRUEL LIGHT OF THE SUN!=bold inverse yellow on black
+#mark That really HURT!=bold  on red
+#mark That's impossible, I'm afraid.=bold 
+#mark The & suddenly shatters.=bold yellow on blue
+#mark The air is filled with electricity&=bold white on red
+#mark The exit & blurs for a while.=bold yellow on blue
+#mark The exit&seems to blur for a while.=bold yellow on blue
+#mark The venom enters your body!=black on green
+#mark Traces of fierce red tones form the aura of this place.=bold red
+#mark Traces of fierce white tones form the aura of this place.=bold 
+#mark Traces of intense red tones form the aura of this place.=bold red
+#mark Traces of intense white tones form the aura of this place.=bold 
+#mark Traces of pale red tones form the aura of this place.=bold red
+#mark Traces of pale white tones form the aura of this place.=bold 
+#mark Traces of red tones form the aura of this place.=bold red
+#mark Traces of rich red tones form the aura of this place.=bold red
+#mark Traces of rich white tones form the aura of this place.=bold 
+#mark Traces of white tones form the aura of this place.=bold 
+#mark USING HIS LOCKPICKS=yellow
+#mark West  - Roaring Waterfall=bold  on red
+#mark West of Bree=blue on green
+#mark West of the Wooden Gate=blue on green
+#mark YOU ARE TOO EXHAUSTED !!! USE DRAUGHTS !!!=bold white on red
+#mark YOUR HEAD STOPS STINGING=bold yellow on blue
+#mark You &=bold 
+#mark You LOCKED  =bold  on blue
+#mark You become sensitive of magical auras.=cyan
+#mark You begin to feel the light of Aman shine upon you.=cyan
+#mark You blink and feel weaker under the cruel light of the sun.=bold yellow
+#mark You carefully pour some oil on your morningstar.=bold white
+#mark You cleave=bold 
+#mark You failed=black on red
+#mark You fall to the ground.=yellow
+#mark You feel bad.=yellow
+#mark You feel protected.=cyan
+#mark You feel sick.=yellow
+#mark You feel so much better hiding in the shadows!=bold green
+#mark You feel stronger.=bold yellow on blue
+#mark You feel the light of Aman shine upon you.=bold yellow on blue
+#mark You feel your awareness improve.=cyan
+#mark You feel yourself exposed.=bold yellow
+#mark You flee head over heels.=bold 
+#mark You have been blinded!=bold inverse  on black
+#mark You have produced a flask of orkish draught.=bold 
+#mark You mispronounced the magical words... Your spell backfired! You feel exhausted.=red
+#mark You smell blood.=bold red
+#mark You start glowing.=bold yellow on blue
+#mark You suddenly feel a terrible headache!=inverse 
+#mark You unlocked the exit.=bold  on blue
+#mark Your awareness decreases.=bold 
+#mark Your body turns numb as the poison speeds to your brain!=black on green
+#mark Your eyes tingle.=bold 
+#mark Your perception of magical auras wears off.=cyan
+#mark Your power blocking&has been overcome!=bold white on magenta
+#mark Your spell backfired! You feel drained.=bold red
+#mark Your spell backfired! You feel exhausted.=bold red
+#mark ZBLAM! & you &.=black on red
+#mark [ AWFUL ]=white on blue
+#mark [ BAD ]=white on blue
+#mark [ WOUNDED ]=white on blue
+#mark a critical wound=bold white on red
+#mark a grevious wound=bold white on red
+#mark a man-like root=bold green
+#mark a saddlecloth=yellow
+#mark a serious wound=bold white on red
+#mark a wooden pipe=yellow
+#mark ancient dwarven key=inverse 
+#mark ancient dwarven shield=bold cyan
+#mark avoids your bash.=black on red
+#mark azure scroll=bold red on white
+#mark bejewelled shield=bold cyan
+#mark black amulet=cyan
+#mark black runed dagger=bold 
+#mark black runed sceptre=inverse 
+#mark black scroll=bold red on white
+#mark blue scroll=bold red on white
+#mark body turns numb as the poison speeds to his brain!=inverse 
+#mark bright red amulet=cyan
+#mark copper ring=bold cyan
+#mark corberyl=cyan
+#mark crude orkish horn=cyan
+#mark defiled dwarven shield=bold cyan
+#mark fine chain mail shirt=bold cyan
+#mark fine grey cloak=cyan
+#mark fine pair of chain leggings=bold cyan
+#mark fine pair of chain mail leggings=bold cyan
+#mark fine pair of chain mail sleeves=bold cyan
+#mark fine pair of chain sleeves=bold cyan
+#mark gleaming belt=bold cyan
+#mark great warsword=bold 
+#mark grey fluid sack=bold 
+#mark grey fluid-sack=bold 
+#mark icy ring=cyan
+#mark iron ring=bold cyan
+#mark is mortally wounded=bold red
+#mark jewelled ring=bold cyan
+#mark lies down and falls asleep.=bold black
+#mark makes a strange sound=bold  on red
+#mark makes the earth tremble and shiver.=bold white on magenta
+#mark mithril circlet=bold cyan
+#mark ornate, steel-shafted warhammer=bold 
+#mark pale blue stone=bold cyan
+#mark purple scroll=bold red on white
+#mark ruby ring=bold cyan
+#mark sapphire ring=cyan
+#mark shatter=bold black
+#mark shining breastplate=bold cyan
+#mark shining key=inverse 
+#mark shining pair of greaves=bold cyan
+#mark shining pair of vambraces=bold cyan
+#mark small metal flask=bold green
+#mark soft pair of padded boots=inverse 
+#mark the Dragonhelm=inverse 
+#mark the Elven shortsword with a runic inscription=inverse 
+#mark the Hammer of Belegost=inverse 
+#mark the Morgul blade=inverse 
+#mark the black buckler=inverse 
+#mark the black sword=inverse 
+#mark the fine silvery morningstar=inverse 
+#mark the gleaming broadsword=inverse 
+#mark the great black scimitar=inverse 
+#mark the great, many-tailed whip=inverse 
+#mark the huge, black mace=inverse 
+#mark throws a twisted rock fragment=bold white on magenta
+#mark tower shield=bold cyan
+#mark twisted crown=bold cyan
+#mark twisted rock fragment=bold red on white
+#mark vellum scroll=bold red on white
+#mark white chain mail coif=bold cyan
+#($armour = "Armour")
+#($cur = "armquaothza")
+#($detect = "Detect")
+#($door = "drunk")
+#($friend = "mammoth")
+#($lastmount = "a warhorse")
+#($local = "none")
+#($mees = "*elf*")
+#($mob = "*elf*")
+#($mood = "Aggre")
+#($odd = "irondoor")
+#($odd2 = "stone")
+#($reply = "Incanus")
+#($sense = "Sense")
+#($shield = "Shield")
+#($spellname = "CREATE WATER ")
+#($strength = "Strength")

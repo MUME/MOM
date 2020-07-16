@@ -1,0 +1,433 @@
+West of Bree
+*a Hobbit* is standing here, riding on a pony.
+Exits: *East* *South* *West*.
+
+* W S C Mana:Hot>
+Large Road
+Exits: *East* *West*.
+
+* W S C Mana:Hot>
+e
+s
+West of Bree
+*a Hobbit* is standing here, riding on a pony.
+Exits: *East* *South* *West*.
+
+* W S C Mana:Hot>
+Connecting Paved Road
+Exits: *North* *South*.
+
+* W S C Mana:Hot>
+2
+#Ok. $mees is now set to {hobbit}.
+n
+back $mees
+West of Bree
+Exits: *East* *South* *West*.
+
+* W S C Mana:Hot>
+Backstab who?
+
+* W S C Mana:Hot>
+w
+Screamer narrates 'level :)'
+
+Large Road
+Exits: *East* *West*.
+w
+* W S C Mana:Hot>
+Old East Road Meets Greenway
+*a Half-Elf* is standing here.
+A stocky mountain mule is here, waiting to serve.
+*a Human* is standing here.
+*an Elf* is standing here.
+Exits: *North* *East* *South* *West*.
+
+* W S C Mana:Hot>
+n
+The Lane
+Exits: *North* *East* *South*.
+
+* W S C Mana:Hot>
+e
+In a light forest
+A beautiful, butterfly-like thing is fluttering around here.
+Exits: *North* *West*.
+
+* W S C Mana:Hot>
+sc
+298/298 hit, 50/71 mana and 95/170 moves.
+
+* W S C Mana:Hot>
+n
+In a light forest
+Exits: *North* *South* *West*.
+
+* W S C Mana:Hot>
+
+Plato narrates '*scream*'
+
+* W S C Mana:Hot>
+s
+In a light forest
+A beautiful, butterfly-like thing is fluttering around here.
+Exits: *North* *West*.
+
+* W S C Mana:Hot>
+w
+s
+The Lane
+Exits: *North* *East* *South*.
+
+* W S C Mana:Hot>
+n
+Old East Road Meets Greenway
+*a Half-Elf* is standing here.
+A stocky mountain mule is here, waiting to serve.
+*a Human* is standing here.
+*an Elf* is standing here.
+Exits: *North* *East* *South* *West*.
+
+* W S C Mana:Hot>
+The Lane
+Exits: *North* *East* *South*.
+
+* W S C Mana:Hot>
+e
+In a light forest
+A beautiful, butterfly-like thing is fluttering around here.
+Exits: *North* *West*.
+
+* W S C Mana:Hot>
+n
+In a light forest
+Exits: *North* *South* *West*.
+
+* W S C Mana:Hot>
+1
+#Ok. $mees is now set to {elf}.
+s
+w
+s
+In a light forest
+Exits: *North* *West*.
+
+* W S C Mana:Hot>
+back $mees
+The Lane
+A beautiful, butterfly-like thing is fluttering around here.
+Exits: *North* *East* *South*.
+
+* W S C Mana:Hot>
+Old East Road Meets Greenway
+*a Half-Elf* is standing here.
+A stocky mountain mule is here, waiting to serve.
+*a Human* is standing here.
+*an Elf* is standing here.
+Exits: *North* *East* *South* *West*.
+
+* W S C Mana:Hot>
+You begin to move silently to the back of your victim...
+
+n
+s
+3
+#Ok. $mees is now set to {human}.
+back $mees
+*a Half-Elf* makes a strange sound but is suddenly very silent, as you place a black runed 
+dagger
+in his back.
+*a Half-Elf* is dead! R.I.P.
+You receive your share of experience.
+Yes! You're beginning to get the idea !
+Your blood freezes as you hear *a Half-Elf*'s death cry.
+*an Elf* stops following *a Half-Elf*.
+A mountain mule stops following *a Half-Elf*.
+*a Human* stops following *a Half-Elf*.
+
+* W S C Mana:Burning>
+*a Human* gets coins from the corpse of *a Half-Elf*.
+
+The Lane
+A beautiful, butterfly-like thing is fluttering around here.
+Exits: *North* *East* *South*.
+
+* W S C Mana:Burning>
+Old East Road Meets Greenway
+The corpse of *a Half-Elf* is lying here.
+A stocky mountain mule is here, waiting to serve.
+*a Human* is standing here.
+*an Elf* is standing here.
+Exits: *North* *East* *South* *West*.
+
+* W S C Mana:Burning>
+You begin to move silently to the back of your victim...
+
+1
+#Ok. $mees is now set to {elf}.
+n
+s
+back $mees
+*a Human* makes a strange sound but is suddenly very silent, as you place a black runed 
+dagger in
+his back.
+*a Human* is dead! R.I.P.
+You receive your share of experience.
+Congratulations! This is the first time you've killed it!
+Your blood freezes as you hear *a Human*'s death cry.
+
+* W S C Mana:Burning>
+The young ranger has arrived from the east.
+The Lane
+Exits: *North* *East* *South*.
+
+* W S C Mana:Burning>
+Old East Road Meets Greenway
+The corpse of *a Human* is lying here.
+The corpse of *a Half-Elf* is lying here.
+A stocky mountain mule is here, waiting to serve.
+*an Elf* is standing here.
+A young man in ranger's dress is here, traveling the roads.
+Exits: *North* *East* *South* *West*.
+
+* W S C Mana:Burning>
+You begin to move silently to the back of your victim...
+
+gac
+Oops, you were seen!
+*an Elf* fails to hit you.
+
+* W S C Mana:Burning *an Elf*:Healthy>
+get all.coins all.corpse
+You get coins from the corpse of *a Human*.
+There was 36 gold coins 3 silver pennies 21 copper pennies.
+
+* W S C Mana:Burning *an Elf*:Healthy>
+
+You pierce *an Elf*'s right arm hard and shatter it.
+
+* W S C Mana:Burning *an Elf*:Fine>
+f
+PANIC! You can't quit the fight!
+
+* W S C Mana:Burning *an Elf*:Fine>
+You flee head over heels.
+Large Road
+Exits: *East* *West*.
+* W S C Mana:Burning>
+n
+w
+n
+Alas, you cannot go that way...
+
+* W S C Mana:Burning>
+Old East Road Meets Greenway
+The corpse of *a Human* is lying here.
+The corpse of *a Half-Elf* is lying here.
+A stocky mountain mule is here, waiting to serve.
+*an Elf* is standing here.
+A young man in ranger's dress is here, traveling the roads.
+Exits: *North* *East* *South* *West*.
+
+* W S C Mana:Burning>
+The Lane
+Exits: *North* *East* *South*.
+
+* W S C Mana:Burning>
+s
+back $mees
+Old East Road Meets Greenway
+The corpse of *a Human* is lying here.
+The corpse of *a Half-Elf* is lying here.
+A stocky mountain mule is here, waiting to serve.
+*an Elf* is standing here.
+A young man in ranger's dress is here, traveling the roads.
+Exits: *North* *East* *South* *West*.
+
+* W S C Mana:Burning>
+You begin to move silently to the back of your victim...
+
+The young ranger leaves west.
+Oops, you were seen!
+*an Elf* tries to hit you, but your parry is successful.
+
+* W S C Mana:Burning *an Elf*:Fine>
+
+f
+You pierce *an Elf*'s left foot extremely hard and shatter it.
+*an Elf* panics, and attempts to flee.
+*an Elf* leaves south.
+
+* W S C Mana:Burning>
+You flee head over heels.
+Large Road
+A young man in ranger's dress is here, traveling the roads.
+Exits: *East* *West*.
+
+* W S C Mana:Burning>
+w
+n
+Old East Road
+Exits: *North* *East* *South* *West*.
+
+* W S C Mana:Burning>
+Small path in hills
+Exits: *North* *South*.
+
+s
+* W S C Mana:Burning>
+Old East Road
+A young man in ranger's dress is here, traveling the roads.
+Exits: *North* *East* *South* *West*.
+
+* W S C Mana:Burning>
+s
+Small path in grassy field
+Exits: *North* *South*.
+* W S C Mana:Burning>
+n
+e
+Old East Road
+A young man in ranger's dress is here, traveling the roads.
+Exits: *North* *East* *South* *West*.
+
+* W S C Mana:Burning>
+Large Road
+Exits: *East* *West*.
+
+* W S C Mana:Burning>
+e
+Old East Road Meets Greenway
+The corpse of *a Human* is lying here.
+The corpse of *a Half-Elf* is lying here.
+A stocky mountain mule is here, waiting to serve.
+Exits: *North* *East* *South* *West*.
+
+* W S C Mana:Burning>
+e
+Large Road
+Exits: *East* *West*.
+
+* W S C Mana:Burning>
+e
+West of Bree
+Exits: *East* *South* *West*.
+
+* W S C Mana:Burning>
+w
+w
+Large Road
+Exits: *East* *West*.
+
+* W S C Mana:Burning>
+dragOld East Road Meets Greenway
+The corpse of *a Human* is lying here.
+The corpse of *a Half-Elf* is lying here.
+A stocky mountain mule is here, waiting to serve.
+Exits: *North* *East* *South* *West*.
+
+ * W S C Mana:Burning>
+corpse
+drag You start dragging the corpse.
+
+2.* W S C Mana:Burning>
+corpse
+You start dragging the corpse.
+
+* W S C Mana:Burning>
+n
+The Lane
+Exits: *North* *East* *South*.
+
+* W S C Mana:Burning>
+
+You struggle to pull the corpse with you.
+You struggle to pull the corpse with you.
+
+* W S C Mana:Burning>
+e
+dIn a light forest
+A beautiful, butterfly-like thing is fluttering around here.
+Exits: *North* *West*.
+
+r* W S C Mana:Burning>
+ag
+You struggle to pull the corpse with you.
+You struggle to pull the corpse with you.
+You stop dragging the corpse.
+You stop dragging the corpse.
+
+* W S C Mana:Burning Move:Tired>
+lic
+l in corpse
+
+corpse (here) :
+a lantern
+a backsword (dented)
+a hunting knife (battered)
+a thick, soft leather jerkin (used)
+a thin pair of rigid leather boots (used)
+a small wooden shield (used)
+an old chequered shirt (used)
+[ 2] a plain leather belt
+a pair of trousers (used)
+a plain pair of pants (brand new)
+a large sack
+a quiver
+[ 2] a cup
+a piece of raw meat
+[ 2] a loaf of bread
+[ 2] a large biscuit
+
+* W S C Mana:Burning Move:Tired>
+l in 2.corpse
+corpse (here) :
+an Istari wand; it has a soft glowing aura
+a stone
+a sombre runed book
+a Dunadan blade (brand new)
+a plain leather belt
+a forest green cloak (worn out)
+a white shirt (brand new)
+a white pair of pants (used)
+a white hood (used)
+a large sack
+a belt pouch
+a large skin
+[ 3] a lembas wafer
+
+* W S C Mana:Burning Move:Tired>
+get wand 2.corpse
+You get an Istari wand from the corpse of *a Half-Elf*.
+
+
+CAMOOOOOOON! *LOL*
+selle sama istari loin ma eila KA maha 
+*LAUGH*
+
+Aga siis oli ta koos 6! elfide dwarfide hobbitite seguga n tharbadi juuures
+kuulen suurt noisi motlen uu wtf *shiver* lahevad tharbadi tegema..*think*
+ok lahen tsekin mis on..leidsin yles loid just snake maha:P
+halfelf suri stabist(gilgala)
+
+Kondisin SOUTH NORTH STAB ELF
+teine elf suri
+tegin uuesti sn
+*an Elf* smiles happily.
+CAmooooon, ROFL
+see elf ja dwarf fleesid
+Human jai restima..see suri
+elf flees se rohkem ei jaganud macu vist,,suri
+dwarfi jalitasin 2 minsa suri:P
+ROFL ROFL ROFL
+
+mingi tyra .com njuuparite kari, mebbe oli .ee kah kambas dunno :P
+
+Istar saab jalle NICE pAIN IN THE ASS! teha oma wandi valinoris, LAUGH!
+
+Peale seda preagust..tulid ryk ja half sangaga tagasi yppama
+ryk kotkas spammis flushi oermgw 4 rangeri juures,
+oli tore!
+
+Morgulduin
+

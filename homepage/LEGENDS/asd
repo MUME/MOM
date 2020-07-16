@@ -1,0 +1,454 @@
+Rolling Plains
+*Bizarre the Half-Elf* is standing here, riding on a pack horse.
+Exits: North East South West.
+
+w
+* R W C>
+Rolling plains
+Exits: East South West.
+
+* R W C>
+s
+s
+Old East Road
+Exits: North East South West.
+
+* R W C>
+A stand of stunted trees
+A tree-snake lies wrapped around one of the tree branches.
+Exits: North East South West.
+
+* R W C>
+mees elf
+#Ok. $mees is now set to {elf}.
+n
+n
+c 'light' $mees
+Old East Road
+Exits: North East South West.
+
+* R W C>
+Rolling plains
+Exits: East South West.
+
+* R W C>
+Nobody here by that name.
+* R W C Mana:Burning>
+e
+c 'light' $mees
+Rolling Plains
+*Bizarre the Half-Elf* is standing here, riding on a pack horse.
+Exits: North East South West.
+
+* R W C Mana:Burning>
+You start to concentrate...
+
+c 'light' $mees
+* R W C Mana:Burning *Bizarre the Half-Elf*:Wounded>
+
+Ok.
+The lightning bolt hits *Bizarre the Half-Elf* with full impact.
+
+* R W C Mana:Burning *Bizarre the Half-Elf*:Wounded>
+
+c 'light' $mees
+You start to concentrate...
+
+* R W C Mana:Burning *Bizarre the Half-Elf*:Wounded>
+You start to concentrate...
+
+c 'light' $mees
+Ok.
+The lightning bolt hits *Bizarre the Half-Elf* with full impact.
+*Bizarre the Half-Elf* panics, and attempts to flee.
+*Bizarre the Half-Elf* leaves east riding a pack horse.
+
+* R W C Mana:Burning>
+Nobody here by that name.
+
+* R W C Mana:Burning>
+e
+c 'light' $mees
+e
+Endless Plains
+*Bizarre the Half-Elf* is standing here, riding on a pack horse.
+Exits: North East South West.
+
+* R W C Mana:Burning>
+c 'light' $mees
+You start to concentrate...
+
+* R W C Mana:Hot *Bizarre the Half-Elf*:Bad>
+
+Ok.
+The lightning bolt hits *Bizarre the Half-Elf* with full impact.
+
+* R W C Mana:Hot *Bizarre the Half-Elf*:Bad>
+*Bizarre the Half-Elf* panics, and attempts to flee.
+*Bizarre the Half-Elf* leaves south riding a pack horse.
+
+* R W C Mana:Hot>
+w
+Endless Plains
+Exits: North South West.
+
+* R W C Mana:Hot>
+s
+Nobody here by that name.
+
+* R W C Mana:Hot>
+e
+Endless Plains
+Exits: North East South West.
+
+c 'light' $mees
+* R W C Mana:Hot>
+Old East Road
+*Bizarre the Half-Elf* is standing here, riding on a pack horse.
+Exits: North East South West.
+
+* R W C Mana:Hot>
+n
+e
+Old East Road
+Exits: North East South West.
+
+* R W C Mana:Hot>
+Nobody here by that name.
+
+* R W C Mana:Hot>
+Endless Plains
+Exits: North South West.
+
+* R W C Mana:Hot>
+s
+Alas, you cannot go that way...
+
+c 'light' $mees
+* R W C Mana:Hot>
+Old East Road
+Exits: North East South West.
+
+* R W C Mana:Hot>
+w
+Nobody here by that name.
+
+c 'light' $mees
+* R W C Mana:Hot>
+Old East Road
+*Bizarre the Half-Elf* is standing here (Linkless), riding on a pack horse.
+Exits: North East South West.
+
+* R W C Mana:Hot>
+You start to concentrate...
+* R W C Mana:Hot *Bizarre the Half-Elf*:Awful>
+e
+
+Ok.
+The lightning bolt hits *Bizarre the Half-Elf* with full impact.
+
+
+
+* R W C Mana:Hot *Bizarre the Half-Elf*:Awful>
+
+The sun brings its fiery glow to the Lone-Lands
+*Bizarre the Half-Elf* panics, and attempts to flee.
+*Bizarre the Half-Elf* leaves west riding a pack horse.
+
+f
+* R W C Mana:Hot>
+Old East Road
+Exits: North East South West.
+
+* R W C Mana:Hot>
+* R W C Mana:Hot>
+* R W C Mana:Hot>
+n
+You flee head over heels.
+Old East Road
+Exits: North East South West.
+
+* R W C Mana:Hot>
+w
+Old East Road
+A brown fox is here, looking for some rabbits to chew up.
+Exits: North East South West.
+
+* R W C Mana:Hot>
+Endless Plains
+Exits: North South West.
+
+* R W C Mana:Hot>
+s
+Old East Road
+A hungry warg stands here, sniffing around for flesh.
+Exits: North East South West.
+
+* R W C Mana:Hot>
+s
+Grassy Plains
+Exits: North East West.
+
+* R W C Mana:Hot>
+e
+n
+Dry Plain
+Exits: North East South West.
+
+* R W C Mana:Hot>
+Old East Road
+Exits: North East South West.
+Saving Diamonium.
+
+* R W C Mana:Hot>
+w
+w
+Old East Road
+Exits: North East South West.
+
+* R W C Mana:Hot>
+Old East Road
+Exits: North East South West.
+
+* R W C Mana:Hot>
+s
+Grassy Plains
+A canoe has been left here.
+A large sack is on the ground.
+Exits: North East West.
+
+* R W C Mana:Hot>
+w
+n
+A Charred Slope
+Exits: North East South West.
+
+* R W C Mana:Hot>
+Old East Road
+*Bizarre the Half-Elf* is standing here (Linkless), riding on a pack horse.
+Exits: North East South West.
+
+* R W C Mana:Hot>
+l
+Old East Road
+*Bizarre the Half-Elf* is standing here (Linkless), riding on a pack horse.
+A hungry warg stands here, sniffing around for flesh.
+
+* R W C Mana:Hot>
+
+*Bizarre the Half-Elf* has reconnected.
+
+* R W C Mana:Hot>
+narr
+*Bizarre the Half-Elf* leaves west riding a pack horse.
+
+* R W C Mana:Hot>
+c 'light' $mees
+w
+Nobody here by that name.
+
+* R W C Mana:Hot>
+w
+Old East Road
+Exits: North East South West.
+
+c 'light' $mees
+* R W C Mana:Hot>
+w
+A bend in the Old East Road
+Exits: North East South West.
+
+* R W C Mana:Hot>
+Nobody here by that name.
+
+c 'light' $mees
+* R W C Mana:Hot>
+Rolling plains
+Exits: North East South West.
+
+w
+* R W C Mana:Hot>
+c 'light' $mees
+Nobody here by that name.
+
+* R W C Mana:Hot>
+Rolling plains
+Exits: North East South West.
+
+* R W C Mana:Hot>
+Nobody here by that name.
+
+* R W C Mana:Hot>
+yell :)
+
+Rolling plains
+Exits: North East South West.
+
+* R W C Mana:Hot>
+e
+e
+Rolling plains
+Exits: North East South West.
+
+* R W C Mana:Hot>
+Rolling plains
+Exits: North East South West.
+
+* R W C Mana:Hot>
+s
+Old East Road
+Exits: North East West.
+
+* R W C Mana:Hot>
+
+*Bizarre the Half-Elf* yells 'was linkless'
+
+* R W C Mana:Hot>
+w
+w
+Old East Road
+Exits: North East West.
+
+* R W C Mana:Hot>
+The Old East Road
+*Bizarre the Half-Elf* is standing here, riding on a pack horse.
+Exits: North East South West.
+
+* R W C Mana:Hot>
+c 'light' $mees
+c 'light' $mees
+c 'light' $mees
+*Bizarre the Half-Elf* leaves north riding a pack horse.
+
+* R W C Mana:Hot>
+Nobody here by that name.
+
+* R W C Mana:Hot>
+c 'light' $mees
+Nobody here by that name.
+
+* R W C Mana:Hot>Nobody here by that name.
+
+* R W C Mana:Hot>
+Nobody here by that name.
+
+e
+* R W C Mana:Hot>
+n
+Old East Road
+Exits: North East West.
+
+* R W C Mana:Hot>
+n
+Rolling plains
+Exits: North East South West.
+
+c 'light' $mees
+ca 'burn' $mees
+* R W C Mana:Hot>
+w
+Rolling plains
+Exits: East South West.
+
+c 'light' $mees
+* R W C Mana:Hot>
+Nobody here by that name.
+
+* R W C Mana:Hot>
+n
+c 'light' $mees
+Nobody here by that name.
+
+w
+* R W C Mana:Hot>
+A stand of stunted trees
+Exits: East South West.
+
+* R W C Mana:Hot>
+Nobody here by that name.
+
+* R W C Mana:Hot>
+s
+Alas, you cannot go that way...
+
+c 'light' $mees
+* R W C Mana:Hot>
+w
+Nobody here by that name.
+
+* R W C Mana:Hot>
+c 'light' $mees
+A stand of stunted trees
+A small plant grows here, with long, pointed leaves and flowers at its top.
+A tree-snake lies wrapped around one of the tree branches.
+A tree-snake lies wrapped around one of the tree branches.
+Exits: East South West.
+
+* R W C Mana:Hot>
+Rolling plains
+A small patch of clover grows here.
+A small patch of clover grows here.
+*Bizarre the Half-Elf* is standing here, riding on a pack horse.
+Exits: North East South West.
+
+* R W C Mana:Hot>
+You start to concentrate...
+
+*Bizarre the Half-Elf* yells 'did ya let me live?'
+
+c 'light' $mees
+*Bizarre the Half-Elf* leaves east riding a pack horse.
+
+Your victim has disappeared!
+
+* R W C Mana:Hot>
+A stand of stunted trees
+A small plant grows here, with long, pointed leaves and flowers at its top.
+Exits: North East South West.
+
+* R W C Mana:Hot Move:Tired>
+e
+Nobody here by that name.
+
+* R W C Mana:Hot Move:Tired>
+e
+Nobody here by that name.
+
+* R W C Mana:Hot Move:Tired>
+c 'light' $mees
+Rolling plains
+A small patch of clover grows here.
+A small patch of clover grows here.
+Exits: North East South West.
+
+* R W C Mana:Hot Move:Tired>
+Rolling plains
+Exits: North East South West.
+* R W C Mana:Hot Move:Tired>
+Nobody here by that name.
+
+* R W C Mana:Hot Move:Tired>
+yell yes
+Ok.
+
+* R W C Mana:Hot Move:Tired>
+ye
+ll*Bizarre the Half-Elf* yells 'BOW'
+
+* R W C Mana:Hot Move:Tired>
+ waited to recoonect
+Ok.
+
+e
+* R W C Mana:Hot Move:Tired>
+e
+Rolling plains
+Exits: North East South West.
+
+* R W C Mana:Hot Move:Tired>
+Rolling plains
+Exits: North East South West.
+
+* R W C Mana:Hot Move:Tired>
+yel but wantedto get u awfu..that i admit
+Ok.

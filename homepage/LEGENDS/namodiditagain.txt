@@ -1,0 +1,1216 @@
+The orkish loremaster shouts 'Smrtihlav just gave me the blacksword! Wow!'
+
+o CW>q
+where
+Players in your zone
+--------------------
+Azazello             - Orc Sleeping Warrens
+Smrtihlav            - A Blasted Furnace
+Seade                - A Blasted Furnace
+Diamonium            - Orc Sleeping Warrens
+Uzglic               - Humid Cave
+
+o CW>
+Darech narrates 'hihi'
+
+o CW>yell bwahah
+Ok.
+
+o CW>
+_____________________________________________________________________________
+TELL! Naga: "'woohoo'" 
+
+o CW>rep what:p
+Ok.
+
+o CW>
+Uzglic has arrived from below.
+
+o CW>
+Uzglic leaves north.
+
+o CW>
+_____________________________________________________________________________
+TELL! Naga: "'we have a winner!'" 
+
+o CW>rep cackle
+Ok.
+
+o CW>
+Tadaah narrates '4 pukes were warrens at least'
+
+o CW>
+Tadaah narrates 'bagger lerian and 2 nonames'
+
+o CW>
+Azazello (aa) drinks water from a water skin.
+
+o CW>
+Azazello (aa) begins some strange incantations...
+
+o CW>
+Azazello (aa) utters the word 'shield'
+
+o CW>
+Azazello (aa) stops using a ruby ring.
+
+o CW>
+Azazello (aa) gets a jewelled ring from a sable pouch.
+
+o CW>
+Azazello (aa) puts a jewelled ring on his finger with delicacy.
+
+o CW>
+Ling narrates 'yo :)'
+
+o CW>
+Azazello (aa) stops using a jewelled ring.
+
+o CW>
+Azazello (aa) puts a jewelled ring in a sable pouch.
+
+o CW>
+Azazello (aa) puts a ruby ring on his finger with delicacy.
+
+o CW>
+Tadaah narrates 'ola'
+
+o CW>
+_____________________________________________________________________________
+TELL! Naga: "'now, what if ihappened to change the delimiter'" 
+
+o CW>
+Azazello (aa) leaves north.
+
+o CW>
+Uzglic has arrived from the north.
+
+o CW>
+Uzglic sits down and rests.
+
+o CW>rep what delimiter
+Ok.
+
+o CW>rep the # / =
+Ok.
+
+o CW>
+Sty has arrived from the north.
+
+o CW>rep or the semicolon to colon ?
+Ok.
+
+o CW>res
+You are already resting.
+
+o CW>
+Takhr the orkish warden gives Sty an offer.
+
+o CW>
+Takhr the orkish warden helps Sty into his private chamber.
+
+o CW>
+Craze narrates 'darn i hope u die'
+
+o CW>
+_____________________________________________________________________________
+TELL! Naga: "'semicolon'" 
+
+o CW>
+Tadaah narrates 'whowho?'
+
+o CW>
+Uzglic stops resting, and clambers on his feet.
+
+o CW>
+Uzglic sits down and rests.
+
+o CW>
+_____________________________________________________________________________
+TELL! Naga: "'yay, works again'" 
+
+o CW>
+Tagosh narrates 'who killed loremaster'
+
+o CW>
+Uzglic giggles.
+
+o CW>rep .)
+Ok.
+
+o CW>res
+You are already resting.
+
+o CW>
+Darech narrates 'smrtihlav did i guess:P'
+
+o CW>
+Smrtihlav narrates 'well loremaster attacked me'
+
+o CW>
+_____________________________________________________________________________
+TELL! Naga: "'now let's see if it works on the d: drive!'" 
+
+o CW>narr not all black ppl are criminals like me		<------------- well I had been narrating some "cool" jokes for a while:P
+Ok.
+
+o CW>res
+You are already resting.
+
+o CW>
+Smrtihlav narrates 'i didnt start this time'
+
+o CW>
+Darech narrates 'i did loremaster then sorry!'
+
+o CW>narr the other day... my cat was in my lap.. and i was petting it. but then i realized there wasn't a cat in my lap. :(
+
+Ok.
+
+o CW>
+Tadaah narrates 'peeeeeoooopleeeeeee we gotta fight puuuuuuuukes'
+
+o CW>res
+You are already resting.
+
+o CW>
+_____________________________________________________________________________
+TELL! Naga: "'can you add texts to the exits file manually too?'" 
+
+o CW>
+Marillion narrates '*sick*'
+
+o CW>
+_____________________________________________________________________________
+TELL! Naga: "'from jmc?'" 
+Tadaah narrates 'tihi'
+
+o CW>
+Uzglic drinks blood from a water skin.
+
+o CW>nar :p                            
+Ok.
+
+o CW>res
+You are already resting.
+
+o CW>rep I havnt done that feature
+Ok.
+
+o CW>rep but its quite easily done, yes
+Ok.
+
+o CW>
+Craze narrates 'diam u r nasty'
+
+o CW>
+Uzglic narrates 'bring 'em closer'
+
+o CW>
+_____________________________________________________________________________
+TELL! Naga: "'well, does pipelining work?'" 
+
+o CW>rep what do you mean by pipelining
+Ok.
+
+o CW>
+Uzglic slaps you across the face repeatedly. Snap out of it!
+
+o CW>rep that | sign?
+Ok.
+
+o CW>res
+You are already resting.
+
+o CW>
+Azazello (aa) has arrived from the north.
+
+o CW>
+Baazunga (ba) has arrived from the north.
+
+o CW>
+Baazunga (ba) sits down and rests.
+
+o CW>
+Uzglic says 'damn you!'
+
+o CW>
+Raff narrates 'come cave trolls'
+
+o CW>
+Pakchoi has arrived from the north.
+A hungry warg has arrived from the north.
+
+o CW>
+Tadaah narrates 'those pukes sure looked surprised as i suddenly disappeared'
+
+o CW>
+Darech has arrived from the north.
+A hungry warg has arrived from the north.
+
+o CW>
+Darech sits down and rests.
+
+o CW>
+Azazello (aa) gets a broad silver belt from a leather backpack.
+
+o CW>
+Azazello (aa) gets a receipt for a bejewelled shield from a sable pouch.
+
+o CW>
+Darech says 'all this food talk makes me hungry too :P'
+
+o CW>narr ohh my god these pies taste great, if only i could fuck them 
+Ok.
+
+o CW>
+Pakchoi sits down and rests.
+
+o CW>
+___________________________
+------( ARMOUR GONE )------, >BACKSTAB<
+
+o CW>
+An orkish scout has arrived from the north.
+
+o CW>narr WAIT! I CAN			<-- well, yes they are specific jokes about around the hole :P
+Ok.
+
+o CW>st
+You stop resting, and stand up.
+
+o CW>arm
+You start to concentrate... ARMOUR
+
+res
++++ ARMOUR HO! +++
+
+o CW Mana:Hot>You sit down and rest your tired bones.
+
+o CW Mana:Hot>
+_____________________________________________________________________________
+TELL! Naga: "'yeah, and > >>'" 
+
+o CW Mana:Burning>
+An orkish scout leaves north.
+
+o CW Mana:Burning>nar was that better than the latter:P?
+Ok.
+
+o CW Mana:Burning>res
+You are already resting.
+
+o CW Mana:Burning>
+Azazello (aa) gives a receipt for a bejewelled shield to Baazunga (ba).
+
+o CW Mana:Burning>
+Darech says 'diam do you suffer from any mental problems? :P'
+
+o CW Mana:Burning>
+An orkish scout has arrived from the north.
+
+o CW Mana:Burning>shak
+You shake your head.
+
+o CW Mana:Burning>asy I am reading a humour site
+say I am reading a humour site
+Ok.
+
+o CW Mana:Burning>laugh
+You fall down laughing.
+
+o CW Mana:Burning>
+Darech giggles.
+
+o CW Mana:Burning>
+Pakchoi stir fries: "he found a nice book of jokes"
+
+o CW Mana:Burning>say about text in IRC channels
+emote bitches 'about text in IRC channels'
+Ok.
+
+o CW Mana:Burning>gig
+You giggle.
+
+o CW Mana:Burning>
+An orkish scout leaves north.
+
+o CW Mana:Burning>
+Pakchoi nods solemnly.
+
+o CW Mana:Burning>
+Uzglic says 'what mental problems can you have with no brain'
+
+o CW Mana:Burning>
+Azazello (aa) leaves north.
+
+o CW Mana:Burning>
+Baazunga (ba) drools 'he is from *.ee... so all jokes are funny jokes'
+
+o CW Mana:Burning>sa and gaining fame off other ppls problems!
+Ok.
+
+o CW Mana:Burning>say bwahaha
+emote bitches 'bwahaha'
+Ok.
+
+o CW Mana:Burning>
+Someone narrates 'Keep bullshit and real life comments on the sing channel, else I'll do something about it (Namo)'
+
+o CW Mana:Burning>spn
+- SPELL-CASTING set to: NORMAL -
+Ok.
+
+o CW Mana:Burning>can
+cha ale n
+Ok.
+
+o CW Mana:Burning>res
+You are already resting.
+
+o CW Mana:Burning>
+Marrant narrates 'How long do you stay banned from DT when you stupidly attacked the wrong orc mob ?'
+
+o CW Mana:Burning>
+Baazunga (ba) drools 'I knew one person from *.ee rl before, totally crazy'
+
+o CW Mana:Burning>
+Darech says ':P'
+
+o CW Mana:Burning>
+Pakchoi stir fries: "ok afk now"
+
+o CW Mana:Burning>
+Pakchoi's eyes seems to glaze while his body rapidly ceases moving...
+
+o CW>
+Pakchoi IS AFK
+
+o CW>narr k - always knew you had no sense of humour
+Ok.
+
+o CW>res
+You are already resting.
+
+o CW>
+_____________________________________________________________________________
+TELL! Naga: "'i'm just really really stupid when it comes to programming =p'" 
+
+o CW>
+Baazunga (ba) drools 'he could ask me "what would you do if I drop an atombomb on you"?'
+
+o CW>
+Baazunga (ba) drools 'totally moronic'
+
+o CW>
+Craze narrates 'heheheh'
+
+o CW>tell naga you are not alone :*
+Ok.
+
+o CW>tell naga hahahaha :]
+Ok.
+
+o CW>res
+You are already resting.
+
+o CW>
+Pakchoi has lost his link.
+
+o CW>gig
+You giggle.
+
+o CW>
+Uzglic shivers uncomfortably.
+
+o CW>
+Marillion narrates 'hope you all mobdie(laters)'
+
+o CW>
+Baazunga (ba) drools '"will you get mad if I throw your TV out of the window?"'
+
+o CW>sing I cook so badly, my family has to PRAY AFTER MEALS
+Baazunga (ba) stares at the sky.
+Ok.
+
+o CW>res
+You are already resting.
+
+o CW>
+Uzglic shrugs indifferently.
+Someone narrates 'And it's kinda pathetic the only way you can make sure you're heard is to spam global channels on an internet game Dia.'
+
+o CW>
+Uzglic says 'prolly not'
+
+o CW>narr hey someone, that is smoething i have to deal with every day!
+Ok.
+
+o CW>
+Darech narrates 'Crossrace info!!!'
+
+o CW>
+Baazunga (ba) drools 'talking about a friend of mines way of joking hehe'
+
+o CW>narr HEY I THINK U JUST MADE A JOKE!
+Ok.
+
+o CW>res
+You are already resting.
+
+o CW>nar :p
+Ok.
+
+o CW>
+Kuzuk has entered the game.
+
+o CW>
+Valdreth narrates 'graendl rips'
+
+o CW>
+Pakchoi disappears into the void.
+You begin to feel hungry.
+
+o CW>
+Kuzuk tips his hat.
+
+o CW>
+o CW>
+Azazello narrates 'raps raps !'
+
+o CW>
+Baazunga (ba) lies down and falls asleep.
+
+o CW>
+Kuzuk rudely tips his hat at you.
+
+o CW>sm
+You smile viciously.
+
+o CW>l
+Orc Sleeping Warrens
+A large bulletin board is mounted here.
+Takhr the orkish warden is standing here, looking greedily at your stuff.
+A hungry warg stands here, sniffing around for flesh.
+Uzglic is resting here.
+Baazunga (ba) is sleeping here.
+A hungry warg stands here, sniffing around for flesh.
+Darech is resting here.
+A hungry warg stands here, sniffing around for flesh.
+Kuzuk is standing here.
+
+o CW>
+Uzglic says 'damn... I wan't an eq too'
+
+o CW>
+Baazunga (ba) wakes up.
+
+o CW>
+Baazunga (ba) rests.
+Kuzuk smiles viciously.
+
+o CW>res
+You are already resting.
+
+o CW>
+Azazello narrates 'kill em rap pukes !'
+
+o CW>
+Darech agrees.
+
+o CW>
+Valdreth narrates 'i killed and i went linkless 3 times : )'
+
+o CW>
+Uzglic says 'I feel like a tird'
+Baazunga (ba) stops resting, and clambers on his feet.
+
+o CW>
+Darech stops resting, and clambers on his feet.
+
+o CW>
+Darech sits down and rests.
+
+o CW>
+Takhr the orkish warden helps Baazunga (ba) into his private chamber.
+
+o CW>
+Darech says 'what's a tird?'
+
+o CW>
+Tadaah narrates 'i want to find some puuuuuuukes'
+
+o CW>
+Uzglic slaps Darech across the face!
+
+o CW>
+Darech says 'you meant turd?'
+
+o CW>
+------( F O O D )------
+
+o CW>
+Uzglic says 'I know what I mean'
+
+o CW>
+Uzglic grins evilly, showing his teeth.
+
+o CW>
+_____________________________________________________________________________
+TELL! Kuzuk: "'now i level 22 again... mobbed beacouse of a lag...:('" 
+
+o CW>
+Kuzuk leaves north.
+
+o CW>
+Darech narrates 'i'm a tird :('
+
+o CW>rep ow
+Ok.
+
+o CW>res
+You are already resting.
+
+o CW>who asd
+Ainur
+-----
+ [ M] Rayden the Master of all Tpyos 
+ [Ms] Deor !  (Linkless)
+ [Ms] Amandil the Last Lord of Andunie  (Idle)
+ [Mc] Yeoma   (Idle)
+ [ A] Staer the Warden of Morgul Vale 
+ [Mb] Mandor feels a new dawn coming  (Idle)
+ [Mb] Naga the White Serpent 
+ [Mc] Tuor of Vinyamar 
+ [ M] Ling adores Christian Dior [Retired] 
+ [Mc] Atlas the Scorpion Slaying Uncle 
+
+10 players on.
+
+o CW>st
+You stop resting, and stand up.
+
+o CW>food
+You start to concentrate... ARMOUR
+
+res
+spn
+- SPELL-CASTING set to: NORMAL -
+can
+A magic mushroom suddenly appears.
+
+o CW Mana:Burning>You eat the mushroom.
+
+o CW Mana:Burning>You sit down and rest your tired bones.
+
+o CW Mana:Burning>Ok.
+
+o CW Mana:Burning>cha ale n
+Ok.
+
+o CW Mana:Burning>
+Darech says 'shit link'
+
+o CW Mana:Burning>
+Darech says 'didnt even eat mushie'
+
+o CW Mana:Burning>
+Utumno has entered the game.
+
+o CW>
+_____________________________________________________________________________
+TELL! Kuzuk: "'lost my age and 600 k,,,:('" 
+
+o CW>
+Utumno starts exercising...
+
+o CW>narr Namo - I actually like to share jokes with other ppl! I don't want to laugh all the time alone!
+Ok.
+
+o CW>res
+You are already resting.
+
+o CW>narr I haev been in this room, alone now, for 25 years
+Ok.
+
+o CW>narr :/
+Ok.
+
+o CW>res
+You are already resting.
+
+o CW>
+Cirrus narrates '*comf*'
+
+o CW>
+Utumno begins some strange incantations...
+
+o CW>
+Utumno utters the word 'armour'
+
+o CW>
+Utumno begins some strange incantations...
+
+o CW>
+------( SHIELD GONE )------
+
+o CW>
+Utumno utters the word 'shield'
+
+o CW>
+Utumno begins some strange incantations...
+
+o CW>
+Utumno utters the word 'strength'
+
+o CW>
+Utumno begins some strange incantations...
+
+o CW>
+Utumno utters the word 'shroud'
+Utumno blurs softly as a misty shroud surrounds him.
+
+o CW>
+Uzglic narrates 'you're i the toilet?'
+
+o CW>
+Utumno sits down and rests.
+
+o CW>narr no, corridor - they never let me inside the house.(
+Ok.
+
+o CW>res
+You are already resting.
+
+o CW>
+Namo took away your ability to shout!
+
+o CW>l   
+Orc Sleeping Warrens
+Traces of fierce red tones form the aura of this place.
+A large bulletin board is mounted here.
+Takhr the orkish warden is standing here, looking greedily at your stuff.
+A hungry warg stands here, sniffing around for flesh.
+Uzglic is resting here.
+A hungry warg stands here, sniffing around for flesh.
+Darech is resting here.
+A hungry warg stands here, sniffing around for flesh.
+Utumno is resting here (shrouded).
+
+o CW>wo
+OB: 71%, DB: -27%, PB: 95%, Armour: 90%. Wimpy: 200. Mood: wimpy.
+Needed: 1,169,914 xp, 0 tp. Gold: 613. Alert: normal.
+Affected by:
+- armour
+- strength
+- detect magic
+
+o CW>say I cant narrate:p
+emote bitches 'I cant narrate:p'
+Ok.
+
+o CW>say nomore
+emote bitches 'nomore'
+Ok.
+
+o CW>say namo took it away :p
+emote bitches 'namo took it away :p'
+Ok.
+
+o CW>gig
+You giggle.
+
+o CW>
+_____________________________________________________________________________
+TELL! Namo: "'Enough bullshit on narrate from you for a couple of weeks then.'" 
+
+o CW>nar test
+You can't narrate!!
+Uzglic giggles.
+
+o CW>
+Darech says 'cool'
+
+o CW>sing test
+You can't sing!!
+
+o CW>yell test
+You can't yell!
+
+o CW>l
+Orc Sleeping Warrens
+Traces of fierce red tones form the aura of this place.
+A large bulletin board is mounted here.
+Takhr the orkish warden is standing here, looking greedily at your stuff.
+A hungry warg stands here, sniffing around for flesh.
+Uzglic is resting here.
+A hungry warg stands here, sniffing around for flesh.
+Darech is resting here.
+A hungry warg stands here, sniffing around for flesh.
+Utumno is resting here (shrouded).
+
+o CW>
+Uzglic comforts you.
+
+o CW>
+Darech says 'most of my chars have been noshouted HAhaaaaaaaa'
+
+o CW>rep owk - whatever makes you happy :*
+Ok.
+
+o CW>res
+You are already resting.
+
+o CW>
+Uzglic says 'then you must give me eq'
+
+o CW>
+Darech says 'mostly gods hate me'
+
+o CW>l
+Orc Sleeping Warrens
+Traces of fierce red tones form the aura of this place.
+A large bulletin board is mounted here.
+Takhr the orkish warden is standing here, looking greedily at your stuff.
+A hungry warg stands here, sniffing around for flesh.
+Uzglic is resting here.
+A hungry warg stands here, sniffing around for flesh.
+Darech is resting here.
+A hungry warg stands here, sniffing around for flesh.
+Utumno is resting here (shrouded).
+
+o CW>say namo just is furious and jealous
+emote bitches 'namo just is furious and jealous'
+Ok.
+
+o CW>
+Naghag has arrived from the north.
+Tagosh has arrived from the north.
+
+o CW>
+Takhr the orkish warden gives Naghag an offer.
+
+o CW>
+Tagosh leaves down.
+
+o CW>say because he cant say anything he wants!
+emote bitches 'because he cant say anything he wants!'
+Ok.
+
+o CW>
+Darech says 'about your mad humour sure'
+
+o CW>
+Tagosh has arrived from below.
+
+o CW>
+Takhr the orkish warden helps Naghag into his private chamber.
+
+o CW>say he has to be a great example to others!
+emote bitches 'he has to be a great example to others!'
+Ok.
+
+o CW>res
+You are already resting.
+
+o CW>l
+Orc Sleeping Warrens
+Traces of intense red tones form the aura of this place.
+A large bulletin board is mounted here.
+Takhr the orkish warden is standing here, looking greedily at your stuff.
+A hungry warg stands here, sniffing around for flesh.
+Uzglic is resting here.
+A hungry warg stands here, sniffing around for flesh.
+Darech is resting here.
+A hungry warg stands here, sniffing around for flesh.
+Utumno is resting here (shrouded).
+Tagosh is standing here.
+
+o CW>say humour is humour:p
+emote bitches 'humour is humour:p'
+Ok.
+
+o CW>
+Tagosh says 'who?'
+
+o CW>
+Darech giggles.
+
+o CW>
+Darech says 'you'
+
+o CW>say we all die, why not laugh about it:p
+emote bitches 'we all die, why not laugh about it:p'
+Ok.
+
+o CW>wink
+Have you got something in your eye?
+
+o CW>l
+Orc Sleeping Warrens
+Traces of rich red tones form the aura of this place.
+A large bulletin board is mounted here.
+Takhr the orkish warden is standing here, looking greedily at your stuff.
+A hungry warg stands here, sniffing around for flesh.
+Uzglic is resting here.
+A hungry warg stands here, sniffing around for flesh.
+Darech is resting here.
+A hungry warg stands here, sniffing around for flesh.
+Utumno is resting here (shrouded).
+Tagosh is standing here.
+
+o CW>say I am nmot very depressive person - u knw:p
+emote bitches 'I am nmot very depressive person - u knw:p'
+Ok.
+
+o CW>wink
+Have you got something in your eye?
+
+o CW>res
+You are already resting.
+
+o CW>
+Darech says ':P'
+
+o CW>say I almost get beaten every party beacuse I laught too much
+emote bitches 'I almost get beaten every party beacuse I laugh too much'
+Ok.
+
+o CW>laugh
+You fall down laughing.
+
+o CW>
+_____________________________________________________________________________
+TELL! Namo: "'Nah, you've been doing this for too long now.'" 
+
+o CW>
+Uzglic coughs loudly.
+
+o CW>
+The Valar have decided that you shall be put in jail.
+
+! CW>
+_____________________________________________________________________________
+TELL! Namo: "'There ya go.'" 
+
+! CW>l
+Morgul Vale
+A mailbox stands here stuffed full of messages.
+A steward of the Valar stands here, ready to assist you into a room.
+
+! CW>
+_____________________________________________________________________________
+TELL! Darech: "'lol'" 
+
+! CW>
+_____________________________________________________________________________
+TELL! Namo: "'A month in Vale.'" 
+
+! CW>rep ouch
+Ok.
+
+! CW>rep why? :P 
+Ok.
+
+! CW>ts btw
+tell smrtihlav btw
+He is linkless...
+
+! CW>tell namo u took away the shouting, but what else did I do wrong?
+Ok.
+
+! CW>tell namo I must learn from mistakes you know!
+Ok.
+
+! CW>wo
+You can only talk, quit, use mail or rent right now...
+
+! CW>l
+Morgul Vale
+A mailbox stands here stuffed full of messages.
+A steward of the Valar stands here, ready to assist you into a room.
+
+! CW>tell darech narate, im in morgul for 1 rl month - regards from Namo
+Ok.
+
+! CW>tell darech because I made a joke
+Ok.
+
+! CW>pray help!
+Shhh... You are SILENCED!
+
+! CW>
+_____________________________________________________________________________
+TELL! Tagosh: "'1 month!'" 
+
+! CW>
+------( STRENGTH GONE )------
+
+! CW>
+_____________________________________________________________________________
+TELL! Namo: "'You can handle the rent there I hope?'" 
+
+! CW>st
+You stop resting, and stand up.
+
+! CW>off
+A steward tells you 'It will cost you 9 gold coins, 12 silver pennies, and 48 copper pennies per day.'
+You have enough money for at least 11 years !
+
+! CW>tell namo EASY!
+Ok.
+
+! CW>tell namo 11 years - bwahahaha
+Ok.
+
+! CW>wo  
+You can only talk, quit, use mail or rent right now...
+
+! CW>i
+You can only talk, quit, use mail or rent right now...
+
+! CW>eq
+_____________________________________________________________________________
+TELL! Namo: "'Good, wouldn't want you to lose eq over this.'" 
+You can only talk, quit, use mail or rent right now...
+
+! CW>rep yes - that would be sad indeed!
+Ok.
+
+! CW>wo
+You can only talk, quit, use mail or rent right now...
+
+! CW>inf
+
+You can only talk, quit, use mail or rent right now...
+
+! CW>! CW>
+_____________________________________________________________________________
+TELL! Namo: "'That was not my intention anyhow.'" 
+
+! CW>tell namo the good thing is, I just managed to give dragonhelm the artifact away! good it doent go waste
+Ok.
+
+! CW>
+_____________________________________________________________________________
+TELL! Namo: "'goodie'" 
+
+! CW>
+_____________________________________________________________________________
+TELL! Atlas: "'Now what did you do? :P'" 
+
+! CW>
+_____________________________________________________________________________
+TELL! Kuzuk: "'where did ya go?'" 
+
+! CW>tell namo I am not sure about your intentions even:P, understood the noshout - but this next one.. was wierd
+Ok.
+
+! CW>tell atlas I made a joke:p
+Ok.
+
+! CW>
+_____________________________________________________________________________
+TELL! Tadaah: "':p'" 
+
+! CW>tell kuzuk I am in morgul vale.P for month
+Ok.
+
+! CW>
+_____________________________________________________________________________
+TELL! Namo: "'You've been spamming idiotic things for too long, been noshouted like 5-10 times?'" 
+
+! CW>
+_____________________________________________________________________________
+TELL! Kuzuk: "'why?'" 
+
+! CW>
+*Tragdor the Dwarf* arrives from a puff of smoke.
+
+! CW>
+*Tragdor the Dwarf* says 'cheers'
+
+! CW>
+_____________________________________________________________________________
+TELL! Atlas: "'Ack, stop that, fun is not appreciated here, trust me'" 
+
+! CW>
+*Tragdor the Dwarf* says 'haha'
+
+! CW>
+*Tragdor the Dwarf* says 'what up ?'
+
+! CW>l
+Morgul Vale
+A mailbox stands here stuffed full of messages.
+A steward of the Valar stands here, ready to assist you into a room.
+*Tragdor the Dwarf* is standing here.
+
+! CW>
+*Tragdor the Dwarf* says 'nice eq ?'
+
+! CW>
+_____________________________________________________________________________
+TELL! Namo: "'It's about time you get some other punishment.'" 
+
+! CW>say wassup
+emote bitches 'wassup'
+You can only talk, quit, use mail or rent right now...
+
+! CW>sa wassup
+Ok.
+
+! CW>nod
+You nod solemnly.
+
+! CW>
+*Tragdor the Dwarf* says 'why iou an jail ?'
+
+! CW>sa what did u do?
+Ok.
+
+! CW>sa I made a joke
+Ok.
+
+! CW>as namo 
+You can only talk, quit, use mail or rent right now...
+
+! CW>sa namo morguled me for a m,onth
+Ok.
+
+! CW>gig
+You can only talk, quit, use mail or rent right now...
+
+! CW>cha lang w
+Very well, you now speak Westron.
+
+! CW>sa namo morgled me for a month
+Ok.
+*Tragdor the Dwarf* says 'I dont know!'
+
+! CW>gig
+You can only talk, quit, use mail or rent right now...
+
+! CW>l
+Morgul Vale
+A mailbox stands here stuffed full of messages.
+A steward of the Valar stands here, ready to assist you into a room.
+*Tragdor the Dwarf* is standing here.
+
+! CW>
+*Tragdor the Dwarf* says 'your lang'
+
+! CW>sa I changed..
+Ok.
+*Tragdor the Dwarf* says 'why ?'
+
+! CW>sa u should udnertand now
+Ok.
+
+! CW>cha
+The following fields are available:
+alertness     class         editor        language      pager         title         width         
+ansifilter    colour        eqorder       linkdrop      password      wimpy         wordwrap      
+charset       description   height        mood          spellcasting  whois         
+
+! CW>cha lang
+You have the following knowledge in these languages:
+   70 * Westron             
+   60   Khuzdul             
+   39   Adunaic             
+   40   Quenya              
+   50   Sindarin            
+  100   Morbeth             
+  100   Orkish              
+   10   Animal              
+   80   Dunnish             
+   55   Beorning            
+   65   Rohirric            
+
+! CW>
+*Tragdor the Dwarf* says 'oh'
+
+! CW>        
+*Tragdor the Dwarf* says 'true'
+
+! CW>sa yp :)
+Ok.
+
+! CW>sa what did u do?
+Ok.
+*Tragdor the Dwarf* says 'im valed ciuse im a retard RL'
+
+! CW>sa hahaha
+Ok.
+
+! CW>
+*Tragdor the Dwarf* says 'I spammed!'
+
+! CW>sa thats funny:p
+Ok.
+
+! CW>
+*Tragdor the Dwarf* says 'well what did ya du?'
+
+! CW>
+_____________________________________________________________________________
+TELL! Kuzuk: "'can u see narrates?'" 
+
+! CW>
+*Tragdor the Dwarf* says 'besides wanking in public?'
+
+! CW>
+A shimmering pillar of light draws from above and materializes into Staer.
+
+! CW>
+Staer says 'shouldnt you be studying?'
+
+! CW>
+*Tragdor the Dwarf* says 'sure'
+
+! CW>
+_____________________________________________________________________________
+TELL! Darech: "'hope u got lots of coins! rent is shit high in vale :P'" 
+*Tragdor the Dwarf* says 'I am '
+
+! CW>
+Staer says 'liar'
+
+! CW>
+*Tragdor the Dwarf* says 'dude'
+
+! CW>
+Staer says 'dude'
+
+! CW>
+*Tragdor the Dwarf* says 'duuude'
+
+! CW>
+*Tragdor the Dwarf* says 'ok im not studying'
+
+! CW>
+Staer says 'ddduuuuuuude'
+
+! CW>
+*Tragdor the Dwarf* says 'yoo got me!'
+
+! CW>
+Staer sniffs sadly.
+
+! CW>
+*Tragdor the Dwarf* says '=('
+
+! CW>
+Staer leaves down.
+
+! CW>
+*Tragdor the Dwarf* disappears in a mushroom cloud.
+
+! CW>l
+Morgul Vale
+A mailbox stands here stuffed full of messages.
+A steward of the Valar stands here, ready to assist you into a room.
+
+-------- I WILL BE BACK ----------
+BR,
+Diamonium JingleBells

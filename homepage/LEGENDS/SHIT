@@ -1,0 +1,1216 @@
+You are using:
+<wielded>            a black runed dagger (brand new)
+<worn as shield>     a tower shield (brand new)
+<worn on head>       a plain hood (brand new)
+<worn on body>       a plain shirt (brand new)
+<worn about body>    a fine grey cloak (brand new)
+<worn on arms>       a pair of soft leather sleeves (brand new)
+<worn on hands>      a thin pair of leather gloves (brand new)
+<worn on legs>       a plain pair of pants (brand new)
+<worn around neck>   a black amulet
+<worn on wrist>      a wolfskin wristband (brand new)
+<worn on wrist>      a wolfskin wristband (brand new)
+<worn on finger>     a ruby ring; it is invisible
+<worn on finger>     a gold ring
+<worn across back>   a leather pouch
+<worn as belt>       a broad silver belt
+<worn on belt>       a set of lock picks
+<worn on belt>       a keyring with a couple of keys
+<worn on belt>       a herbal kit
+
+OB: 85%, DB: 11%, PB: 102%, Armour: 4%. Wimpy: 150. Mood: wimpy.
+Needed: 547074 xp, 0 tp. Wp: 47. Gold: 138.
+Affected by:
+- strength
+- armour
+- detect invisibility
+- sense life
+
+Approaching the North Gate of Tharbad
+A chequered shirt lies here.
+A thin pair of soft leather boots are on the ground.
+A large piece of black cloth is on the ground.
+A black pair of pants are on the ground.
+A black hood lies on the ground.
+A black shirt is on the ground.
+A plain pair of pants are on the ground.
+A strip of leather with a buckle is lying here.
+A beggar is here, asking for a few coins.
+The smuggler is here, fighting *a Human*.
+*a Human* is here, fighting the smuggler.
+Exits: North East South.
+
+* W S Mana:Hot>
+Outside the north gate of Tharbad
+Exits: North South.
+
+so W S Mana:Hot>
+
+#Ok. $od is now set to {gate}.
+The gate seems to be closed.
+
+o W S Mana:Hot>
+n
+n
+Approaching the North Gate of Tharbad
+A chequered shirt lies here.
+A thin pair of soft leather boots are on the ground.
+A large piece of black cloth is on the ground.
+A black pair of pants are on the ground.
+A black hood lies on the ground.
+A black shirt is on the ground.
+A plain pair of pants are on the ground.
+A strip of leather with a buckle is lying here.
+A beggar is here, asking for a few coins.
+The smuggler is here, fighting *a Human*.
+*a Human* is here, fighting the smuggler.
+Exits: North East South.
+
+* W S Mana:Hot>
+On the Road to Tharbad
+Exits: North East South West.
+
+o W S Mana:Hot>
+3
+#Ok. $mees is now set to {Human}.
+
+*a Human* has arrived from the south.
+
+* W S Mana:Hot>
+n     <- JUST tahcin igaks juhuks yhe rohkem northi minna
+         aga sneaki delay ja human flees ennemp sisse, darn.
+Lush Plains
+A fat rabbit sits here, chewing on some grass.
+A restless rabbit bounces around.
+A restless rabbit bounces around.
+A fat rabbit sits here, chewing on some grass.
+Exits: North East South West.
+
+o W S Mana:Hot>
+s
+back $mees
+On the Road to Tharbad
+*a Human* is standing here.
+Exits: North East South West.
+
+* W S Mana:Hot>
+kil $mees
+You begin to move silently to the back of your victim...
+
+*a Human* panics, and attempts to flee.
+*a Human* leaves west.
+agre
+kil $mees
+kil $mees
+
+sneak
+o W S Mana:Hot>
+kil $mees
+They aren't here.
+
+kil $mees
+o W S Mana:Hot>
+Ok.
+
+o W S Mana:Hot>
+w
+They aren't here.
+
+kil $mees
+o W S Mana:Hot>
+They aren't here.
+
+o W S Mana:Hot>
+You stop sneaking.
+
+o W Mana:Hot>
+They aren't here.
+
+o W Mana:Hot>
+They aren't here.
+
+o W Mana:Hot>
+Road to Tharbad
+Exits: North East South West.
+
+o W Mana:Hot>
+They aren't here.
+
+o W Mana:Hot>
+e
+On the Road to Tharbad
+Exits: North East South West.
+
+s
+o W Mana:Hot>
+Approaching the North Gate of Tharbad
+A chequered shirt lies here.
+A thin pair of soft leather boots are on the ground.
+A large piece of black cloth is on the ground.
+A black pair of pants are on the ground.
+A black hood lies on the ground.
+A black shirt is on the ground.
+A plain pair of pants are on the ground.
+A strip of leather with a buckle is lying here.
+A beggar is here, asking for a few coins.
+A smuggler is here, angry at having been seen.
+Exits: North East South.
+
+* W Mana:Hot>
+s
+Outside the north gate of Tharbad
+Exits: North South.
+
+o W Mana:Hot>
+cg
+close gate
+It's already closed!
+
+n
+o W Mana:Hot>
+Approaching the North Gate of Tharbad
+A chequered shirt lies here.
+A thin pair of soft leather boots are on the ground.
+A large piece of black cloth is on the ground.
+A black pair of pants are on the ground.
+A black hood lies on the ground.
+A black shirt is on the ground.
+A plain pair of pants are on the ground.
+A strip of leather with a buckle is lying here.
+A beggar is here, asking for a few coins.
+A smuggler is here, angry at having been seen.
+Exits: North East South.
+
+* W Mana:Hot>
+w
+Alas, you cannot go that way...
+
+* W Mana:Hot>
+n
+On the Road to Tharbad
+Exits: North East South West.
+
+o W Mana:Hot>
+w
+Road to Tharbad
+Exits: North East South West.
+
+o W Mana:Hot>
+e
+On the Road to Tharbad
+Exits: North East South West.
+
+to W Mana:Hot>
+rack human
+You carefully examine the ground around you, looking for tracks...
+
+m
+{mees}={Human}
+sneak
+3
+#Ok. $mees is now set to {Human}.
+You see some tracks of *a Human* leading west.
+ (done less than 1 hour ago).
+
+o W Mana:Hot>
+Ok, you'll try to move silently for a while.
+
+o W S Mana:Hot>
+w
+Road to Tharbad
+Exits: North East South West.
+
+TT
+#Ok. {You see some tracks of%1leading north} now triggers {n} @ {5}
+#Ok. {You see some tracks of%1leading south} now triggers {s} @ {5}
+#Ok. {You see some tracks of%1leading east} now triggers {e} @ {5}
+#Ok. {You see some tracks of%1leading west} now triggers {w} @ {5}
+#Ok. {You see some tracks of%1leading up} now triggers {u} @ {5}
+#Ok. {You see some tracks of%1leading down} now triggers {d} @ {5}
+You see some tracks of *a Human* leading west.
+ (done less than 1 hour ago).
+
+o W S Mana:Hot>
+Between Road and River
+A small animal, all covered in spines, snuffles amongst the undergrowth.
+Exits: North East South West.
+
+You see some tracks of *a Human* leading north.
+ (done less than 1 hour ago).
+
+o W S Mana:Hot>
+A Bend in the Road
+Exits: North East South West.
+You see some tracks of *a Human* leading west.
+ (done less than 1 hour ago).
+
+o W S Mana:Burning>
+Fields by the River
+A fat rabbit sits here, chewing on some grass.
+A fat rabbit sits here, chewing on some grass.
+Exits: North East South West.
+
+You see some tracks of *a Human* leading north.
+ (done less than 1 hour ago).
+
+o W S Mana:Burning>
+Road to Tharbad
+Exits: North East South West.
+
+You see some tracks of *a Human* leading west.
+ (done less than 1 hour ago).
+
+o W S Mana:Burning>
+Beside the Wide Road
+A tall, stately, dome-topped tree grows here.
+A squirrel scampers around here, looking for nuts from the trees.
+Exits: North East South West.
+
+You see some tracks of *a Human* leading north.
+ (done less than 1 hour ago).
+
+o W S Mana:Burning>
+Bend in the Road
+Exits: North East South West.
+
+You see some tracks of *a Human* leading north.
+ (done less than 1 hour ago).
+
+* W S Mana:Burning>
+Backstab who?
+
+o W S Mana:Burning>
+In a Ditch Beside the Road
+Exits: North East South West.
+Aha you have found your victim !.
+
+* W S Mana:Burning>
+s
+n
+Turn in the Road
+Exits: North East South West.
+
+o W S Mana:Burning>
+In a Ditch Beside the Road
+Exits: North East South West.
+
+o W S Mana:Burning>
+n
+Rugged Plains
+Exits: North East South West.
+
+o W S Mana:Burning>
+s
+s
+s
+In a Ditch Beside the Road
+Exits: North East South West.
+
+o W S Mana:Burning>
+wo
+Turn in the Road
+Exits: North East South West.
+
+o W S Mana:Burning>
+Bend in the Road
+Exits: North East South West.
+
+o W S Mana:Burning>
+w
+senOB: 118%, DB: 46%, PB: 47%, Armour: 4%. Wimpy: 150. Mood: aggressive.
+Needed: 443901 xp, 0 tp. Wp: 47. Gold: 181.
+Affected by:
+- noquit
+- strength
+- detect invisibility
+
+seo W S Mana:Burning>
+
+senseFields by the Road
+A nightingale is here, chirping a sweet melody.
+Exits: North East South West.
+
+
+o W S Mana:Burning>
+senseYou start to concentrate...
+
+
+A nightingale leaves north.
+
+You lost your concentration!
+
+o W S Mana:Burning>
+You start to concentrate...
+
+sense
+You lost your concentration!
+
+o W S Mana:Burning>
+You start to concentrate...
+sense
+Ok.
+You feel your awareness improve.
+
+o W S Mana:Hot>
+You start to concentrate...
+
+
+o W S Mana:Hot>
+e
+You start to concentrate...
+
+n
+n
+
+o W S Mana:Hot>
+Bend in the Road
+A finch flies low above the fields.
+Exits: North East South West.
+
+o W S Mana:Hot>
+Turn in the Road
+Exits: North East South West.
+
+o W S Mana:Hot>
+In a Ditch Beside the Road
+Exits: North East South West.
+
+o W S Mana:Hot>
+n
+Rugged Plains
+Exits: North East South West.
+
+o W S Mana:Hot>
+n
+Bushy Plains
+Some blackberries grow on a bush nearby.
+Some blackberries grow on a bush nearby.
+Some blackberries grow on a bush nearby.
+A brown fox is here, looking for some rabbits to chew up.
+Exits: East South West.
+
+o W S Mana:Hot>
+s
+s
+Rugged Plains
+Exits: North East South West.
+
+tro W S Mana:Hot>
+ack hIn a Ditch Beside the Road
+Exits: North East South West.
+A robin has arrived from the east.
+
+uo W S Mana:Hot>
+man
+m
+{mees}={Human}
+You carefully examine the ground around you, looking for tracks...
+
+3
+#Ok. $mees is now set to {Human}.
+You see some tracks of *a Human* leading east.
+ (done less than 1 hour ago).
+
+o W S Mana:Hot>
+Along the Muddy Ditch
+A small brown snake is slithering around here.
+A small brown snake is slithering around here.
+A brown snake watches you.
+Exits: North East South West.
+
+You see some tracks of *a Human* leading south.
+ (done less than 1 hour ago).
+
+o W S Mana:Hot>
+In a Muddy Ditch
+A large dangerous looking green snake is coiled up here.
+*a Human* is standing here.
+Exits: North East South West.
+Aha you have found your victim !.
+
+* W S Mana:Hot>
+
+*a Human* leaves west.
+
+o W S Mana:Hot>
+back $mees
+Backstab who?
+
+o W S Mana:Hot>
+w
+back $mees
+Turn in the Road
+You smell blood.
+Exits: North East South West.
+You suddenly notice *a Human*.
+*a Human* leaves north.
+
+o W S Mana:Hot>
+Backstab who?
+
+o W S Mana:Hot>
+n
+back $mees
+In a Ditch Beside the Road
+A robin is here, carrying small pieces of wood to its nest.
+Exits: North East South West.
+
+o W S Mana:Hot>
+Backstab who?
+
+o W S Mana:Hot>
+e
+Along the Muddy Ditch
+A small brown snake is slithering around here.
+A small brown snake is slithering around here.
+A brown snake watches you.
+Exits: North East South West.
+
+o W S Mana:Hot>
+w
+w
+In a Ditch Beside the Road
+A robin is here, carrying small pieces of wood to its nest.
+Exits: North East South West.
+
+o W S Mana:Hot>
+On a Winding Roadway
+Exits: North East South West.
+
+n
+o W S Mana:Hot>
+e
+Grassy Plains
+A brown fox is here, looking for some rabbits to chew up.
+Exits: North East South West.
+
+o W S Mana:Hot>
+Rugged Plains
+A black raven is walking across the ground, looking for carrion.
+A black raven is walking across the ground, looking for carrion.
+Exits: North East South West.
+
+o W S Mana:Hot>
+s
+s
+In a Ditch Beside the Road
+A robin is here, carrying small pieces of wood to its nest.
+Exits: North East South West.
+The black raven has arrived from the north.
+The black raven has arrived from the north.
+
+o W S Mana:Hot>
+Turn in the Road
+Exits: North East South West.
+
+tr* W S Mana:Hot>
+ack human
+m
+{mees}={Human}
+You carefully examine the ground around you, looking for tracks...
+
+You see some tracks of *Aschit the Human* coming from the north.
+ (done less than 1 hour ago).
+
+* W S Mana:Burning>
+
+You suddenly notice *Aschit the Human*.
+Suddenly *Aschit the Human* stabs you in the back.   <- no kust see clueless valja tuli.
+That really HURT!
+
+* W S HP:Bad Mana:Burning *Aschit the Human*:Healthy>
+
+You stop tracking your victim.
+You flee head over heels.
+In a Muddy Ditch
+A large dangerous looking green snake is coiled up here.
+Exits: North East South West.
+
+o W S HP:Bad Mana:Burning>
+f
+You flee head over heels.
+On a Low Plateau
+Exits: North East South West.
+
+o W S HP:Bad Mana:Burning>
+w
+n
+In a Muddy Ditch
+A large dangerous looking green snake is coiled up here.
+Exits: North East South West.
+
+w
+o W S HP:Bad Mana:Burning>
+n
+Along the Muddy Ditch
+A small brown snake is slithering around here.
+A small brown snake is slithering around here.
+A brown snake watches you.
+A robin is here, carrying small pieces of wood to its nest.
+Exits: North East South West.
+
+o W S HP:Bad Mana:Burning>
+In a Ditch Beside the Road
+A black raven is walking across the ground, looking for carrion.
+A black raven is walking across the ground, looking for carrion.
+Exits: North East South West.
+
+o W S HP:Bad Mana:Burning>
+w
+n
+w
+n
+Rugged Plains
+Exits: North East South West.
+o W S HP:Bad Mana:Burning>
+yelGrassy Plains
+A brown fox is here, looking for some rabbits to chew up.
+Exits: North East South West.
+
+l dao W S HP:Bad Mana:Burning>
+rn wBushy Grassland
+Some blackberries grow on a bush nearby.
+Some blackberries grow on a bush nearby.
+A small animal, all covered in spines, snuffles amongst the undergrowth.
+Exits: East South West.
+
+ho W S HP:Bad Mana:Burning>
+er u camScattered Bushes Amid the Grass
+A large dangerous looking green snake is coiled up here.
+A brown fox is here, looking for some rabbits to chew up.
+Exits: North East South West.
+
+o W S HP:Bad Mana:Burning>
+e from:In the Rough
+A large dangerous looking green snake is coiled up here.
+Exits: South West.
+
+o W S HP:Bad Mana:Burning>
+)
+Ok.
+
+o W S HP:Bad Mana:Burning>
+w
+n
+w
+n
+On Top of a Small Hill
+Exits: East South West.
+
+o W S HP:Bad Mana:Burning>
+Alas, you cannot go that way...
+
+o W S HP:Bad Mana:Burning>
+In a Shallow Ditch Beside the Road
+A mean looking robber is here, demanding money from you.
+Exits: East South West.
+
+o W S HP:Bad Mana:Burning>
+Alas, you cannot go that way...
+
+o W S HP:Bad Mana:Burning>
+s
+s
+#Ok. $od is now set to {shrubs}.
+The shrubs seems to be closed.
+
+o W S HP:Bad Mana:Burning>
+#Ok. $od is now set to {shrubs}.
+The shrubs seems to be closed.
+
+o W S HP:Bad Mana:Burning>
+e
+s
+On Top of a Small Hill
+Exits: East South West.
+
+e
+o W S HP:Bad Mana:Burning>
+Short Grass on the Side of the Road
+A nightingale is here, chirping a sweet melody.
+Exits: North East South West.
+
+o W S HP:Bad Mana:Burning>
+s
+Scattered Bushes Amid the Grass
+A large dangerous looking green snake is coiled up here.
+A brown fox is here, looking for some rabbits to chew up.
+Exits: North East South West.
+
+o W S HP:Bad Mana:Burning>
+e
+Grassy Plains
+Exits: North East South West.
+
+o W S HP:Bad Mana:Burning>
+s
+Grassy Plains
+A brown fox is here, looking for some rabbits to chew up.
+Exits: North East South West.
+
+o W S HP:Bad Mana:Burning>
+e
+On a Winding Roadway
+Exits: North East South West.
+
+o W S HP:Bad Mana:Burning>
+s
+In a Ditch Beside the Road
+A black raven is walking across the ground, looking for carrion.
+A black raven is walking across the ground, looking for carrion.
+A robin is here, carrying small pieces of wood to its nest.
+Exits: North East South West.
+
+o W S HP:Bad Mana:Burning>
+Turn in the Road
+*Aschit the Human* is standing here.
+Exits: North East South West.
+
+* W S HP:Bad Mana:Burning>
+wimp
+Ok.
+* W S HP:Bad Mana:Burning>
+s
+Bend in the Road
+Exits: North East South West.
+
+e
+o W S HP:Bad Mana:Burning>
+Road to Tharbad
+Exits: North East South West.
+
+o W S HP:Bad Mana:Burning>
+s
+Road to Tharbad
+Exits: North East South West.
+
+o W S HP:Bad Mana:Burning>
+e
+Road to Tharbad
+A finch flies low above the fields.
+Exits: North East South West.
+
+o W S HP:Bad Mana:Burning>
+e
+s
+On a Soft Grassy Bank
+Exits: North East South West.
+
+o W S HP:Bad Mana:Burning>
+Curve in the Road
+Exits: North East South West.
+
+o W S HP:Bad Mana:Burning>
+e
+Lush Plains
+A fat rabbit sits here, chewing on some grass.
+Exits: North East South West.
+
+e
+o W S HP:Bad Mana:Burning>
+On a Path by the Marshes
+A brown fox is here, looking for some rabbits to chew up.
+Exits: North East South West.
+
+o W S HP:Bad Mana:Burning>
+e
+In the Mire
+Exits: North East South West.
+
+o W S HP:Bad Mana:Burning>
+s
+Rank Marshland
+A large leech is moving close to you, searching for blood.
+A large leech is moving close to you, searching for blood.
+A swarm of mosquitoes is here, humming around you.
+Exits: North East South West.
+
+o W S HP:Bad Mana:Burning>
+e
+The Greyflood
+A trout swims here.
+Exits: North East South West.
+
+o W S HP:Bad Mana:Burning>
+s
+On the Mighty River Greyflood
+A salmon swims here.
+Exits: North East South West.
+
+o W S HP:Bad Mana:Burning>
+e
+The Shallows of the River
+A blooming water-lily floats on the surface of the water.
+A swan swims gracefully on the surface of the water.
+A swarm of mosquitoes is here, humming around you.
+Exits: North East South West.
+
+s
+o W S HP:Bad Mana:Burning>
+The Swanfleet Swamp
+A swan swims gracefully on the surface of the water.
+A swarm of mosquitoes is here, humming around you.
+A swarm of mosquitoes is here, humming around you.
+You smell blood.
+Exits: North East South West.
+You suddenly notice a small leech.
+You suddenly notice a small leech.
+You suddenly notice a small leech.
+
+o W S HP:Bad Mana:Burning>
+s
+A small leech leaves west.
+
+e
+The Swanfleet Swamp
+A large leech is moving close to you, searching for blood.
+Exits: North East South West.
+
+o W S HP:Bad Mana:Burning>
+The Swanfleet Swamp
+Exits: North East South West.
+
+o W S HP:Bad Mana:Burning>
+s
+e
+The Swanfleet Swamp
+A swarm of mosquitoes is here, humming around you.
+Exits: North East South West.
+o W S HP:Bad Mana:Burning>
+In the Swamps
+A robin is here, carrying small pieces of wood to its nest.
+Exits: North East South West.
+
+o W S HP:Bad Mana:Burning>
+s
+e
+In the Swamps
+A swarm of mosquitoes is here, humming around you.
+Exits: North East South West.
+
+o W S HP:Bad Mana:Burning>
+In the Swamps
+Exits: North East South West.
+
+o W S HP:Bad Mana:Burning>
+e
+s
+In the Swamps
+The snake slithers towards you.
+Exits: North East West.
+
+o W S HP:Bad Mana:Burning>
+Alas, you cannot go that way...
+
+e
+o W S HP:Bad Mana:Burning>
+sc
+In the Swamps
+A black pond of water is here.
+Exits: North East West.
+
+o W S HP:Bad Mana:Burning>
+e
+73/313 hit, 62/75 mana and 80/173 moves.
+
+o W S HP:Bad Mana:Burning>
+In the Swamps
+A swarm of midges is here, humming around you.
+You smell blood.
+Exits: North East South West.
+You suddenly notice a small leech.
+
+o W S HP:Bad Mana:Burning>
+e
+In the Swamps
+The snake slithers towards you.
+Exits: North East South West.
+
+o W S HP:Bad Mana:Burning>
+n
+
+The slithering snake leaves east.
+
+o W S HP:Bad Mana:Burning>
+e
+In the Swamps
+Exits: North East South West.
+
+o W S HP:Bad Mana:Burning>
+Muddy Pools
+A black pond of water is here.
+Exits: North East South West.
+
+o W S HP:Bad Mana:Burning>
+e
+Bushes
+A black pond of water is here.
+Exits: North East West.
+
+o W S HP:Bad Mana:Burning>
+n
+Overgrown River Banks
+o W S HP:Bad Mana:Burning>
+n
+River Glanduin
+A swan swims gracefully on the surface of the water.
+A swan swims gracefully on the surface of the water.
+A trout swims here.
+Exits: North East South West.
+
+e
+o W S HP:Bad Mana:Burning>
+River Glanduin
+A swan swims gracefully on the surface of the water.
+A swan swims gracefully on the surface of the water.
+A salmon swims here.
+Exits: North East South West.
+
+o W S HP:Bad Mana:Burning>
+sc
+b73/313 hit, 62/75 mana and 58/173 moves.
+
+oo W S HP:Bad Mana:Burning>
+b
+You start to concentrate...
+
+You bleed from open wounds.
+You are borne along by a strong current.
+River Glanduin
+A swan swims gracefully on the surface of the water.
+A swan swims gracefully on the surface of the water.
+A trout swims here.
+A salmon swims here.
+A large beaver is here, gnawing on a piece of wood.
+
+ex
+You lost your concentration!
+o W S HP:Wounded Mana:Burning>
+wimp
+North - You can't distinguish a lot of details.
+East  - River Glanduin
+South - Overgrown River Banks
+West  - River Glanduin
+
+o W S HP:Wounded Mana:Burning>
+Ok.
+
+o W S HP:Wounded Mana:Burning>
+bo
+A trout leaves west.
+
+o W S HP:Wounded Mana:Burning>
+b
+You start to concentrate...
+
+e
+The beaver leaves south.
+
+You lost your concentration!
+
+o W S HP:Wounded Mana:Hot>
+River Glanduin
+A swan swims gracefully on the surface of the water.
+A swan swims gracefully on the surface of the water.
+A salmon swims here.
+Exits: North East South West.
+
+o W S HP:Wounded Mana:Hot>
+ex
+A salmon leaves west.
+
+North - You can't distinguish a lot of details.
+East  - River Glanduin
+South - Swampy River Banks
+West  - River Glanduin
+
+o W S HP:Wounded Mana:Hot>
+
+You are borne along by a strong current.
+River Glanduin
+A swan swims gracefully on the surface of the water.
+A swan swims gracefully on the surface of the water.
+A salmon swims here.
+A salmon swims here.
+
+o W S HP:Wounded Mana:Hot>
+ex
+North - You can't distinguish a lot of details.
+East  - River Glanduin
+South - Overgrown River Banks
+West  - River Glanduin
+
+o W S HP:Wounded Mana:Hot>
+e
+ex
+River Glanduin
+A swan swims gracefully on the surface of the water.
+A swan swims gracefully on the surface of the water.
+Exits: North East South West.
+
+o W S HP:Wounded Mana:Hot>
+North - You can't distinguish a lot of details.
+East  - River Glanduin
+South - Swampy River Banks
+West  - River Glanduin
+
+o W S HP:Wounded Mana:Hot>
+e
+exRiver Glanduin
+A trout swims here.
+A brook trout is here, swimming in the current.
+Exits: North East South West.
+
+
+o W S HP:Wounded Mana:Hot>
+North - You can't distinguish a lot of details.
+East  - End of the Lake
+South - End of Road
+West  - River Glanduin
+
+o W S HP:Wounded Mana:Hot>
+e
+ex
+End of the Lake
+A trout swims here.
+Exits: East South West.
+
+o W S HP:Wounded Mana:Hot>
+East  - Wide Lake
+South - Wide Lake
+West  - River Glanduin
+
+o W S HP:Wounded Mana:Hot>
+e
+exWide Lake
+Exits: East South West.
+
+o W S HP:Wounded Mana:Hot>
+
+East  - Wide Lake
+South - Wide Lake
+West  - End of the Lake
+
+o W S HP:Wounded Mana:Hot>
+e
+ex
+Wide Lake
+A bass swims here.
+A bass swims here.
+A trout swims here.
+A salmon swims here.
+Exits: East South West.
+
+o W S HP:Wounded Mana:Hot>
+East  - Wide Lake
+South - Wide Lake
+West  - Wide Lake
+
+o W S HP:Wounded Mana:Hot>
+
+s
+A trout has arrived from the south.
+
+o W S HP:Wounded Mana:Hot>
+ex
+Wide Lake
+A trout swims here.
+A salmon swims here.
+Exits: North East South West.
+
+o W S HP:Wounded Mana:Hot>
+North - Wide Lake
+East  - Wide Lake
+South - Road of the Smiths
+West  - Wide Lake
+
+o W S HP:Wounded Mana:Hot>
+e
+ex
+Wide Lake
+A red-breasted mallard swims about, periodically upending to look for food.
+Exits: North East South West.
+
+o W S HP:Wounded Mana:Hot>
+North - Wide Lake
+East  - Road of the Smiths
+South - Under the Bridge
+West  - Wide Lake
+
+o W S HP:Wounded Mana:Hot>
+n
+ex
+Wide Lake
+A salmon swims here.
+Exits: East South West.
+
+o W S HP:Wounded Mana:Hot>
+East  - Under the Bridge
+South - Wide Lake
+West  - Wide Lake
+
+o W S HP:Wounded Mana:Hot>
+e
+ex
+Under the Bridge
+Exits: East West Up.
+
+o W S HP:Wounded Mana:Hot>
+East  - River Glanduin
+West  - Wide Lake
+Up    - A closed 'trapdoor'
+
+o W S HP:Wounded Mana:Hot>
+e
+exRiver Glanduin
+A salmon swims here.
+Exits: East South West.
+
+
+o W S HP:Wounded Mana:Hot>
+East  - Brush
+South - Grassy Plain
+West  - Under the Bridge
+
+o W S HP:Wounded Mana:Hot>
+e
+ex
+Brush
+Exits: East South West.
+
+o W S HP:Wounded Mana:Hot>
+East  - Light Forest
+South - Grassy Plain
+West  - River Glanduin
+
+o W S HP:Wounded Mana:Hot>
+w
+River Glanduin
+A salmon swims here.
+Exits: East South West.
+
+so W S HP:Wounded Mana:Hot>
+c
+82/313 hit, 46/75 mana and 73/173 moves.
+
+o W S HP:Wounded Mana:Hot>
+ex
+East  - Brush
+South - Grassy Plain
+West  - Under the Bridge
+
+o W S HP:Wounded Mana:Hot>
+w
+Under the Bridge
+Exits: East West Up.
+
+o W S HP:Wounded Mana:Hot>
+bob
+chYou start to concentrate...
+
+a wimp 50
+wo
+Ok.
+An energy begins to flow within your legs as your body becomes lighter.
+
+o W S HP:Wounded Mana:Cold>
+Wimpy set to: 50
+
+o W S HP:Wounded Mana:Cold>
+OB: 75%, DB: 49%, PB: 95%, Armour: 4%. Wimpy: 50. Mood: wimpy.
+Needed: 443901 xp, 0 tp. Wp: 47. Gold: 181.
+Affected by:
+- panic
+- a deep wound at the body.
+- noquit
+- sense life
+- strength
+- detect invisibility
+
+o W S HP:Wounded Mana:Cold>
+w
+Wide Lake
+A salmon swims here.
+A salmon swims here.
+Exits: East South West.
+
+w
+o W S HP:Wounded Mana:Cold>
+Wide Lake
+A bass swims here.
+A bass swims here.
+A trout swims here.
+Exits: East South West.
+
+o W S HP:Wounded Mana:Cold>
+
+A salmon has arrived from the east.
+
+o W S HP:Wounded Mana:Cold>
+w
+Wide Lake
+Exits: East South West.
+
+o W S HP:Wounded Mana:Cold>
+ex
+East  - Wide Lake
+South - Wide Lake
+West  - End of the Lake
+
+o W S HP:Wounded Mana:Cold>
+s
+Wide Lake
+Exits: North East South West.
+
+o W S HP:Wounded Mana:Cold>
+l
+Wide Lake
+
+o W S HP:Wounded Mana:Cold>
+ex
+
+You feel bolder.
+The detect invisible wears off.
+You bleed from open wounds.
+
+* W S HP:Wounded Mana:Warm>
+North - Wide Lake
+East  - Wide Lake
+South - Road of the Smiths
+West  - Wide Lake
+
+* W S HP:Wounded Mana:Warm>
+e
+firWide Lake
+A trout swims here.
+Exits: North East South West.
+
+sto W S HP:Wounded Mana:Warm>
+ morgulduin
+You try to heal yourself.
+
+first morgulduin
+Saving Morgulduin.
+
+You suddenly notice *Aschit the Human*.
+
+You are dead! Sorry...
+
+
+Aye! You cannot concentrate any more...
+
+* W S HP:Awful Mana:Warm>
+Nah... You feel too relaxed to do that..
+
+
+* W S HP:Awful Mana:Warm>
+* W S HP:Awful Mana:Warm>
+wo
+OB: 97%, DB: -16%, PB: 0%, Armour: 0%. Wimpy: 50. Mood: wimpy.
+Needed: 569961 xp, 0 tp. Wp: 31. Gold: 0.
+
+was he lucky or what, he later told me,
+that he was thinking that i got away, when he by luck found me
+just in the sec i started to firstaid :(
+Morgulduin.
+

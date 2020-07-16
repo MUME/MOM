@@ -1,0 +1,210 @@
+An Abandoned Cellar
+An orcish soldier is here, patrolling the area.
+Sigh is resting here.
+A hungry warg stands here, sniffing around for flesh.
+A hungry warg stands here, sniffing around for flesh.
+
+o W C>
+
+Bigd narrates 'im not a freak im just special'
+
+o W C>
+
+A vicious olog-hai yells 'A Half-Elf is here at A Steep Tunnel!'
+
+o W C>
+
+Sigh stops resting, and clambers on his feet.
+
+o W C>
+
+#Ok. {tt} aliases {t Mammoth}.
+Mammoth tells you 'no sina ei nainud ju mis juhtus kui sa kohe southi fleesid oigel ajal'
+
+o W C>
+
+Sigh leaves east.
+Rough Passageway
+You smell blood.
+
+o W C>
+st
+A Steep Tunnel
+A thin pair of soft leather boots are on the ground.
+A wooden shield is on the ground.
+A small oaken table has been set here.
+A moneybag made of rough leather is lying here.
+A young and vicious olog-hai eagerly awaits intruders.
+You smell blood.
+A vicious olog-hai yells 'A Half-Elf is here at Cave!'
+
+
+o W C>
+You are already standing.
+
+o W C>
+mees elf
+#Ok. $mees is now set to {elf}.
+ca 'hold' $mees
+Intersection
+You smell blood.
+Nobody here by that name.
+
+o W C Mana:Burning>
+ca 'hold' $mees
+Rough Passageway
+*Finragor the Half-Elf* is standing here.
+You smell blood.
+You start to concentrate...
+
+Ok.
+*Finragor the Half-Elf* is suddenly paralysed!
+
+* W C Mana:Hot>
+ca 'hold' $mees
+Intersection
+You smell blood.
+Nobody here by that name.
+
+o W C Mana:Hot>
+
+ca 'harm' $mees
+o W C Mana:Hot>
+Nobody here by that name.
+
+o W C Mana:Hot>
+ca 'harm' $mees
+Rough Passageway
+*Finragor the Half-Elf* is standing here.
+You smell blood.
+You start to concentrate...
+You feel less protected.
+*Finragor the Half-Elf* bleeds from open wounds.
+
+* W C Mana:Hot *Finragor the Half-Elf*:Hurt>
+
+Ok.
+As you call on ancient powers, *Finragor the Half-Elf* twists in great pain.
+
+ca 'harm' $mees
+* W C Mana:Hot *Finragor the Half-Elf*:Hurt>
+
+You suddenly notice Sigh.
+Sigh pierces *Finragor the Half-Elf*'s right arm and tickles it.
+
+ca 'harm' $mees
+* W C Mana:Hot *Finragor the Half-Elf*:Hurt>
+
+Sigh pierces *Finragor the Half-Elf*'s body and tickles it.
+You slash *Finragor the Half-Elf*'s left arm very hard.
+Your victim is shocked by your hit!
+
+* W C Mana:Hot *Finragor the Half-Elf*:Hurt>
+You start to concentrate...
+
+ca 'harm' $mees
+Ok.
+As you call on ancient powers, *Finragor the Half-Elf* twists in great pain.
+Sigh pierces *Finragor the Half-Elf*'s body.
+
+* W C Mana:Warm *Finragor the Half-Elf*:Wounded>
+You start to concentrate...
+
+ca 'harm' $mees
+Ok.
+As you call on ancient powers, *Finragor the Half-Elf* twists in great pain.
+Sigh pierces *Finragor the Half-Elf*'s body and shatters it.
+*Finragor the Half-Elf* is dead! R.I.P.
+You receive your share of experience.
+Congratulations! This is the first time you've killed it!
+Your blood freezes as you hear *Finragor the Half-Elf*'s death cry.
+
+o W C Mana:Cold>
+Sigh gets coins from the corpse of *a Half-Elf*.
+Nobody here by that name.
+
+o W C Mana:Cold>
+Nobody here by that name.
+
+
+o W C Mana:Cold>
+o W C Mana:Cold>
+nar FINRAGOR Die
+Ok.
+Sigh gets an engraved stone key from the corpse of *a Half-Elf*.
+Sigh gets a lembas wafer from the corpse of *a Half-Elf*.
+Sigh gets a lembas wafer from the corpse of *a Half-Elf*.
+Sigh gets a sapphire ring from the corpse of *a Half-Elf*.
+Sigh gets a ring from the corpse of *a Half-Elf*.
+Sigh gets a silver cloakpin from the corpse of *a Half-Elf*.
+Sigh gets a red ruby from the corpse of *a Half-Elf*.
+Sigh gets a shining breastplate from the corpse of *a Half-Elf*.
+Sigh gets a great helm from the corpse of *a Half-Elf*.
+Sigh gets a shining pair of greaves from the corpse of *a Half-Elf*.
+Sigh gets a thick pair of metal boots from the corpse of *a Half-Elf*.
+Sigh gets a thick pair of metal gauntlets from the corpse of *a Half-Elf*.
+Sigh gets a shining pair of vambraces from the corpse of *a Half-Elf*.
+Sigh gets a bejewelled shield from the corpse of *a Half-Elf*.
+Sigh gets a black warg fur from the corpse of *a Half-Elf*.
+Sigh gets a leather backpack from the corpse of *a Half-Elf*.
+nar FINRAGOR Die
+Sigh gets a keyring from the corpse of *a Half-Elf*.
+Sigh gets a mighty dwarven axe from the corpse of *a Half-Elf*.
+
+o W C Mana:Cold>
+Ok.
+
+o W C Mana:Cold>
+nar DIEs
+qw
+Ok.
+
+o W C Mana:Cold>
+nYou get a broad silver belt from the corpse of *a Half-Elf*.
+You get a strange set of lock picks from the corpse of *a Half-Elf*.
+You get a butcher knife from the corpse of *a Half-Elf*.
+You get a stone from the corpse of *a Half-Elf*.
+You get a sable pouch from the corpse of *a Half-Elf*.
+You get a water skin from the corpse of *a Half-Elf*.
+
+o W C Mana:Cold>
+ar CACKLE!!!!
+l
+iCortoz narrates 'clap'
+
+o W C Mana:Cold>
+Mammoth narrates 'YEAS'
+
+CACKLE
+OB: 89%, DB: -10%, PB: 106%, Armour: 60%. Wimpy: 150. Mood: wimpy.
+Needed: 596642 xp, 0 tp. Wp: 202. Gold: 246.
+Affected by:
+- armour
+- strength
+- shield
+- detect invisibility
+- sense life
+
+You are speaking in Orcish.
+You are a male Orc.
+You are 79 years, 3 months and 28 days old.
+You have played 2 months, 0 days and 1 hours (real time).
+This ranks you as Diamonium is a level 48 Orcish Mother Fucker (level 48).
+Your height is 5 feet, 5 inches and you weigh 8 stone, 5 pounds.
+Perception: vision 16 hearing 2 smelling 3.
+You are totally corrupted by the Evilness of Morgoth !
+You are a citizen of: GoblinTown
+You are carrying 69 pounds of equipment. A tad uncomfortable, but no problem.
+Your base abilities are: Str:21 Int:14 Wis:16 Dex:14 Con:16 Wil:14 Per:6.
+Offensive Bonus: 65%, Dodging Bonus: -35%, Parrying Bonus: 98%.
+Your armour absorbs, on average, 60% of damage.
+You have 300/300 hit, 33/103 mana and 167/167 movement points.
+You will flee if your hit points go below 150. Your mood is wimpy.
+You have scored 32431080 experience points and you have 181847 travel points.
+You have gained 202 war points in battles against good.
+You need 568920 exp. points and 0 travel points to reach the next level.
+You have 402 gold coins 13 silver pennies 61 copper pennies.
+You will swim if necessary.
+You will climb if necessary.
+You are sleeping.
+
